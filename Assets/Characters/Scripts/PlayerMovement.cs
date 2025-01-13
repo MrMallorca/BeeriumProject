@@ -23,7 +23,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] InputActionReference move;
 
 
-    
+
+    Animator anim;
 
 
     private void OnEnable()
@@ -44,7 +45,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         characterRb = GetComponent<Rigidbody>();
-
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -52,10 +53,7 @@ public class PlayerMovement : MonoBehaviour
     {
 
         UpdateMovementOnPlane();
-
-
-        
-
+        UpdateAnimatorParameters();
     }
 
     Vector3 rawMove = Vector3.zero;
@@ -69,13 +67,23 @@ public class PlayerMovement : MonoBehaviour
         characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
 
     }
+    private void UpdateAnimatorParameters()
+    {
+        float horizontalSpeed = characterRb.linearVelocity.x;
+
+        anim.SetFloat("Speed", horizontalSpeed);
+
+    }
+
 
     void OnJump(InputAction.CallbackContext ctx)
     {
         if (ctx.performed && isGrounded) 
         {
             characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
-            isGrounded = false; 
+            isGrounded = false;
+            anim.SetBool("IsGrounded", false);
+            anim.SetTrigger("Jump");
         }
     }
 
@@ -90,6 +98,7 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+            anim.SetBool("IsGrounded", true);
         }
     }
 
