@@ -12,15 +12,35 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private float attackRange = 1.5f;
     [SerializeField] private LayerMask attacableLayer;
 
+    [SerializeField] private float damageAmount = 1f;
+
+
+    //CoolDown
+    [SerializeField] private float timeBtwAttacks = 0.15f;
+    private float attackTimeCounter;
+
+
+    //private Animator animator; DESCOMENTAR CUANDO SE TENGA LA ANIMACION
 
     private RaycastHit2D[] hits;
+
+    private void Start()
+    {
+        //animator = GetComponent<Animator>();
+    }
+
     private void Update()
     {
-        if(UserInput.instance.controls.Attack.Attack.WasPerformedThisFrame())
+        if (UserInput.instance.controls.Attack.Attack.WasPerformedThisFrame() && attackTimeCounter>= timeBtwAttacks)
         {
-            //ATTACK
+            //Resert counter
+            attackTimeCounter = 0f;
+
             Debug.Log("Attack");
+            Attack();
+            //animator.SetTrigger("attack");
         }
+        attackTimeCounter += Time.deltaTime;
     }
 
     private void Attack()
@@ -29,10 +49,17 @@ public class PlayerAttack : MonoBehaviour
 
         for (int i = 0; i < hits.Length; i++) 
         {
-            enemyHealth enemyHealth = hits[i].collider.gameObject.GetComponent<enemyHealth>();
+           IDamageable iDamageable = hits[i].collider.gameObject.GetComponent<IDamageable>();
 
-            //Damage
-            Debug.Log("Damage");
+            if (iDamageable != null) 
+            {
+                //apply damage
+                iDamageable.Damage(damageAmount);
+            }
         }
+    }
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.DrawWireSphere(attackTransform.position, attackRange);
     }
 }
