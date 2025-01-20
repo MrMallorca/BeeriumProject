@@ -6,7 +6,7 @@ public class enemyHealth : MonoBehaviour, IDamageable
 
     private float currentHealth;
 
-
+    public bool HasTakenDamage { get; set; }
 
     private void Start()
     {
@@ -14,6 +14,7 @@ public class enemyHealth : MonoBehaviour, IDamageable
     }
     public void Damage(float damageAmount)
     {
+        HasTakenDamage = true;
         currentHealth -= damageAmount;
 
         if(currentHealth <= 0)

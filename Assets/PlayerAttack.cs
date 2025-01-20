@@ -15,18 +15,25 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private float damageAmount = 1f;
 
 
-    //CoolDown
+    //CD
     [SerializeField] private float timeBtwAttacks = 0.15f;
     private float attackTimeCounter;
 
 
-    //private Animator animator; DESCOMENTAR CUANDO SE TENGA LA ANIMACION
+    public bool ShouldBeDamaging { get; private set; } = false;
+
+    private List<IDamageable> iDamageables = new List<IDamageable>();
+
+
+    private Animator animator;
 
     private RaycastHit2D[] hits;
 
     private void Start()
     {
-        //animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();
+
+        attackTimeCounter = timeBtwAttacks;
     }
 
     private void Update()
@@ -38,7 +45,9 @@ public class PlayerAttack : MonoBehaviour
 
             Debug.Log("Attack");
             Attack();
-            //animator.SetTrigger("attack");
+            //DamageWhileSlashIsActive();
+
+            animator.SetTrigger("attack");
         }
         attackTimeCounter += Time.deltaTime;
     }
@@ -58,8 +67,60 @@ public class PlayerAttack : MonoBehaviour
             }
         }
     }
+
+    public IEnumerator DamageWhileSlashIsActive()
+    {
+        Debug.Log("aaaaa");
+        ShouldBeDamaging = true;
+        while(ShouldBeDamaging)
+        {
+            Debug.Log("wwwww");
+            hits = Physics2D.CircleCastAll(attackTransform.position, attackRange, transform.right, 0f, attacableLayer);
+
+            for (int i = 0; i < hits.Length; i++)
+            {
+                IDamageable iDamageable = hits[i].collider.gameObject.GetComponent<IDamageable>();
+
+                if (iDamageable != null && !iDamageable.HasTakenDamage)
+                {
+                    //apply damage
+                    iDamageable.Damage(damageAmount);
+                    iDamageables.Add(iDamageable);
+                }
+            }
+
+            yield return null;
+        }
+
+        ReturnAttackableToDamageable();
+       
+    }
+
+    private void ReturnAttackableToDamageable()
+    {
+        foreach(IDamageable thingsThatWasDamage in iDamageables)
+        {
+            thingsThatWasDamage.HasTakenDamage = false;
+        }
+        iDamageables.Clear();
+    }
     private void OnDrawGizmosSelected()
     {
         Gizmos.DrawWireSphere(attackTransform.position, attackRange);
     }
+
+    #region
+
+    public void ShouldBeDamagingToTrue()
+    {
+        ShouldBeDamaging = true;
+    }
+
+    public void ShouldBeDamagingToFalse()
+    {
+        ShouldBeDamaging = false;
+    }
+
+
+    #endregion
 }

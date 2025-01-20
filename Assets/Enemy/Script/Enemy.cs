@@ -80,7 +80,7 @@ public class Enemy : MonoBehaviour
     {
         cooling = false;
         attackMode= false;
-        animator.SetBool("Attack",false);
+        animator.SetBool("attack",false);
     }
 
     void RaycastDebugger()
