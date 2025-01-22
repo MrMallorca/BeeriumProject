@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b4c548a22caa20d429a0e02f3a7bf1bf
+guid: fdd0713f8d274824a8084cf16516d9e1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6007857137893288414
-    second: Sprite-0001_0
+      213: 690032789151893630
+    second: blackwhitecube_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprite-0001_0
+      name: blackwhitecube_0
       rect:
         serializedVersion: 2
-        x: 15
+        x: 0
         y: 0
-        width: 75
-        height: 93
+        width: 300
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 226539a93cdcf9ca0800000000000000
-      internalID: -6007857137893288414
+      spriteID: e7845c07a2d739900800000000000000
+      internalID: 690032789151893630
       vertices: []
       indices: 
       edges: []
