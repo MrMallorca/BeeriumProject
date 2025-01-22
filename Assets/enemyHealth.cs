@@ -2,7 +2,9 @@ using UnityEngine;
 
 public class enemyHealth : MonoBehaviour, IDamageable
 {
-    [SerializeField] private float maxHealth = 5f;
+    [SerializeField] private float maxHealth = 100f;
+
+    public HealthBar healthBar;
 
     private float currentHealth;
 
@@ -11,11 +13,13 @@ public class enemyHealth : MonoBehaviour, IDamageable
     private void Start()
     {
         currentHealth = maxHealth;
+        healthBar.maxHealth(maxHealth);
     }
     public void Damage(float damageAmount)
     {
         HasTakenDamage = true;
         currentHealth -= damageAmount;
+        healthBar.SetHealth(currentHealth);
 
         if(currentHealth <= 0)
         {
