@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class enemyHealth : MonoBehaviour, IDamageable
+public class HealthManage : MonoBehaviour, IDamageable
 {
     [SerializeField] private float maxHealth = 100f;
 
