@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Naife
   characterSprite: {fileID: 1383292642103867889, guid: bff05bad13b1cbc43a6ebf3b290a3a51, type: 3}
+  zoom: 0.6

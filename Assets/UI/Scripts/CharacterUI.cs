@@ -8,7 +8,6 @@ public class CharacterUI : ScriptableObject
 {
     public string characterName;
     public Sprite characterSprite;
-    public Sprite characterIcon;
     public float zoom = 1;
 
 

@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Dai
   characterSprite: {fileID: -6007857137893288414, guid: 8ba20c34332670a44b00916cb5dedf51, type: 3}
+  zoom: 0.6

@@ -2,25 +2,22 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.TextCore.Text;
 using UnityEngine.UI;
 using DG.Tweening;
+using UnityEngine.TextCore.Text;
 
 public class TheLastStarsCS : MonoBehaviour
 {
 
+    private GridLayoutGroup gridLayout;
     [HideInInspector]
     public Vector2 slotArtworkSize;
 
-    public List<CharacterUI> characters = new List<CharacterUI>();
-
-
 
     public static TheLastStarsCS instance;
-
-
+    [Header("Characters List")]
+    public List<CharacterUI> characters = new List<CharacterUI>();
     [Space]
     [Header("Public References")]
     public GameObject charCellPrefab;
@@ -30,18 +27,27 @@ public class TheLastStarsCS : MonoBehaviour
     [Header("Current Confirmed Character")]
     public CharacterUI confirmedCharacter;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-
     private void Awake()
     {
         instance = this;
     }
+
     void Start()
     {
+
+        gridLayout = GetComponent<GridLayoutGroup>();
+        GetComponent<RectTransform>().sizeDelta = new Vector2(gridLayout.cellSize.x * 5, gridLayout.cellSize.y * 2);
+        RectTransform gridBG = Instantiate(gridBgPrefab, transform.parent).GetComponent<RectTransform>();
+        gridBG.transform.SetSiblingIndex(transform.GetSiblingIndex());
+        gridBG.sizeDelta = GetComponent<RectTransform>().sizeDelta;
+
+        slotArtworkSize = playerSlotsContainer.GetChild(0).Find("artwork").GetComponent<RectTransform>().sizeDelta;
+
         foreach (CharacterUI character in characters)
         {
             SpawnCharacterCell(character);
         }
+
     }
 
     private void SpawnCharacterCell(CharacterUI character)
@@ -53,16 +59,11 @@ public class TheLastStarsCS : MonoBehaviour
         Image artwork = charCell.transform.Find("artwork").GetComponent<Image>();
         TextMeshProUGUI name = charCell.transform.Find("nameRect").GetComponentInChildren<TextMeshProUGUI>();
 
-        artwork.sprite = character.characterSprite; 
+        artwork.sprite = character.characterSprite;
         name.text = character.characterName;
-
-
 
         artwork.GetComponent<RectTransform>().pivot = uiPivot(artwork.sprite);
         artwork.GetComponent<RectTransform>().sizeDelta *= character.zoom;
-
-        
-
     }
 
     public void ShowCharacterInSlot(int player, CharacterUI character)
@@ -80,22 +81,14 @@ public class TheLastStarsCS : MonoBehaviour
         Transform slotArtwork = slot.Find("artwork");
         Transform slotIcon = slot.Find("icon");
 
-        DG.Tweening.Sequence s = DOTween.Sequence();
+        Sequence s = DOTween.Sequence();
         s.Append(slotArtwork.DOLocalMoveX(-300, .05f).SetEase(Ease.OutCubic));
         s.AppendCallback(() => slotArtwork.GetComponent<Image>().sprite = artwork);
         s.AppendCallback(() => slotArtwork.GetComponent<Image>().color = alpha);
         s.Append(slotArtwork.DOLocalMoveX(300, 0));
         s.Append(slotArtwork.DOLocalMoveX(0, .05f).SetEase(Ease.OutCubic));
 
-        if (nullChar)
-        {
-            slotIcon.GetComponent<Image>().DOFade(0, 0);
-        }
-        else
-        {
-            slotIcon.GetComponent<Image>().sprite = character.characterIcon;
-            slotIcon.GetComponent<Image>().DOFade(.3f, 0);
-        }
+       
 
         if (artwork != null)
         {
@@ -116,6 +109,7 @@ public class TheLastStarsCS : MonoBehaviour
             playerSlotsContainer.GetChild(player).DOPunchPosition(Vector3.down * 3, .3f, 10, 1);
         }
     }
+
     public Vector2 uiPivot(Sprite sprite)
     {
         Vector2 pixelSize = new Vector2(sprite.texture.width, sprite.texture.height);

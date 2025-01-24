@@ -1,13 +1,11 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
-using UnityEngine.TextCore.Text;
 using DG.Tweening;
 
-public class CursorDetection : MonoBehaviour
-{
+public class CursorDetection : MonoBehaviour {
 
     private GraphicRaycaster gr;
     private PointerEventData pointerEventData = new PointerEventData(null);
@@ -17,8 +15,7 @@ public class CursorDetection : MonoBehaviour
     public Transform token;
     public bool hasToken;
 
-    void Start()
-    {
+	void Start () {
 
         gr = GetComponentInParent<GraphicRaycaster>();
 
@@ -26,8 +23,7 @@ public class CursorDetection : MonoBehaviour
 
     }
 
-    void Update()
-    {
+    void Update () {
 
         //CONFIRM
         if (Input.GetKeyDown(KeyCode.Z))
@@ -81,16 +77,15 @@ public class CursorDetection : MonoBehaviour
                 }
             }
         }
-
-    }
+		
+	}
 
     void SetCurrentCharacter(Transform t)
     {
-
-        if (t != null)
+        
+        if(t != null)
         {
             t.Find("selectedBorder").GetComponent<Image>().color = Color.white;
-            t.Find("selectedBorder").GetComponent<Image>().DOColor(Color.red, .7f).SetLoops(-1);
         }
 
         currentCharacter = t;
@@ -107,7 +102,7 @@ public class CursorDetection : MonoBehaviour
         }
     }
 
-    void TokenFollow(bool trigger)
+    void TokenFollow (bool trigger)
     {
         hasToken = trigger;
     }

@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Oxy
   characterSprite: {fileID: -4060159693987970359, guid: 5cd8764f7b9156448b1682e149e68320, type: 3}
+  zoom: 1
