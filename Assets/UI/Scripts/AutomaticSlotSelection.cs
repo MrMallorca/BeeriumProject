@@ -3,20 +3,20 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class AutomaticSlotSelection : MonoBehaviour {
+//public class AutomaticSlotSelection : MonoBehaviour {
 
-	void Start () {
+//	void Start () {
 
-        Vector2 artworkOriginalSize = transform.Find("artwork").GetComponent<RectTransform>().sizeDelta;
+//        Vector2 artworkOriginalSize = transform.Find("artwork").GetComponent<RectTransform>().sizeDelta;
 
-        int random = Random.Range(0, TheLastStarsCS.instance.characters.Count - 1);
+//        int random = Random.Range(0, TheLastStarsCS.instance.characters.Count - 1);
 
-        CharacterUI randomChar = TheLastStarsCS.instance.characters[random];
+//        CharacterUI randomChar = TheLastStarsCS.instance.characters[random];
 
-        TheLastStarsCS.instance.ShowCharacterInSlot(transform.GetSiblingIndex(), randomChar);
+//        TheLastStarsCS.instance.ShowCharacterInSlot(transform.GetSiblingIndex(), randomChar);
 
-        transform.Find("artwork").GetComponent<RectTransform>().sizeDelta = artworkOriginalSize;
-        transform.Find("artwork").GetComponent<RectTransform>().sizeDelta *= randomChar.zoom;
-    }
+//        transform.Find("artwork").GetComponent<RectTransform>().sizeDelta = artworkOriginalSize;
+//        transform.Find("artwork").GetComponent<RectTransform>().sizeDelta *= randomChar.zoom;
+//    }
 	
-}
+//}

@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using DG.Tweening;
 
-public class CursorDetection : MonoBehaviour {
+public class CursorDetection2 : MonoBehaviour {
 
     private GraphicRaycaster gr;
     private PointerEventData pointerEventData = new PointerEventData(null);
@@ -19,26 +19,26 @@ public class CursorDetection : MonoBehaviour {
 
         gr = GetComponentInParent<GraphicRaycaster>();
 
-        TheLastStarsCS.instance.ShowCharacterInSlot1(0, null);
+        TheLastStarsCS.instance.ShowCharacterInSlot2(1, null);
 
     }
 
     void Update () {
 
         //CONFIRM
-        if (Input.GetKeyDown(KeyCode.Z))
+        if (Input.GetKeyDown(KeyCode.Keypad0))
         {
             if (currentCharacter != null)
             {
                 TokenFollow(false);
-                TheLastStarsCS.instance.ConfirmCharacter1(0, TheLastStarsCS.instance.characters[currentCharacter.GetSiblingIndex()]);
+                TheLastStarsCS.instance.ConfirmCharacter2(1, TheLastStarsCS.instance.characters[currentCharacter.GetSiblingIndex()]);
             }
         }
 
         //CANCEL
-        if (Input.GetKeyDown(KeyCode.X))
+        if (Input.GetKeyDown(KeyCode.Keypad1))
         {
-            TheLastStarsCS.instance.confirmedCharacter1 = null;
+            TheLastStarsCS.instance.confirmedCharacter2 = null;
             TokenFollow(true);
         }
 
@@ -95,11 +95,11 @@ public class CursorDetection : MonoBehaviour {
         {
             int index = t.GetSiblingIndex();
             CharacterUI character = TheLastStarsCS.instance.characters[index];
-            TheLastStarsCS.instance.ShowCharacterInSlot1(0, character);
+            TheLastStarsCS.instance.ShowCharacterInSlot2(1, character);
         }
         else
         {
-            TheLastStarsCS.instance.ShowCharacterInSlot1(0, null);
+            TheLastStarsCS.instance.ShowCharacterInSlot2(1, null);
         }
     }
 

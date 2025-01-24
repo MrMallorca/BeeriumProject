@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CursorMovement : MonoBehaviour
+public class CursorMovement2 : MonoBehaviour
 {
 
     public float speed;
@@ -13,13 +13,13 @@ public class CursorMovement : MonoBehaviour
         float x = 0f;
         float y = 0f;
 
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.UpArrow))
             y = 1f;
-        if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.DownArrow))
             y = -1f;
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.LeftArrow))
             x = -1f;
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.RightArrow))
             x = 1f;
 
         transform.position += new Vector3(x, y, 0) * Time.deltaTime * speed;
