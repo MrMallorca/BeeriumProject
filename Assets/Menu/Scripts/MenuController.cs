@@ -15,11 +15,12 @@ public class MenuController : MonoBehaviour
     {
         AudioListener.volume = volume;
 
-        volumeTextValue.text = volume.ToString("0.0");
+        volumeTextValue.text = volume.ToString("0.00");
     }
     public void VolumeApply()
     {
         PlayerPrefs.SetFloat("masterVolume", AudioListener.volume);
+
         StartCoroutine(ConfirmationBox());
     }
     public IEnumerator ConfirmationBox()
