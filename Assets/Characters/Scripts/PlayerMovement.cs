@@ -64,6 +64,7 @@ public class PlayerMovement : MonoBehaviour
         characterRb.linearVelocity = velocity;
 
 
+
         characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
 
     }
