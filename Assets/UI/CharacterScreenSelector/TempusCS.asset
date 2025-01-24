@@ -14,5 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Tempus
   characterSprite: {fileID: 5434696126948262914, guid: ce33d29ce18d9cc409bb3038241241c1, type: 3}
-  characterIcon: {fileID: 0}
-  zoom: 1
+  zoom: 0.6
