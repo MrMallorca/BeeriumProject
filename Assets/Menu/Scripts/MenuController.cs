@@ -2,6 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.Rendering;
 
 public class MenuController : MonoBehaviour
 {
@@ -20,6 +21,7 @@ public class MenuController : MonoBehaviour
     public void VolumeApply()
     {
         PlayerPrefs.SetFloat("masterVolume", AudioListener.volume);
+        Debug.Log(volumeTextValue);
 
         StartCoroutine(ConfirmationBox());
     }
