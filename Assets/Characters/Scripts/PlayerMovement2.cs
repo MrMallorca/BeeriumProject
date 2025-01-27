@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using static UnityEditor.PlayerSettings.SplashScreen;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovement2 : MonoBehaviour
 {
     [Header("Movement Settings")]
 
@@ -25,6 +25,7 @@ public class PlayerMovement : MonoBehaviour
 
 
     Animator anim;
+
 
 
     private void OnEnable()
