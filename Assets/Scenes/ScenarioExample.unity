@@ -2355,7 +2355,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 4606908045521496030, guid: 6cb185c55f57f9c40a2bc2019a0ff432, type: 3}
+  m_Sprite: {fileID: 4606908045521496030, guid: 8de0b3ad7118d244595426c947b0d19c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2773,7 +2773,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3737897332693287829, guid: d230c37a8732a914d9be3be4999bcb62, type: 3}
+  m_Sprite: {fileID: 3737897332693287829, guid: d2af6e939dd84c84fb301b31c987883f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3611,7 +3611,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 4606908045521496030, guid: 6cb185c55f57f9c40a2bc2019a0ff432, type: 3}
+  m_Sprite: {fileID: 4606908045521496030, guid: 8de0b3ad7118d244595426c947b0d19c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5945,7 +5945,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3737897332693287829, guid: d230c37a8732a914d9be3be4999bcb62, type: 3}
+  m_Sprite: {fileID: 3737897332693287829, guid: d2af6e939dd84c84fb301b31c987883f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6428,7 +6428,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -6510,17 +6510,17 @@ RectTransform:
   m_GameObject: {fileID: 2141285718}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.736813, y: 0.736813, z: 0.736813}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1205989642}
   - {fileID: 841214524}
   m_Father: {fileID: 2138558604}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0.07625001, y: 0.780334}
+  m_AnchorMax: {x: 0.93500006, y: 0.86416703}
+  m_AnchoredPosition: {x: -2.7046814, y: -170.5}
+  m_SizeDelta: {x: -587, y: 69}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
