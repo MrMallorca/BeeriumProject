@@ -26,7 +26,8 @@ public class PlayerMovement : MonoBehaviour
 
     Animator anim;
 
-
+    [SerializeField] Transform enemyPlayer;
+    private SpriteRenderer spriteRenderer;
     private void OnEnable()
     {
         move.action.Enable();
@@ -46,6 +47,23 @@ public class PlayerMovement : MonoBehaviour
     {
         characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
+    private void Update()
+    {
+        UpdateAnimatorParameters();
+
+        Vector3 direction = enemyPlayer.position - transform.position;
+
+        if (direction.x < 0)
+        {
+            spriteRenderer.flipX = true;
+        }
+        else
+        {
+            spriteRenderer.flipX = false;
+        }
     }
 
     // Update is called once per frame
@@ -53,7 +71,6 @@ public class PlayerMovement : MonoBehaviour
     {
 
         UpdateMovementOnPlane();
-        UpdateAnimatorParameters();
     }
 
     Vector3 rawMove = Vector3.zero;
@@ -68,21 +85,36 @@ public class PlayerMovement : MonoBehaviour
         characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
 
     }
+
+
     private void UpdateAnimatorParameters()
     {
         float horizontalSpeed = characterRb.linearVelocity.x;
 
         anim.SetFloat("Speed", horizontalSpeed);
 
+        if (horizontalSpeed > 0.01f)
+        {
+            spriteRenderer.flipX = false;
+        }
+        else if (horizontalSpeed < -0.01f)
+        {
+            spriteRenderer.flipX = true;
+        }
+
+
     }
+ 
+  
+
 
 
     void OnJump(InputAction.CallbackContext ctx)
     {
         if (ctx.performed && isGrounded) 
         {
-            characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
             isGrounded = false;
+            characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
             anim.SetBool("IsGrounded", false);
             anim.SetTrigger("Jump");
         }

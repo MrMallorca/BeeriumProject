@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: 747544ad3d0bfed44ad686fa357b41ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7230539696026645692
+    second: Diana_56_Down throw_0
+  - first:
+      213: 347568857335437829
+    second: Diana_56_Down throw_1
+  - first:
+      213: -1502371681553646280
+    second: Diana_56_Down throw_2
+  - first:
+      213: -7013193466609322320
+    second: Diana_56_Down throw_3
+  - first:
+      213: -3610707450849744584
+    second: Diana_56_Down throw_4
+  - first:
+      213: 6668029165463519490
+    second: Diana_56_Down throw_5
+  - first:
+      213: -656391688293999381
+    second: Diana_56_Down throw_6
+  - first:
+      213: -574335904608146013
+    second: Diana_56_Down throw_7
+  - first:
+      213: 3652331890012387784
+    second: Diana_56_Down throw_8
+  - first:
+      213: 4773213494294325919
+    second: Diana_56_Down throw_9
+  - first:
+      213: 4695122773768613037
+    second: Diana_56_Down throw_10
+  - first:
+      213: 2241791527314799376
+    second: Diana_56_Down throw_11
+  - first:
+      213: 6561261893119540067
+    second: Diana_56_Down throw_12
+  - first:
+      213: -7078522127802424127
+    second: Diana_56_Down throw_13
+  - first:
+      213: 1357161139980037774
+    second: Diana_56_Down throw_14
+  - first:
+      213: 2250152954283753315
+    second: Diana_56_Down throw_15
+  - first:
+      213: 2787234383758477331
+    second: Diana_56_Down throw_16
+  - first:
+      213: 5359325154416527617
+    second: Diana_56_Down throw_17
+  - first:
+      213: 1288399122226625761
+    second: Diana_56_Down throw_18
+  - first:
+      213: -6063599289519168798
+    second: Diana_56_Down throw_19
+  - first:
+      213: 4710937297780465206
+    second: Diana_56_Down throw_20
+  - first:
+      213: 6504895171349746772
+    second: Diana_56_Down throw_21
+  - first:
+      213: -8396698276978202872
+    second: Diana_56_Down throw_22
+  - first:
+      213: -1375373958931060464
+    second: Diana_56_Down throw_23
+  - first:
+      213: 4266936272387682313
+    second: Diana_56_Down throw_24
+  - first:
+      213: -1306770594775490845
+    second: Diana_56_Down throw_25
+  - first:
+      213: 5277419180703842509
+    second: Diana_56_Down throw_26
+  - first:
+      213: 648322004348352925
+    second: Diana_56_Down throw_27
+  - first:
+      213: 5021376809313151049
+    second: Diana_56_Down throw_28
+  - first:
+      213: 7214737569294519922
+    second: Diana_56_Down throw_29
+  - first:
+      213: -2115826875230070046
+    second: Diana_56_Down throw_30
+  - first:
+      213: -8335749826541984905
+    second: Diana_56_Down throw_31
+  - first:
+      213: 5562064463237949695
+    second: Diana_56_Down throw_32
+  - first:
+      213: 8337046392634707866
+    second: Diana_56_Down throw_33
+  - first:
+      213: 4551199185527271490
+    second: Diana_56_Down throw_34
+  - first:
+      213: 3269054685382110386
+    second: Diana_56_Down throw_35
+  - first:
+      213: 3668798959957955562
+    second: Diana_56_Down throw_36
+  - first:
+      213: 7396224546261389512
+    second: Diana_56_Down throw_37
+  - first:
+      213: 1425961359659624412
+    second: Diana_56_Down throw_38
+  - first:
+      213: 2816964810914131805
+    second: Diana_56_Down throw_39
+  - first:
+      213: 4894421015954679334
+    second: Diana_56_Down throw_40
+  - first:
+      213: 7448333629340895301
+    second: Diana_56_Down throw_41
+  - first:
+      213: 7569437324269538167
+    second: Diana_56_Down throw_42
+  - first:
+      213: 3556693865498701268
+    second: Diana_56_Down throw_43
+  - first:
+      213: -6987516072073253073
+    second: Diana_56_Down throw_44
+  - first:
+      213: 3532091914661021006
+    second: Diana_56_Down throw_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_56_Down throw_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb477046b89085460800000000000000
+      internalID: 7230539696026645692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a9774c800d2d400800000000000000
+      internalID: 347568857335437829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d73606ae0862be0800000000000000
+      internalID: -1502371681553646280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b639a913b12cae90800000000000000
+      internalID: -7013193466609322320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_4
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839ae3c24b034edc0800000000000000
+      internalID: -3610707450849744584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201c56f7239998c50800000000000000
+      internalID: 6668029165463519490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec97b9bc3704e6f0800000000000000
+      internalID: -656391688293999381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad2418a98c8708f0800000000000000
+      internalID: -574335904608146013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_8
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9f40ac080bfa230800000000000000
+      internalID: 3652331890012387784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_9
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aa38c226cdd3240800000000000000
+      internalID: 4773213494294325919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_10
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2353794d682140800000000000000
+      internalID: 4695122773768613037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_11
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b341e34817c1f10800000000000000
+      internalID: 2241791527314799376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_12
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b72b1cde84e0b50800000000000000
+      internalID: 6561261893119540067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_13
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4289dd0a904cd90800000000000000
+      internalID: -7078522127802424127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_14
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e6973cdda95d210800000000000000
+      internalID: 1357161139980037774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_15
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ff06aa0362a3f10800000000000000
+      internalID: 2250152954283753315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318cda597ee3ea620800000000000000
+      internalID: 2787234383758477331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10900d045d5206a40800000000000000
+      internalID: 5359325154416527617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_18
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec3e39ec2051e110800000000000000
+      internalID: 1288399122226625761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e226ef8294c9dba0800000000000000
+      internalID: -6063599289519168798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_20
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ed751438c906140800000000000000
+      internalID: 4710937297780465206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4549475a1b7064a50800000000000000
+      internalID: 6504895171349746772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_22
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807649a976fe87b80800000000000000
+      internalID: -8396698276978202872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_23
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0196790eba0b9ece0800000000000000
+      internalID: -1375373958931060464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_24
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900b5eabee3373b30800000000000000
+      internalID: 4266936272387682313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_25
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee1b7f411b6ddde0800000000000000
+      internalID: -1306770594775490845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_26
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc08faca8c82d3940800000000000000
+      internalID: 5277419180703842509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_27
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99b0419d6d4ff800800000000000000
+      internalID: 648322004348352925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_28
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ae7a8a938fa540800000000000000
+      internalID: 5021376809313151049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_29
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e077d0895ef1460800000000000000
+      internalID: 7214737569294519922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_30
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eadfa7caa213a2e0800000000000000
+      internalID: -2115826875230070046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_31
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773e07c82b7715c80800000000000000
+      internalID: -8335749826541984905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff82f15092c603d40800000000000000
+      internalID: 5562064463237949695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f81f4c58323b370800000000000000
+      internalID: 8337046392634707866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2407663cb8b192f30800000000000000
+      internalID: 4551199185527271490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bce6898ae30e5d20800000000000000
+      internalID: 3269054685382110386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_36
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3dd9847313ae230800000000000000
+      internalID: 3668798959957955562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_37
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05fe6b90ba4a660800000000000000
+      internalID: 7396224546261389512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_38
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7e1f13d480ac310800000000000000
+      internalID: 1425961359659624412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fef43129ed71720800000000000000
+      internalID: 2816964810914131805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_40
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6266f257bf97ce340800000000000000
+      internalID: 4894421015954679334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_41
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548c57119fbcd5760800000000000000
+      internalID: 7448333629340895301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_42
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b4bae442b0c0960800000000000000
+      internalID: 7569437324269538167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_43
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd6cdbf93aeb5130800000000000000
+      internalID: 3556693865498701268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_44
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fadb5672b570f90800000000000000
+      internalID: -6987516072073253073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_56_Down throw_45
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45466fe1e2840130800000000000000
+      internalID: 3532091914661021006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

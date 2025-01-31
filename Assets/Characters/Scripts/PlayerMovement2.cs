@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -26,7 +27,8 @@ public class PlayerMovement2 : MonoBehaviour
 
     Animator anim;
 
-
+    [SerializeField] Transform enemyPlayer;
+    private SpriteRenderer spriteRenderer;
 
     private void OnEnable()
     {
@@ -47,6 +49,14 @@ public class PlayerMovement2 : MonoBehaviour
     {
         characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
+    private void Update()
+    {
+        UpdateAnimatorParameters();
+
+
     }
 
     // Update is called once per frame
@@ -54,7 +64,6 @@ public class PlayerMovement2 : MonoBehaviour
     {
 
         UpdateMovementOnPlane();
-        UpdateAnimatorParameters();
     }
 
     Vector3 rawMove = Vector3.zero;
@@ -75,8 +84,23 @@ public class PlayerMovement2 : MonoBehaviour
 
         anim.SetFloat("Speed", horizontalSpeed);
 
-    }
+        //Vector3 direction = enemyPlayer.position - transform.position;
 
+        //// Si el enemigo está a la derecha, mirar a la derecha
+        //if (horizontalSpeed > 0)
+        //{
+        //    spriteRenderer.flipX = false;  // Mirar a la derecha
+        //}
+        //else if (horizontalSpeed < 0)
+        //{
+        //    spriteRenderer.flipX = true; // Mirar a la izquierda
+        //}
+
+
+
+
+    }
+    
 
     void OnJump(InputAction.CallbackContext ctx)
     {
@@ -84,7 +108,7 @@ public class PlayerMovement2 : MonoBehaviour
         {
             characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
             isGrounded = false;
-            anim.SetBool("IsGrounded", false);
+            anim.SetBool("IsGrounded", isGrounded);
             anim.SetTrigger("Jump");
         }
     }
@@ -100,7 +124,7 @@ public class PlayerMovement2 : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
-            anim.SetBool("IsGrounded", true);
+            anim.SetBool("IsGrounded", isGrounded);
         }
     }
 

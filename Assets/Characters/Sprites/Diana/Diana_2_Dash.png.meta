@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 6eb23e642e954c34b8283d9403ad9b70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8910486090872637718
+    second: Diana_2_Dash_0
+  - first:
+      213: -5264310995884023772
+    second: Diana_2_Dash_1
+  - first:
+      213: 1136320686246868950
+    second: Diana_2_Dash_2
+  - first:
+      213: -3411554514194798589
+    second: Diana_2_Dash_3
+  - first:
+      213: 5687837767749964208
+    second: Diana_2_Dash_4
+  - first:
+      213: 1627450096773047930
+    second: Diana_2_Dash_5
+  - first:
+      213: -4936243413078012780
+    second: Diana_2_Dash_6
+  - first:
+      213: 8517179738148451662
+    second: Diana_2_Dash_7
+  - first:
+      213: -2039826010908173577
+    second: Diana_2_Dash_8
+  - first:
+      213: 2763246193636101122
+    second: Diana_2_Dash_9
+  - first:
+      213: -7584193549416481507
+    second: Diana_2_Dash_10
+  - first:
+      213: 2228885395377500027
+    second: Diana_2_Dash_11
+  - first:
+      213: -5093988117705733440
+    second: Diana_2_Dash_12
+  - first:
+      213: 4423848064920058069
+    second: Diana_2_Dash_13
+  - first:
+      213: 8925984419982308425
+    second: Diana_2_Dash_14
+  - first:
+      213: -2902842861126766162
+    second: Diana_2_Dash_15
+  - first:
+      213: -5606963324906134383
+    second: Diana_2_Dash_16
+  - first:
+      213: -8142342543579709837
+    second: Diana_2_Dash_17
+  - first:
+      213: 7646087336022933414
+    second: Diana_2_Dash_18
+  - first:
+      213: 817056465898611778
+    second: Diana_2_Dash_19
+  - first:
+      213: 7426228412181186427
+    second: Diana_2_Dash_20
+  - first:
+      213: 1386406958345122794
+    second: Diana_2_Dash_21
+  - first:
+      213: -3638189052334037922
+    second: Diana_2_Dash_22
+  - first:
+      213: 6728202578867447203
+    second: Diana_2_Dash_23
+  - first:
+      213: 5535692742046469993
+    second: Diana_2_Dash_24
+  - first:
+      213: -3006234213141233393
+    second: Diana_2_Dash_25
+  - first:
+      213: -4194270884226171515
+    second: Diana_2_Dash_26
+  - first:
+      213: -3135640968830502998
+    second: Diana_2_Dash_27
+  - first:
+      213: -5368562285647539929
+    second: Diana_2_Dash_28
+  - first:
+      213: 571019593034662792
+    second: Diana_2_Dash_29
+  - first:
+      213: 8842840658420617111
+    second: Diana_2_Dash_30
+  - first:
+      213: -4322063888369978502
+    second: Diana_2_Dash_31
+  - first:
+      213: 7876514996231911432
+    second: Diana_2_Dash_32
+  - first:
+      213: 148474871345754264
+    second: Diana_2_Dash_33
+  - first:
+      213: 1664614390032462611
+    second: Diana_2_Dash_34
+  - first:
+      213: 1128906324785470376
+    second: Diana_2_Dash_35
+  - first:
+      213: 6261770786534086309
+    second: Diana_2_Dash_36
+  - first:
+      213: -3488524113930922046
+    second: Diana_2_Dash_37
+  - first:
+      213: 5827775248915751696
+    second: Diana_2_Dash_38
+  - first:
+      213: -5244395051350424565
+    second: Diana_2_Dash_39
+  - first:
+      213: -7575229428392743704
+    second: Diana_2_Dash_40
+  - first:
+      213: -8040339155743805349
+    second: Diana_2_Dash_41
+  - first:
+      213: 3327020747022886328
+    second: Diana_2_Dash_42
+  - first:
+      213: -1711765025218044461
+    second: Diana_2_Dash_43
+  - first:
+      213: -4692986598692646262
+    second: Diana_2_Dash_44
+  - first:
+      213: -6773376552122976758
+    second: Diana_2_Dash_45
+  - first:
+      213: -6017897837390697944
+    second: Diana_2_Dash_46
+  - first:
+      213: -3338711228446318818
+    second: Diana_2_Dash_47
+  - first:
+      213: 6476588706532537742
+    second: Diana_2_Dash_48
+  - first:
+      213: 1857317854542585854
+    second: Diana_2_Dash_49
+  - first:
+      213: -8799474882413618119
+    second: Diana_2_Dash_50
+  - first:
+      213: 3736118361094016683
+    second: Diana_2_Dash_51
+  - first:
+      213: -6505028187445620712
+    second: Diana_2_Dash_52
+  - first:
+      213: 5393499180106215376
+    second: Diana_2_Dash_53
+  - first:
+      213: -5033948469210229727
+    second: Diana_2_Dash_54
+  - first:
+      213: 958028852255356084
+    second: Diana_2_Dash_55
+  - first:
+      213: 7443864220985811180
+    second: Diana_2_Dash_56
+  - first:
+      213: 6101449576034383945
+    second: Diana_2_Dash_57
+  - first:
+      213: -7359631285019549203
+    second: Diana_2_Dash_58
+  - first:
+      213: 4824894434793068252
+    second: Diana_2_Dash_59
+  - first:
+      213: 3161522751033453405
+    second: Diana_2_Dash_60
+  - first:
+      213: -9011510025307688394
+    second: Diana_2_Dash_61
+  - first:
+      213: -8610077352428687029
+    second: Diana_2_Dash_62
+  - first:
+      213: 2037748950056069960
+    second: Diana_2_Dash_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_2_Dash_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1917
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae63a713c18975480800000000000000
+      internalID: -8910486090872637718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1917
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420662f6a0961f6b0800000000000000
+      internalID: -5264310995884023772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1917
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d73ca6c4a505cf00800000000000000
+      internalID: 1136320686246868950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1917
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308e9899e39b7a0d0800000000000000
+      internalID: -3411554514194798589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1917
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b199c670524fee40800000000000000
+      internalID: 5687837767749964208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1917
+        width: 31
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7625db8d3dd59610800000000000000
+      internalID: 1627450096773047930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1917
+        width: 29
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c8f96e4c0fe7bb0800000000000000
+      internalID: -4936243413078012780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1917
+        width: 30
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e453e7c88d9133670800000000000000
+      internalID: 8517179738148451662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1661
+        width: 31
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa5730fc0511b3e0800000000000000
+      internalID: -2039826010908173577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1661
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c41a6d5c5095620800000000000000
+      internalID: 2763246193636101122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1db83b46288fb690800000000000000
+      internalID: -7584193549416481507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f288c35779eee10800000000000000
+      internalID: 2228885395377500027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cac61acbc48e49b0800000000000000
+      internalID: -5093988117705733440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_13
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8fbd1606aa46d30800000000000000
+      internalID: 4423848064920058069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_14
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94477bfb9877fdb70800000000000000
+      internalID: 8925984419982308425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_15
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1b2c73cc707b7d0800000000000000
+      internalID: -2902842861126766162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1405
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194a35e10901032b0800000000000000
+      internalID: -5606963324906134383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e716ab896900f80800000000000000
+      internalID: -8142342543579709837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af7241ebeb5c1a60800000000000000
+      internalID: 7646087336022933414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244a25bd684c65b00800000000000000
+      internalID: 817056465898611778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_20
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1405
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7709f025634f0760800000000000000
+      internalID: 7426228412181186427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_21
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1405
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae37a4a78c18d3310800000000000000
+      internalID: 1386406958345122794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_22
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1405
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e542ae5355e828dc0800000000000000
+      internalID: -3638189052334037922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_23
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1405
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5e24219906f5d50800000000000000
+      internalID: 6728202578867447203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1149
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f4363383bb2dc40800000000000000
+      internalID: 5535692742046469993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_25
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1150
+        width: 37
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01471e29e5b746d0800000000000000
+      internalID: -3006234213141233393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_26
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1149
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d7fed5ad4fac5c0800000000000000
+      internalID: -4194270884226171515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_27
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1149
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa732b5f627fb74d0800000000000000
+      internalID: -3135640968830502998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_28
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1149
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7215b698b090f75b0800000000000000
+      internalID: -5368562285647539929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_29
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1149
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8838e926b4bace700800000000000000
+      internalID: 571019593034662792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_30
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1149
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fca8a3ab418ba70800000000000000
+      internalID: 8842840658420617111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_31
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1149
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73f925fac1f404c0800000000000000
+      internalID: -4322063888369978502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 893
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b07258a00f4d60800000000000000
+      internalID: 7876514996231911432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 893
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890b2acdb1d7f0200800000000000000
+      internalID: 148474871345754264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_34
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 892
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31373edd7f5e91710800000000000000
+      internalID: 1664614390032462611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 892
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab9789325eaaaf00800000000000000
+      internalID: 1128906324785470376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_36
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 892
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a65844aa5746e650800000000000000
+      internalID: 6261770786534086309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 893
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c753c62dc5469fc0800000000000000
+      internalID: -3488524113930922046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_38
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 893
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013ef6646ba60e050800000000000000
+      internalID: 5827775248915751696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_39
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 893
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04017e9c7a2837b0800000000000000
+      internalID: -5244395051350424565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 637
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eca09c58f06fd690800000000000000
+      internalID: -7575229428392743704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 637
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50f93c232afa6090800000000000000
+      internalID: -8040339155743805349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 636
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b567aafdb3fb2e20800000000000000
+      internalID: 3327020747022886328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_43
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 637
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddd0f467c69e38e0800000000000000
+      internalID: -1711765025218044461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_44
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 637
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8291419d892fdeb0800000000000000
+      internalID: -4692986598692646262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_45
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 637
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06ffb8a9e12002a0800000000000000
+      internalID: -6773376552122976758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_46
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 637
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a6cb31dc12c7ca0800000000000000
+      internalID: -6017897837390697944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_47
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 637
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f59d4b3d38aa1d0800000000000000
+      internalID: -3338711228446318818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85bd293d1771e950800000000000000
+      internalID: 6476588706532537742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff500b8fb486c910800000000000000
+      internalID: 1857317854542585854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_50
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c93cf473cf1e580800000000000000
+      internalID: -8799474882413618119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_51
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baec2d7cadb59d330800000000000000
+      internalID: 3736118361094016683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_52
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8109661245f79b5a0800000000000000
+      internalID: -6505028187445620712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_53
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df6796adee89da40800000000000000
+      internalID: 5393499180106215376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_54
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1245a1bc982d32ab0800000000000000
+      internalID: -5033948469210229727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_55
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4714f4a2a9b4d00800000000000000
+      internalID: 958028852255356084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 125
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce06918d11bed4760800000000000000
+      internalID: 7443864220985811180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948bc720014bca450800000000000000
+      internalID: 6101449576034383945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1ee8ad6565dd990800000000000000
+      internalID: -7359631285019549203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_59
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 125
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd69990dce775f240800000000000000
+      internalID: 4824894434793068252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_60
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 125
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b2aac013cffdb20800000000000000
+      internalID: 3161522751033453405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_61
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 125
+        width: 37
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632f9a3806fa0f280800000000000000
+      internalID: -9011510025307688394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_62
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 125
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b413adf144cd28880800000000000000
+      internalID: -8610077352428687029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2_Dash_63
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 125
+        width: 39
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b6485afd9874c10800000000000000
+      internalID: 2037748950056069960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

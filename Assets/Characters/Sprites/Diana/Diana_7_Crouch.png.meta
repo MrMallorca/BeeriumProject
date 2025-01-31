@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: e90c9467439db3645bdaab968cc827ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8526634171989545617
+    second: Diana_7_Crouch_0
+  - first:
+      213: -7502692060041871171
+    second: Diana_7_Crouch_1
+  - first:
+      213: -2691111228165334988
+    second: Diana_7_Crouch_2
+  - first:
+      213: -7237334634125563649
+    second: Diana_7_Crouch_3
+  - first:
+      213: 7861784308035629650
+    second: Diana_7_Crouch_4
+  - first:
+      213: -7505687141847217612
+    second: Diana_7_Crouch_5
+  - first:
+      213: 8241862027844542034
+    second: Diana_7_Crouch_6
+  - first:
+      213: -291193883244553856
+    second: Diana_7_Crouch_7
+  - first:
+      213: -1060303825261054893
+    second: Diana_7_Crouch_8
+  - first:
+      213: 6189902298552707001
+    second: Diana_7_Crouch_9
+  - first:
+      213: 1735525303191372612
+    second: Diana_7_Crouch_10
+  - first:
+      213: -2892108182955692680
+    second: Diana_7_Crouch_11
+  - first:
+      213: -2846832433443785374
+    second: Diana_7_Crouch_12
+  - first:
+      213: 2101945532765641976
+    second: Diana_7_Crouch_13
+  - first:
+      213: -7083876489194958097
+    second: Diana_7_Crouch_14
+  - first:
+      213: 6195250088295098900
+    second: Diana_7_Crouch_15
+  - first:
+      213: -4269662766643447565
+    second: Diana_7_Crouch_16
+  - first:
+      213: 1207741249615311390
+    second: Diana_7_Crouch_17
+  - first:
+      213: -1577010930144257169
+    second: Diana_7_Crouch_18
+  - first:
+      213: -606562217832097642
+    second: Diana_7_Crouch_19
+  - first:
+      213: 1856270001943470317
+    second: Diana_7_Crouch_20
+  - first:
+      213: 4333464345101489732
+    second: Diana_7_Crouch_21
+  - first:
+      213: 8384174991194591103
+    second: Diana_7_Crouch_22
+  - first:
+      213: -495040283142590300
+    second: Diana_7_Crouch_23
+  - first:
+      213: 1540135081078565917
+    second: Diana_7_Crouch_24
+  - first:
+      213: -7544309287069015004
+    second: Diana_7_Crouch_25
+  - first:
+      213: -7759599814330434174
+    second: Diana_7_Crouch_26
+  - first:
+      213: 4689409751388746806
+    second: Diana_7_Crouch_27
+  - first:
+      213: -7631464801354181048
+    second: Diana_7_Crouch_28
+  - first:
+      213: -8835728076667398019
+    second: Diana_7_Crouch_29
+  - first:
+      213: -3041629414633041296
+    second: Diana_7_Crouch_30
+  - first:
+      213: -1518840040296703529
+    second: Diana_7_Crouch_31
+  - first:
+      213: -6949911194471950575
+    second: Diana_7_Crouch_32
+  - first:
+      213: 1853769248613888883
+    second: Diana_7_Crouch_33
+  - first:
+      213: -4557692455423972814
+    second: Diana_7_Crouch_34
+  - first:
+      213: -8223777305831545560
+    second: Diana_7_Crouch_35
+  - first:
+      213: -5655402156284773216
+    second: Diana_7_Crouch_36
+  - first:
+      213: -5510351890479386139
+    second: Diana_7_Crouch_37
+  - first:
+      213: 1336879283308904941
+    second: Diana_7_Crouch_38
+  - first:
+      213: -4064772920368186508
+    second: Diana_7_Crouch_39
+  - first:
+      213: 6580170200137820735
+    second: Diana_7_Crouch_40
+  - first:
+      213: -724734491332006744
+    second: Diana_7_Crouch_41
+  - first:
+      213: 5577542414642123723
+    second: Diana_7_Crouch_42
+  - first:
+      213: 1371703554466950198
+    second: Diana_7_Crouch_43
+  - first:
+      213: 8159584344282364420
+    second: Diana_7_Crouch_44
+  - first:
+      213: -9138206427986034178
+    second: Diana_7_Crouch_45
+  - first:
+      213: -4828156895373692215
+    second: Diana_7_Crouch_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_7_Crouch_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1918
+        width: 30
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192d4277a90b45670800000000000000
+      internalID: 8526634171989545617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1914
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08f06825511e790800000000000000
+      internalID: -7502692060041871171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1914
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438d32a989047aad0800000000000000
+      internalID: -2691111228165334988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1917
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8605cce72df8b90800000000000000
+      internalID: -7237334634125563649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1917
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2523435bc2baa1d60800000000000000
+      internalID: 7861784308035629650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_5
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1917
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43acaf2bf4176d790800000000000000
+      internalID: -7505687141847217612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1917
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e5479d8d9f06270800000000000000
+      internalID: 8241862027844542034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_7
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1917
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089117cb4b875fbf0800000000000000
+      internalID: -291193883244553856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1661
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b355e94b0941f0800000000000000
+      internalID: -1060303825261054893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1661
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7ab935853f6e550800000000000000
+      internalID: 6189902298552707001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1661
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4438c6b6113d51810800000000000000
+      internalID: 1735525303191372612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1661
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87decee3eea2dd7d0800000000000000
+      internalID: -2892108182955692680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1661
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b5852cf40e78d0800000000000000
+      internalID: -2846832433443785374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_13
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1661
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc17b1535c9b2d10800000000000000
+      internalID: 2101945532765641976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1661
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21bc47dd301bd90800000000000000
+      internalID: -7083876489194958097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_15
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1661
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a6987a123f9f550800000000000000
+      internalID: 6195250088295098900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1405
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8718bd55c1fb4c0800000000000000
+      internalID: -4269662766643447565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1405
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1238e38442c2c010800000000000000
+      internalID: 1207741249615311390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1405
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd7d51ae45d1ae0800000000000000
+      internalID: -1577010930144257169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1405
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698d1f760ee0597f0800000000000000
+      internalID: -606562217832097642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1405
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ed095bbbc2c910800000000000000
+      internalID: 1856270001943470317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_21
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1405
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465898bcde832c30800000000000000
+      internalID: 4333464345101489732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_22
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1405
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f0ed4bbb29a5470800000000000000
+      internalID: 8384174991194591103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_23
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1405
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0f6cd3c734129f0800000000000000
+      internalID: -495040283142590300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1149
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c2ecd32b8af5510800000000000000
+      internalID: 1540135081078565917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1149
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4242294ccaa3d4790800000000000000
+      internalID: -7544309287069015004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_26
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1149
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db5abb41d505490800000000000000
+      internalID: -7759599814330434174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1149
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63477c5c251241140800000000000000
+      internalID: 4689409751388746806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_28
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1149
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84613674237971690800000000000000
+      internalID: -7631464801354181048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_29
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1149
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d785b42c020316580800000000000000
+      internalID: -8835728076667398019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_30
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1149
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0721b62a926f9c5d0800000000000000
+      internalID: -3041629414633041296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_31
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1149
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9997fc70ffbeae0800000000000000
+      internalID: -1518840040296703529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 893
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1171df04794fc8f90800000000000000
+      internalID: -6949911194471950575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 893
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3737c275f49e9b910800000000000000
+      internalID: 1853769248613888883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_34
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 893
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ae9f60cd2dfb0c0800000000000000
+      internalID: -4557692455423972814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 893
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825edfd9c164fdd80800000000000000
+      internalID: -8223777305831545560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_36
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 893
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acfaa4d3b9f381b0800000000000000
+      internalID: -5655402156284773216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_37
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 893
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1f294962c4783b0800000000000000
+      internalID: -5510351890479386139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_38
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 893
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1c43500ac8d8210800000000000000
+      internalID: 1336879283308904941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_39
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 893
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bb3d4a0960797c0800000000000000
+      internalID: -4064772920368186508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 637
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a63dc0fe5715b50800000000000000
+      internalID: 6580170200137820735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 637
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acaea7e1d931f5f0800000000000000
+      internalID: -724734491332006744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_42
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 637
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc31b686649676d40800000000000000
+      internalID: 5577542414642123723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 637
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ca42d7d15490310800000000000000
+      internalID: 1371703554466950198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_44
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 637
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40af9c3dabaac3170800000000000000
+      internalID: 8159584344282364420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_45
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 637
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef183b78ba19e2180800000000000000
+      internalID: -9138206427986034178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7_Crouch_46
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 637
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2f56362e0fefcb0800000000000000
+      internalID: -4828156895373692215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

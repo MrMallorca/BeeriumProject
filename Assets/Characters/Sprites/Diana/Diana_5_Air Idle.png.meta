@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: c451499ee3c64dd46be2625050a4a5b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5414597932650576269
+    second: Diana_5_Air Idle_0
+  - first:
+      213: -777837970155042902
+    second: Diana_5_Air Idle_1
+  - first:
+      213: 5265826587645448618
+    second: Diana_5_Air Idle_2
+  - first:
+      213: -5872746960385266427
+    second: Diana_5_Air Idle_3
+  - first:
+      213: -2904209721394712442
+    second: Diana_5_Air Idle_4
+  - first:
+      213: 1311194752431490594
+    second: Diana_5_Air Idle_5
+  - first:
+      213: 9135839334710739632
+    second: Diana_5_Air Idle_6
+  - first:
+      213: 3790880600122321939
+    second: Diana_5_Air Idle_7
+  - first:
+      213: 5991736997958019122
+    second: Diana_5_Air Idle_8
+  - first:
+      213: 5414563469954256385
+    second: Diana_5_Air Idle_9
+  - first:
+      213: -3783987253681952288
+    second: Diana_5_Air Idle_10
+  - first:
+      213: 4076961384046692989
+    second: Diana_5_Air Idle_11
+  - first:
+      213: 1264085307872160943
+    second: Diana_5_Air Idle_12
+  - first:
+      213: -8466287086011204673
+    second: Diana_5_Air Idle_13
+  - first:
+      213: 1736827843691046074
+    second: Diana_5_Air Idle_14
+  - first:
+      213: 8796963786726588105
+    second: Diana_5_Air Idle_15
+  - first:
+      213: -510530442798878726
+    second: Diana_5_Air Idle_16
+  - first:
+      213: -8659646578805366533
+    second: Diana_5_Air Idle_17
+  - first:
+      213: -7630525857109748077
+    second: Diana_5_Air Idle_18
+  - first:
+      213: 6818519694061490130
+    second: Diana_5_Air Idle_19
+  - first:
+      213: 3574999627862694665
+    second: Diana_5_Air Idle_20
+  - first:
+      213: 7950729663457087733
+    second: Diana_5_Air Idle_21
+  - first:
+      213: -7860382812360941096
+    second: Diana_5_Air Idle_22
+  - first:
+      213: 2062740644000398629
+    second: Diana_5_Air Idle_23
+  - first:
+      213: -7757989059837660320
+    second: Diana_5_Air Idle_24
+  - first:
+      213: -2022834174243193209
+    second: Diana_5_Air Idle_25
+  - first:
+      213: -5900660770733208159
+    second: Diana_5_Air Idle_26
+  - first:
+      213: 4554009447894058527
+    second: Diana_5_Air Idle_27
+  - first:
+      213: -2850033809990255258
+    second: Diana_5_Air Idle_28
+  - first:
+      213: -7564579954757187539
+    second: Diana_5_Air Idle_29
+  - first:
+      213: 2477513800132137701
+    second: Diana_5_Air Idle_30
+  - first:
+      213: 8610193590662179105
+    second: Diana_5_Air Idle_31
+  - first:
+      213: -6108100971854929318
+    second: Diana_5_Air Idle_32
+  - first:
+      213: 2708558212946579553
+    second: Diana_5_Air Idle_33
+  - first:
+      213: -7863270533767141410
+    second: Diana_5_Air Idle_34
+  - first:
+      213: 4051462457776375433
+    second: Diana_5_Air Idle_35
+  - first:
+      213: -7852563919336850880
+    second: Diana_5_Air Idle_36
+  - first:
+      213: -6711138281721894744
+    second: Diana_5_Air Idle_37
+  - first:
+      213: 5010882219730387748
+    second: Diana_5_Air Idle_38
+  - first:
+      213: -5915636145192143440
+    second: Diana_5_Air Idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3764cc63edb7bd4b0800000000000000
+      internalID: -5414597932650576269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa70910cc709435f0800000000000000
+      internalID: -777837970155042902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa11a65c169f31940800000000000000
+      internalID: 5265826587645448618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_3
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d2b7231cfcf7ea0800000000000000
+      internalID: -5872746960385266427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680380345ac22b7d0800000000000000
+      internalID: -2904209721394712442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226090a2eac423210800000000000000
+      internalID: 1311194752431490594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2897e987509ce70800000000000000
+      internalID: 9135839334710739632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ce53422d9eb9430800000000000000
+      internalID: 3790880600122321939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1668
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2386ad6dd0de62350800000000000000
+      internalID: 5991736997958019122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1668
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e0e60d9c4642b40800000000000000
+      internalID: 5414563469954256385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1668
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e96ea524a39c7bc0800000000000000
+      internalID: -3783987253681952288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1668
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a861337c6449830800000000000000
+      internalID: 4076961384046692989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1668
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faca28dd3eeea8110800000000000000
+      internalID: 1264085307872160943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1668
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb33d760c4b18a80800000000000000
+      internalID: -8466287086011204673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1668
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab46633c8b37a1810800000000000000
+      internalID: 1736827843691046074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1668
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce30d9a4f7151a70800000000000000
+      internalID: 8796963786726588105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1412
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff23f5644b3ae8f0800000000000000
+      internalID: -510530442798878726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1412
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf021ed3151c2d780800000000000000
+      internalID: -8659646578805366533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_18
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1412
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3965a85492dea1690800000000000000
+      internalID: -7630525857109748077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_19
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1412
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df4a82298f30ae50800000000000000
+      internalID: 6818519694061490130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1412
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bd8ea6833fc9130800000000000000
+      internalID: 3574999627862694665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1412
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0558f018aa65e60800000000000000
+      internalID: 7950729663457087733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1412
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1e3ae6a7f4ae290800000000000000
+      internalID: -7860382812360941096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1412
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d7765dfa350ac10800000000000000
+      internalID: 2062740644000398629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063720dbd06165490800000000000000
+      internalID: -7757989059837660320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eb6b439037de3e0800000000000000
+      internalID: -2022834174243193209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_26
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad4d54ca44ac1ea0800000000000000
+      internalID: -5900660770733208159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_27
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f168f75f677133f30800000000000000
+      internalID: 4554009447894058527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d7da59955a278d0800000000000000
+      internalID: -2850033809990255258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2848a92c96350790800000000000000
+      internalID: -7564579954757187539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2110fbca5e16220800000000000000
+      internalID: 2477513800132137701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a3c2b37d8d7770800000000000000
+      internalID: 8610193590662179105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 900
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a526e58378aab3ba0800000000000000
+      internalID: -6108100971854929318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 900
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160d528185bb69520800000000000000
+      internalID: 2708558212946579553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 900
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed763066c1d00e290800000000000000
+      internalID: -7863270533767141410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 900
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9868798c3afa93830800000000000000
+      internalID: 4051462457776375433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 900
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ab0e358b6160390800000000000000
+      internalID: -7852563919336850880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_37
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 900
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8e0773a4f3dd2a0800000000000000
+      internalID: -6711138281721894744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 900
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423c95e74da3a8540800000000000000
+      internalID: 5010882219730387748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5_Air Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 900
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57c51b44077eda0800000000000000
+      internalID: -5915636145192143440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

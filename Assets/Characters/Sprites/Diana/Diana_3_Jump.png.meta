@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: 4e2299f20ff9c2547a3afc72e665f25b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 951889828085378795
+    second: Diana_3_Jump_0
+  - first:
+      213: -3618860224963366312
+    second: Diana_3_Jump_1
+  - first:
+      213: 1699585236440665052
+    second: Diana_3_Jump_2
+  - first:
+      213: -4724395238186650256
+    second: Diana_3_Jump_3
+  - first:
+      213: 6010422091570764433
+    second: Diana_3_Jump_4
+  - first:
+      213: 1258088252620709178
+    second: Diana_3_Jump_5
+  - first:
+      213: -801988827305339433
+    second: Diana_3_Jump_6
+  - first:
+      213: -6920257965423177837
+    second: Diana_3_Jump_7
+  - first:
+      213: 8853591623643248075
+    second: Diana_3_Jump_8
+  - first:
+      213: -2075123620017449509
+    second: Diana_3_Jump_9
+  - first:
+      213: -521267528271407230
+    second: Diana_3_Jump_10
+  - first:
+      213: 5047014682102444436
+    second: Diana_3_Jump_11
+  - first:
+      213: 6492648523856930259
+    second: Diana_3_Jump_12
+  - first:
+      213: 3396752172499419480
+    second: Diana_3_Jump_13
+  - first:
+      213: -6865028900633161557
+    second: Diana_3_Jump_14
+  - first:
+      213: -6079243323753851099
+    second: Diana_3_Jump_15
+  - first:
+      213: -4037685071782959263
+    second: Diana_3_Jump_16
+  - first:
+      213: -1663506590156181257
+    second: Diana_3_Jump_17
+  - first:
+      213: 4511567207162990266
+    second: Diana_3_Jump_18
+  - first:
+      213: -6869300466269730480
+    second: Diana_3_Jump_19
+  - first:
+      213: 2625204514967112007
+    second: Diana_3_Jump_20
+  - first:
+      213: -1588107854321067122
+    second: Diana_3_Jump_21
+  - first:
+      213: 2262043239741261377
+    second: Diana_3_Jump_22
+  - first:
+      213: 6300634191099396125
+    second: Diana_3_Jump_23
+  - first:
+      213: 3854830147978481401
+    second: Diana_3_Jump_24
+  - first:
+      213: -1175930020582893970
+    second: Diana_3_Jump_25
+  - first:
+      213: 3812367987888046596
+    second: Diana_3_Jump_26
+  - first:
+      213: 3729471227997166103
+    second: Diana_3_Jump_27
+  - first:
+      213: -4935994717831539981
+    second: Diana_3_Jump_28
+  - first:
+      213: -367588932226432642
+    second: Diana_3_Jump_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_3_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1794
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee265c51cac53d00800000000000000
+      internalID: 951889828085378795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1794
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b4478cc937cdc0800000000000000
+      internalID: -3618860224963366312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1794
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb4b8b84c3269710800000000000000
+      internalID: 1699585236440665052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1794
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0757651df839f6eb0800000000000000
+      internalID: -4724395238186650256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1794
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a5c363c0f496350800000000000000
+      internalID: 6010422091570764433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1794
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d9c81a990a57110800000000000000
+      internalID: 1258088252620709178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1794
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d512a22963ced4f0800000000000000
+      internalID: -801988827305339433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1794
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f42e8ab0e46ff90800000000000000
+      internalID: -6920257965423177837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1538
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc531a16ca64eda70800000000000000
+      internalID: 8853591623643248075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1538
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd556d3ef0ea333e0800000000000000
+      internalID: -2075123620017449509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1538
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287df60e1f514c8f0800000000000000
+      internalID: -521267528271407230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1538
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b5e6fc199a0640800000000000000
+      internalID: 5047014682102444436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1538
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e4f3de658a1a50800000000000000
+      internalID: 6492648523856930259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_13
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1538
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8514dd7aa10b32f20800000000000000
+      internalID: 3396752172499419480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_14
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1538
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba058fc56948ab0a0800000000000000
+      internalID: -6865028900633161557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_15
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1538
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5279c70086032aba0800000000000000
+      internalID: -6079243323753851099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1282
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167aa7dd1d247f7c0800000000000000
+      internalID: -4037685071782959263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1282
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f03834e1990ae8e0800000000000000
+      internalID: -1663506590156181257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_18
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1282
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe404bb87e4c9e30800000000000000
+      internalID: 4511567207162990266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_19
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1282
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059419cfe975ba0a0800000000000000
+      internalID: -6869300466269730480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_20
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1282
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749cd51f8999e6420800000000000000
+      internalID: 2625204514967112007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_21
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1282
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b5f261258e5f9e0800000000000000
+      internalID: -1588107854321067122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_22
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1282
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1460a5b7754646f10800000000000000
+      internalID: 2262043239741261377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_23
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1282
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1009242a69507750800000000000000
+      internalID: 6300634191099396125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1026
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe49b7889b1f7530800000000000000
+      internalID: 3854830147978481401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1026
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66507a60e14eafe0800000000000000
+      internalID: -1175930020582893970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_26
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1026
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40243277c7048e430800000000000000
+      internalID: 3812367987888046596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_27
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1026
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a9fc0825eb1c330800000000000000
+      internalID: 3729471227997166103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_28
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1026
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f25276c4f2df7bb0800000000000000
+      internalID: -4935994717831539981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3_Jump_29
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1026
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71474f40df06eaf0800000000000000
+      internalID: -367588932226432642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
