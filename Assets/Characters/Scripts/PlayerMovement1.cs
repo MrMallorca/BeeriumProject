@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using static UnityEditor.PlayerSettings.SplashScreen;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovement1 : MonoBehaviour
 {
     [Header("Movement Settings")]
 
@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] InputActionReference jump;
     [SerializeField] InputActionReference move;
+    [SerializeField] InputActionReference normalAttack;
 
 
 
@@ -34,8 +35,14 @@ public class PlayerMovement : MonoBehaviour
 
         jump.action.Enable();
 
+        normalAttack.action.Enable();
+
+
         jump.action.performed += OnJump;
         jump.action.canceled += OnJump;
+
+        normalAttack.action.performed += OnAttack;
+        normalAttack.action.canceled += OnAttack;
 
         move.action.performed += OnMove;
         move.action.started += OnMove;
@@ -119,6 +126,16 @@ public class PlayerMovement : MonoBehaviour
             anim.SetTrigger("Jump");
         }
     }
+    void OnAttack(InputAction.CallbackContext ctx)
+    {
+        Debug.Log("Hola");
+        if (ctx.performed && isGrounded)
+        {
+
+            Debug.Log("eeeeee");
+            anim.SetTrigger("attack");
+        }
+    }
 
     private void OnMove(InputAction.CallbackContext context)
     {
@@ -137,12 +154,18 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnDisable()
     {
-        move.action.Disable();
+        jump.action.Disable();
+
         jump.action.performed -= OnJump;
         jump.action.canceled -= OnJump;
 
+        normalAttack.action.Disable();
 
-        jump.action.Disable();
+        normalAttack.action.performed -= OnAttack;
+        normalAttack.action.canceled -= OnAttack;
+
+
+        move.action.Disable();
 
         move.action.performed -= OnMove;
         move.action.started -= OnMove;
