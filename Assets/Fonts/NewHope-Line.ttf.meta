@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 94df56fea92701a4ebe382ffabe69932
+guid: 83a0098ffefe2d24e95400071a2d3f1c
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - SSF4 ABUKET
+  - NewHope
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
