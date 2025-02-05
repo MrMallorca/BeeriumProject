@@ -1,7 +1,7 @@
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using static UnityEditor.PlayerSettings.SplashScreen;
+//using static UnityEditor.PlayerSettings.SplashScreen;
 
 public class PlayerMovement2 : MonoBehaviour
 {
