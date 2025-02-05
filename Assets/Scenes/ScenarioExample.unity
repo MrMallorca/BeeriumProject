@@ -1793,7 +1793,7 @@ GameObject:
   - component: {fileID: 1051220231}
   - component: {fileID: 1051220230}
   m_Layer: 8
-  m_Name: Player1
+  m_Name: Diana
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1941,8 +1941,10 @@ MonoBehaviour:
   jumpForce: 10
   jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  normalAttack: {fileID: 3919726927612086470, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  normalAttack: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   enemyPlayer: {fileID: 636954681}
+  canAttack: 0
+  nroAttack: 0
 --- !u!4 &1051220235
 Transform:
   m_ObjectHideFlags: 0

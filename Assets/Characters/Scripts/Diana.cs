@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using static UnityEditor.PlayerSettings.SplashScreen;
 
-public class PlayerMovement1 : MonoBehaviour
+public class Diana : MonoBehaviour
 {
     [Header("Movement Settings")]
 
@@ -25,10 +25,15 @@ public class PlayerMovement1 : MonoBehaviour
 
 
 
+    [Header("Animation Settings")]
+
     Animator anim;
 
     [SerializeField] Transform enemyPlayer;
     private SpriteRenderer spriteRenderer;
+
+    public bool canAttack;
+    public int nroAttack;
     private void OnEnable()
     {
         move.action.Enable();
@@ -55,6 +60,8 @@ public class PlayerMovement1 : MonoBehaviour
         characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        canAttack = true;
+        nroAttack = 0;
     }
 
     private void Update()
@@ -71,6 +78,12 @@ public class PlayerMovement1 : MonoBehaviour
         {
             spriteRenderer.flipX = false;
         }
+
+        if (anim.GetCurrentAnimatorStateInfo(0).IsName("Idle") && nroAttack == 0)
+        {
+            canAttack = true;
+        }
+
     }
 
     // Update is called once per frame
@@ -111,10 +124,6 @@ public class PlayerMovement1 : MonoBehaviour
 
 
     }
- 
-  
-
-
 
     void OnJump(InputAction.CallbackContext ctx)
     {
@@ -128,12 +137,15 @@ public class PlayerMovement1 : MonoBehaviour
     }
     void OnAttack(InputAction.CallbackContext ctx)
     {
-        Debug.Log("Hola");
         if (ctx.performed && isGrounded)
         {
-
-            Debug.Log("eeeeee");
-            anim.SetTrigger("attack");
+            if (canAttack && nroAttack < 3)
+            {
+                nroAttack++;
+                if (nroAttack == 1)
+                    anim.SetInteger("AttackCount", nroAttack);
+                canAttack = false;
+            }
         }
     }
 
@@ -150,6 +162,28 @@ public class PlayerMovement1 : MonoBehaviour
             isGrounded = true;
             anim.SetBool("IsGrounded", true);
         }
+    }
+
+    public void VerificaCombo()
+    {
+       
+
+        if (canAttack)
+        {
+            nroAttack = 0;
+            canAttack = false;
+            anim.SetInteger("AttackCount", nroAttack);
+        }
+        else
+        {
+            if (nroAttack > 1)
+                anim.SetInteger("AttackCount", nroAttack);
+        }
+    }
+
+    public void canAttackTrue()
+    {
+        canAttack = true;
     }
 
     private void OnDisable()
