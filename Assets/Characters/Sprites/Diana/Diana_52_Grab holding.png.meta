@@ -559,7 +559,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Diana_52_Grab holding_0: -5647627019585647544
+      Diana_52_Grab holding_1: 4777400316675262341
+      Diana_52_Grab holding_10: -5619827556124353223
+      Diana_52_Grab holding_11: 9221383970400999542
+      Diana_52_Grab holding_12: 2008230585556151518
+      Diana_52_Grab holding_13: 6731973792284080997
+      Diana_52_Grab holding_14: 2655661457907804710
+      Diana_52_Grab holding_15: 9149522257450763740
+      Diana_52_Grab holding_16: -3267738993539401617
+      Diana_52_Grab holding_17: 572275748832052523
+      Diana_52_Grab holding_2: 6549631786438005391
+      Diana_52_Grab holding_3: 5085187289154407677
+      Diana_52_Grab holding_4: -8257619855893283187
+      Diana_52_Grab holding_5: -1401889248172686430
+      Diana_52_Grab holding_6: 3953060175927745711
+      Diana_52_Grab holding_7: -1679919385307595271
+      Diana_52_Grab holding_8: -6226974339689063087
+      Diana_52_Grab holding_9: -5559822575708424116
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
