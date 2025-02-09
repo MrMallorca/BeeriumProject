@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: f95062c5e413f1f4d912b3dada995b0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 395959998098060661
+    second: Diana_50_Ultra_0
+  - first:
+      213: -2257802601948118178
+    second: Diana_50_Ultra_1
+  - first:
+      213: -9183649643412484246
+    second: Diana_50_Ultra_2
+  - first:
+      213: -3307055992066777311
+    second: Diana_50_Ultra_3
+  - first:
+      213: -7743306731271941154
+    second: Diana_50_Ultra_4
+  - first:
+      213: 583817540124035363
+    second: Diana_50_Ultra_5
+  - first:
+      213: -4713366475787730194
+    second: Diana_50_Ultra_6
+  - first:
+      213: 4727788854150416751
+    second: Diana_50_Ultra_7
+  - first:
+      213: 793199315547248146
+    second: Diana_50_Ultra_8
+  - first:
+      213: -1197617787968054751
+    second: Diana_50_Ultra_9
+  - first:
+      213: -477861865066332284
+    second: Diana_50_Ultra_10
+  - first:
+      213: -3125433492210351339
+    second: Diana_50_Ultra_11
+  - first:
+      213: 609528166383964288
+    second: Diana_50_Ultra_12
+  - first:
+      213: -1702751393962766526
+    second: Diana_50_Ultra_13
+  - first:
+      213: 3359550249175122208
+    second: Diana_50_Ultra_14
+  - first:
+      213: 258414463953376782
+    second: Diana_50_Ultra_15
+  - first:
+      213: -7438188048322178523
+    second: Diana_50_Ultra_16
+  - first:
+      213: 1101925337269291040
+    second: Diana_50_Ultra_17
+  - first:
+      213: -297492140199250072
+    second: Diana_50_Ultra_18
+  - first:
+      213: -521504802717173684
+    second: Diana_50_Ultra_19
+  - first:
+      213: -9068732920099756046
+    second: Diana_50_Ultra_20
+  - first:
+      213: 2535411874958182231
+    second: Diana_50_Ultra_21
+  - first:
+      213: 6224316607789594705
+    second: Diana_50_Ultra_22
+  - first:
+      213: 3103617784810741802
+    second: Diana_50_Ultra_23
+  - first:
+      213: -8033785238365024114
+    second: Diana_50_Ultra_24
+  - first:
+      213: -8884005206132712683
+    second: Diana_50_Ultra_25
+  - first:
+      213: -8932268926131260891
+    second: Diana_50_Ultra_26
+  - first:
+      213: 4429307833682067197
+    second: Diana_50_Ultra_27
+  - first:
+      213: -4716137765487822324
+    second: Diana_50_Ultra_28
+  - first:
+      213: -9054456280198833986
+    second: Diana_50_Ultra_29
+  - first:
+      213: -8784507672115146230
+    second: Diana_50_Ultra_30
+  - first:
+      213: 8463776941893795940
+    second: Diana_50_Ultra_31
+  - first:
+      213: 6307291802305611081
+    second: Diana_50_Ultra_32
+  - first:
+      213: -934354519748217088
+    second: Diana_50_Ultra_33
+  - first:
+      213: -8056028089235490041
+    second: Diana_50_Ultra_34
+  - first:
+      213: -6141646875263702019
+    second: Diana_50_Ultra_35
+  - first:
+      213: -7992184332634001633
+    second: Diana_50_Ultra_36
+  - first:
+      213: 1163739154567752915
+    second: Diana_50_Ultra_37
+  - first:
+      213: 5971041991243886110
+    second: Diana_50_Ultra_38
+  - first:
+      213: 5465120362505217155
+    second: Diana_50_Ultra_39
+  - first:
+      213: -1474352553141081097
+    second: Diana_50_Ultra_40
+  - first:
+      213: 5783124927198891725
+    second: Diana_50_Ultra_41
+  - first:
+      213: 1597863524031069097
+    second: Diana_50_Ultra_42
+  - first:
+      213: 7095570778940273331
+    second: Diana_50_Ultra_43
+  - first:
+      213: -13252704388598271
+    second: Diana_50_Ultra_44
+  - first:
+      213: -5608471946022515975
+    second: Diana_50_Ultra_45
+  - first:
+      213: 3388377675120291300
+    second: Diana_50_Ultra_46
+  - first:
+      213: -2565323304988588052
+    second: Diana_50_Ultra_47
+  - first:
+      213: 2256174576220056065
+    second: Diana_50_Ultra_48
+  - first:
+      213: 6071225546819274664
+    second: Diana_50_Ultra_49
+  - first:
+      213: -3731237076998156092
+    second: Diana_50_Ultra_50
+  - first:
+      213: -8340437167250811984
+    second: Diana_50_Ultra_51
+  - first:
+      213: 7813946410898611211
+    second: Diana_50_Ultra_52
+  - first:
+      213: 817996786297014917
+    second: Diana_50_Ultra_53
+  - first:
+      213: 1087302517403059973
+    second: Diana_50_Ultra_54
+  - first:
+      213: -8783172046165806869
+    second: Diana_50_Ultra_55
+  - first:
+      213: 8613428716605493420
+    second: Diana_50_Ultra_56
+  - first:
+      213: -5802084168796299010
+    second: Diana_50_Ultra_57
+  - first:
+      213: -8762042229112459033
+    second: Diana_50_Ultra_58
+  - first:
+      213: -8956172231936308141
+    second: Diana_50_Ultra_59
+  - first:
+      213: -2961099536473864697
+    second: Diana_50_Ultra_60
+  - first:
+      213: -5058700694347862606
+    second: Diana_50_Ultra_61
+  - first:
+      213: 8470610998531268817
+    second: Diana_50_Ultra_62
+  - first:
+      213: 3145335108030624670
+    second: Diana_50_Ultra_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_50_Ultra_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1918
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57536e7358bbe7500800000000000000
+      internalID: 395959998098060661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1927
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e530ee1fe7caaa0e0800000000000000
+      internalID: -2257802601948118178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1927
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f81ce6e4f1d8080800000000000000
+      internalID: -9183649643412484246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1927
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f5884c81afa12d0800000000000000
+      internalID: -3307055992066777311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_4
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1927
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed315afbd8f3a8490800000000000000
+      internalID: -7743306731271941154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_5
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1927
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3294cb4a5f22a1800800000000000000
+      internalID: 583817540124035363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_6
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1927
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2007aa922c69eb0800000000000000
+      internalID: -4713366475787730194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_7
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1927
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69cfa8f9ea7c9140800000000000000
+      internalID: 4727788854150416751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1671
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216d64f2392020b00800000000000000
+      internalID: 793199315547248146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1671
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a997397f4316fe0800000000000000
+      internalID: -1197617787968054751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1671
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ff3016a2b4e59f0800000000000000
+      internalID: -477861865066332284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_11
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1671
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51381bf4cca30a4d0800000000000000
+      internalID: -3125433492210351339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_12
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1671
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08059ed43aa757800800000000000000
+      internalID: 609528166383964288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_13
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1671
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f4c06f0ac9e58e0800000000000000
+      internalID: -1702751393962766526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_14
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1671
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0218827e6258f9e20800000000000000
+      internalID: 3359550249175122208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_15
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1671
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0693c8f592169300800000000000000
+      internalID: 258414463953376782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1415
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5225337116f36c890800000000000000
+      internalID: -7438188048322178523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1415
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02840f88143da4f00800000000000000
+      internalID: 1101925337269291040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1415
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867f3f389781fdbf0800000000000000
+      internalID: -297492140199250072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_19
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1415
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48f16d152e33c8f0800000000000000
+      internalID: -521504802717173684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_20
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1415
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f720961573652280800000000000000
+      internalID: -9068732920099756046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_21
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1415
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578036caa79f2320800000000000000
+      internalID: 2535411874958182231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_22
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1415
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158fcd81af6316650800000000000000
+      internalID: 6224316607789594705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_23
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1415
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20aa3e7ee3421b20800000000000000
+      internalID: 3103617784810741802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1159
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d979f3e2428090800000000000000
+      internalID: -8033785238365024114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1159
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b1db1a55ca5b480800000000000000
+      internalID: -8884005206132712683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1159
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522bfa3acb43a0480800000000000000
+      internalID: -8932268926131260891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_27
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1159
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe797bd100187d30800000000000000
+      internalID: 4429307833682067197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_28
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1159
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a3b4080b9ec8eb0800000000000000
+      internalID: -4716137765487822324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_29
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1159
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb891785cfb185280800000000000000
+      internalID: -9054456280198833986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_30
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1159
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0212e480d8271680800000000000000
+      internalID: -8784507672115146230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_31
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1159
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c8bf1940657570800000000000000
+      internalID: 8463776941893795940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 903
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945c82b0a70088750800000000000000
+      internalID: 6307291802305611081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 903
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0077024c3818803f0800000000000000
+      internalID: -934354519748217088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_34
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 903
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bbc80b22d333090800000000000000
+      internalID: -8056028089235490041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_35
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 903
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbe400f4bc74caa0800000000000000
+      internalID: -6141646875263702019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_36
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 903
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f68e1a1be061190800000000000000
+      internalID: -7992184332634001633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_37
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 903
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6937689e662010800000000000000
+      internalID: 1163739154567752915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_38
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 903
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e680b1e076dd250800000000000000
+      internalID: 5971041991243886110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_39
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 903
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384a0e5a30208db40800000000000000
+      internalID: 5465120362505217155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 647
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbe5541a2c0a8be0800000000000000
+      internalID: -1474352553141081097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 647
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce85612b79c14050800000000000000
+      internalID: 5783124927198891725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_42
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 647
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abfc65c860cc2610800000000000000
+      internalID: 1597863524031069097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_43
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 647
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2706d8708887260800000000000000
+      internalID: 7095570778940273331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_44
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 647
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ba9e4cbae0dff0800000000000000
+      internalID: -13252704388598271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_45
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 647
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa8594ea74ba22b0800000000000000
+      internalID: -5608471946022515975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_46
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 647
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eda86a0b8fe50f20800000000000000
+      internalID: 3388377675120291300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_47
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 647
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7cf18bb04266cd0800000000000000
+      internalID: -2565323304988588052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 391
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a2dd6c2da8f4f10800000000000000
+      internalID: 2256174576220056065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 391
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a78075d773514450800000000000000
+      internalID: 6071225546819274664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_50
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 391
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c012ccb5abf73cc0800000000000000
+      internalID: -3731237076998156092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_51
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 391
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3dc8ef590d04c80800000000000000
+      internalID: -8340437167250811984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_52
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 391
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cdc835cd6b07c60800000000000000
+      internalID: 7813946410898611211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_53
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 391
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a05a24ebb1a5b00800000000000000
+      internalID: 817996786297014917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_54
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 391
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5078239f0efd61f00800000000000000
+      internalID: 1087302517403059973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_55
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 391
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0752b2f87eb1680800000000000000
+      internalID: -8783172046165806869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_56
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 135
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca05b6728cb098770800000000000000
+      internalID: 8613428716605493420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 135
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0aaf1703bda7fa0800000000000000
+      internalID: -5802084168796299010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_58
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 135
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0b7c21409f66680800000000000000
+      internalID: -8762042229112459033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_59
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 135
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c08309ec845b380800000000000000
+      internalID: -8956172231936308141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_60
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 135
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706c6eff8af08e6d0800000000000000
+      internalID: -2961099536473864697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_61
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 135
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdaf584582ebc9b0800000000000000
+      internalID: -5058700694347862606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_62
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 135
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d029fde2d7ad8570800000000000000
+      internalID: 8470610998531268817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50_Ultra_63
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 135
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93fab5bd9976ab20800000000000000
+      internalID: 3145335108030624670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Diana_50_Ultra_0: 395959998098060661
+      Diana_50_Ultra_1: -2257802601948118178
+      Diana_50_Ultra_10: -477861865066332284
+      Diana_50_Ultra_11: -3125433492210351339
+      Diana_50_Ultra_12: 609528166383964288
+      Diana_50_Ultra_13: -1702751393962766526
+      Diana_50_Ultra_14: 3359550249175122208
+      Diana_50_Ultra_15: 258414463953376782
+      Diana_50_Ultra_16: -7438188048322178523
+      Diana_50_Ultra_17: 1101925337269291040
+      Diana_50_Ultra_18: -297492140199250072
+      Diana_50_Ultra_19: -521504802717173684
+      Diana_50_Ultra_2: -9183649643412484246
+      Diana_50_Ultra_20: -9068732920099756046
+      Diana_50_Ultra_21: 2535411874958182231
+      Diana_50_Ultra_22: 6224316607789594705
+      Diana_50_Ultra_23: 3103617784810741802
+      Diana_50_Ultra_24: -8033785238365024114
+      Diana_50_Ultra_25: -8884005206132712683
+      Diana_50_Ultra_26: -8932268926131260891
+      Diana_50_Ultra_27: 4429307833682067197
+      Diana_50_Ultra_28: -4716137765487822324
+      Diana_50_Ultra_29: -9054456280198833986
+      Diana_50_Ultra_3: -3307055992066777311
+      Diana_50_Ultra_30: -8784507672115146230
+      Diana_50_Ultra_31: 8463776941893795940
+      Diana_50_Ultra_32: 6307291802305611081
+      Diana_50_Ultra_33: -934354519748217088
+      Diana_50_Ultra_34: -8056028089235490041
+      Diana_50_Ultra_35: -6141646875263702019
+      Diana_50_Ultra_36: -7992184332634001633
+      Diana_50_Ultra_37: 1163739154567752915
+      Diana_50_Ultra_38: 5971041991243886110
+      Diana_50_Ultra_39: 5465120362505217155
+      Diana_50_Ultra_4: -7743306731271941154
+      Diana_50_Ultra_40: -1474352553141081097
+      Diana_50_Ultra_41: 5783124927198891725
+      Diana_50_Ultra_42: 1597863524031069097
+      Diana_50_Ultra_43: 7095570778940273331
+      Diana_50_Ultra_44: -13252704388598271
+      Diana_50_Ultra_45: -5608471946022515975
+      Diana_50_Ultra_46: 3388377675120291300
+      Diana_50_Ultra_47: -2565323304988588052
+      Diana_50_Ultra_48: 2256174576220056065
+      Diana_50_Ultra_49: 6071225546819274664
+      Diana_50_Ultra_5: 583817540124035363
+      Diana_50_Ultra_50: -3731237076998156092
+      Diana_50_Ultra_51: -8340437167250811984
+      Diana_50_Ultra_52: 7813946410898611211
+      Diana_50_Ultra_53: 817996786297014917
+      Diana_50_Ultra_54: 1087302517403059973
+      Diana_50_Ultra_55: -8783172046165806869
+      Diana_50_Ultra_56: 8613428716605493420
+      Diana_50_Ultra_57: -5802084168796299010
+      Diana_50_Ultra_58: -8762042229112459033
+      Diana_50_Ultra_59: -8956172231936308141
+      Diana_50_Ultra_6: -4713366475787730194
+      Diana_50_Ultra_60: -2961099536473864697
+      Diana_50_Ultra_61: -5058700694347862606
+      Diana_50_Ultra_62: 8470610998531268817
+      Diana_50_Ultra_63: 3145335108030624670
+      Diana_50_Ultra_7: 4727788854150416751
+      Diana_50_Ultra_8: 793199315547248146
+      Diana_50_Ultra_9: -1197617787968054751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
