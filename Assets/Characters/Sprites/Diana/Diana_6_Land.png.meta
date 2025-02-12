@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Diana_6_Land_0: -4143871139677226007
+      Diana_6_Land_1: 7416564699299791343
+      Diana_6_Land_2: -8491108968825208461
+      Diana_6_Land_3: 5159730519359273921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

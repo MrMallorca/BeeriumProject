@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Diana_3_Jump_0: 951889828085378795
+      Diana_3_Jump_1: -3618860224963366312
+      Diana_3_Jump_10: -521267528271407230
+      Diana_3_Jump_11: 5047014682102444436
+      Diana_3_Jump_12: 6492648523856930259
+      Diana_3_Jump_13: 3396752172499419480
+      Diana_3_Jump_14: -6865028900633161557
+      Diana_3_Jump_15: -6079243323753851099
+      Diana_3_Jump_16: -4037685071782959263
+      Diana_3_Jump_17: -1663506590156181257
+      Diana_3_Jump_18: 4511567207162990266
+      Diana_3_Jump_19: -6869300466269730480
+      Diana_3_Jump_2: 1699585236440665052
+      Diana_3_Jump_20: 2625204514967112007
+      Diana_3_Jump_21: -1588107854321067122
+      Diana_3_Jump_22: 2262043239741261377
+      Diana_3_Jump_23: 6300634191099396125
+      Diana_3_Jump_24: 3854830147978481401
+      Diana_3_Jump_25: -1175930020582893970
+      Diana_3_Jump_26: 3812367987888046596
+      Diana_3_Jump_27: 3729471227997166103
+      Diana_3_Jump_28: -4935994717831539981
+      Diana_3_Jump_29: -367588932226432642
+      Diana_3_Jump_3: -4724395238186650256
+      Diana_3_Jump_4: 6010422091570764433
+      Diana_3_Jump_5: 1258088252620709178
+      Diana_3_Jump_6: -801988827305339433
+      Diana_3_Jump_7: -6920257965423177837
+      Diana_3_Jump_8: 8853591623643248075
+      Diana_3_Jump_9: -2075123620017449509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

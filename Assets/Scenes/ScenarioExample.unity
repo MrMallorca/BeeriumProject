@@ -1168,7 +1168,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!95 &636954676
 Animator:
   serializedVersion: 7
@@ -1329,7 +1329,7 @@ MonoBehaviour:
   extraGravityForce: 12
   jumpForce: 10
   jump: {fileID: -2099379676528639254, guid: 791d1877a69f3164380202ea9bf0a894, type: 3}
-  move: {fileID: 1614783092437123993, guid: 791d1877a69f3164380202ea9bf0a894, type: 3}
+  move: {fileID: -1680190386980627800, guid: 791d1877a69f3164380202ea9bf0a894, type: 3}
   enemyPlayer: {fileID: 1051220235}
 --- !u!1 &759296396
 GameObject:
@@ -1787,7 +1787,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1051220235}
-  - component: {fileID: 1051220234}
+  - component: {fileID: 1051220236}
   - component: {fileID: 1051220233}
   - component: {fileID: 1051220232}
   - component: {fileID: 1051220231}
@@ -1924,27 +1924,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 88
   m_CollisionDetection: 0
---- !u!114 &1051220234
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1051220229}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c9ecea440d7bc76478291c9fe38dbf34, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 3
-  extraGravityForce: 12
-  jumpForce: 10
-  jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  normalAttack: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  enemyPlayer: {fileID: 636954681}
-  canAttack: 0
-  nroAttack: 0
 --- !u!4 &1051220235
 Transform:
   m_ObjectHideFlags: 0
@@ -1963,6 +1942,27 @@ Transform:
   - {fileID: 1653589893}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1051220236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1051220229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37f6855d57a1d76458b505d4bfe4117f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3
+  extraGravityForce: 5
+  jumpForce: 8
+  jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  normalAttack: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  enemyPlayer: {fileID: 636954681}
+  canAttack: 0
+  nroAttack: 0
 --- !u!1 &1102193749
 GameObject:
   m_ObjectHideFlags: 0
