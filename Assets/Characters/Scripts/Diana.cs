@@ -22,6 +22,7 @@ public class Diana : MonoBehaviour
     [SerializeField] InputActionReference jump;
     [SerializeField] InputActionReference move;
     [SerializeField] InputActionReference normalAttack;
+    [SerializeField] InputActionReference crouch;
 
 
 
@@ -42,12 +43,16 @@ public class Diana : MonoBehaviour
 
         normalAttack.action.Enable();
 
+        crouch.action.Enable();
 
         jump.action.performed += OnJump;
         jump.action.canceled += OnJump;
 
-        normalAttack.action.performed += OnAttack;
-        normalAttack.action.canceled += OnAttack;
+        crouch.action.performed += OnCrouch;
+        crouch.action.canceled += OnCrouch;
+
+        normalAttack.action.performed += OnNormalAttack;
+        normalAttack.action.canceled += OnNormalAttack;
 
         move.action.performed += OnMove;
         move.action.started += OnMove;
@@ -60,6 +65,7 @@ public class Diana : MonoBehaviour
         characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        
         canAttack = true;
         nroAttack = 0;
     }
@@ -89,7 +95,7 @@ public class Diana : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-
+        Debug.Log(canAttack);
         UpdateMovementOnPlane();
     }
 
@@ -135,7 +141,7 @@ public class Diana : MonoBehaviour
             anim.SetTrigger("Jump");
         }
     }
-    void OnAttack(InputAction.CallbackContext ctx)
+    void OnNormalAttack(InputAction.CallbackContext ctx)
     {
         if (ctx.performed && isGrounded)
         {
@@ -146,6 +152,18 @@ public class Diana : MonoBehaviour
                     anim.SetInteger("AttackCount", nroAttack);
                 canAttack = false;
             }
+        }
+    }
+
+    private void OnCrouch(InputAction.CallbackContext ctx)
+    {
+
+        if (isGrounded)
+        {
+            anim.SetBool("crouch", ctx.ReadValue<float>() > 0);
+            canAttackTrue();
+            nroAttack = 0;
+            anim.SetInteger("AttackCount", nroAttack);
         }
     }
 
@@ -195,9 +213,11 @@ public class Diana : MonoBehaviour
 
         normalAttack.action.Disable();
 
-        normalAttack.action.performed -= OnAttack;
-        normalAttack.action.canceled -= OnAttack;
+        normalAttack.action.performed -= OnNormalAttack;
+        normalAttack.action.canceled -= OnNormalAttack;
 
+        crouch.action.performed -= OnCrouch;
+        crouch.action.canceled -= OnCrouch;
 
         move.action.Disable();
 
