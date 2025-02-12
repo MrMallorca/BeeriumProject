@@ -4,6 +4,7 @@ using UnityEngine.UI;
 using TMPro;
 using UnityEngine.Rendering;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 public class MenuController : MonoBehaviour
 {
@@ -139,4 +140,11 @@ public class MenuController : MonoBehaviour
         yield return new WaitForSeconds(2);
         confirmationPrompt.SetActive(false);
     }
+
+    
+    public void ChangeScene(string name)
+    {SceneManager.LoadScene(name);}
+
+    public void Exit()
+    {Application.Quit();}
 }

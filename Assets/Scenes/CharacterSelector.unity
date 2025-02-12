@@ -236,15 +236,15 @@ RectTransform:
   m_GameObject: {fileID: 121838906}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.9508907, y: 1.9508907, z: 1.9508907}
+  m_LocalScale: {x: 3.140739, y: 3.140739, z: 3.140739}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1453835817}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000061035156, y: -198.39996}
-  m_SizeDelta: {x: -920, y: -455.66037}
+  m_AnchoredPosition: {x: -10, y: -217.00003}
+  m_SizeDelta: {x: -960.82, y: -585.42}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &121838908
 MonoBehaviour:
@@ -398,7 +398,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: MenuInGame
+          m_StringArgument: ScenarioExample
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!224 &202633133 stripped
@@ -807,7 +807,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Options
+          m_StringArgument: SelectGame
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1001 &548651487

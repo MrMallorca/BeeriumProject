@@ -46,4 +46,8 @@ public class MenuInGame : MonoBehaviour
         
         SceneManager.LoadScene(scene);
     }
+    public void Exit()
+    {
+        Application.Quit();
+    }
 }

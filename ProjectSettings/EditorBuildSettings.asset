@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Menu/Scenes/CompanyName.unity
+    guid: 19d488b98916bcd48aface21d03762c9
+  - enabled: 1
+    path: Assets/Menu/Scenes/Options.unity
+    guid: e580f6869e819174f865cd39dc2ad45a
+  - enabled: 1
+    path: Assets/Menu/Scenes/Game/SelectGame.unity
+    guid: d5e9be223672cf9428c162b2f6c7f95e
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelector.unity
+    guid: 0bb44aed428cec14187d5d9bf6a33160
+  - enabled: 1
+    path: Assets/MenuInGame/MenuInGame.unity
+    guid: 86e59ca702b0c8e4f9629d254c68c75c
+  - enabled: 1
     path: Assets/Scenes/ScenarioExample.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 0
@@ -14,30 +29,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Menu/Scenes/Game/SelectPlayer.unity
     guid: 704d0b41c9b45de4f80c005e47fd4db1
-  - enabled: 1
-    path: Assets/Menu/Scenes/Options.unity
-    guid: e580f6869e819174f865cd39dc2ad45a
   - enabled: 0
     path: Assets/Menu/Scenes/Credits.unity
     guid: 7e7df254ea0ef6546a4162e7afc07253
-  - enabled: 1
-    path: Assets/Menu/Scenes/Game/SelectGame.unity
-    guid: d5e9be223672cf9428c162b2f6c7f95e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Menu/Scenes/Game/Minigame.unity
     guid: a3cb712d05069134ab727ce9ff0bf99c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Menu/Scenes/Game/Practice.unity
     guid: e0f178e1647a9c84289cfdb68f19a728
-  - enabled: 1
+  - enabled: 0
     path: Assets/Menu/Scenes/Game/Tutorial.unity
     guid: 3fc497e08303d0348a04d2512f7402bb
-  - enabled: 1
-    path: Assets/Scenes/CharacterSelector.unity
-    guid: 0bb44aed428cec14187d5d9bf6a33160
-  - enabled: 1
-    path: Assets/MenuInGame/MenuInGame.unity
-    guid: 86e59ca702b0c8e4f9629d254c68c75c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
