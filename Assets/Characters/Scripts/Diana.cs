@@ -1,10 +1,9 @@
-using JetBrains.Annotations;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 //using static UnityEditor.PlayerSettings.SplashScreen;
 
-public class PlayerMovement2 : MonoBehaviour
+public class Diana : MonoBehaviour
 {
     [Header("Movement Settings")]
 
@@ -22,22 +21,33 @@ public class PlayerMovement2 : MonoBehaviour
 
     [SerializeField] InputActionReference jump;
     [SerializeField] InputActionReference move;
+    [SerializeField] InputActionReference normalAttack;
 
 
+
+    [Header("Animation Settings")]
 
     Animator anim;
 
     [SerializeField] Transform enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
+    public bool canAttack;
+    public int nroAttack;
     private void OnEnable()
     {
         move.action.Enable();
 
         jump.action.Enable();
 
+        normalAttack.action.Enable();
+
+
         jump.action.performed += OnJump;
         jump.action.canceled += OnJump;
+
+        normalAttack.action.performed += OnAttack;
+        normalAttack.action.canceled += OnAttack;
 
         move.action.performed += OnMove;
         move.action.started += OnMove;
@@ -50,12 +60,29 @@ public class PlayerMovement2 : MonoBehaviour
         characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        canAttack = true;
+        nroAttack = 0;
     }
 
     private void Update()
     {
         UpdateAnimatorParameters();
 
+        Vector3 direction = enemyPlayer.position - transform.position;
+
+        if (direction.x < 0)
+        {
+            spriteRenderer.flipX = true;
+        }
+        else
+        {
+            spriteRenderer.flipX = false;
+        }
+
+        if (anim.GetCurrentAnimatorStateInfo(0).IsName("Idle") && nroAttack == 0)
+        {
+            canAttack = true;
+        }
 
     }
 
@@ -78,38 +105,47 @@ public class PlayerMovement2 : MonoBehaviour
         characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
 
     }
+
+
     private void UpdateAnimatorParameters()
     {
         float horizontalSpeed = characterRb.linearVelocity.x;
 
         anim.SetFloat("Speed", horizontalSpeed);
 
-        //Vector3 direction = enemyPlayer.position - transform.position;
-
-        //// Si el enemigo está a la derecha, mirar a la derecha
-        //if (horizontalSpeed > 0)
-        //{
-        //    spriteRenderer.flipX = false;  // Mirar a la derecha
-        //}
-        //else if (horizontalSpeed < 0)
-        //{
-        //    spriteRenderer.flipX = true; // Mirar a la izquierda
-        //}
-
-
+        if (horizontalSpeed > 0.01f)
+        {
+            spriteRenderer.flipX = false;
+        }
+        else if (horizontalSpeed < -0.01f)
+        {
+            spriteRenderer.flipX = true;
+        }
 
 
     }
-    
 
     void OnJump(InputAction.CallbackContext ctx)
     {
         if (ctx.performed && isGrounded) 
         {
-            characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
             isGrounded = false;
-            anim.SetBool("IsGrounded", isGrounded);
+            characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
+            anim.SetBool("IsGrounded", false);
             anim.SetTrigger("Jump");
+        }
+    }
+    void OnAttack(InputAction.CallbackContext ctx)
+    {
+        if (ctx.performed && isGrounded)
+        {
+            if (canAttack && nroAttack < 3)
+            {
+                nroAttack++;
+                if (nroAttack == 1)
+                    anim.SetInteger("AttackCount", nroAttack);
+                canAttack = false;
+            }
         }
     }
 
@@ -124,18 +160,46 @@ public class PlayerMovement2 : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
-            anim.SetBool("IsGrounded", isGrounded);
+            anim.SetBool("IsGrounded", true);
         }
+    }
+
+    public void VerificaCombo()
+    {
+       
+
+        if (canAttack)
+        {
+            nroAttack = 0;
+            canAttack = false;
+            anim.SetInteger("AttackCount", nroAttack);
+        }
+        else
+        {
+            if (nroAttack > 1)
+                anim.SetInteger("AttackCount", nroAttack);
+        }
+    }
+
+    public void canAttackTrue()
+    {
+        canAttack = true;
     }
 
     private void OnDisable()
     {
-        move.action.Disable();
+        jump.action.Disable();
+
         jump.action.performed -= OnJump;
         jump.action.canceled -= OnJump;
 
+        normalAttack.action.Disable();
 
-        jump.action.Disable();
+        normalAttack.action.performed -= OnAttack;
+        normalAttack.action.canceled -= OnAttack;
+
+
+        move.action.Disable();
 
         move.action.performed -= OnMove;
         move.action.started -= OnMove;

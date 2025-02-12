@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: f9b125924c87b64428119a2dcd84eb20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2845164110731947212
+    second: Diana_53_Forward throw_0
+  - first:
+      213: -2169547046773581298
+    second: Diana_53_Forward throw_1
+  - first:
+      213: 354596960953734361
+    second: Diana_53_Forward throw_2
+  - first:
+      213: 3814497454452588196
+    second: Diana_53_Forward throw_3
+  - first:
+      213: -3432959860705016893
+    second: Diana_53_Forward throw_4
+  - first:
+      213: -4827403666240631289
+    second: Diana_53_Forward throw_5
+  - first:
+      213: 7346412926053191586
+    second: Diana_53_Forward throw_6
+  - first:
+      213: -1491588349641170270
+    second: Diana_53_Forward throw_7
+  - first:
+      213: 6732947285144486507
+    second: Diana_53_Forward throw_8
+  - first:
+      213: -6396930551811155046
+    second: Diana_53_Forward throw_9
+  - first:
+      213: 7240864669527734194
+    second: Diana_53_Forward throw_10
+  - first:
+      213: 5700752141004729114
+    second: Diana_53_Forward throw_11
+  - first:
+      213: 6649155261522956314
+    second: Diana_53_Forward throw_12
+  - first:
+      213: 5262126000459100344
+    second: Diana_53_Forward throw_13
+  - first:
+      213: -6966758349300506708
+    second: Diana_53_Forward throw_14
+  - first:
+      213: -1075804165028349462
+    second: Diana_53_Forward throw_15
+  - first:
+      213: 7182206654383285081
+    second: Diana_53_Forward throw_16
+  - first:
+      213: -4691138712825228078
+    second: Diana_53_Forward throw_17
+  - first:
+      213: -2651868887349628836
+    second: Diana_53_Forward throw_18
+  - first:
+      213: 8530720597318861129
+    second: Diana_53_Forward throw_19
+  - first:
+      213: 6772758271968426608
+    second: Diana_53_Forward throw_20
+  - first:
+      213: -1385605235844510083
+    second: Diana_53_Forward throw_21
+  - first:
+      213: 2135010952805765331
+    second: Diana_53_Forward throw_22
+  - first:
+      213: -1972919463797064453
+    second: Diana_53_Forward throw_23
+  - first:
+      213: 3221882580894703598
+    second: Diana_53_Forward throw_24
+  - first:
+      213: -81444909060468580
+    second: Diana_53_Forward throw_25
+  - first:
+      213: 3354380929506535411
+    second: Diana_53_Forward throw_26
+  - first:
+      213: 4300555977048469931
+    second: Diana_53_Forward throw_27
+  - first:
+      213: -6088441235171412696
+    second: Diana_53_Forward throw_28
+  - first:
+      213: -6627199173840578004
+    second: Diana_53_Forward throw_29
+  - first:
+      213: 4484209568582579983
+    second: Diana_53_Forward throw_30
+  - first:
+      213: 8337304459027407535
+    second: Diana_53_Forward throw_31
+  - first:
+      213: -4894162069545643557
+    second: Diana_53_Forward throw_32
+  - first:
+      213: -7141889043853468495
+    second: Diana_53_Forward throw_33
+  - first:
+      213: -6137854160261656613
+    second: Diana_53_Forward throw_34
+  - first:
+      213: -5606634514442749071
+    second: Diana_53_Forward throw_35
+  - first:
+      213: 6193369798417793785
+    second: Diana_53_Forward throw_36
+  - first:
+      213: -2047064257925513455
+    second: Diana_53_Forward throw_37
+  - first:
+      213: 1179522510189151743
+    second: Diana_53_Forward throw_38
+  - first:
+      213: 7945220301566680800
+    second: Diana_53_Forward throw_39
+  - first:
+      213: 8062101895767687888
+    second: Diana_53_Forward throw_40
+  - first:
+      213: -1407215785944544739
+    second: Diana_53_Forward throw_41
+  - first:
+      213: -4968380817763481760
+    second: Diana_53_Forward throw_42
+  - first:
+      213: 735932451068869298
+    second: Diana_53_Forward throw_43
+  - first:
+      213: 8651584852950741492
+    second: Diana_53_Forward throw_44
+  - first:
+      213: -2799598097802732898
+    second: Diana_53_Forward throw_45
+  - first:
+      213: 1668042286510378648
+    second: Diana_53_Forward throw_46
+  - first:
+      213: 3977995498828533331
+    second: Diana_53_Forward throw_47
+  - first:
+      213: -5249532530049666880
+    second: Diana_53_Forward throw_48
+  - first:
+      213: -4621131363212988933
+    second: Diana_53_Forward throw_49
+  - first:
+      213: 3368928192283822809
+    second: Diana_53_Forward throw_50
+  - first:
+      213: 5551974693166031429
+    second: Diana_53_Forward throw_51
+  - first:
+      213: -6081699110290872408
+    second: Diana_53_Forward throw_52
+  - first:
+      213: 5485075103335955028
+    second: Diana_53_Forward throw_53
+  - first:
+      213: -596561066890192840
+    second: Diana_53_Forward throw_54
+  - first:
+      213: -6374096955051264939
+    second: Diana_53_Forward throw_55
+  - first:
+      213: 8156777664082911382
+    second: Diana_53_Forward throw_56
+  - first:
+      213: 8965129700426359454
+    second: Diana_53_Forward throw_57
+  - first:
+      213: 3941261422568326681
+    second: Diana_53_Forward throw_58
+  - first:
+      213: 2718759701559302476
+    second: Diana_53_Forward throw_59
+  - first:
+      213: 1384866116091427108
+    second: Diana_53_Forward throw_60
+  - first:
+      213: 1698466305614581375
+    second: Diana_53_Forward throw_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc2ed33fad0c7720800000000000000
+      internalID: 2845164110731947212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1099a47834e1e0800000000000000
+      internalID: -2169547046773581298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d49418ae08cbe400800000000000000
+      internalID: 354596960953734361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae37498931dfe430800000000000000
+      internalID: 3814497454452588196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_4
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3c08ef13dab50d0800000000000000
+      internalID: -3432959860705016893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e0f4631fd910db0800000000000000
+      internalID: -4827403666240631289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af0dbe12a3b3f560800000000000000
+      internalID: 7346412926053191586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2e68c7c40dc4be0800000000000000
+      internalID: -1491588349641170270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_8
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c77612eb307d50800000000000000
+      internalID: 6732947285144486507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_9
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bd3763e898937a0800000000000000
+      internalID: -6396930551811155046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_10
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b770ed9d08bc7460800000000000000
+      internalID: 7240864669527734194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_11
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b622d4ed32d1f40800000000000000
+      internalID: 5700752141004729114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_12
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10de7b4b7b864c50800000000000000
+      internalID: 6649155261522956314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_13
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b036bca7b3d60940800000000000000
+      internalID: 5262126000459100344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_14
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafd4f9513a115f90800000000000000
+      internalID: -6966758349300506708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_15
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9799fcfc9f111f0800000000000000
+      internalID: -1075804165028349462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95366f136e25ca360800000000000000
+      internalID: 7182206654383285081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d418f5023ab5eeb0800000000000000
+      internalID: -4691138712825228078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_18
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c507d921c4ba23bd0800000000000000
+      internalID: -2651868887349628836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9418c418f25336670800000000000000
+      internalID: 8530720597318861129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_20
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a3446c3cbadfd50800000000000000
+      internalID: 6772758271968426608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e0196116755cce0800000000000000
+      internalID: -1385605235844510083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_22
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d05e89562511ad10800000000000000
+      internalID: 2135010952805765331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_23
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcfbed5338ce94e0800000000000000
+      internalID: -1972919463797064453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_24
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef5f36132d66bc20800000000000000
+      internalID: 3221882580894703598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_25
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90dfa66946aedef0800000000000000
+      internalID: -81444909060468580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_26
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7e490eea72d8e20800000000000000
+      internalID: 3354380929506535411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_27
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba138a430e4aeab30800000000000000
+      internalID: 4300555977048469931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_28
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82574cd54f2818ba0800000000000000
+      internalID: -6088441235171412696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_29
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a587bb6757704a0800000000000000
+      internalID: -6627199173840578004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_30
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07b5c128dc1b3e30800000000000000
+      internalID: 4484209568582579983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_31
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2eb988b3e04b370800000000000000
+      internalID: 8337304459027407535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd19a833781741cb0800000000000000
+      internalID: -4894162069545643557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc1cd301c9e2ec90800000000000000
+      internalID: -7141889043853468495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf43763926f1daa0800000000000000
+      internalID: -6137854160261656613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf1354d9b3132b0800000000000000
+      internalID: -5606634514442749071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_36
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2435d840543f550800000000000000
+      internalID: 6193369798417793785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_37
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f73f937ed5793e0800000000000000
+      internalID: -2047064257925513455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_38
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5c66049718e5010800000000000000
+      internalID: 1179522510189151743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee9a19c4c7134e60800000000000000
+      internalID: 7945220301566680800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_40
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d28c3895f652ef60800000000000000
+      internalID: 8062101895767687888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_41
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a047cc2b0987ce0800000000000000
+      internalID: -1407215785944544739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_42
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067c75848f3cc0bb0800000000000000
+      internalID: -4968380817763481760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_43
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba74a44aae863a00800000000000000
+      internalID: 735932451068869298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_44
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17740f59a901870800000000000000
+      internalID: 8651584852950741492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_45
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9adb9aec54d529d0800000000000000
+      internalID: -2799598097802732898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_46
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e08c53f93162710800000000000000
+      internalID: 1668042286510378648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_47
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e07c174dda43730800000000000000
+      internalID: 3977995498828533331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c038852af9e527b0800000000000000
+      internalID: -5249532530049666880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfde54b42817edfb0800000000000000
+      internalID: -4621131363212988933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da40ee6756d0ce20800000000000000
+      internalID: 3368928192283822809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542ae1c51939c0d40800000000000000
+      internalID: 5551974693166031429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_52
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ad44a1e6799ba0800000000000000
+      internalID: -6081699110290872408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_53
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45abdacceb6ee1c40800000000000000
+      internalID: 5485075103335955028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_54
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8389e21ded698b7f0800000000000000
+      internalID: -596561066890192840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_55
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554354e3798aa87a0800000000000000
+      internalID: -6374096955051264939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_56
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690a08ba112b23170800000000000000
+      internalID: 8156777664082911382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_57
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92a73796f98a6c70800000000000000
+      internalID: 8965129700426359454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_58
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c223d16c22b630800000000000000
+      internalID: 3941261422568326681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_59
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49d6114b89fab520800000000000000
+      internalID: 2718759701559302476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_60
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429ba1f2568083310800000000000000
+      internalID: 1384866116091427108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53_Forward throw_61
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e80292b1a229710800000000000000
+      internalID: 1698466305614581375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Diana_53_Forward throw_0: 2845164110731947212
+      Diana_53_Forward throw_1: -2169547046773581298
+      Diana_53_Forward throw_10: 7240864669527734194
+      Diana_53_Forward throw_11: 5700752141004729114
+      Diana_53_Forward throw_12: 6649155261522956314
+      Diana_53_Forward throw_13: 5262126000459100344
+      Diana_53_Forward throw_14: -6966758349300506708
+      Diana_53_Forward throw_15: -1075804165028349462
+      Diana_53_Forward throw_16: 7182206654383285081
+      Diana_53_Forward throw_17: -4691138712825228078
+      Diana_53_Forward throw_18: -2651868887349628836
+      Diana_53_Forward throw_19: 8530720597318861129
+      Diana_53_Forward throw_2: 354596960953734361
+      Diana_53_Forward throw_20: 6772758271968426608
+      Diana_53_Forward throw_21: -1385605235844510083
+      Diana_53_Forward throw_22: 2135010952805765331
+      Diana_53_Forward throw_23: -1972919463797064453
+      Diana_53_Forward throw_24: 3221882580894703598
+      Diana_53_Forward throw_25: -81444909060468580
+      Diana_53_Forward throw_26: 3354380929506535411
+      Diana_53_Forward throw_27: 4300555977048469931
+      Diana_53_Forward throw_28: -6088441235171412696
+      Diana_53_Forward throw_29: -6627199173840578004
+      Diana_53_Forward throw_3: 3814497454452588196
+      Diana_53_Forward throw_30: 4484209568582579983
+      Diana_53_Forward throw_31: 8337304459027407535
+      Diana_53_Forward throw_32: -4894162069545643557
+      Diana_53_Forward throw_33: -7141889043853468495
+      Diana_53_Forward throw_34: -6137854160261656613
+      Diana_53_Forward throw_35: -5606634514442749071
+      Diana_53_Forward throw_36: 6193369798417793785
+      Diana_53_Forward throw_37: -2047064257925513455
+      Diana_53_Forward throw_38: 1179522510189151743
+      Diana_53_Forward throw_39: 7945220301566680800
+      Diana_53_Forward throw_4: -3432959860705016893
+      Diana_53_Forward throw_40: 8062101895767687888
+      Diana_53_Forward throw_41: -1407215785944544739
+      Diana_53_Forward throw_42: -4968380817763481760
+      Diana_53_Forward throw_43: 735932451068869298
+      Diana_53_Forward throw_44: 8651584852950741492
+      Diana_53_Forward throw_45: -2799598097802732898
+      Diana_53_Forward throw_46: 1668042286510378648
+      Diana_53_Forward throw_47: 3977995498828533331
+      Diana_53_Forward throw_48: -5249532530049666880
+      Diana_53_Forward throw_49: -4621131363212988933
+      Diana_53_Forward throw_5: -4827403666240631289
+      Diana_53_Forward throw_50: 3368928192283822809
+      Diana_53_Forward throw_51: 5551974693166031429
+      Diana_53_Forward throw_52: -6081699110290872408
+      Diana_53_Forward throw_53: 5485075103335955028
+      Diana_53_Forward throw_54: -596561066890192840
+      Diana_53_Forward throw_55: -6374096955051264939
+      Diana_53_Forward throw_56: 8156777664082911382
+      Diana_53_Forward throw_57: 8965129700426359454
+      Diana_53_Forward throw_58: 3941261422568326681
+      Diana_53_Forward throw_59: 2718759701559302476
+      Diana_53_Forward throw_6: 7346412926053191586
+      Diana_53_Forward throw_60: 1384866116091427108
+      Diana_53_Forward throw_61: 1698466305614581375
+      Diana_53_Forward throw_7: -1491588349641170270
+      Diana_53_Forward throw_8: 6732947285144486507
+      Diana_53_Forward throw_9: -6396930551811155046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
