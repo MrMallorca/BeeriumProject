@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 2ebc4024ff30d364c91c1a204877137a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4433091318098928248
+    second: strongAttackDiana_0
+  - first:
+      213: 5633695797820523673
+    second: strongAttackDiana_1
+  - first:
+      213: -2336110651570557298
+    second: strongAttackDiana_2
+  - first:
+      213: -7338154023283729108
+    second: strongAttackDiana_3
+  - first:
+      213: -2380475664332543811
+    second: strongAttackDiana_4
+  - first:
+      213: -3331782306410122578
+    second: strongAttackDiana_5
+  - first:
+      213: 1342348513660752605
+    second: strongAttackDiana_6
+  - first:
+      213: -5116119326102418125
+    second: strongAttackDiana_7
+  - first:
+      213: -752685520421721053
+    second: strongAttackDiana_8
+  - first:
+      213: 1371935166412238745
+    second: strongAttackDiana_9
+  - first:
+      213: 3504821423029027484
+    second: strongAttackDiana_10
+  - first:
+      213: -6968305343956372924
+    second: strongAttackDiana_11
+  - first:
+      213: -5478844949189772878
+    second: strongAttackDiana_12
+  - first:
+      213: 5707200064535764584
+    second: strongAttackDiana_13
+  - first:
+      213: -3981338048880086619
+    second: strongAttackDiana_14
+  - first:
+      213: 5187977304824875146
+    second: strongAttackDiana_15
+  - first:
+      213: 6506466968197522457
+    second: strongAttackDiana_16
+  - first:
+      213: 3730796833147154201
+    second: strongAttackDiana_17
+  - first:
+      213: 3281158527235479957
+    second: strongAttackDiana_18
+  - first:
+      213: -1478362995180766448
+    second: strongAttackDiana_19
+  - first:
+      213: -6712110448960106649
+    second: strongAttackDiana_20
+  - first:
+      213: -1535584267976407098
+    second: strongAttackDiana_21
+  - first:
+      213: 997092226089317230
+    second: strongAttackDiana_22
+  - first:
+      213: -9077301901599852467
+    second: strongAttackDiana_23
+  - first:
+      213: -926379781923964800
+    second: strongAttackDiana_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: strongAttackDiana_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1918
+        width: 38
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872a728f011858d30800000000000000
+      internalID: 4433091318098928248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1916
+        width: 41
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99404b1ca78ee2e40800000000000000
+      internalID: 5633695797820523673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1915
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e61295db7749fd0800000000000000
+      internalID: -2336110651570557298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_3
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1914
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dd1178bc3a92a90800000000000000
+      internalID: -7338154023283729108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_4
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1914
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db82ffedef9d6fed0800000000000000
+      internalID: -2380475664332543811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_5
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1915
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea23e7515a123c1d0800000000000000
+      internalID: -3331782306410122578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_6
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1917
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2d5817cdaf0a210800000000000000
+      internalID: 1342348513660752605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_7
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1916
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d872b4494eff8b0800000000000000
+      internalID: -5116119326102418125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1660
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ceeafc18ced85f0800000000000000
+      internalID: -752685520421721053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1660
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f2ed8d3c71a0310800000000000000
+      internalID: 1371935166412238745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1660
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9203d0d380a3a030800000000000000
+      internalID: 3504821423029027484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_11
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1660
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4423607953b9b4f90800000000000000
+      internalID: -6968305343956372924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_12
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1661
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b9100c8b37f3b0800000000000000
+      internalID: -5478844949189772878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_13
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1661
+        width: 22
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e9dbc783c043f40800000000000000
+      internalID: 5707200064535764584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_14
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1662
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a171c973227fb8c0800000000000000
+      internalID: -3981338048880086619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_15
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1662
+        width: 51
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8800e42fd56ff740800000000000000
+      internalID: 5187977304824875146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1406
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914e93e1c3d9b4a50800000000000000
+      internalID: 6506466968197522457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1406
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f63e004f376c330800000000000000
+      internalID: 3730796833147154201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_18
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1405
+        width: 25
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5995d93db44098d20800000000000000
+      internalID: 3281158527235479957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_19
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1405
+        width: 22
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bfa2740bccb7be0800000000000000
+      internalID: -1478362995180766448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_20
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1405
+        width: 26
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f8b84eb1bc9d2a0800000000000000
+      internalID: -6712110448960106649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_21
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1405
+        width: 30
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c786908e3280bae0800000000000000
+      internalID: -1535584267976407098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_22
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1406
+        width: 35
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e637b58c81266dd00800000000000000
+      internalID: 997092226089317230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1406
+        width: 38
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48b92c9302f60280800000000000000
+      internalID: -9077301901599852467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongAttackDiana_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1150
+        width: 38
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088715b1f76d423f0800000000000000
+      internalID: -926379781923964800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

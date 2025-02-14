@@ -13,7 +13,6 @@ public class Diana : MonoBehaviour
     public float jumpForce = 5f;
     private bool isGrounded = true;
 
-
     Rigidbody characterRb;
 
 
@@ -22,6 +21,7 @@ public class Diana : MonoBehaviour
     [SerializeField] InputActionReference jump;
     [SerializeField] InputActionReference move;
     [SerializeField] InputActionReference normalAttack;
+    [SerializeField] InputActionReference strongAttack;
     [SerializeField] InputActionReference crouch;
 
 
@@ -33,8 +33,13 @@ public class Diana : MonoBehaviour
     [SerializeField] Transform enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
-    public bool canAttack;
-    public int nroAttack;
+    [Header("Attacks Parameters")]
+
+    private bool canAttack;
+    private int nroAttack;
+
+    float timer;
+    bool timerOn;
     private void OnEnable()
     {
         move.action.Enable();
@@ -42,6 +47,8 @@ public class Diana : MonoBehaviour
         jump.action.Enable();
 
         normalAttack.action.Enable();
+
+        strongAttack.action.Enable();
 
         crouch.action.Enable();
 
@@ -53,6 +60,9 @@ public class Diana : MonoBehaviour
 
         normalAttack.action.performed += OnNormalAttack;
         normalAttack.action.canceled += OnNormalAttack;
+
+        strongAttack.action.performed += OnStrongAttack;
+        strongAttack.action.canceled += OnStrongAttack;
 
         move.action.performed += OnMove;
         move.action.started += OnMove;
@@ -68,6 +78,8 @@ public class Diana : MonoBehaviour
         
         canAttack = true;
         nroAttack = 0;
+
+        timer = 0;
     }
 
     private void Update()
@@ -90,12 +102,13 @@ public class Diana : MonoBehaviour
             canAttack = true;
         }
 
+        Timer();
+
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        Debug.Log(canAttack);
         UpdateMovementOnPlane();
     }
 
@@ -155,6 +168,38 @@ public class Diana : MonoBehaviour
         }
     }
 
+    void OnStrongAttack(InputAction.CallbackContext ctx)
+    {
+        if(ctx.started && isGrounded)
+        {
+            timerOn = true;
+        }
+        if (ctx.canceled)
+        {
+
+            if (timer < 2)
+            {
+                anim.SetTrigger("strongAttack");
+            }
+            else
+            {
+                anim.SetTrigger("strongAttack");
+            }
+            timerOn = false;
+        }
+    }
+
+    void Timer()
+    {
+        if (timerOn)
+        {
+            timer += Time.deltaTime;
+        }
+        else
+        {
+            timer = 0;
+        }
+    }
     private void OnCrouch(InputAction.CallbackContext ctx)
     {
 
