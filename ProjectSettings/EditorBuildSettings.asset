@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ScenarioExample.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Menu/Scenes/MapSelector.unity
+    guid: d3d37e3f4f1f22043953c74b36ae3c19
+  - enabled: 0
     path: Assets/Scenes/MapSelector.unity
     guid: e525bda9b62d6f84698b6b7ddedef4e0
   - enabled: 0
