@@ -20,11 +20,10 @@ public class Diana : MonoBehaviour
 
     [SerializeField] InputActionReference jump;
     [SerializeField] InputActionReference move;
+    [SerializeField] InputActionReference crouch;
     [SerializeField] InputActionReference normalAttack;
     [SerializeField] InputActionReference strongAttack;
-    [SerializeField] InputActionReference crouch;
-
-
+    [SerializeField] InputActionReference downStrongAttack;
 
     [Header("Animation Settings")]
 
@@ -33,13 +32,18 @@ public class Diana : MonoBehaviour
     [SerializeField] Transform enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
+    int CurrentComboPriorty = 0;
+
+
     [Header("Attacks Parameters")]
 
     private bool canAttack;
     private int nroAttack;
 
-    float timer;
-    bool timerOn;
+    private bool key1Pressed = false;
+    private bool key2Pressed = false;
+
+
     private void OnEnable()
     {
         move.action.Enable();
@@ -49,6 +53,8 @@ public class Diana : MonoBehaviour
         normalAttack.action.Enable();
 
         strongAttack.action.Enable();
+
+        downStrongAttack.action.Enable();
 
         crouch.action.Enable();
 
@@ -63,6 +69,9 @@ public class Diana : MonoBehaviour
 
         strongAttack.action.performed += OnStrongAttack;
         strongAttack.action.canceled += OnStrongAttack;
+
+        downStrongAttack.action.performed += OnDownStrongAttack;
+        downStrongAttack.action.canceled += OnDownStrongAttack;
 
         move.action.performed += OnMove;
         move.action.started += OnMove;
@@ -79,7 +88,6 @@ public class Diana : MonoBehaviour
         canAttack = true;
         nroAttack = 0;
 
-        timer = 0;
     }
 
     private void Update()
@@ -102,7 +110,6 @@ public class Diana : MonoBehaviour
             canAttack = true;
         }
 
-        Timer();
 
     }
 
@@ -170,36 +177,28 @@ public class Diana : MonoBehaviour
 
     void OnStrongAttack(InputAction.CallbackContext ctx)
     {
-        if(ctx.started && isGrounded)
+
+        if (ctx.performed && isGrounded)
         {
-            timerOn = true;
+            anim.SetBool("strongAttackCharge", true);
         }
         if (ctx.canceled)
         {
+            anim.SetBool("strongAttackCharge", false);
 
-            if (timer < 2)
-            {
-                anim.SetTrigger("strongAttack");
-            }
-            else
-            {
-                anim.SetTrigger("strongAttack");
-            }
-            timerOn = false;
+          
+            anim.SetTrigger("strongAttack");
+         
         }
     }
-
-    void Timer()
+    void OnDownStrongAttack(InputAction.CallbackContext ctx)
     {
-        if (timerOn)
+        if (ctx.control.IsPressed() && isGrounded)
         {
-            timer += Time.deltaTime;
-        }
-        else
-        {
-            timer = 0;
+            anim.SetTrigger("strongAttackDown");
         }
     }
+
     private void OnCrouch(InputAction.CallbackContext ctx)
     {
 
@@ -227,6 +226,8 @@ public class Diana : MonoBehaviour
         }
     }
 
+
+
     public void VerificaCombo()
     {
        
@@ -249,6 +250,8 @@ public class Diana : MonoBehaviour
         canAttack = true;
     }
 
+   
+
     private void OnDisable()
     {
         jump.action.Disable();
@@ -258,8 +261,13 @@ public class Diana : MonoBehaviour
 
         normalAttack.action.Disable();
 
+        downStrongAttack.action.Disable();
+
         normalAttack.action.performed -= OnNormalAttack;
         normalAttack.action.canceled -= OnNormalAttack;
+
+        downStrongAttack.action.performed -= OnNormalAttack;
+        downStrongAttack.action.canceled -= OnNormalAttack;
 
         crouch.action.performed -= OnCrouch;
         crouch.action.canceled -= OnCrouch;

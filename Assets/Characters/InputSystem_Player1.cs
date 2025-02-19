@@ -73,12 +73,12 @@ public partial class @InputSystem_Player1: IInputActionCollection2, IDisposable
                     ""initialStateCheck"": false
                 },
                 {
-                    ""name"": ""Interact"",
+                    ""name"": ""StrongDownAttack"",
                     ""type"": ""Button"",
                     ""id"": ""852140f2-7766-474d-8707-702459ba45f3"",
                     ""expectedControlType"": """",
                     ""processors"": """",
-                    ""interactions"": ""Hold"",
+                    ""interactions"": """",
                     ""initialStateCheck"": false
                 },
                 {
@@ -397,22 +397,22 @@ public partial class @InputSystem_Player1: IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""1c04ea5f-b012-41d1-a6f7-02e963b52893"",
-                    ""path"": ""<Keyboard>/e"",
+                    ""path"": ""<Keyboard>/j"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard&Mouse"",
-                    ""action"": ""Interact"",
+                    ""action"": ""StrongDownAttack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
                 {
                     ""name"": """",
                     ""id"": ""b3f66d0b-7751-423f-908b-a11c5bd95930"",
-                    ""path"": ""<Gamepad>/buttonNorth"",
+                    ""path"": ""<Keyboard>/s"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": ""Gamepad"",
-                    ""action"": ""Interact"",
+                    ""groups"": ""Keyboard&Mouse"",
+                    ""action"": ""StrongDownAttack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
@@ -1038,7 +1038,7 @@ public partial class @InputSystem_Player1: IInputActionCollection2, IDisposable
         m_Player_Jump = m_Player.FindAction("Jump", throwIfNotFound: true);
         m_Player_NormalAttack = m_Player.FindAction("NormalAttack", throwIfNotFound: true);
         m_Player_StrongAttack = m_Player.FindAction("StrongAttack", throwIfNotFound: true);
-        m_Player_Interact = m_Player.FindAction("Interact", throwIfNotFound: true);
+        m_Player_StrongDownAttack = m_Player.FindAction("StrongDownAttack", throwIfNotFound: true);
         m_Player_Crouch = m_Player.FindAction("Crouch", throwIfNotFound: true);
         m_Player_Previous = m_Player.FindAction("Previous", throwIfNotFound: true);
         m_Player_Next = m_Player.FindAction("Next", throwIfNotFound: true);
@@ -1127,7 +1127,7 @@ public partial class @InputSystem_Player1: IInputActionCollection2, IDisposable
     private readonly InputAction m_Player_Jump;
     private readonly InputAction m_Player_NormalAttack;
     private readonly InputAction m_Player_StrongAttack;
-    private readonly InputAction m_Player_Interact;
+    private readonly InputAction m_Player_StrongDownAttack;
     private readonly InputAction m_Player_Crouch;
     private readonly InputAction m_Player_Previous;
     private readonly InputAction m_Player_Next;
@@ -1141,7 +1141,7 @@ public partial class @InputSystem_Player1: IInputActionCollection2, IDisposable
         public InputAction @Jump => m_Wrapper.m_Player_Jump;
         public InputAction @NormalAttack => m_Wrapper.m_Player_NormalAttack;
         public InputAction @StrongAttack => m_Wrapper.m_Player_StrongAttack;
-        public InputAction @Interact => m_Wrapper.m_Player_Interact;
+        public InputAction @StrongDownAttack => m_Wrapper.m_Player_StrongDownAttack;
         public InputAction @Crouch => m_Wrapper.m_Player_Crouch;
         public InputAction @Previous => m_Wrapper.m_Player_Previous;
         public InputAction @Next => m_Wrapper.m_Player_Next;
@@ -1170,9 +1170,9 @@ public partial class @InputSystem_Player1: IInputActionCollection2, IDisposable
             @StrongAttack.started += instance.OnStrongAttack;
             @StrongAttack.performed += instance.OnStrongAttack;
             @StrongAttack.canceled += instance.OnStrongAttack;
-            @Interact.started += instance.OnInteract;
-            @Interact.performed += instance.OnInteract;
-            @Interact.canceled += instance.OnInteract;
+            @StrongDownAttack.started += instance.OnStrongDownAttack;
+            @StrongDownAttack.performed += instance.OnStrongDownAttack;
+            @StrongDownAttack.canceled += instance.OnStrongDownAttack;
             @Crouch.started += instance.OnCrouch;
             @Crouch.performed += instance.OnCrouch;
             @Crouch.canceled += instance.OnCrouch;
@@ -1204,9 +1204,9 @@ public partial class @InputSystem_Player1: IInputActionCollection2, IDisposable
             @StrongAttack.started -= instance.OnStrongAttack;
             @StrongAttack.performed -= instance.OnStrongAttack;
             @StrongAttack.canceled -= instance.OnStrongAttack;
-            @Interact.started -= instance.OnInteract;
-            @Interact.performed -= instance.OnInteract;
-            @Interact.canceled -= instance.OnInteract;
+            @StrongDownAttack.started -= instance.OnStrongDownAttack;
+            @StrongDownAttack.performed -= instance.OnStrongDownAttack;
+            @StrongDownAttack.canceled -= instance.OnStrongDownAttack;
             @Crouch.started -= instance.OnCrouch;
             @Crouch.performed -= instance.OnCrouch;
             @Crouch.canceled -= instance.OnCrouch;
@@ -1406,7 +1406,7 @@ public partial class @InputSystem_Player1: IInputActionCollection2, IDisposable
         void OnJump(InputAction.CallbackContext context);
         void OnNormalAttack(InputAction.CallbackContext context);
         void OnStrongAttack(InputAction.CallbackContext context);
-        void OnInteract(InputAction.CallbackContext context);
+        void OnStrongDownAttack(InputAction.CallbackContext context);
         void OnCrouch(InputAction.CallbackContext context);
         void OnPrevious(InputAction.CallbackContext context);
         void OnNext(InputAction.CallbackContext context);
