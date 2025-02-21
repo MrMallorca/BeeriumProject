@@ -1,88 +1,85 @@
 fileFormatVersion: 2
-guid: 5d97538b04ecd064b85431d3291418cd
+guid: 8f792200bf9212b418be46451ea8be47
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8296385383580801948
-    second: walk_0
+      213: -3822004229189868765
+    second: Down-Air_0
   - first:
-      213: 3218353051568008401
-    second: walk_1
+      213: -7292900842255033040
+    second: Down-Air_1
   - first:
-      213: 6971375644381031630
-    second: walk_2
+      213: -5529980180220841018
+    second: Down-Air_2
   - first:
-      213: -3714987382563562326
-    second: walk_3
+      213: 9002596269945874428
+    second: Down-Air_3
   - first:
-      213: -2044624726750869082
-    second: walk_4
+      213: -6125474728477788770
+    second: Down-Air_4
   - first:
-      213: -1800561202758830752
-    second: walk_5
+      213: 5977752087649309296
+    second: Down-Air_5
   - first:
-      213: -7072565547094396234
-    second: walk_6
+      213: 3520753632750955981
+    second: Down-Air_6
   - first:
-      213: -6780060589664581786
-    second: walk_7
+      213: -1485465809748030078
+    second: Down-Air_7
   - first:
-      213: 2251703588619409307
-    second: walk_8
+      213: -2937798008984896387
+    second: Down-Air_8
   - first:
-      213: -5224373444711448209
-    second: walk_9
+      213: 853168863773589651
+    second: Down-Air_9
   - first:
-      213: 8428286525173097495
-    second: walk_10
+      213: 8440053124122105895
+    second: Down-Air_10
   - first:
-      213: -2787140197056013511
-    second: walk_11
+      213: 1143898531964212534
+    second: Down-Air_11
   - first:
-      213: -8260419473583676578
-    second: walk_12
+      213: 3206730647923610788
+    second: Down-Air_12
   - first:
-      213: 6000581766031926614
-    second: walk_13
+      213: 1480259483635346793
+    second: Down-Air_13
   - first:
-      213: -6959915571989194883
-    second: walk_14
+      213: 2543225915602082938
+    second: Down-Air_14
   - first:
-      213: 960921020097805623
-    second: walk_15
+      213: 8694726919606286099
+    second: Down-Air_15
   - first:
-      213: -3336701548478254045
-    second: walk_16
+      213: 6729878715720784867
+    second: Down-Air_16
   - first:
-      213: -5400053455435091454
-    second: walk_17
+      213: -272950738526664892
+    second: Down-Air_17
   - first:
-      213: 4408406346810168619
-    second: walk_18
+      213: -357348259347574693
+    second: Down-Air_18
   - first:
-      213: -485737157877676475
-    second: walk_19
+      213: -616088998546677785
+    second: Down-Air_19
   - first:
-      213: -5106187503225981072
-    second: walk_20
+      213: -6428339268888695634
+    second: Down-Air_20
   - first:
-      213: 4312765686203540801
-    second: walk_21
+      213: 6814100335114441628
+    second: Down-Air_21
   - first:
-      213: 5251978615751408329
-    second: walk_22
+      213: -8627297400289481942
+    second: Down-Air_22
   - first:
-      213: 2965599932687856292
-    second: walk_23
+      213: 6197202146089697229
+    second: Down-Air_23
   - first:
-      213: 2365076705713957727
-    second: walk_24
+      213: 2255171596697084476
+    second: Down-Air_24
   - first:
-      213: 6256131582671704638
-    second: walk_25
-  - first:
-      213: 7208522903439339441
-    second: walk_26
+      213: -1109937797654056600
+    second: Down-Air_25
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -162,59 +159,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Win64
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: VisionOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -230,13 +175,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walk_0
+      name: Down-Air_0
       rect:
         serializedVersion: 2
-        x: 92
-        y: 1917
-        width: 59
-        height: 92
+        x: 112
+        y: 1924
+        width: 63
+        height: 113
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,19 +190,63 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4646ce323715ddc80800000000000000
-      internalID: -8296385383580801948
+      spriteID: 323e815476385fac0800000000000000
+      internalID: -3822004229189868765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_1
+      name: Down-Air_1
       rect:
         serializedVersion: 2
-        x: 349
-        y: 1917
-        width: 57
+        x: 372
+        y: 1926
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ddd3bc2596aca90800000000000000
+      internalID: -7292900842255033040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1930
+        width: 65
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c37cfe33509143b0800000000000000
+      internalID: -5529980180220841018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1905
+        width: 103
         height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -267,20 +256,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1dc61808c03e9ac20800000000000000
-      internalID: 3218353051568008401
+      spriteID: cf761661c95afec70800000000000000
+      internalID: 9002596269945874428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_2
+      name: Down-Air_4
       rect:
         serializedVersion: 2
-        x: 606
-        y: 1917
-        width: 56
-        height: 93
+        x: 1147
+        y: 1839
+        width: 42
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +278,328 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ecc242f663d4fb060800000000000000
-      internalID: 6971375644381031630
+      spriteID: e95f2784031fdfaa0800000000000000
+      internalID: -6125474728477788770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_3
+      name: Down-Air_5
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1843
+        width: 47
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072dfab2add35f250800000000000000
+      internalID: 5977752087649309296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_6
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1847
+        width: 55
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd69c576ca3cd030800000000000000
+      internalID: 3520753632750955981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_7
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1851
+        width: 63
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d0bf367b0926be0800000000000000
+      internalID: -1485465809748030078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1599
+        width: 72
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cfa94a648da37d0800000000000000
+      internalID: -2937798008984896387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1603
+        width: 79
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39006a2bf8017db00800000000000000
+      internalID: 853168863773589651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1608
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72859bc5997112570800000000000000
+      internalID: 8440053124122105895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_11
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1612
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63551d877a1ffdf00800000000000000
+      internalID: 1143898531964212534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_12
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1617
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a458d7c888908c20800000000000000
+      internalID: 3206730647923610788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_13
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1621
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dec795820fa8410800000000000000
+      internalID: 1480259483635346793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_14
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1626
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c9703ee7a5b4320800000000000000
+      internalID: 2543225915602082938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_15
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1630
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b8261110e9a870800000000000000
+      internalID: 8694726919606286099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1378
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebdff71905556d50800000000000000
+      internalID: 6729878715720784867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1382
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44700fcdfb8463cf0800000000000000
+      internalID: -272950738526664892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1386
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50db74c6a17a0bf0800000000000000
+      internalID: -357348259347574693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down-Air_19
       rect:
         serializedVersion: 2
         x: 864
-        y: 1917
-        width: 54
-        height: 93
+        y: 1391
+        width: 96
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +608,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aac9d3d88a6b17cc0800000000000000
-      internalID: -3714987382563562326
+      spriteID: 7ef599be1563377f0800000000000000
+      internalID: -616088998546677785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_4
+      name: Down-Air_20
       rect:
         serializedVersion: 2
-        x: 1121
-        y: 1917
-        width: 54
-        height: 93
+        x: 1122
+        y: 1395
+        width: 92
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,20 +630,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6a9c807d4a800a3e0800000000000000
-      internalID: -2044624726750869082
+      spriteID: eace1366e73f9c6a0800000000000000
+      internalID: -6428339268888695634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_5
+      name: Down-Air_21
       rect:
         serializedVersion: 2
-        x: 1378
-        y: 1917
-        width: 53
-        height: 93
+        x: 1382
+        y: 1399
+        width: 85
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,196 +652,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 065b539302f1307e0800000000000000
-      internalID: -1800561202758830752
+      spriteID: c93dd52f62c809e50800000000000000
+      internalID: 6814100335114441628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_6
-      rect:
-        serializedVersion: 2
-        x: 1637
-        y: 1917
-        width: 51
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b2b5c26b1339dd90800000000000000
-      internalID: -7072565547094396234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_7
-      rect:
-        serializedVersion: 2
-        x: 1894
-        y: 1917
-        width: 51
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 667ca65e0d268e1a0800000000000000
-      internalID: -6780060589664581786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_8
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 1661
-        width: 51
-        height: 95
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b97d12bdb78af3f10800000000000000
-      internalID: 2251703588619409307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_9
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 1661
-        width: 51
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f618dfd280c4f77b0800000000000000
-      internalID: -5224373444711448209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_10
-      rect:
-        serializedVersion: 2
-        x: 615
-        y: 1661
-        width: 51
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 714672e80f947f470800000000000000
-      internalID: 8428286525173097495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_11
-      rect:
-        serializedVersion: 2
-        x: 871
-        y: 1662
-        width: 50
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93b9347f1c61259d0800000000000000
-      internalID: -2787140197056013511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_12
-      rect:
-        serializedVersion: 2
-        x: 1128
-        y: 1662
-        width: 48
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e53635d11481d5d80800000000000000
-      internalID: -8260419473583676578
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_13
-      rect:
-        serializedVersion: 2
-        x: 1384
-        y: 1663
-        width: 48
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 655e402e259564350800000000000000
-      internalID: 6000581766031926614
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_14
+      name: Down-Air_22
       rect:
         serializedVersion: 2
         x: 1641
-        y: 1663
-        width: 47
-        height: 97
+        y: 1403
+        width: 79
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,20 +674,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d77dfd899a9696f90800000000000000
-      internalID: -6959915571989194883
+      spriteID: a2b281c49bea54880800000000000000
+      internalID: -8627297400289481942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_15
+      name: Down-Air_23
       rect:
         serializedVersion: 2
-        x: 1897
-        y: 1662
-        width: 47
-        height: 98
+        x: 1901
+        y: 1408
+        width: 71
+        height: 113
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,20 +696,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73db22c9390e55d00800000000000000
-      internalID: 960921020097805623
+      spriteID: dcff6f68482e00650800000000000000
+      internalID: 6197202146089697229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_16
+      name: Down-Air_24
       rect:
         serializedVersion: 2
-        x: 105
-        y: 1406
-        width: 47
-        height: 97
+        x: 112
+        y: 1156
+        width: 63
+        height: 113
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -597,20 +718,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3243579ce97a1b1d0800000000000000
-      internalID: -3336701548478254045
+      spriteID: c322ea86e9afb4f10800000000000000
+      internalID: 2255171596697084476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_17
+      name: Down-Air_25
       rect:
         serializedVersion: 2
-        x: 360
-        y: 1406
-        width: 48
-        height: 96
+        x: 368
+        y: 1156
+        width: 63
+        height: 113
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -619,206 +740,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 202bba43ef72f05b0800000000000000
-      internalID: -5400053455435091454
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_18
-      rect:
-        serializedVersion: 2
-        x: 616
-        y: 1405
-        width: 48
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b259237373ecd2d30800000000000000
-      internalID: 4408406346810168619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_19
-      rect:
-        serializedVersion: 2
-        x: 872
-        y: 1405
-        width: 48
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5464e72e0a05249f0800000000000000
-      internalID: -485737157877676475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_20
-      rect:
-        serializedVersion: 2
-        x: 1128
-        y: 1406
-        width: 48
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0773da1058d2329b0800000000000000
-      internalID: -5106187503225981072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_21
-      rect:
-        serializedVersion: 2
-        x: 1384
-        y: 1405
-        width: 47
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 145e7a5aa850adb30800000000000000
-      internalID: 4312765686203540801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_22
-      rect:
-        serializedVersion: 2
-        x: 1640
-        y: 1405
-        width: 47
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ca7fcf89b6c2e840800000000000000
-      internalID: 5251978615751408329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_23
-      rect:
-        serializedVersion: 2
-        x: 1894
-        y: 1405
-        width: 49
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a238c52d6de72920800000000000000
-      internalID: 2965599932687856292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_24
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 1149
-        width: 51
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5ba1aeabb072d020800000000000000
-      internalID: 2365076705713957727
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_25
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 1149
-        width: 55
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e32df3d278e32d650800000000000000
-      internalID: 6256131582671704638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk_26
-      rect:
-        serializedVersion: 2
-        x: 604
-        y: 1149
-        width: 59
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1bfe4c66361d90460800000000000000
-      internalID: 7208522903439339441
+      spriteID: 861fc082475b890f0800000000000000
+      internalID: -1109937797654056600
       vertices: []
       indices: 
       edges: []
@@ -836,34 +759,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      walk_0: -8296385383580801948
-      walk_1: 3218353051568008401
-      walk_10: 8428286525173097495
-      walk_11: -2787140197056013511
-      walk_12: -8260419473583676578
-      walk_13: 6000581766031926614
-      walk_14: -6959915571989194883
-      walk_15: 960921020097805623
-      walk_16: -3336701548478254045
-      walk_17: -5400053455435091454
-      walk_18: 4408406346810168619
-      walk_19: -485737157877676475
-      walk_2: 6971375644381031630
-      walk_20: -5106187503225981072
-      walk_21: 4312765686203540801
-      walk_22: 5251978615751408329
-      walk_23: 2965599932687856292
-      walk_24: 2365076705713957727
-      walk_25: 6256131582671704638
-      walk_26: 7208522903439339441
-      walk_3: -3714987382563562326
-      walk_4: -2044624726750869082
-      walk_5: -1800561202758830752
-      walk_6: -7072565547094396234
-      walk_7: -6780060589664581786
-      walk_8: 2251703588619409307
-      walk_9: -5224373444711448209
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

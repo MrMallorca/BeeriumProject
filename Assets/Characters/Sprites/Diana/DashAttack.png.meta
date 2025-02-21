@@ -1,52 +1,67 @@
 fileFormatVersion: 2
-guid: effd7a16f7821cf4fae8b35db0450602
+guid: bf3ea83d5843afd41a33a8033bd59042
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7383136375247338831
-    second: Diana_10_Up A_0
+      213: -6462140436133021798
+    second: DashAttack_0
   - first:
-      213: 256732254846858198
-    second: Diana_10_Up A_1
+      213: 1043503967549607397
+    second: DashAttack_1
   - first:
-      213: -5188750747568920007
-    second: Diana_10_Up A_2
+      213: 802151354005998459
+    second: DashAttack_2
   - first:
-      213: 7354229409419206856
-    second: Diana_10_Up A_3
+      213: -7656146180648158634
+    second: DashAttack_3
   - first:
-      213: 4911244492063318629
-    second: Diana_10_Up A_4
+      213: -6973632128980519892
+    second: DashAttack_4
   - first:
-      213: 7477142236518411023
-    second: Diana_10_Up A_5
+      213: 7315423282426087230
+    second: DashAttack_5
   - first:
-      213: 1684338029685411578
-    second: Diana_10_Up A_6
+      213: 8955749491123090644
+    second: DashAttack_6
   - first:
-      213: -6210394877976641081
-    second: Diana_10_Up A_7
+      213: -1455298485320218286
+    second: DashAttack_7
   - first:
-      213: -6227386040343786012
-    second: Diana_10_Up A_8
+      213: -3602125542439043598
+    second: DashAttack_8
   - first:
-      213: 511232313206972490
-    second: Diana_10_Up A_9
+      213: -8425929945347164670
+    second: DashAttack_9
   - first:
-      213: 8960688949498003707
-    second: Diana_10_Up A_10
+      213: 6593633146450839934
+    second: DashAttack_10
   - first:
-      213: 6719334256814654302
-    second: Diana_10_Up A_11
+      213: -2009203121867977507
+    second: DashAttack_11
   - first:
-      213: 5417503216938249173
-    second: Diana_10_Up A_12
+      213: 6419055684146574487
+    second: DashAttack_12
   - first:
-      213: 8428233130821711795
-    second: Diana_10_Up A_13
+      213: 6207672560150022758
+    second: DashAttack_13
   - first:
-      213: 3125785432304168225
-    second: Diana_10_Up A_14
+      213: 6666212609016705536
+    second: DashAttack_14
+  - first:
+      213: -651794538559264493
+    second: DashAttack_15
+  - first:
+      213: 640581815625546181
+    second: DashAttack_16
+  - first:
+      213: -8224345694635645690
+    second: DashAttack_17
+  - first:
+      213: 9040375922797735506
+    second: DashAttack_18
+  - first:
+      213: -2588800025480080088
+    second: DashAttack_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,7 +157,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Diana_10_Up A_0
+      name: DashAttack_0
       rect:
         serializedVersion: 2
         x: 116
@@ -157,19 +172,195 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4df1ee6a6b267660800000000000000
-      internalID: 7383136375247338831
+      spriteID: a977a9fd28dd156a0800000000000000
+      internalID: -6462140436133021798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_1
+      name: DashAttack_1
       rect:
         serializedVersion: 2
-        x: 369
+        x: 361
+        y: 1919
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed418b64554b7e00800000000000000
+      internalID: 1043503967549607397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack_2
+      rect:
+        serializedVersion: 2
+        x: 583
         y: 1917
-        width: 71
+        width: 119
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b40af0860d12b00800000000000000
+      internalID: 802151354005998459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1917
+        width: 117
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ab00adc97efb590800000000000000
+      internalID: -7656146180648158634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1917
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c247dddc68ea83f90800000000000000
+      internalID: -6973632128980519892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1917
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3701a277ba958560800000000000000
+      internalID: 7315423282426087230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1917
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4f6cb66b6394c70800000000000000
+      internalID: 8955749491123090644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1918
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2590354fcbdbdcbe0800000000000000
+      internalID: -1455298485320218286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1662
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd3f8e67eda20ec0800000000000000
+      internalID: -3602125542439043598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1662
+        width: 57
         height: 101
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -179,20 +370,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d3388420a8109300800000000000000
-      internalID: 256732254846858198
+      spriteID: 20671417b55111b80800000000000000
+      internalID: -8425929945347164670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_2
+      name: DashAttack_10
       rect:
         serializedVersion: 2
-        x: 621
-        y: 1917
-        width: 84
-        height: 79
+        x: 614
+        y: 1663
+        width: 48
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,20 +392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 93aac1fafaaddf7b0800000000000000
-      internalID: -5188750747568920007
+      spriteID: e798171896a418b50800000000000000
+      internalID: 6593633146450839934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_3
+      name: DashAttack_11
       rect:
         serializedVersion: 2
-        x: 878
-        y: 1925
-        width: 72
-        height: 65
+        x: 875
+        y: 1663
+        width: 44
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,63 +414,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c0a929fea87f0660800000000000000
-      internalID: 7354229409419206856
+      spriteID: ddc0477e760ed14e0800000000000000
+      internalID: -2009203121867977507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_4
+      name: DashAttack_12
       rect:
         serializedVersion: 2
-        x: 1151
-        y: 1929
-        width: 45
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 562278a38de382440800000000000000
-      internalID: 4911244492063318629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Diana_10_Up A_5
-      rect:
-        serializedVersion: 2
-        x: 1385
-        y: 1922
-        width: 55
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0befbe9f3524c760800000000000000
-      internalID: 7477142236518411023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Diana_10_Up A_6
-      rect:
-        serializedVersion: 2
-        x: 1628
-        y: 1916
-        width: 66
+        x: 1137
+        y: 1663
+        width: 39
         height: 106
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -289,20 +436,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: afe84159388ff5710800000000000000
-      internalID: 1684338029685411578
+      spriteID: 79432079221151950800000000000000
+      internalID: 6419055684146574487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_7
+      name: DashAttack_13
       rect:
         serializedVersion: 2
-        x: 1883
-        y: 1915
-        width: 66
-        height: 107
+        x: 1399
+        y: 1663
+        width: 35
+        height: 108
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +458,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c10c4733ce30d9a0800000000000000
-      internalID: -6210394877976641081
+      spriteID: 66a8ea5cd45162650800000000000000
+      internalID: 6207672560150022758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_8
+      name: DashAttack_14
       rect:
         serializedVersion: 2
-        x: 90
-        y: 1660
-        width: 66
-        height: 105
+        x: 1651
+        y: 1663
+        width: 40
+        height: 109
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,20 +480,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ed0512f361e399a0800000000000000
-      internalID: -6227386040343786012
+      spriteID: 002bbad7c05238c50800000000000000
+      internalID: 6666212609016705536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_9
+      name: DashAttack_15
       rect:
         serializedVersion: 2
-        x: 370
-        y: 1669
-        width: 52
-        height: 72
+        x: 1904
+        y: 1663
+        width: 43
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,20 +502,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a40276a8413481700800000000000000
-      internalID: 511232313206972490
+      spriteID: 319a2ae025c54f6f0800000000000000
+      internalID: -651794538559264493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_10
+      name: DashAttack_16
       rect:
         serializedVersion: 2
-        x: 627
-        y: 1672
-        width: 59
-        height: 55
+        x: 111
+        y: 1406
+        width: 45
+        height: 113
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,20 +524,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf0c891bf13ca5c70800000000000000
-      internalID: 8960688949498003707
+      spriteID: 5c97fe174cdc3e800800000000000000
+      internalID: 640581815625546181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_11
+      name: DashAttack_17
       rect:
         serializedVersion: 2
-        x: 877
-        y: 1661
-        width: 84
-        height: 79
+        x: 368
+        y: 1406
+        width: 47
+        height: 113
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +546,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e530d80f7eedf3d50800000000000000
-      internalID: 6719334256814654302
+      spriteID: 605aa394a214ddd80800000000000000
+      internalID: -8224345694635645690
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_12
+      name: DashAttack_18
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 1661
-        width: 73
-        height: 94
+        x: 625
+        y: 1405
+        width: 48
+        height: 115
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,40 +568,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5dbe32ff876de2b40800000000000000
-      internalID: 5417503216938249173
+      spriteID: 25e6a5af00ed57d70800000000000000
+      internalID: 9040375922797735506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Diana_10_Up A_13
+      name: DashAttack_19
       rect:
         serializedVersion: 2
-        x: 1394
-        y: 1661
-        width: 66
-        height: 107
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b77ec6b06917f470800000000000000
-      internalID: 8428233130821711795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Diana_10_Up A_14
-      rect:
-        serializedVersion: 2
-        x: 1652
-        y: 1661
+        x: 884
+        y: 1405
         width: 45
         height: 115
       alignment: 0
@@ -465,8 +590,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12da4902a45016b20800000000000000
-      internalID: 3125785432304168225
+      spriteID: 825dcb6c71cb21cd0800000000000000
+      internalID: -2588800025480080088
       vertices: []
       indices: 
       edges: []
@@ -484,22 +609,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Diana_10_Up A_0: 7383136375247338831
-      Diana_10_Up A_1: 256732254846858198
-      Diana_10_Up A_10: 8960688949498003707
-      Diana_10_Up A_11: 6719334256814654302
-      Diana_10_Up A_12: 5417503216938249173
-      Diana_10_Up A_13: 8428233130821711795
-      Diana_10_Up A_14: 3125785432304168225
-      Diana_10_Up A_2: -5188750747568920007
-      Diana_10_Up A_3: 7354229409419206856
-      Diana_10_Up A_4: 4911244492063318629
-      Diana_10_Up A_5: 7477142236518411023
-      Diana_10_Up A_6: 1684338029685411578
-      Diana_10_Up A_7: -6210394877976641081
-      Diana_10_Up A_8: -6227386040343786012
-      Diana_10_Up A_9: 511232313206972490
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

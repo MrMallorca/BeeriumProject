@@ -13,7 +13,6 @@ public class Diana : MonoBehaviour
     public float jumpForce = 5f;
     private bool isGrounded = true;
 
-
     Rigidbody characterRb;
 
 
@@ -21,9 +20,9 @@ public class Diana : MonoBehaviour
 
     [SerializeField] InputActionReference jump;
     [SerializeField] InputActionReference move;
+    [SerializeField] InputActionReference crouch;
     [SerializeField] InputActionReference normalAttack;
-
-
+    [SerializeField] InputActionReference strongAttack;
 
     [Header("Animation Settings")]
 
@@ -32,8 +31,16 @@ public class Diana : MonoBehaviour
     [SerializeField] Transform enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
-    public bool canAttack;
-    public int nroAttack;
+
+
+    [Header("Attacks Parameters")]
+
+    private bool canAttack;
+    private int nroAttack;
+
+  
+
+
     private void OnEnable()
     {
         move.action.Enable();
@@ -42,12 +49,22 @@ public class Diana : MonoBehaviour
 
         normalAttack.action.Enable();
 
+        strongAttack.action.Enable();
+
+
+        crouch.action.Enable();
 
         jump.action.performed += OnJump;
         jump.action.canceled += OnJump;
 
-        normalAttack.action.performed += OnAttack;
-        normalAttack.action.canceled += OnAttack;
+        crouch.action.performed += OnCrouch;
+        crouch.action.canceled += OnCrouch;
+
+        normalAttack.action.performed += OnNormalAttack;
+        normalAttack.action.canceled += OnNormalAttack;
+
+        strongAttack.action.performed += OnStrongAttack;
+        strongAttack.action.canceled += OnStrongAttack;
 
         move.action.performed += OnMove;
         move.action.started += OnMove;
@@ -60,8 +77,10 @@ public class Diana : MonoBehaviour
         characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        
         canAttack = true;
         nroAttack = 0;
+
     }
 
     private void Update()
@@ -84,12 +103,12 @@ public class Diana : MonoBehaviour
             canAttack = true;
         }
 
+
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-
         UpdateMovementOnPlane();
     }
 
@@ -135,11 +154,26 @@ public class Diana : MonoBehaviour
             anim.SetTrigger("Jump");
         }
     }
-    void OnAttack(InputAction.CallbackContext ctx)
+    void OnNormalAttack(InputAction.CallbackContext ctx)
     {
         if (ctx.performed && isGrounded)
         {
-            if (canAttack && nroAttack < 3)
+            if (rawMove.z < -0.1f)
+            {
+                anim.SetTrigger("normalAttackDown");
+
+            }
+            else if (rawMove.z > 0.1f)
+            {
+                anim.SetTrigger("normalAttackUp");
+
+            }
+            else if (rawMove.x > 0.1f)
+            {
+                anim.SetTrigger("normalAttackRight");
+
+            }
+            else if(canAttack && nroAttack < 3)
             {
                 nroAttack++;
                 if (nroAttack == 1)
@@ -149,10 +183,66 @@ public class Diana : MonoBehaviour
         }
     }
 
+    void OnStrongAttack(InputAction.CallbackContext ctx)
+    {
+
+        if (ctx.performed && isGrounded)
+        {
+            if(rawMove.z < 0f)
+            {
+                //anim.SetBool("strongAttackDownCharge", true);
+
+            }
+            else
+            {
+                anim.SetBool("strongAttackCharge", true);
+
+            }
+        }
+        if (ctx.canceled)
+        {
+            if (rawMove.z < 0f)
+            {
+                //anim.SetBool("strongAttackDownCharge", false);
+
+                //anim.SetBool("strongAttackCharge", false);
+
+
+                //anim.SetTrigger("strongAttackDown");
+
+            }
+            else
+            {
+                //anim.SetBool("strongAttackDownCharge", false);
+
+                anim.SetBool("strongAttackCharge", false);
+
+
+                anim.SetTrigger("strongAttack");
+            }
+
+         
+        }
+    }
+
+
+    private void OnCrouch(InputAction.CallbackContext ctx)
+    {
+
+        if (isGrounded)
+        {
+            anim.SetBool("crouch", ctx.ReadValue<float>() > 0);
+            canAttackTrue();
+            nroAttack = 0;
+            anim.SetInteger("AttackCount", nroAttack);
+        }
+    }
+
     private void OnMove(InputAction.CallbackContext context)
     {
         Vector2 rawInput = context.ReadValue<Vector2>();
         rawMove = new Vector3(rawInput.x, 0f, rawInput.y);
+        Debug.Log(rawMove); 
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -163,6 +253,8 @@ public class Diana : MonoBehaviour
             anim.SetBool("IsGrounded", true);
         }
     }
+
+
 
     public void VerificaCombo()
     {
@@ -186,6 +278,8 @@ public class Diana : MonoBehaviour
         canAttack = true;
     }
 
+   
+
     private void OnDisable()
     {
         jump.action.Disable();
@@ -195,9 +289,11 @@ public class Diana : MonoBehaviour
 
         normalAttack.action.Disable();
 
-        normalAttack.action.performed -= OnAttack;
-        normalAttack.action.canceled -= OnAttack;
+        normalAttack.action.performed -= OnNormalAttack;
+        normalAttack.action.canceled -= OnNormalAttack;
 
+        crouch.action.performed -= OnCrouch;
+        crouch.action.canceled -= OnCrouch;
 
         move.action.Disable();
 
