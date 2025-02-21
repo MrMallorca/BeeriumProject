@@ -23,7 +23,6 @@ public class Diana : MonoBehaviour
     [SerializeField] InputActionReference crouch;
     [SerializeField] InputActionReference normalAttack;
     [SerializeField] InputActionReference strongAttack;
-    [SerializeField] InputActionReference downStrongAttack;
 
     [Header("Animation Settings")]
 
@@ -32,7 +31,6 @@ public class Diana : MonoBehaviour
     [SerializeField] Transform enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
-    int CurrentComboPriorty = 0;
 
 
     [Header("Attacks Parameters")]
@@ -40,8 +38,7 @@ public class Diana : MonoBehaviour
     private bool canAttack;
     private int nroAttack;
 
-    private bool key1Pressed = false;
-    private bool key2Pressed = false;
+  
 
 
     private void OnEnable()
@@ -54,7 +51,6 @@ public class Diana : MonoBehaviour
 
         strongAttack.action.Enable();
 
-        downStrongAttack.action.Enable();
 
         crouch.action.Enable();
 
@@ -69,9 +65,6 @@ public class Diana : MonoBehaviour
 
         strongAttack.action.performed += OnStrongAttack;
         strongAttack.action.canceled += OnStrongAttack;
-
-        downStrongAttack.action.performed += OnDownStrongAttack;
-        downStrongAttack.action.canceled += OnDownStrongAttack;
 
         move.action.performed += OnMove;
         move.action.started += OnMove;
@@ -165,7 +158,22 @@ public class Diana : MonoBehaviour
     {
         if (ctx.performed && isGrounded)
         {
-            if (canAttack && nroAttack < 3)
+            if (rawMove.z < -0.1f)
+            {
+                anim.SetTrigger("normalAttackDown");
+
+            }
+            else if (rawMove.z > 0.1f)
+            {
+                anim.SetTrigger("normalAttackUp");
+
+            }
+            else if (rawMove.x > 0.1f)
+            {
+                anim.SetTrigger("normalAttackRight");
+
+            }
+            else if(canAttack && nroAttack < 3)
             {
                 nroAttack++;
                 if (nroAttack == 1)
@@ -180,24 +188,43 @@ public class Diana : MonoBehaviour
 
         if (ctx.performed && isGrounded)
         {
-            anim.SetBool("strongAttackCharge", true);
+            if(rawMove.z < 0f)
+            {
+                //anim.SetBool("strongAttackDownCharge", true);
+
+            }
+            else
+            {
+                anim.SetBool("strongAttackCharge", true);
+
+            }
         }
         if (ctx.canceled)
         {
-            anim.SetBool("strongAttackCharge", false);
+            if (rawMove.z < 0f)
+            {
+                //anim.SetBool("strongAttackDownCharge", false);
 
-          
-            anim.SetTrigger("strongAttack");
+                //anim.SetBool("strongAttackCharge", false);
+
+
+                //anim.SetTrigger("strongAttackDown");
+
+            }
+            else
+            {
+                //anim.SetBool("strongAttackDownCharge", false);
+
+                anim.SetBool("strongAttackCharge", false);
+
+
+                anim.SetTrigger("strongAttack");
+            }
+
          
         }
     }
-    void OnDownStrongAttack(InputAction.CallbackContext ctx)
-    {
-        if (ctx.control.IsPressed() && isGrounded)
-        {
-            anim.SetTrigger("strongAttackDown");
-        }
-    }
+
 
     private void OnCrouch(InputAction.CallbackContext ctx)
     {
@@ -215,6 +242,7 @@ public class Diana : MonoBehaviour
     {
         Vector2 rawInput = context.ReadValue<Vector2>();
         rawMove = new Vector3(rawInput.x, 0f, rawInput.y);
+        Debug.Log(rawMove); 
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -261,13 +289,8 @@ public class Diana : MonoBehaviour
 
         normalAttack.action.Disable();
 
-        downStrongAttack.action.Disable();
-
         normalAttack.action.performed -= OnNormalAttack;
         normalAttack.action.canceled -= OnNormalAttack;
-
-        downStrongAttack.action.performed -= OnNormalAttack;
-        downStrongAttack.action.canceled -= OnNormalAttack;
 
         crouch.action.performed -= OnCrouch;
         crouch.action.canceled -= OnCrouch;
