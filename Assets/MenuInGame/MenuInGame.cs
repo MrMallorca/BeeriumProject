@@ -42,12 +42,8 @@ public class MenuInGame : MonoBehaviour
         menuInGame.SetActive(true);
     }
     public void SelectScene(string scene)
-    {
-        
-        SceneManager.LoadScene(scene);
-    }
+    { SceneManager.LoadScene(scene); }
+
     public void Exit()
-    {
-        Application.Quit();
-    }
+    { Application.Quit(); }
 }

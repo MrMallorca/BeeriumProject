@@ -2,6 +2,7 @@ using UnityEngine;
 using Unity.Cinemachine;
 using UnityEngine.UI;
 using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
 
 public class MapSelectorCameraController : MonoBehaviour
 {
@@ -50,4 +51,8 @@ public class MapSelectorCameraController : MonoBehaviour
         Greencamera.enabled = false;
         Startcamera.enabled = false;
     }
+
+    public void SelectScene(string scene)
+    { SceneManager.LoadScene(scene); }
+
 }
