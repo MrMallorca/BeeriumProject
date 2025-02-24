@@ -1,3 +1,4 @@
+using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -14,6 +15,8 @@ public class Diana : MonoBehaviour
     private bool isGrounded = true;
 
     Rigidbody characterRb;
+
+    Vector3 currentPos;
 
 
     [Header("Input Actions")]
@@ -37,8 +40,8 @@ public class Diana : MonoBehaviour
 
     private bool canAttack;
     private int nroAttack;
+    private bool canAirAttack = true;
 
-  
 
 
     private void OnEnable()
@@ -117,12 +120,11 @@ public class Diana : MonoBehaviour
     {
         Vector3 moveDirection = rawMove * speed;
         Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, moveDirection.z); 
+
         characterRb.linearVelocity = velocity;
 
 
-
         characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
-
     }
 
 
@@ -158,6 +160,7 @@ public class Diana : MonoBehaviour
     {
         if (ctx.performed && isGrounded)
         {
+           
             if (rawMove.z < -0.1f)
             {
                 anim.SetTrigger("normalAttackDown");
@@ -178,8 +181,16 @@ public class Diana : MonoBehaviour
                 nroAttack++;
                 if (nroAttack == 1)
                     anim.SetInteger("AttackCount", nroAttack);
+                //
                 canAttack = false;
             }
+        }
+        else if(ctx.performed && !isGrounded && canAirAttack)
+        {
+            anim.SetTrigger("normalAttackAir");
+            canAirAttack = false;
+            StartCoroutine(AirAttackCooldown(0.5f));
+
         }
     }
 
@@ -242,7 +253,7 @@ public class Diana : MonoBehaviour
     {
         Vector2 rawInput = context.ReadValue<Vector2>();
         rawMove = new Vector3(rawInput.x, 0f, rawInput.y);
-        Debug.Log(rawMove); 
+       // Debug.Log(rawMove); 
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -278,7 +289,12 @@ public class Diana : MonoBehaviour
         canAttack = true;
     }
 
-   
+    IEnumerator AirAttackCooldown(float time)
+    {
+        yield return new WaitForSeconds(time);
+        canAirAttack = true;
+    }
+
 
     private void OnDisable()
     {
