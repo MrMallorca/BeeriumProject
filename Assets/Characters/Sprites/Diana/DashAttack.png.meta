@@ -153,6 +153,58 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -609,7 +661,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DashAttack_0: -6462140436133021798
+      DashAttack_1: 1043503967549607397
+      DashAttack_10: 6593633146450839934
+      DashAttack_11: -2009203121867977507
+      DashAttack_12: 6419055684146574487
+      DashAttack_13: 6207672560150022758
+      DashAttack_14: 6666212609016705536
+      DashAttack_15: -651794538559264493
+      DashAttack_16: 640581815625546181
+      DashAttack_17: -8224345694635645690
+      DashAttack_18: 9040375922797735506
+      DashAttack_19: -2588800025480080088
+      DashAttack_2: 802151354005998459
+      DashAttack_3: -7656146180648158634
+      DashAttack_4: -6973632128980519892
+      DashAttack_5: 7315423282426087230
+      DashAttack_6: 8955749491123090644
+      DashAttack_7: -1455298485320218286
+      DashAttack_8: -3602125542439043598
+      DashAttack_9: -8425929945347164670
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

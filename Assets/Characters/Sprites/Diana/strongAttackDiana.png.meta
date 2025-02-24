@@ -168,6 +168,58 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -734,7 +786,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      strongAttackDiana_0: 4433091318098928248
+      strongAttackDiana_1: 5633695797820523673
+      strongAttackDiana_10: 3504821423029027484
+      strongAttackDiana_11: -6968305343956372924
+      strongAttackDiana_12: -5478844949189772878
+      strongAttackDiana_13: 5707200064535764584
+      strongAttackDiana_14: -3981338048880086619
+      strongAttackDiana_15: 5187977304824875146
+      strongAttackDiana_16: 6506466968197522457
+      strongAttackDiana_17: 3730796833147154201
+      strongAttackDiana_18: 3281158527235479957
+      strongAttackDiana_19: -1478362995180766448
+      strongAttackDiana_2: -2336110651570557298
+      strongAttackDiana_20: -6712110448960106649
+      strongAttackDiana_21: -1535584267976407098
+      strongAttackDiana_22: 997092226089317230
+      strongAttackDiana_23: -9077301901599852467
+      strongAttackDiana_24: -926379781923964800
+      strongAttackDiana_3: -7338154023283729108
+      strongAttackDiana_4: -2380475664332543811
+      strongAttackDiana_5: -3331782306410122578
+      strongAttackDiana_6: 1342348513660752605
+      strongAttackDiana_7: -5116119326102418125
+      strongAttackDiana_8: -752685520421721053
+      strongAttackDiana_9: 1371935166412238745
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

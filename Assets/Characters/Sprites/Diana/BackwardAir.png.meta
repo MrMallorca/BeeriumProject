@@ -168,6 +168,58 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -734,7 +786,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BackwardAir_0: 7746265873937204407
+      BackwardAir_1: 3531023167074830049
+      BackwardAir_10: 8876761520552341711
+      BackwardAir_11: 8567640137881509418
+      BackwardAir_12: -8478587660263825602
+      BackwardAir_13: -2607435690473216850
+      BackwardAir_14: -6518554411703773123
+      BackwardAir_15: 2559197322611952593
+      BackwardAir_16: 2411253159580486118
+      BackwardAir_17: 5588140827492456703
+      BackwardAir_18: 3611081177351489145
+      BackwardAir_19: 5993130766792737953
+      BackwardAir_2: -3034296922040495178
+      BackwardAir_20: 6692686919123384515
+      BackwardAir_21: -3382866548829257016
+      BackwardAir_22: -4259685890017830621
+      BackwardAir_23: 8218986136108042580
+      BackwardAir_24: 5808836117921656570
+      BackwardAir_3: 4233687014618907536
+      BackwardAir_4: 1294572481028719847
+      BackwardAir_5: 1303690323692884265
+      BackwardAir_6: 4905051602486772936
+      BackwardAir_7: -5115136113309929743
+      BackwardAir_8: -7756774248965288333
+      BackwardAir_9: 1103448596562944437
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

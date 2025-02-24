@@ -171,6 +171,58 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -759,7 +811,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Down-Air_0: -3822004229189868765
+      Down-Air_1: -7292900842255033040
+      Down-Air_10: 8440053124122105895
+      Down-Air_11: 1143898531964212534
+      Down-Air_12: 3206730647923610788
+      Down-Air_13: 1480259483635346793
+      Down-Air_14: 2543225915602082938
+      Down-Air_15: 8694726919606286099
+      Down-Air_16: 6729878715720784867
+      Down-Air_17: -272950738526664892
+      Down-Air_18: -357348259347574693
+      Down-Air_19: -616088998546677785
+      Down-Air_2: -5529980180220841018
+      Down-Air_20: -6428339268888695634
+      Down-Air_21: 6814100335114441628
+      Down-Air_22: -8627297400289481942
+      Down-Air_23: 6197202146089697229
+      Down-Air_24: 2255171596697084476
+      Down-Air_25: -1109937797654056600
+      Down-Air_3: 9002596269945874428
+      Down-Air_4: -6125474728477788770
+      Down-Air_5: 5977752087649309296
+      Down-Air_6: 3520753632750955981
+      Down-Air_7: -1485465809748030078
+      Down-Air_8: -2937798008984896387
+      Down-Air_9: 853168863773589651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
