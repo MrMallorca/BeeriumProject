@@ -6,6 +6,8 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement2 : MonoBehaviour
 {
+    public static PlayerMovement2 instance;
+
     [Header("Movement Settings")]
 
     public float speed;

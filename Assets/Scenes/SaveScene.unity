@@ -2491,29 +2491,50 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1671246716}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1717118425 stripped
+--- !u!1 &1736527434
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 6692884895733422554, guid: 502f4e100c2298247ad0005bbe4f1457, type: 3}
-  m_PrefabInstance: {fileID: 7282296473945058919}
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1717118431
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1736527436}
+  - component: {fileID: 1736527435}
+  m_Layer: 0
+  m_Name: saveSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1736527435
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1717118425}
+  m_GameObject: {fileID: 1736527434}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e6cdd54baedd1b4a99bc5dbb794b3d6, type: 3}
+  m_Script: {fileID: 11500000, guid: b5603ee0d45d6b34c8c8ba08aa2d5fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
-  extraGravityForce: 10
-  jumpForce: 5
-  jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  enemyPlayer: {fileID: 254140802}
+--- !u!4 &1736527436
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1736527434}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.2213998, y: -1.6815393, z: 0.03392602}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1790669693
 GameObject:
   m_ObjectHideFlags: 0
@@ -2952,14 +2973,38 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diana
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3656449167812465889, guid: 502f4e100c2298247ad0005bbe4f1457, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 6692884895733422554, guid: 502f4e100c2298247ad0005bbe4f1457, type: 3}
-      insertIndex: 2
-      addedObject: {fileID: 1717118431}
+      insertIndex: 1
+      addedObject: {fileID: 7282296473945058921}
   m_SourcePrefab: {fileID: 100100000, guid: 502f4e100c2298247ad0005bbe4f1457, type: 3}
+--- !u!1 &7282296473945058920 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6692884895733422554, guid: 502f4e100c2298247ad0005bbe4f1457, type: 3}
+  m_PrefabInstance: {fileID: 7282296473945058919}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7282296473945058921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7282296473945058920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e6cdd54baedd1b4a99bc5dbb794b3d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  extraGravityForce: 10
+  jumpForce: 5
+  jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  enemyPlayer: {fileID: 254140802}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -2972,3 +3017,4 @@ SceneRoots:
   - {fileID: 206098578}
   - {fileID: 2138558604}
   - {fileID: 2005009720}
+  - {fileID: 1736527436}
