@@ -4,6 +4,8 @@ using UnityEngine.InputSystem;
 
 public class Diana1 : MonoBehaviour
 {
+    public static Diana1 instance;
+
     [Header("Movement Settings")]
 
     public float speed;
@@ -205,6 +207,17 @@ public class Diana1 : MonoBehaviour
         move.action.started -= OnMove;
         move.action.canceled -= OnMove;
 
+    }
+
+    //Para el Save
+    public Vector2 GetPosition()
+    {
+        return transform.position;
+    }
+
+    public void SetPosition(Vector2 pos)
+    {
+        transform.position = pos;
     }
 
 }
