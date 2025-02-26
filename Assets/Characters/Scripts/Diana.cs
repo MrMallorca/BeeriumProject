@@ -14,7 +14,7 @@ public class Diana : MonoBehaviour
     public float jumpForce = 5f;
     private bool isGrounded = true;
 
-    Rigidbody characterRb;
+    Rigidbody2D characterRb;
 
     Vector3 currentPos;
 
@@ -77,7 +77,7 @@ public class Diana : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        characterRb = GetComponent<Rigidbody>();
+        characterRb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         
@@ -123,8 +123,8 @@ public class Diana : MonoBehaviour
 
         characterRb.linearVelocity = velocity;
 
-
-        characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
+        Debug.Log(velocity);
+        characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode2D.Force);
     }
 
 
@@ -151,7 +151,7 @@ public class Diana : MonoBehaviour
         if (ctx.performed && isGrounded) 
         {
             isGrounded = false;
-            characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
+            characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce);
             anim.SetBool("IsGrounded", false);
             anim.SetTrigger("Jump");
         }
@@ -181,7 +181,7 @@ public class Diana : MonoBehaviour
                 nroAttack++;
                 if (nroAttack == 1)
                     anim.SetInteger("AttackCount", nroAttack);
-                //
+                
                 canAttack = false;
             }
         }
