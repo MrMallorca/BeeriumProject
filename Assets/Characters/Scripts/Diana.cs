@@ -14,7 +14,7 @@ public class Diana : MonoBehaviour
     public float jumpForce = 5f;
     private bool isGrounded = true;
 
-    Rigidbody2D characterRb;
+    Rigidbody characterRb;
 
     Vector3 currentPos;
 
@@ -77,7 +77,7 @@ public class Diana : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        characterRb = GetComponent<Rigidbody2D>();
+        characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         
@@ -118,13 +118,15 @@ public class Diana : MonoBehaviour
     Vector3 rawMove = Vector3.zero;
     void UpdateMovementOnPlane()
     {
+        
         Vector3 moveDirection = rawMove * speed;
         Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, moveDirection.z); 
 
         characterRb.linearVelocity = velocity;
 
+        characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
+
         Debug.Log(velocity);
-        characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode2D.Force);
     }
 
 
@@ -151,13 +153,15 @@ public class Diana : MonoBehaviour
         if (ctx.performed && isGrounded) 
         {
             isGrounded = false;
-            characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce);
+            characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
             anim.SetBool("IsGrounded", false);
             anim.SetTrigger("Jump");
         }
     }
     void OnNormalAttack(InputAction.CallbackContext ctx)
     {
+        float attackForce = 2f;
+
         if (ctx.performed && isGrounded)
         {
            
@@ -178,10 +182,13 @@ public class Diana : MonoBehaviour
             }
             else if(canAttack && nroAttack < 3)
             {
+
+                //characterRb.AddForce(Vector3.forward * attackForce, ForceMode.Impulse);
+
                 nroAttack++;
                 if (nroAttack == 1)
                     anim.SetInteger("AttackCount", nroAttack);
-                
+
                 canAttack = false;
             }
         }
@@ -253,7 +260,6 @@ public class Diana : MonoBehaviour
     {
         Vector2 rawInput = context.ReadValue<Vector2>();
         rawMove = new Vector3(rawInput.x, 0f, rawInput.y);
-       // Debug.Log(rawMove); 
     }
 
     private void OnCollisionEnter(Collision collision)
