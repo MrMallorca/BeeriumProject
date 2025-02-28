@@ -4,6 +4,7 @@ using UnityEngine.UI;
 public class ChangeGame : MonoBehaviour
 {
     public int currentGame;
+    
     [SerializeField] Button PreviousBtn;
     [SerializeField] Button NextBtn;
 
