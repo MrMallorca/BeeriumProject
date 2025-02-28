@@ -47,7 +47,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Menu/Scenes/Game/Tutorial.unity
     guid: 3fc497e08303d0348a04d2512f7402bb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/ReplayScene.unity
     guid: 217e62981d372704ca3e4270a712a45a
   m_configObjects:
