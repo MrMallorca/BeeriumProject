@@ -4,6 +4,9 @@ using System.IO;
 
 public class ReplayPanelController : MonoBehaviour
 {
+    Button RecordBtn;
+    Button ReplayBtn;
+
     private Transform[] transforms;
     private MemoryStream memoryStream; 
     private BinaryWriter binaryWriter = null;

@@ -473,7 +473,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 38.3
+  m_fontSize: 37.45
   m_fontSizeBase: 63.45
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -798,7 +798,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &594841138
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1075,8 +1075,8 @@ Transform:
   m_GameObject: {fileID: 671560304}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -400.56775, y: -299.57477, z: 0}
-  m_LocalScale: {x: 224.89345, y: 150.29393, z: 32.8806}
+  m_LocalPosition: {x: -426.799, y: -282.524, z: 0}
+  m_LocalScale: {x: 683.88995, y: 415.31982, z: 32.8806}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 534125647}
@@ -1154,7 +1154,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &906723829
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1219,9 +1219,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1847431326}
-        m_TargetAssemblyTypeName: GameSelection, Assembly-CSharp
-        m_MethodName: ChangeGame
+      - m_Target: {fileID: 1847431331}
+        m_TargetAssemblyTypeName: ChangeGame, Assembly-CSharp
+        m_MethodName: GameChange
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1440,8 +1440,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -348, y: 221}
-  m_SizeDelta: {x: -818.413, y: -493.865}
+  m_AnchoredPosition: {x: -349, y: 221}
+  m_SizeDelta: {x: -761.136, y: -493.865}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1238829624
 MonoBehaviour:
@@ -1616,7 +1616,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1239228385
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1749,7 +1749,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1365901250
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1882,7 +1882,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1491378824
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1947,9 +1947,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1847431326}
-        m_TargetAssemblyTypeName: GameSelection, Assembly-CSharp
-        m_MethodName: ChangeGame
+      - m_Target: {fileID: 1847431331}
+        m_TargetAssemblyTypeName: ChangeGame, Assembly-CSharp
+        m_MethodName: GameChange
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2224,7 +2224,7 @@ GameObject:
   - component: {fileID: 1847431329}
   - component: {fileID: 1847431328}
   - component: {fileID: 1847431327}
-  - component: {fileID: 1847431326}
+  - component: {fileID: 1847431331}
   m_Layer: 5
   m_Name: GameHolder_Canvas
   m_TagString: Untagged
@@ -2232,18 +2232,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1847431326
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1847431325}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 93d6a31020448ca469b02cbb71a72ba5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1847431327
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2330,6 +2318,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1847431331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847431325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3817068b985ec534a9ff5247c584c3ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGame: 0
+  PreviousBtn: {fileID: 1491378825}
+  NextBtn: {fileID: 906723830}
 --- !u!1 &2004864103
 GameObject:
   m_ObjectHideFlags: 0
