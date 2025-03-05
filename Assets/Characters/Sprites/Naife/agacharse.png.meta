@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: 75590e204286eb842b7b33fe9d89881f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5830446762156842127
+    second: agacharse_0
+  - first:
+      213: -4587626453973581662
+    second: agacharse_1
+  - first:
+      213: -7311767662429101815
+    second: agacharse_2
+  - first:
+      213: -6766301793813687006
+    second: agacharse_3
+  - first:
+      213: -7806265159990628674
+    second: agacharse_4
+  - first:
+      213: 2571239934583311064
+    second: agacharse_5
+  - first:
+      213: 264587724842295744
+    second: agacharse_6
+  - first:
+      213: 2107440725664153822
+    second: agacharse_7
+  - first:
+      213: -8107404396326941771
+    second: agacharse_8
+  - first:
+      213: -219022396849112794
+    second: agacharse_9
+  - first:
+      213: -2334855312739348662
+    second: agacharse_10
+  - first:
+      213: -422755856703716172
+    second: agacharse_11
+  - first:
+      213: 248380942152798795
+    second: agacharse_12
+  - first:
+      213: -2051606359397730297
+    second: agacharse_13
+  - first:
+      213: 4298193748565236905
+    second: agacharse_14
+  - first:
+      213: -4167235934711384900
+    second: agacharse_15
+  - first:
+      213: 3502109951053241780
+    second: agacharse_16
+  - first:
+      213: -3978353928691429611
+    second: agacharse_17
+  - first:
+      213: 2892721252324440337
+    second: agacharse_18
+  - first:
+      213: -7270738693362725173
+    second: agacharse_19
+  - first:
+      213: 8379879995588416283
+    second: agacharse_20
+  - first:
+      213: 9112397765198646620
+    second: agacharse_21
+  - first:
+      213: -8599792506520800604
+    second: agacharse_22
+  - first:
+      213: 5501808751768869305
+    second: agacharse_23
+  - first:
+      213: 9018311782090359953
+    second: agacharse_24
+  - first:
+      213: -248403746810137092
+    second: agacharse_25
+  - first:
+      213: 636356722178971781
+    second: agacharse_26
+  - first:
+      213: -5643427396849676337
+    second: agacharse_27
+  - first:
+      213: 6030860554349018125
+    second: agacharse_28
+  - first:
+      213: -5951278397051032419
+    second: agacharse_29
+  - first:
+      213: 139326217257701875
+    second: agacharse_30
+  - first:
+      213: 103484348710427160
+    second: agacharse_31
+  - first:
+      213: -8222751783620964578
+    second: agacharse_32
+  - first:
+      213: -1989078161694172734
+    second: agacharse_33
+  - first:
+      213: 3676267559814263555
+    second: agacharse_34
+  - first:
+      213: 3859042777775363836
+    second: agacharse_35
+  - first:
+      213: 613137179830413964
+    second: agacharse_36
+  - first:
+      213: 4991477264655075113
+    second: agacharse_37
+  - first:
+      213: -2451833745475826332
+    second: agacharse_38
+  - first:
+      213: 1768304483700906215
+    second: agacharse_39
+  - first:
+      213: -3662144949072613415
+    second: agacharse_40
+  - first:
+      213: 909981760371226525
+    second: agacharse_41
+  - first:
+      213: 1400600369531762060
+    second: agacharse_42
+  - first:
+      213: -8770766525059649762
+    second: agacharse_43
+  - first:
+      213: -2641246157799106744
+    second: agacharse_44
+  - first:
+      213: 3485079551776773647
+    second: agacharse_45
+  - first:
+      213: -2786700195771661419
+    second: agacharse_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: agacharse_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1918
+        width: 30
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c5f2c6078e9e050800000000000000
+      internalID: 5830446762156842127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1912
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a048b0eb0a7550c0800000000000000
+      internalID: -4587626453973581662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1911
+        width: 84
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901a9b8ec02678a90800000000000000
+      internalID: -7311767662429101815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1915
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22595a03e544912a0800000000000000
+      internalID: -6766301793813687006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_4
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1915
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe204442339aa390800000000000000
+      internalID: -7806265159990628674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_5
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1915
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da0325f811eea320800000000000000
+      internalID: 2571239934583311064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_6
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1915
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1672742210ca300800000000000000
+      internalID: 264587724842295744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_7
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1915
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0476e9c222f3d10800000000000000
+      internalID: 2107440725664153822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1659
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0e7a08a6bc7f80800000000000000
+      internalID: -8107404396326941771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1659
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62934fd5a40e5fcf0800000000000000
+      internalID: -219022396849112794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_10
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1659
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fcc32b67de89fd0800000000000000
+      internalID: -2334855312739348662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_11
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1659
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b48576c9c1122af0800000000000000
+      internalID: -422755856703716172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_12
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1659
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b429ef1a62d627300800000000000000
+      internalID: 248380942152798795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_13
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1659
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7087a21d2ea3783e0800000000000000
+      internalID: -2051606359397730297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_14
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1659
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac1907017046ab30800000000000000
+      internalID: 4298193748565236905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_15
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1659
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4f8401ff00b26c0800000000000000
+      internalID: -4167235934711384900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1403
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd93ec027ef99030800000000000000
+      internalID: 3502109951053241780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1403
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f41991e2c0ac8c0800000000000000
+      internalID: -3978353928691429611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1403
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119750717a2052820800000000000000
+      internalID: 2892721252324440337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_19
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1403
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce4d6f2ea5291b90800000000000000
+      internalID: -7270738693362725173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_20
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1403
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13137d15705b4470800000000000000
+      internalID: 8379879995588416283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_21
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1403
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d8ab6ec7db57e70800000000000000
+      internalID: 9112397765198646620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_22
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1403
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2f2ca674667a880800000000000000
+      internalID: -8599792506520800604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_23
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1403
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9915fe8e95a5c40800000000000000
+      internalID: 5501808751768869305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1147
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944735e8ca772d70800000000000000
+      internalID: 9018311782090359953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1147
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5718ebb1e7d8cf0800000000000000
+      internalID: -248403746810137092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1147
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588d8e7311bc4d800800000000000000
+      internalID: 636356722178971781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_27
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1147
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf4117cea48ea1b0800000000000000
+      internalID: -5643427396849676337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_28
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1147
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c73e7a8bbe1b350800000000000000
+      internalID: 6030860554349018125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_29
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1147
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c215044dfc86da0800000000000000
+      internalID: -5951278397051032419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_30
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1147
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f15b87d47cfee100800000000000000
+      internalID: 139326217257701875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_31
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1147
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a92b48776af6100800000000000000
+      internalID: 103484348710427160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 891
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f001d91dae2ed80800000000000000
+      internalID: -8222751783620964578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_33
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 891
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c95bb553ff5564e0800000000000000
+      internalID: -1989078161694172734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_34
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 891
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30375023ed9b40330800000000000000
+      internalID: 3676267559814263555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_35
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 891
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf65656d5f21e8530800000000000000
+      internalID: 3859042777775363836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_36
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 891
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a606a340d428800800000000000000
+      internalID: 613137179830413964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_37
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 891
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9274430502a454540800000000000000
+      internalID: 4991477264655075113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_38
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 891
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0998e23659fdd0800000000000000
+      internalID: -2451833745475826332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_39
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 891
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e819bd1f874a8810800000000000000
+      internalID: 1768304483700906215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 635
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df298a52927d2dc0800000000000000
+      internalID: -3662144949072613415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 635
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97f20bf697e0ac00800000000000000
+      internalID: 909981760371226525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_42
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 635
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85b83a8d9eef6310800000000000000
+      internalID: 1400600369531762060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_43
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 635
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1faee1a05af74680800000000000000
+      internalID: -8770766525059649762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_44
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 635
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847d4080d98685bd0800000000000000
+      internalID: -2641246157799106744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_45
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 635
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d1a9336d7d5030800000000000000
+      internalID: 3485079551776773647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agacharse_46
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 635
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593c48fbfe6a359d0800000000000000
+      internalID: -2786700195771661419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
