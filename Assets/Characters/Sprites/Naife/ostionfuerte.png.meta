@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ostionfuerte_0: -1042031526925022624
+      ostionfuerte_1: 3872981455645623764
+      ostionfuerte_2: 4209127572634582801
+      ostionfuerte_3: -5344171877504259110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

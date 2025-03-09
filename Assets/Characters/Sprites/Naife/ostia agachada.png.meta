@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ostia agachada_0: 6205002762164756930
+      ostia agachada_1: -1180355577649592393
+      ostia agachada_10: 4046817181956619181
+      ostia agachada_11: 5391988872591530733
+      ostia agachada_12: -7037036914817976367
+      ostia agachada_13: 1928609266016777986
+      ostia agachada_14: 3122145901078804365
+      ostia agachada_15: -6201938479155385487
+      ostia agachada_2: 3718832239827390587
+      ostia agachada_3: 229774540084218650
+      ostia agachada_4: 2323976564262471753
+      ostia agachada_5: 3139939461751736222
+      ostia agachada_6: -2561109332404799233
+      ostia agachada_7: -8912535373485930126
+      ostia agachada_8: 983452357946167025
+      ostia agachada_9: 204674994380731435
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

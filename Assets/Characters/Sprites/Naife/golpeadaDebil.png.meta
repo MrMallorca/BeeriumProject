@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      golpeadaDebil_0: -7266697817873994437
+      golpeadaDebil_1: -6152809105495970079
+      golpeadaDebil_2: -1068164420288564232
+      golpeadaDebil_3: 1874925995250831595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

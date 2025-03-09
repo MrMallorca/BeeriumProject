@@ -484,7 +484,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ostia parriba_0: -1114077656542475986
+      ostia parriba_1: -8769388855370828203
+      ostia parriba_10: -541057333416270470
+      ostia parriba_11: 200823574919878311
+      ostia parriba_12: -2264679525592155844
+      ostia parriba_13: 1620495771573000698
+      ostia parriba_14: -5368820149875325624
+      ostia parriba_2: 8817707481917142732
+      ostia parriba_3: 737161923576208677
+      ostia parriba_4: -5750322483310905906
+      ostia parriba_5: 5440604859567191582
+      ostia parriba_6: -5322354217852888054
+      ostia parriba_7: 5624746263023360084
+      ostia parriba_8: 934800813688529402
+      ostia parriba_9: -2518763112554093547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

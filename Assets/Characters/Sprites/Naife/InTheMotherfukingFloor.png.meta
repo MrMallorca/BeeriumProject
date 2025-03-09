@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      InTheMotherfukingFloor_0: 9141893206606705091
+      InTheMotherfukingFloor_1: 228398216966865154
+      InTheMotherfukingFloor_2: -3662664024466400087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

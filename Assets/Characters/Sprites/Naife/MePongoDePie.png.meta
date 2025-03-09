@@ -634,7 +634,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MePongoDePie_0: 1570125517408799124
+      MePongoDePie_1: 1024427557005569243
+      MePongoDePie_10: 6437240365038390836
+      MePongoDePie_11: 2207050078096909039
+      MePongoDePie_12: -5572965409450644046
+      MePongoDePie_13: 1746671876707892446
+      MePongoDePie_14: 5041061790970377354
+      MePongoDePie_15: 1403341950824978713
+      MePongoDePie_16: -7488901966806279286
+      MePongoDePie_17: 3775297955595607297
+      MePongoDePie_18: -2624522618642123622
+      MePongoDePie_19: 8933691404770326141
+      MePongoDePie_2: -5263506631046930872
+      MePongoDePie_20: -8922250988584650721
+      MePongoDePie_3: -3737962828879262719
+      MePongoDePie_4: -7275963010355999000
+      MePongoDePie_5: -4242347135119558993
+      MePongoDePie_6: 969097962968859924
+      MePongoDePie_7: 7540710348488893440
+      MePongoDePie_8: 8718780291770059338
+      MePongoDePie_9: 899415097539964877
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
