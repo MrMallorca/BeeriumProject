@@ -282,7 +282,7 @@ PrefabInstance:
     - target: {fileID: 5307362639699744646, guid: 301084cc5287c9e409697c4d14171619, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 22100000, guid: ce0e19e2d09fecf4a9dae3acc48c0f15, type: 2}
+      objectReference: {fileID: 9100000, guid: 1d25fdce0ae21cf4f8393b9c92fdabbb, type: 2}
     - target: {fileID: 6692884895733422554, guid: 301084cc5287c9e409697c4d14171619, type: 3}
       propertyPath: m_Name
       value: Naife

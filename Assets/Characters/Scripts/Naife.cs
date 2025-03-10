@@ -8,10 +8,12 @@ public class Naife : MonoBehaviour
 {
     [Header("Movement Settings")]
 
+    //NAIFE NO SALTA
+
     public float speed;
 
     public float extraGravityForce = 10f;
-    public float jumpForce = 5f;
+   // public float jumpForce = 5f;
     private bool isGrounded = true;
 
     Rigidbody characterRb;
@@ -21,7 +23,7 @@ public class Naife : MonoBehaviour
 
     [Header("Input Actions")]
 
-    [SerializeField] InputActionReference jump;
+   // [SerializeField] InputActionReference jump;
     [SerializeField] InputActionReference move;
     [SerializeField] InputActionReference crouch;
     [SerializeField] InputActionReference normalAttack;
@@ -48,7 +50,7 @@ public class Naife : MonoBehaviour
     {
         move.action.Enable();
 
-        jump.action.Enable();
+       // jump.action.Enable();
 
         normalAttack.action.Enable();
 
@@ -57,8 +59,8 @@ public class Naife : MonoBehaviour
 
         crouch.action.Enable();
 
-        jump.action.performed += OnJump;
-        jump.action.canceled += OnJump;
+      //  jump.action.performed += OnJump;
+       // jump.action.canceled += OnJump;
 
         crouch.action.performed += OnCrouch;
         crouch.action.canceled += OnCrouch;
@@ -148,16 +150,16 @@ public class Naife : MonoBehaviour
 
     }
 
-    void OnJump(InputAction.CallbackContext ctx)
-    {
-        if (ctx.performed && isGrounded) 
-        {
-            isGrounded = false;
-            characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
-            anim.SetBool("IsGrounded", false);
-            anim.SetTrigger("Jump");
-        }
-    }
+    //void OnJump(InputAction.CallbackContext ctx)
+    //{
+    //    if (ctx.performed && isGrounded) 
+    //    {
+    //        isGrounded = false;
+    //        characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
+    //        anim.SetBool("IsGrounded", false);
+    //        anim.SetTrigger("Jump");
+    //    }
+    //}
     void OnNormalAttack(InputAction.CallbackContext ctx)
     {
         float attackForce = 2f;
@@ -304,10 +306,10 @@ public class Naife : MonoBehaviour
 
     private void OnDisable()
     {
-        jump.action.Disable();
+        //jump.action.Disable();
 
-        jump.action.performed -= OnJump;
-        jump.action.canceled -= OnJump;
+        //jump.action.performed -= OnJump;
+        //jump.action.canceled -= OnJump;
 
         normalAttack.action.Disable();
 
