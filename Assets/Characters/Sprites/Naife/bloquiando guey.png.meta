@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: b6913881b9ba0af4b90a060b4cd5e7c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2450598771827889884
+    second: bloquiando guey_0
+  - first:
+      213: -3840766711983167520
+    second: bloquiando guey_1
+  - first:
+      213: 2299896189503624225
+    second: bloquiando guey_2
+  - first:
+      213: 1937183243168867886
+    second: bloquiando guey_3
+  - first:
+      213: -3592764653746123457
+    second: bloquiando guey_4
+  - first:
+      213: 1431346150154438840
+    second: bloquiando guey_5
+  - first:
+      213: -5199385635895717112
+    second: bloquiando guey_6
+  - first:
+      213: -10847776791323174
+    second: bloquiando guey_7
+  - first:
+      213: 5386439509824762521
+    second: bloquiando guey_8
+  - first:
+      213: -3191844794889733130
+    second: bloquiando guey_9
+  - first:
+      213: -6185782928957998737
+    second: bloquiando guey_10
+  - first:
+      213: 443025850308107147
+    second: bloquiando guey_11
+  - first:
+      213: -4278452682086212850
+    second: bloquiando guey_12
+  - first:
+      213: 3717917506779110997
+    second: bloquiando guey_13
+  - first:
+      213: 1344935413219688371
+    second: bloquiando guey_14
+  - first:
+      213: 4478112921070657549
+    second: bloquiando guey_15
+  - first:
+      213: 6007935978233675504
+    second: bloquiando guey_16
+  - first:
+      213: 2664305136533951792
+    second: bloquiando guey_17
+  - first:
+      213: -3975558626359511709
+    second: bloquiando guey_18
+  - first:
+      213: -6429976652110899470
+    second: bloquiando guey_19
+  - first:
+      213: 6393084824180136640
+    second: bloquiando guey_20
+  - first:
+      213: -4579559890855574430
+    second: bloquiando guey_21
+  - first:
+      213: 2952626631666918775
+    second: bloquiando guey_22
+  - first:
+      213: 8430262915945687847
+    second: bloquiando guey_23
+  - first:
+      213: -3165632617043432097
+    second: bloquiando guey_24
+  - first:
+      213: 6204583977052351634
+    second: bloquiando guey_25
+  - first:
+      213: -8515754002129251735
+    second: bloquiando guey_26
+  - first:
+      213: 6135363133041585688
+    second: bloquiando guey_27
+  - first:
+      213: 7679578204862662133
+    second: bloquiando guey_28
+  - first:
+      213: -2110829026251063057
+    second: bloquiando guey_29
+  - first:
+      213: 6590381576668102882
+    second: bloquiando guey_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloquiando guey_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1918
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd65fc16996420220800000000000000
+      internalID: 2450598771827889884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1916
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e72913560bd2bac0800000000000000
+      internalID: -3840766711983167520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1916
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12453a3266fdaef10800000000000000
+      internalID: 2299896189503624225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_3
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1916
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e266be165e142ea10800000000000000
+      internalID: 1937183243168867886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_4
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1916
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d02eb259fe32ec0800000000000000
+      internalID: -3592764653746123457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_5
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1916
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8049e6db92dd310800000000000000
+      internalID: 1431346150154438840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_6
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1916
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803da2acf4218d7b0800000000000000
+      internalID: -5199385635895717112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_7
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1916
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add10c5210679dff0800000000000000
+      internalID: -10847776791323174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1660
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992fb33123a70ca40800000000000000
+      internalID: 5386439509824762521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1660
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbfa66f11a44b3d0800000000000000
+      internalID: -3191844794889733130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1660
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6978c5233fa72aa0800000000000000
+      internalID: -6185782928957998737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_11
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1660
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b1ee1e9a1f52600800000000000000
+      internalID: 443025850308107147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_12
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1660
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b1fef24f1ef94c0800000000000000
+      internalID: -4278452682086212850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_13
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1660
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e56c72642b89330800000000000000
+      internalID: 3717917506779110997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_14
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1660
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf7dcee1ab2aa210800000000000000
+      internalID: 1344935413219688371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_15
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1660
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e084c9f3752e30800000000000000
+      internalID: 4478112921070657549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1404
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe38e7d0f9706350800000000000000
+      internalID: 6007935978233675504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1404
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035da54d76389f420800000000000000
+      internalID: 2664305136533951792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_18
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1404
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f9142e7af3d8c0800000000000000
+      internalID: -3975558626359511709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_19
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1404
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6dfd86d4224c6a0800000000000000
+      internalID: -6429976652110899470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_20
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1404
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca923c86ccc8b850800000000000000
+      internalID: 6393084824180136640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_21
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1404
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2644de5fa822270c0800000000000000
+      internalID: -4579559890855574430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_22
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1404
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7756dde1746d9f820800000000000000
+      internalID: 2952626631666918775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_23
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1404
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b6714e47f4ef470800000000000000
+      internalID: 8430262915945687847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1148
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d6cb338e96114d0800000000000000
+      internalID: -3165632617043432097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1148
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c294bf04c1b1650800000000000000
+      internalID: 6204583977052351634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_26
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1148
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962997c7ad6f1d980800000000000000
+      internalID: -8515754002129251735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_27
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1148
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ea8f05340352550800000000000000
+      internalID: 6135363133041585688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_28
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1148
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5cbad60b7539a60800000000000000
+      internalID: 7679578204862662133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_29
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1148
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0c8bc2f24d4b2e0800000000000000
+      internalID: -2110829026251063057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloquiando guey_30
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1148
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c49b602db57b50800000000000000
+      internalID: 6590381576668102882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bloquiando guey_0: 2450598771827889884
+      bloquiando guey_1: -3840766711983167520
+      bloquiando guey_10: -6185782928957998737
+      bloquiando guey_11: 443025850308107147
+      bloquiando guey_12: -4278452682086212850
+      bloquiando guey_13: 3717917506779110997
+      bloquiando guey_14: 1344935413219688371
+      bloquiando guey_15: 4478112921070657549
+      bloquiando guey_16: 6007935978233675504
+      bloquiando guey_17: 2664305136533951792
+      bloquiando guey_18: -3975558626359511709
+      bloquiando guey_19: -6429976652110899470
+      bloquiando guey_2: 2299896189503624225
+      bloquiando guey_20: 6393084824180136640
+      bloquiando guey_21: -4579559890855574430
+      bloquiando guey_22: 2952626631666918775
+      bloquiando guey_23: 8430262915945687847
+      bloquiando guey_24: -3165632617043432097
+      bloquiando guey_25: 6204583977052351634
+      bloquiando guey_26: -8515754002129251735
+      bloquiando guey_27: 6135363133041585688
+      bloquiando guey_28: 7679578204862662133
+      bloquiando guey_29: -2110829026251063057
+      bloquiando guey_3: 1937183243168867886
+      bloquiando guey_30: 6590381576668102882
+      bloquiando guey_4: -3592764653746123457
+      bloquiando guey_5: 1431346150154438840
+      bloquiando guey_6: -5199385635895717112
+      bloquiando guey_7: -10847776791323174
+      bloquiando guey_8: 5386439509824762521
+      bloquiando guey_9: -3191844794889733130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

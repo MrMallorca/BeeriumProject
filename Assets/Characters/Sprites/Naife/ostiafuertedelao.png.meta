@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 504cc61750cd2d44d9fa88a7c0073ee5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2333202716180335666
+    second: ostiafuertedelao_0
+  - first:
+      213: -5391852784538421203
+    second: ostiafuertedelao_1
+  - first:
+      213: 7521166315961112063
+    second: ostiafuertedelao_2
+  - first:
+      213: -3702057740317094947
+    second: ostiafuertedelao_3
+  - first:
+      213: -104170901755325009
+    second: ostiafuertedelao_4
+  - first:
+      213: 3232474260853004588
+    second: ostiafuertedelao_5
+  - first:
+      213: 565841711354281080
+    second: ostiafuertedelao_6
+  - first:
+      213: 905446565791947606
+    second: ostiafuertedelao_7
+  - first:
+      213: -13640292789740820
+    second: ostiafuertedelao_8
+  - first:
+      213: 8719976539873283820
+    second: ostiafuertedelao_9
+  - first:
+      213: 3399488681143284034
+    second: ostiafuertedelao_10
+  - first:
+      213: 4887596661180792943
+    second: ostiafuertedelao_11
+  - first:
+      213: 421300026553196321
+    second: ostiafuertedelao_12
+  - first:
+      213: -4894251187703755932
+    second: ostiafuertedelao_13
+  - first:
+      213: -2849682683471755756
+    second: ostiafuertedelao_14
+  - first:
+      213: -6587434813862954408
+    second: ostiafuertedelao_15
+  - first:
+      213: -3176615701004247356
+    second: ostiafuertedelao_16
+  - first:
+      213: 2958919289261818055
+    second: ostiafuertedelao_17
+  - first:
+      213: 8161603625076833389
+    second: ostiafuertedelao_18
+  - first:
+      213: 7174800115080269087
+    second: ostiafuertedelao_19
+  - first:
+      213: -5327352694415126498
+    second: ostiafuertedelao_20
+  - first:
+      213: -5817051187673964821
+    second: ostiafuertedelao_21
+  - first:
+      213: -7372898238229518109
+    second: ostiafuertedelao_22
+  - first:
+      213: 7662800873662325491
+    second: ostiafuertedelao_23
+  - first:
+      213: 8922846481318968658
+    second: ostiafuertedelao_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ostiafuertedelao_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1917
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec33811dd7cce9fd0800000000000000
+      internalID: -2333202716180335666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1917
+        width: 41
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f260b57a4c25b0800000000000000
+      internalID: -5391852784538421203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1917
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5de7f5aec806860800000000000000
+      internalID: 7521166315961112063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_3
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1917
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb0a6a7916af9cc0800000000000000
+      internalID: -3702057740317094947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_4
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1917
+        width: 58
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa511f4ed19ed8ef0800000000000000
+      internalID: -104170901755325009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_5
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1917
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c299cbfb63e0cdc20800000000000000
+      internalID: 3232474260853004588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_6
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1916
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cfe5cd9064ad700800000000000000
+      internalID: 565841711354281080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_7
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1915
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b5025badac09c00800000000000000
+      internalID: 905446565791947606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1660
+        width: 92
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea92a9d93a8fcff0800000000000000
+      internalID: -13640292789740820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1660
+        width: 68
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee03ec6674930970800000000000000
+      internalID: 8719976539873283820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1661
+        width: 53
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241b189b1f86d2f20800000000000000
+      internalID: 3399488681143284034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_11
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1661
+        width: 52
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60011b844b34d340800000000000000
+      internalID: 4887596661180792943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_12
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1661
+        width: 51
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fd09a5422c8d500800000000000000
+      internalID: 421300026553196321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_13
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1661
+        width: 50
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b4263c970241cb0800000000000000
+      internalID: -4894251187703755932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_14
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1661
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416851992b4e378d0800000000000000
+      internalID: -2849682683471755756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_15
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1661
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a38a240fab494a0800000000000000
+      internalID: -6587434813862954408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1405
+        width: 47
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce96b1b9d46ae3d0800000000000000
+      internalID: -3176615701004247356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1405
+        width: 45
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c08083aa61301920800000000000000
+      internalID: 2958919289261818055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_18
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1405
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cbe364147d34170800000000000000
+      internalID: 8161603625076833389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1405
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d8ac1e0b2029360800000000000000
+      internalID: 7174800115080269087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_20
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1405
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e109a2033f07116b0800000000000000
+      internalID: -5327352694415126498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_21
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1406
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beedd6ec3cea54fa0800000000000000
+      internalID: -5817051187673964821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_22
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1406
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e9399d143ea990800000000000000
+      internalID: -7372898238229518109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1406
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2223b9bccb75a60800000000000000
+      internalID: 7662800873662325491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiafuertedelao_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1150
+        width: 38
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d7c58799154db70800000000000000
+      internalID: 8922846481318968658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ostiafuertedelao_0: -2333202716180335666
+      ostiafuertedelao_1: -5391852784538421203
+      ostiafuertedelao_10: 3399488681143284034
+      ostiafuertedelao_11: 4887596661180792943
+      ostiafuertedelao_12: 421300026553196321
+      ostiafuertedelao_13: -4894251187703755932
+      ostiafuertedelao_14: -2849682683471755756
+      ostiafuertedelao_15: -6587434813862954408
+      ostiafuertedelao_16: -3176615701004247356
+      ostiafuertedelao_17: 2958919289261818055
+      ostiafuertedelao_18: 8161603625076833389
+      ostiafuertedelao_19: 7174800115080269087
+      ostiafuertedelao_2: 7521166315961112063
+      ostiafuertedelao_20: -5327352694415126498
+      ostiafuertedelao_21: -5817051187673964821
+      ostiafuertedelao_22: -7372898238229518109
+      ostiafuertedelao_23: 7662800873662325491
+      ostiafuertedelao_24: 8922846481318968658
+      ostiafuertedelao_3: -3702057740317094947
+      ostiafuertedelao_4: -104170901755325009
+      ostiafuertedelao_5: 3232474260853004588
+      ostiafuertedelao_6: 565841711354281080
+      ostiafuertedelao_7: 905446565791947606
+      ostiafuertedelao_8: -13640292789740820
+      ostiafuertedelao_9: 8719976539873283820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
