@@ -120,7 +120,7 @@ public class Diana : MonoBehaviour
     {
         
         Vector3 moveDirection = rawMove * speed;
-        Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, moveDirection.z); 
+        Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, 0); 
 
         characterRb.linearVelocity = velocity;
 
