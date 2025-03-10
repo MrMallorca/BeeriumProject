@@ -17,7 +17,7 @@ public class MenuInGame : MonoBehaviour
 
     void Update()
     {
-
+        Debug.Log("Entra");
         if(Input.GetKeyDown(KeyCode.Escape) && !options)
         {
             PauseGame();
@@ -42,7 +42,10 @@ public class MenuInGame : MonoBehaviour
         menuInGame.SetActive(true);
     }
     public void SelectScene(string scene)
-    { SceneManager.LoadScene(scene); }
+    { 
+        SceneManager.LoadScene(scene);
+        Time.timeScale = 1.0f;
+    }
 
     public void Exit()
     { Application.Quit(); }

@@ -16,7 +16,7 @@ public class VictoryManager : MonoBehaviour
     {
         if(HealthBar.instance.slider.value <= 0)
         {
-            Debug.Log("PUTAAAAAAA");
+            Debug.Log("Entra");
             Player1Victory.enabled = true;
         }
     }
