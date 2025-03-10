@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/Characters/Animations/Naife.meta
 guid: 7c4a5c2ae51858e47b48ff29cd550d39
+=======
+guid: 8b36e8c46609f454a99bd788ba81ff76
+>>>>>>> Stashed changes:Assets/Scripts/saveSystem.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
