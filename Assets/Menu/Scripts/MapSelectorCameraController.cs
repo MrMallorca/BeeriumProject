@@ -14,8 +14,8 @@ public class MapSelectorCameraController : MonoBehaviour
     [SerializeField] Button YellowBtn;
     [SerializeField] Button PinkBtn;
     [SerializeField] Button GreenBtn;
+
     [SerializeField] Button ConfirmBtn;
-    
 
     public int MapaElegido;
 
@@ -26,6 +26,15 @@ public class MapSelectorCameraController : MonoBehaviour
         Pinkcamera.enabled = false;
         Greencamera.enabled = false;
         Startcamera.enabled = true;
+
+        MapaElegido = 0;
+    }
+    void Update()
+    {
+        if(MapaElegido != 0)
+        {
+            ConfirmBtn.gameObject.SetActive(true);
+        }
     }
     public void OnClickYellow()
     {
@@ -36,9 +45,7 @@ public class MapSelectorCameraController : MonoBehaviour
         Greencamera.enabled = false;
         Startcamera.enabled = false;
 
-        ConfirmBtn.gameObject.SetActive(true);
-
-        MapaElegido = 0;
+        MapaElegido = 1;
     }
 
     public void OnClickGreen()
@@ -50,9 +57,7 @@ public class MapSelectorCameraController : MonoBehaviour
         Startcamera.enabled = false;
         Greencamera.enabled = true;
 
-        ConfirmBtn.gameObject.SetActive(true);
-
-        MapaElegido = 1;
+        MapaElegido = 2;
     }
     public void OnClickPink()
     {
@@ -63,9 +68,7 @@ public class MapSelectorCameraController : MonoBehaviour
         Greencamera.enabled = false;
         Startcamera.enabled = false;
 
-        ConfirmBtn.gameObject.SetActive(true);
-
-        MapaElegido = 2;
+        MapaElegido = 3;
     }
 
     public void SelectScene(string scene)
