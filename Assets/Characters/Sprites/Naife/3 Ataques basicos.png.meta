@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 0c0b76a2105cfd04ea86ae3921fb6b26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2912209675554248603
+    second: 3 Ataques basicos_0
+  - first:
+      213: 5518118947248359393
+    second: 3 Ataques basicos_1
+  - first:
+      213: -5759316509391107947
+    second: 3 Ataques basicos_2
+  - first:
+      213: -186131565691887745
+    second: 3 Ataques basicos_3
+  - first:
+      213: -4007602180375933197
+    second: 3 Ataques basicos_4
+  - first:
+      213: 2808011513597955688
+    second: 3 Ataques basicos_5
+  - first:
+      213: -7817901792015002051
+    second: 3 Ataques basicos_6
+  - first:
+      213: 9061984611636321905
+    second: 3 Ataques basicos_7
+  - first:
+      213: 152011844808208393
+    second: 3 Ataques basicos_8
+  - first:
+      213: 3707413588502376182
+    second: 3 Ataques basicos_9
+  - first:
+      213: -3025642076011819542
+    second: 3 Ataques basicos_10
+  - first:
+      213: -3724800215931498202
+    second: 3 Ataques basicos_11
+  - first:
+      213: 8572165049344240924
+    second: 3 Ataques basicos_12
+  - first:
+      213: 5230682127366595318
+    second: 3 Ataques basicos_13
+  - first:
+      213: 5035773378622863961
+    second: 3 Ataques basicos_14
+  - first:
+      213: 4697122971607760494
+    second: 3 Ataques basicos_15
+  - first:
+      213: -3685620552221115949
+    second: 3 Ataques basicos_16
+  - first:
+      213: 6231028639635681466
+    second: 3 Ataques basicos_17
+  - first:
+      213: -7925160097778029520
+    second: 3 Ataques basicos_18
+  - first:
+      213: -2355631793069052310
+    second: 3 Ataques basicos_19
+  - first:
+      213: -8840212195709593860
+    second: 3 Ataques basicos_20
+  - first:
+      213: 3164186973449906753
+    second: 3 Ataques basicos_21
+  - first:
+      213: 8928150761446002905
+    second: 3 Ataques basicos_22
+  - first:
+      213: -8674264082875822439
+    second: 3 Ataques basicos_23
+  - first:
+      213: 6518491295118731383
+    second: 3 Ataques basicos_24
+  - first:
+      213: -2477145877142592244
+    second: 3 Ataques basicos_25
+  - first:
+      213: -8977736646708307903
+    second: 3 Ataques basicos_26
+  - first:
+      213: 7212272176868957842
+    second: 3 Ataques basicos_27
+  - first:
+      213: -6611020681177798461
+    second: 3 Ataques basicos_28
+  - first:
+      213: -8491403211747316353
+    second: 3 Ataques basicos_29
+  - first:
+      213: 3103282517070140283
+    second: 3 Ataques basicos_30
+  - first:
+      213: -5135708653767891363
+    second: 3 Ataques basicos_31
+  - first:
+      213: 4204520147555710698
+    second: 3 Ataques basicos_32
+  - first:
+      213: -4064685975971794881
+    second: 3 Ataques basicos_33
+  - first:
+      213: 93990636977532219
+    second: 3 Ataques basicos_34
+  - first:
+      213: 727356653261021142
+    second: 3 Ataques basicos_35
+  - first:
+      213: -5033516653414903588
+    second: 3 Ataques basicos_36
+  - first:
+      213: 4039232704688596050
+    second: 3 Ataques basicos_37
+  - first:
+      213: -6305183350950527685
+    second: 3 Ataques basicos_38
+  - first:
+      213: -3973676771107131053
+    second: 3 Ataques basicos_39
+  - first:
+      213: -5150994825130267717
+    second: 3 Ataques basicos_40
+  - first:
+      213: -2051158283455162406
+    second: 3 Ataques basicos_41
+  - first:
+      213: 3172386737727313271
+    second: 3 Ataques basicos_42
+  - first:
+      213: 3754990285511797364
+    second: 3 Ataques basicos_43
+  - first:
+      213: 50865482137604965
+    second: 3 Ataques basicos_44
+  - first:
+      213: -2192148213774581266
+    second: 3 Ataques basicos_45
+  - first:
+      213: 3781679058934764986
+    second: 3 Ataques basicos_46
+  - first:
+      213: 4660898442651560
+    second: 3 Ataques basicos_47
+  - first:
+      213: -1282889294543689184
+    second: 3 Ataques basicos_48
+  - first:
+      213: 5095511231915776867
+    second: 3 Ataques basicos_49
+  - first:
+      213: 5216732436497727186
+    second: 3 Ataques basicos_50
+  - first:
+      213: 1044428603418364657
+    second: 3 Ataques basicos_51
+  - first:
+      213: 6816775062093773188
+    second: 3 Ataques basicos_52
+  - first:
+      213: 8852753335450460894
+    second: 3 Ataques basicos_53
+  - first:
+      213: -363023086443034908
+    second: 3 Ataques basicos_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3 Ataques basicos_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1917
+        width: 45
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5682229cab0c597d0800000000000000
+      internalID: -2912209675554248603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1916
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7471f32fb449c40800000000000000
+      internalID: 5518118947248359393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1916
+        width: 48
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59843bc162cc210b0800000000000000
+      internalID: -5759316509391107947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_3
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1915
+        width: 49
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9271c35aba6df0800000000000000
+      internalID: -186131565691887745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_4
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1915
+        width: 50
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe8c95dc032268c0800000000000000
+      internalID: -4007602180375933197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_5
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1915
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e8639189f08f620800000000000000
+      internalID: 2808011513597955688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_6
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1915
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d365e0ebdbb318390800000000000000
+      internalID: -7817901792015002051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_7
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1915
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e93a8edf2a2cd70800000000000000
+      internalID: 9061984611636321905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1659
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900f17ba7fd0c1200800000000000000
+      internalID: 152011844808208393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1659
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fee32a1401637330800000000000000
+      internalID: 3707413588502376182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1659
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed07d9ff82c206d0800000000000000
+      internalID: -3025642076011819542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1659
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621da1e30f9de4cc0800000000000000
+      internalID: -3724800215931498202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_12
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1660
+        width: 36
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dae22f1b276f670800000000000000
+      internalID: 8572165049344240924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_13
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1661
+        width: 38
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2aba67ead179840800000000000000
+      internalID: 5230682127366595318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_14
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1662
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a3f2a0539a2e540800000000000000
+      internalID: 5035773378622863961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1405
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ef10dc4788f2140800000000000000
+      internalID: 4697122971607760494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1405
+        width: 41
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d93bff82ab0adcc0800000000000000
+      internalID: -3685620552221115949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1405
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab035cac88f097650800000000000000
+      internalID: 6231028639635681466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_18
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1405
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c27df51ec240290800000000000000
+      internalID: -7925160097778029520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_19
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1405
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ea0886d5d1f4fd0800000000000000
+      internalID: -2355631793069052310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_20
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1405
+        width: 53
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf657af68d1415580800000000000000
+      internalID: -8840212195709593860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_21
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1404
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a666ba94379eb20800000000000000
+      internalID: 3164186973449906753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_22
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1403
+        width: 99
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d05f1d60d927eb70800000000000000
+      internalID: 8928150761446002905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1148
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec14c56c2de9780800000000000000
+      internalID: -8674264082875822439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1148
+        width: 67
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7782705eb45567a50800000000000000
+      internalID: 6518491295118731383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_25
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1149
+        width: 53
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05a71003f86f9dd0800000000000000
+      internalID: -2477145877142592244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1149
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148d1fdf51ca86380800000000000000
+      internalID: -8977736646708307903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_27
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1149
+        width: 46
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e15b52553271460800000000000000
+      internalID: 7212272176868957842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_28
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1150
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8e2a797bfe044a0800000000000000
+      internalID: -6611020681177798461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_29
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1150
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7da03fa4c9782a80800000000000000
+      internalID: -8491403211747316353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 893
+        width: 45
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7355a3e103111b20800000000000000
+      internalID: 3103282517070140283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_31
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 886
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56e346803c4ab8b0800000000000000
+      internalID: -5135708653767891363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 880
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6f7063cc4795a30800000000000000
+      internalID: 4204520147555710698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_33
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 873
+        width: 49
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3070b6f3a55797c0800000000000000
+      internalID: -4064685975971794881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_34
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 866
+        width: 47
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d22418cfbed4100800000000000000
+      internalID: 93990636977532219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_35
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 860
+        width: 46
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfd3aeb507181a00800000000000000
+      internalID: 727356653261021142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_36
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 853
+        width: 42
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0113eb54b552ab0800000000000000
+      internalID: -5033516653414903588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_37
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 847
+        width: 43
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254aa108ebc3e0830800000000000000
+      internalID: 4039232704688596050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 584
+        width: 55
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3df2ea062d7f78a0800000000000000
+      internalID: -6305183350950527685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 578
+        width: 67
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35130f5b70aaad8c0800000000000000
+      internalID: -3973676771107131053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_40
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 580
+        width: 71
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb2c386f7df388b0800000000000000
+      internalID: -5150994825130267717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_41
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 583
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad71e80a862d883e0800000000000000
+      internalID: -2051158283455162406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_42
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 587
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77595601ee4960c20800000000000000
+      internalID: 3172386737727313271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_43
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 590
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a29f615c76c1430800000000000000
+      internalID: 3754990285511797364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_44
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 594
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5631422f2e5b4b000800000000000000
+      internalID: 50865482137604965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_45
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 597
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee185f660dce391e0800000000000000
+      internalID: -2192148213774581266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 345
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5175261193b7430800000000000000
+      internalID: 3781679058934764986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 349
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7220cff0f801000800000000000000
+      internalID: 4660898442651560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_48
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 354
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a6290dbf2423ee0800000000000000
+      internalID: -1282889294543689184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_49
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 358
+        width: 65
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b5a5fd774e6b640800000000000000
+      internalID: 5095511231915776867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_50
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 363
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de74b5f28e856840800000000000000
+      internalID: 5216732436497727186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_51
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 367
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa420cf74e8e7e00800000000000000
+      internalID: 1044428603418364657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_52
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 372
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48937d95dcc0a9e50800000000000000
+      internalID: 6816775062093773188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_53
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 377
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2eda3314c4bda70800000000000000
+      internalID: 8852753335450460894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Ataques basicos_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 126
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e60c4f1d6846faf0800000000000000
+      internalID: -363023086443034908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3 Ataques basicos_0: -2912209675554248603
+      3 Ataques basicos_1: 5518118947248359393
+      3 Ataques basicos_10: -3025642076011819542
+      3 Ataques basicos_11: -3724800215931498202
+      3 Ataques basicos_12: 8572165049344240924
+      3 Ataques basicos_13: 5230682127366595318
+      3 Ataques basicos_14: 5035773378622863961
+      3 Ataques basicos_15: 4697122971607760494
+      3 Ataques basicos_16: -3685620552221115949
+      3 Ataques basicos_17: 6231028639635681466
+      3 Ataques basicos_18: -7925160097778029520
+      3 Ataques basicos_19: -2355631793069052310
+      3 Ataques basicos_2: -5759316509391107947
+      3 Ataques basicos_20: -8840212195709593860
+      3 Ataques basicos_21: 3164186973449906753
+      3 Ataques basicos_22: 8928150761446002905
+      3 Ataques basicos_23: -8674264082875822439
+      3 Ataques basicos_24: 6518491295118731383
+      3 Ataques basicos_25: -2477145877142592244
+      3 Ataques basicos_26: -8977736646708307903
+      3 Ataques basicos_27: 7212272176868957842
+      3 Ataques basicos_28: -6611020681177798461
+      3 Ataques basicos_29: -8491403211747316353
+      3 Ataques basicos_3: -186131565691887745
+      3 Ataques basicos_30: 3103282517070140283
+      3 Ataques basicos_31: -5135708653767891363
+      3 Ataques basicos_32: 4204520147555710698
+      3 Ataques basicos_33: -4064685975971794881
+      3 Ataques basicos_34: 93990636977532219
+      3 Ataques basicos_35: 727356653261021142
+      3 Ataques basicos_36: -5033516653414903588
+      3 Ataques basicos_37: 4039232704688596050
+      3 Ataques basicos_38: -6305183350950527685
+      3 Ataques basicos_39: -3973676771107131053
+      3 Ataques basicos_4: -4007602180375933197
+      3 Ataques basicos_40: -5150994825130267717
+      3 Ataques basicos_41: -2051158283455162406
+      3 Ataques basicos_42: 3172386737727313271
+      3 Ataques basicos_43: 3754990285511797364
+      3 Ataques basicos_44: 50865482137604965
+      3 Ataques basicos_45: -2192148213774581266
+      3 Ataques basicos_46: 3781679058934764986
+      3 Ataques basicos_47: 4660898442651560
+      3 Ataques basicos_48: -1282889294543689184
+      3 Ataques basicos_49: 5095511231915776867
+      3 Ataques basicos_5: 2808011513597955688
+      3 Ataques basicos_50: 5216732436497727186
+      3 Ataques basicos_51: 1044428603418364657
+      3 Ataques basicos_52: 6816775062093773188
+      3 Ataques basicos_53: 8852753335450460894
+      3 Ataques basicos_54: -363023086443034908
+      3 Ataques basicos_6: -7817901792015002051
+      3 Ataques basicos_7: 9061984611636321905
+      3 Ataques basicos_8: 152011844808208393
+      3 Ataques basicos_9: 3707413588502376182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

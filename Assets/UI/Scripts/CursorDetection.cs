@@ -26,7 +26,7 @@ public class CursorDetection : MonoBehaviour {
     void Update () {
 
         //CONFIRM
-        if (Input.GetKeyDown(KeyCode.Z))
+        if (Input.GetKeyDown(KeyCode.J))
         {
             if (currentCharacter != null)
             {
@@ -36,7 +36,7 @@ public class CursorDetection : MonoBehaviour {
         }
 
         //CANCEL
-        if (Input.GetKeyDown(KeyCode.X))
+        if (Input.GetKeyDown(KeyCode.K))
         {
             TheLastStarsCS.instance.confirmedCharacter1 = null;
             TokenFollow(true);

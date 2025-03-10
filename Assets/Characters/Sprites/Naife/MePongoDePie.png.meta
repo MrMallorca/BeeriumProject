@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 80317e22bfd7ae044b3f6944db772882
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1570125517408799124
+    second: MePongoDePie_0
+  - first:
+      213: 1024427557005569243
+    second: MePongoDePie_1
+  - first:
+      213: -5263506631046930872
+    second: MePongoDePie_2
+  - first:
+      213: -3737962828879262719
+    second: MePongoDePie_3
+  - first:
+      213: -7275963010355999000
+    second: MePongoDePie_4
+  - first:
+      213: -4242347135119558993
+    second: MePongoDePie_5
+  - first:
+      213: 969097962968859924
+    second: MePongoDePie_6
+  - first:
+      213: 7540710348488893440
+    second: MePongoDePie_7
+  - first:
+      213: 8718780291770059338
+    second: MePongoDePie_8
+  - first:
+      213: 899415097539964877
+    second: MePongoDePie_9
+  - first:
+      213: 6437240365038390836
+    second: MePongoDePie_10
+  - first:
+      213: 2207050078096909039
+    second: MePongoDePie_11
+  - first:
+      213: -5572965409450644046
+    second: MePongoDePie_12
+  - first:
+      213: 1746671876707892446
+    second: MePongoDePie_13
+  - first:
+      213: 5041061790970377354
+    second: MePongoDePie_14
+  - first:
+      213: 1403341950824978713
+    second: MePongoDePie_15
+  - first:
+      213: -7488901966806279286
+    second: MePongoDePie_16
+  - first:
+      213: 3775297955595607297
+    second: MePongoDePie_17
+  - first:
+      213: -2624522618642123622
+    second: MePongoDePie_18
+  - first:
+      213: 8933691404770326141
+    second: MePongoDePie_19
+  - first:
+      213: -8922250988584650721
+    second: MePongoDePie_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MePongoDePie_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1917
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4998de5d6d43ac510800000000000000
+      internalID: 1570125517408799124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1918
+        width: 120
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc20797f6f773e00800000000000000
+      internalID: 1024427557005569243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1918
+        width: 115
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ed8873b9444f6b0800000000000000
+      internalID: -5263506631046930872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_3
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1917
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c89099c96102cc0800000000000000
+      internalID: -3737962828879262719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1916
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee49d81136960b90800000000000000
+      internalID: -7275963010355999000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_5
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1916
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa67d4de1c72025c0800000000000000
+      internalID: -4242347135119558993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1916
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415405b767de27d00800000000000000
+      internalID: 969097962968859924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_7
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1916
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004eacb0c1cf5a860800000000000000
+      internalID: 7540710348488893440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1660
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a81a53b745ff870800000000000000
+      internalID: 8718780291770059338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1660
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf2e72144d5b7c00800000000000000
+      internalID: 899415097539964877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_10
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1660
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e4beb810ca55950800000000000000
+      internalID: 6437240365038390836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1678
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2e6724a5401ae10800000000000000
+      internalID: 2207050078096909039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_12
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1682
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bda728ac79d8a2b0800000000000000
+      internalID: -5572965409450644046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_13
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1684
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcb65e41dc6d3810800000000000000
+      internalID: 1746671876707892446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_14
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1676
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84759d7df275f540800000000000000
+      internalID: 5041061790970377354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_15
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1667
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919935da11ca97310800000000000000
+      internalID: 1403341950824978713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1405
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b99cec653121890800000000000000
+      internalID: -7488901966806279286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1402
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dd88cfc7d846430800000000000000
+      internalID: 3775297955595607297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_18
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1400
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94bbda6592d39bd0800000000000000
+      internalID: -2624522618642123622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_19
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1402
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76bb4afff8dafb70800000000000000
+      internalID: 8933691404770326141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MePongoDePie_20
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1406
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18b88c7ffbcd2480800000000000000
+      internalID: -8922250988584650721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MePongoDePie_0: 1570125517408799124
+      MePongoDePie_1: 1024427557005569243
+      MePongoDePie_10: 6437240365038390836
+      MePongoDePie_11: 2207050078096909039
+      MePongoDePie_12: -5572965409450644046
+      MePongoDePie_13: 1746671876707892446
+      MePongoDePie_14: 5041061790970377354
+      MePongoDePie_15: 1403341950824978713
+      MePongoDePie_16: -7488901966806279286
+      MePongoDePie_17: 3775297955595607297
+      MePongoDePie_18: -2624522618642123622
+      MePongoDePie_19: 8933691404770326141
+      MePongoDePie_2: -5263506631046930872
+      MePongoDePie_20: -8922250988584650721
+      MePongoDePie_3: -3737962828879262719
+      MePongoDePie_4: -7275963010355999000
+      MePongoDePie_5: -4242347135119558993
+      MePongoDePie_6: 969097962968859924
+      MePongoDePie_7: 7540710348488893440
+      MePongoDePie_8: 8718780291770059338
+      MePongoDePie_9: 899415097539964877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

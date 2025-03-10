@@ -117,13 +117,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3927510372050182526}
-  - component: {fileID: 3656449167812465889}
+  - component: {fileID: 2995714655041963856}
   - component: {fileID: 472796323517978942}
   - component: {fileID: 8331755610933786085}
   - component: {fileID: 3677916965261120776}
   - component: {fileID: 5307362639699744646}
   m_Layer: 8
-  m_Name: Diana
+  m_Name: Naife
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -147,7 +147,7 @@ Transform:
   - {fileID: 3186626243674510354}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3656449167812465889
+--- !u!114 &2995714655041963856
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -156,17 +156,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 6692884895733422554}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37f6855d57a1d76458b505d4bfe4117f, type: 3}
+  m_Script: {fileID: 11500000, guid: aa9c77b56da00c14fb35e695df4668a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  extraGravityForce: 5
-  jumpForce: 8
-  jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  crouch: {fileID: 7040659881675835329, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  normalAttack: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  strongAttack: {fileID: -3002350500028325013, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  extraGravityForce: 10
+  jumpForce: 5
+  jump: {fileID: -2099379676528639254, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
+  move: {fileID: -1680190386980627800, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
+  crouch: {fileID: 7040659881675835329, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
+  normalAttack: {fileID: 1120369429361536294, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
+  strongAttack: {fileID: 100810497327326868, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
   enemyPlayer: {fileID: 0}
 --- !u!54 &472796323517978942
 Rigidbody:
@@ -262,7 +262,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7221785132290695470, guid: 0060c6feeae462f46a73b075312cc653, type: 3}
+  m_Sprite: {fileID: 8793639957104055765, guid: b7b6b15e6f44af24a8f3470ad8bd99a6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -283,7 +283,7 @@ Animator:
   m_GameObject: {fileID: 6692884895733422554}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 9c800d23f97276249b1819e8714a31d0, type: 2}
+  m_Controller: {fileID: 9100000, guid: 1d25fdce0ae21cf4f8393b9c92fdabbb, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
