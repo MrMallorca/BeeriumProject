@@ -2,33 +2,68 @@ using UnityEngine;
 
 public class HealthManage : MonoBehaviour, IDamageable
 {
-    [SerializeField] private float maxHealth = 100f;
+    public static HealthManage instance;
+
+
+    [SerializeField] private float maxHealth_Player1 = 100f;
+    [SerializeField] private float maxHealth_Player2 = 100f;
 
     public HealthBar healthBar;
 
-    private float currentHealth;
+    private float currentHealth_Player1;
+    private float currentHealth_Player2;
 
     public bool HasTakenDamage { get; set; }
 
     private void Start()
     {
-        currentHealth = maxHealth;
-        healthBar.maxHealth(maxHealth);
+        currentHealth_Player1 = maxHealth_Player1;
+        currentHealth_Player2 = maxHealth_Player2;
+        healthBar.maxHealth(maxHealth_Player1, maxHealth_Player2);
     }
-    public void Damage(float damageAmount)
+    public void Damage_Player1(float damageAmount)
     {
         HasTakenDamage = true;
-        currentHealth -= damageAmount;
-        healthBar.SetHealth(currentHealth);
+        currentHealth_Player1 -= damageAmount;
+        healthBar.SetHealth(currentHealth_Player1, currentHealth_Player2);
 
-        if(currentHealth <= 0)
+        if(healthBar.slider_Player1.value <= 0)
         {
-            Die();
+            Die_Player1();
+        }
+    }    
+    public void Damage_Player2(float damageAmount)
+    {
+        HasTakenDamage = true;
+        currentHealth_Player2 -= damageAmount;
+        healthBar.SetHealth(currentHealth_Player1, currentHealth_Player2);
+
+        if(healthBar.slider_Player2.value <= 0)
+        {
+            Die_Player2();
         }
     }
-    private void Die()
+
+    private void Die_Player1()
+    {  
+        Debug.Log("Ha muerto player1");
+    } 
+    private void Die_Player2()
     { 
-        Destroy(gameObject);
-        Debug.Log("Ha muerto");
+        Debug.Log("Ha muerto player2");
+    }
+
+
+    private void Update()
+    {
+        if (healthBar.slider_Player1.value <= 0)
+        {
+            Debug.Log("11111111111111111111111111");
+        }
+        
+        if (healthBar.slider_Player2.value <= 0)
+        {
+            Debug.Log("2222222222222222222222222");
+        }
     }
 }

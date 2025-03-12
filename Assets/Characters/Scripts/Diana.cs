@@ -43,6 +43,8 @@ public class Diana : MonoBehaviour
     private bool canAirAttack = true;
 
 
+    public HealthManage healthManage;
+
 
     private void OnEnable()
     {

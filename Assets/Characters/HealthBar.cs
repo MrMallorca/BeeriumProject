@@ -10,8 +10,6 @@ public class HealthBar : MonoBehaviour
 
     public Slider slider_Player2;
 
-    //public GameObject victoryText;
-
     private void Awake()
     {
         if (instance == null)
@@ -19,14 +17,6 @@ public class HealthBar : MonoBehaviour
             instance = this;
         }
     }
-
-    //private void Update()
-    //{
-    //    if(slider_Player1.value <= 0)
-    //    {
-    //        victoryText.SetActive(true);
-    //    }
-    //}
 
     public void maxHealth(float health_Player1, float health_Player2)
     {

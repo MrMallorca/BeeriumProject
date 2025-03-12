@@ -2318,7 +2318,7 @@ GameObject:
   - component: {fileID: 1980441726}
   - component: {fileID: 1980441727}
   m_Layer: 0
-  m_Name: HelthController
+  m_Name: HealthController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2351,8 +2351,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba6d0b75d9feb9c43b9f3c375c1c890a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slider: {fileID: 0}
-  victoryText: {fileID: 0}
+  slider_Player1: {fileID: 1205989644}
+  slider_Player2: {fileID: 841214525}
 --- !u!1 &2005009717
 GameObject:
   m_ObjectHideFlags: 0
@@ -2560,7 +2560,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 1
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -2625,7 +2625,7 @@ PrefabInstance:
     - target: {fileID: 2440245492875114843, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
       propertyPath: healthBar
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1980441727}
     - target: {fileID: 2995714655041963856, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
       propertyPath: enemyPlayer
       value: 
@@ -2727,7 +2727,7 @@ PrefabInstance:
     - target: {fileID: 2440245492875114843, guid: 9f4e3afd60d7a3d47807576f537a135b, type: 3}
       propertyPath: healthBar
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1980441727}
     - target: {fileID: 2691637010814448983, guid: 9f4e3afd60d7a3d47807576f537a135b, type: 3}
       propertyPath: enemyPlayer
       value: 
