@@ -6,9 +6,9 @@ public class HealthBar : MonoBehaviour
 {
     public static HealthBar instance;
 
-    public Slider slider;
+    public Slider slider_Player1;
 
-    public GameObject victoryText;
+    public Slider slider_Player2;
 
     private void Awake()
     {
@@ -18,25 +18,23 @@ public class HealthBar : MonoBehaviour
         }
     }
 
-    private void Update()
+    public void maxHealth(float health_Player1, float health_Player2)
     {
-        if(slider.value <= 0)
-        {
-            victoryText.SetActive(true);
-        }
-    }
-    public void maxHealth(float health)
-    {
-        slider.maxValue = health;
-        slider.value = health;
+        slider_Player1.maxValue = health_Player1;
+        slider_Player1.value = health_Player1;
+        
+        slider_Player2.maxValue = health_Player2;
+        slider_Player2.value = health_Player2;
     }
 
-    public void SetHealth(float health)
+    public void SetHealth(float health_Player1, float health_Player2)
     {
-        slider.value = health;
+        slider_Player1.value = health_Player1; //Player1
+
+        slider_Player2.value = health_Player2; //Player2
     }
     public float GetHealth()
     {
-        return slider.value;
+        return slider_Player1.value;
     }
 }
