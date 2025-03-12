@@ -64,8 +64,13 @@ public class CursorDetection2 : MonoBehaviour {
                     {
                         currentCharacter.Find("selectedBorder").GetComponent<Image>().DOKill();
                         currentCharacter.Find("selectedBorder").GetComponent<Image>().color = Color.clear;
+
                     }
+
+                   
                     SetCurrentCharacter(raycastCharacter);
+
+
                 }
             }
             else
@@ -86,6 +91,7 @@ public class CursorDetection2 : MonoBehaviour {
         
         if(t != null)
         {
+
             t.Find("selectedBorder").GetComponent<Image>().color = Color.white;
         }
 

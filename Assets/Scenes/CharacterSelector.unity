@@ -389,10 +389,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 780696579}
-        m_TargetAssemblyTypeName: Fight_Btn, Assembly-CSharp
-        m_MethodName: ChangeScene
-        m_Mode: 5
+      - m_Target: {fileID: 1423175835}
+        m_TargetAssemblyTypeName: CharacterSelectorManager, Assembly-CSharp
+        m_MethodName: StartGame
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -849,7 +849,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 780696579}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Fight_Btn, Assembly-CSharp
         m_MethodName: ChangeScene
         m_Mode: 5
@@ -1220,52 +1220,6 @@ MonoBehaviour:
   playerSlotsContainer: {fileID: 1547821892}
   confirmedCharacter1: {fileID: 0}
   confirmedCharacter2: {fileID: 0}
---- !u!1 &780696577
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 780696578}
-  - component: {fileID: 780696579}
-  m_Layer: 0
-  m_Name: ChangeScenes
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &780696578
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 780696577}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.2509058, y: -3.7970345, z: 0.40610322}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &780696579
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 780696577}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70d83026a744d1b418a5f6d1af89bbe9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  fight_btn: {fileID: 121838910}
-  BackButton: {fileID: 0}
 --- !u!1 &822227053
 GameObject:
   m_ObjectHideFlags: 0
@@ -1861,8 +1815,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   personajes:
-  - {fileID: 2048400534195966520, guid: 9f4e3afd60d7a3d47807576f537a135b, type: 3}
-  - {fileID: 4347296266458543124, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
+  - {fileID: 6692884895733422554, guid: 9f4e3afd60d7a3d47807576f537a135b, type: 3}
+  - {fileID: 6692884895733422554, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
+  grid: {fileID: 720315231}
+  fight_btn: {fileID: 121838910}
+  BackButton: {fileID: 0}
 --- !u!4 &1423175836
 Transform:
   m_ObjectHideFlags: 0
@@ -2533,5 +2490,4 @@ SceneRoots:
   - {fileID: 857182218}
   - {fileID: 1453835817}
   - {fileID: 1088041867}
-  - {fileID: 780696578}
   - {fileID: 1423175836}

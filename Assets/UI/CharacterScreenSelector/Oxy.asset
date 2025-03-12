@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b42a62f0080b31b4da087d40c28a2f2b, type: 3}
-  m_Name: NaifeCS
+  m_Name: Oxy
   m_EditorClassIdentifier: 
-  characterName: Naife
-  characterSprite: {fileID: 1383292642103867889, guid: bff05bad13b1cbc43a6ebf3b290a3a51, type: 3}
+  characterName: Oxy
+  characterSprite: {fileID: -4060159693987970359, guid: 5cd8764f7b9156448b1682e149e68320, type: 3}
   zoom: 0.6
