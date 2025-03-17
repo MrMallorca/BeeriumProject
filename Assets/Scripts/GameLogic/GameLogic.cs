@@ -17,7 +17,6 @@ public class GameLogic : MonoBehaviour
             {
                 Instantiate(personaje, transform.position = new Vector3(-6.3f,-3.55f,0), Quaternion.identity);
                 personaje.tag = "Player1";
-                Debug.Log(personaje.tag);
                 break;
             }
         }
@@ -31,7 +30,6 @@ public class GameLogic : MonoBehaviour
             {
                 Instantiate(personaje, transform.position = new Vector3(4.94f, -3.55f, 0), Quaternion.identity);
                 personaje.tag = "Player2";
-                Debug.Log(personaje.tag);
                 break;
             }
         }

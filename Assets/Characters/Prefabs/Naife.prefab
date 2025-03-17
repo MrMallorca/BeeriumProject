@@ -124,6 +124,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth_Player1: 100
   maxHealth_Player2: 100
+  Player1: {fileID: 0}
+  Player2: {fileID: 0}
   healthBar: {fileID: 0}
 --- !u!1 &6692884895733422554
 GameObject:
