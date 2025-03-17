@@ -5,6 +5,8 @@ public class GameLogic : MonoBehaviour
     //Aqui se intanciaran los personajes y se les asignaran las barras de vida.
 
     [SerializeField] GameObject[] personajes;
+    [SerializeField] GameObject player1;
+    [SerializeField] GameObject player2;
 
     private void Start()
     {
@@ -15,7 +17,7 @@ public class GameLogic : MonoBehaviour
         {
             if (personaje.name == personaje1)
             {
-                Instantiate(personaje, transform.position = new Vector3(-6.3f,-3.55f,0), Quaternion.identity);
+                Instantiate(personaje, transform.position = new Vector3(-6.3f,-3.55f,0), Quaternion.identity, player1.transform.parent);
                 personaje.tag = "Player1";
                 Debug.Log(personaje.tag);
                 break;
