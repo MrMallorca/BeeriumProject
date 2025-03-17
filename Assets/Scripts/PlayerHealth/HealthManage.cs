@@ -5,8 +5,11 @@ public class HealthManage : MonoBehaviour, IDamageable
     public static HealthManage instance;
 
 
-    [SerializeField] private float maxHealth_Player1 = 100f;
-    [SerializeField] private float maxHealth_Player2 = 100f;
+    [SerializeField] float maxHealth_Player1 = 100f;
+    [SerializeField] float maxHealth_Player2 = 100f;
+
+    [SerializeField] GameObject Player1;
+    [SerializeField] GameObject Player2;
 
     public HealthBar healthBar;
 
@@ -47,10 +50,12 @@ public class HealthManage : MonoBehaviour, IDamageable
     private void Die_Player1()
     {  
         Debug.Log("Ha muerto player1");
+        Player1.gameObject.SetActive(false);
     } 
     private void Die_Player2()
     { 
         Debug.Log("Ha muerto player2");
+        Player2.gameObject.SetActive(false);
     }
 
 
@@ -58,12 +63,13 @@ public class HealthManage : MonoBehaviour, IDamageable
     {
         if (healthBar.slider_Player1.value <= 0)
         {
-            Debug.Log("11111111111111111111111111");
+            Die_Player1();
+
         }
         
         if (healthBar.slider_Player2.value <= 0)
         {
-            Debug.Log("2222222222222222222222222");
+            Die_Player2();
         }
     }
 }

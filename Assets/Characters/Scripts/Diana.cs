@@ -128,7 +128,6 @@ public class Diana : MonoBehaviour
 
         characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
 
-        Debug.Log(velocity);
     }
 
 

@@ -107,8 +107,6 @@ public class Naife : MonoBehaviour
         {
             canAttack = true;
         }
-
-
     }
 
     // Update is called once per frame
@@ -128,7 +126,6 @@ public class Naife : MonoBehaviour
 
         characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
 
-        Debug.Log(velocity);
     }
 
 
