@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-    public Transform leftTarget;
-    public Transform rightTarget;
+     GameObject leftTarget;
+     GameObject rightTarget;
 
     public float minDistance;
    
@@ -18,13 +18,20 @@ public class CameraController : MonoBehaviour
     private void Start()
     {
         cam = GetComponent<Camera>();
+
+        leftTarget = GameObject.FindGameObjectWithTag("Player1");
+        rightTarget = GameObject.FindGameObjectWithTag("Player2");
+
+        Debug.Log(leftTarget);
+        Debug.Log(rightTarget);
+
     }
 
     private void Update()
     {
-        float distanceBetweenTargets = Mathf.Abs(leftTarget.position.x - rightTarget.position.x);
+        float distanceBetweenTargets = Mathf.Abs(leftTarget.transform.position.x - rightTarget.transform.position.x);
 
-        float centerPosition = (leftTarget.position.x + rightTarget.position.x) / 2;
+        float centerPosition = (leftTarget.transform.position.x + rightTarget.transform.position.x) / 2;
 
         transform.position = new Vector3(centerPosition, transform.position.y,
             distanceBetweenTargets > minDistance ? -distanceBetweenTargets : -minDistance);
