@@ -141,7 +141,7 @@ GameObject:
   - component: {fileID: 5307362639699744646}
   m_Layer: 8
   m_Name: Diana
-  m_TagString: Untagged
+  m_TagString: Player1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -183,7 +183,6 @@ MonoBehaviour:
   crouch: {fileID: 7040659881675835329, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   normalAttack: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   strongAttack: {fileID: -3002350500028325013, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  enemyPlayer: {fileID: 0}
   healthManage: {fileID: 0}
 --- !u!54 &472796323517978942
 Rigidbody:

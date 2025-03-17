@@ -33,7 +33,7 @@ public class Naife : MonoBehaviour
 
     Animator anim;
 
-    [SerializeField] Transform enemyPlayer;
+    GameObject enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
 
@@ -86,13 +86,25 @@ public class Naife : MonoBehaviour
         canAttack = true;
         nroAttack = 0;
 
+
+        if (gameObject.tag == "Player1")
+        {
+            enemyPlayer = GameObject.FindGameObjectWithTag("Player2");
+
+        }
+        else
+        {
+            enemyPlayer = GameObject.FindGameObjectWithTag("Player1");
+
+        }
+
     }
 
     private void Update()
     {
         UpdateAnimatorParameters();
 
-        Vector3 direction = enemyPlayer.position - transform.position;
+        Vector3 direction = enemyPlayer.transform.position - transform.position;
 
         if (direction.x < 0)
         {
