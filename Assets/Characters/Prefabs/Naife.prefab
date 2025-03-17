@@ -78,55 +78,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.4092223, y: 0.23770642}
   m_EdgeRadius: 0
---- !u!1 &6043020788848714065
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8991631231397420132}
-  - component: {fileID: 2440245492875114843}
-  m_Layer: 8
-  m_Name: PlayerHealthControll
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &8991631231397420132
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6043020788848714065}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 3927510372050182526}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2440245492875114843
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6043020788848714065}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a9d8a147cfd49d448b6b4e1f00c67ad1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxHealth_Player1: 100
-  maxHealth_Player2: 100
-  Player1: {fileID: 0}
-  Player2: {fileID: 0}
-  healthBar: {fileID: 0}
 --- !u!1 &6692884895733422554
 GameObject:
   m_ObjectHideFlags: 0
@@ -161,7 +112,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 8991631231397420132}
   - {fileID: 7222808002969943392}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
