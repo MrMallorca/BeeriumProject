@@ -6,12 +6,14 @@ using UnityEngine.UI;
 public class CharacterSelectorManager : MonoBehaviour
 {
 
-    [SerializeField] GameObject[] personajes;
 
     [SerializeField] TheLastStarsCS grid;
 
     [SerializeField] public Button fight_btn;
     [SerializeField] public Button BackButton;
+
+    public static string confirmedCharacter1;
+    public static string confirmedCharacter2;
 
     string currentScene;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -30,13 +32,14 @@ public class CharacterSelectorManager : MonoBehaviour
 
     public void StartGame()
     {
-        
 
-            PlayerPrefs.SetString("selectedCharacter1",grid.confirmedCharacter1.name);
-            PlayerPrefs.SetString("selectedCharacter2", grid.confirmedCharacter2.name);
 
-            Debug.Log(grid.confirmedCharacter1.name);
-            Debug.Log(grid.confirmedCharacter2.name);
+            confirmedCharacter1 = grid.confirmedCharacter1.name;
+            confirmedCharacter2 = grid.confirmedCharacter2.name;
+
+
+            Debug.Log(confirmedCharacter1);
+            Debug.Log(confirmedCharacter2);
 
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         

@@ -445,7 +445,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -11.3, y: -88.7}
+  m_AnchoredPosition: {x: -293, y: 164}
   m_SizeDelta: {x: 61, y: 61}
   m_Pivot: {x: 0.37, y: 0.94}
 --- !u!114 &283504506
@@ -1259,7 +1259,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 181, y: 43}
+  m_AnchoredPosition: {x: 181, y: 160}
   m_SizeDelta: {x: 61, y: 61}
   m_Pivot: {x: 0.37, y: 0.94}
 --- !u!225 &822227057
@@ -1814,9 +1814,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 976e9e0f2261f534288d6859e78cf174, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  personajes:
-  - {fileID: 6692884895733422554, guid: 9f4e3afd60d7a3d47807576f537a135b, type: 3}
-  - {fileID: 6692884895733422554, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
   grid: {fileID: 720315231}
   fight_btn: {fileID: 121838910}
   BackButton: {fileID: 0}

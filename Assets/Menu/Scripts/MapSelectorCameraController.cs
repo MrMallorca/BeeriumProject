@@ -38,7 +38,6 @@ public class MapSelectorCameraController : MonoBehaviour
     }
     public void OnClickYellow()
     {
-        Debug.Log("Yellow camera enable");
 
         Yellowcamera.enabled = true;
         Pinkcamera.enabled = false;
@@ -50,7 +49,6 @@ public class MapSelectorCameraController : MonoBehaviour
 
     public void OnClickGreen()
     {
-        Debug.Log("Green camera enable");
 
         Yellowcamera.enabled = false;
         Pinkcamera.enabled = false;
@@ -61,7 +59,6 @@ public class MapSelectorCameraController : MonoBehaviour
     }
     public void OnClickPink()
     {
-        Debug.Log("Pink camera enable");
 
         Yellowcamera.enabled = false;
         Pinkcamera.enabled = true;
