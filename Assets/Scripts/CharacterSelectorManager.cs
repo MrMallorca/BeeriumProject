@@ -38,9 +38,6 @@ public class CharacterSelectorManager : MonoBehaviour
             confirmedCharacter2 = grid.confirmedCharacter2.name;
 
 
-            Debug.Log(confirmedCharacter1);
-            Debug.Log(confirmedCharacter2);
-
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         
     }
