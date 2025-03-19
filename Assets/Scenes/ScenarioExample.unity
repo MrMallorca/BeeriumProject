@@ -572,8 +572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce306a03c1fc5ad41a516300671a5a6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  leftTarget: {fileID: 0}
-  rightTarget: {fileID: 0}
   minDistance: 5
   maxSize: 10
   minSize: 5
@@ -1145,7 +1143,7 @@ GameObject:
   - component: {fileID: 1025084732}
   m_Layer: 0
   m_Name: Player1
-  m_TagString: Untagged
+  m_TagString: Player1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2172,7 +2170,7 @@ GameObject:
   - component: {fileID: 1628573505}
   m_Layer: 0
   m_Name: Player2
-  m_TagString: Untagged
+  m_TagString: Player2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
