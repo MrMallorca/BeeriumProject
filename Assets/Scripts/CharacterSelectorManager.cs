@@ -9,8 +9,6 @@ public class CharacterSelectorManager : MonoBehaviour
 
     [SerializeField] TheLastStarsCS grid;
 
-    [SerializeField] public Button fight_btn;
-    [SerializeField] public Button BackButton;
 
     public static string confirmedCharacter1;
     public static string confirmedCharacter2;
@@ -42,6 +40,9 @@ public class CharacterSelectorManager : MonoBehaviour
         
     }
 
-    
- 
+    public void BackScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
+
 }
