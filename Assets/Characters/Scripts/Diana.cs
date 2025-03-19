@@ -6,6 +6,8 @@ using UnityEngine.InputSystem;
 
 public class Diana : MonoBehaviour
 {
+    public static Diana instance;
+
     [Header("Movement Settings")]
 
     public float speed;
@@ -42,8 +44,7 @@ public class Diana : MonoBehaviour
     private int nroAttack;
     private bool canAirAttack = true;
 
-
-    public HealthManage healthManage;
+    public float health = 60f; 
 
 
     private void OnEnable()

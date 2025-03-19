@@ -2,11 +2,13 @@ using UnityEngine;
 
 public class GameLogic : MonoBehaviour
 {
+    HealthManage instance;
     //Aqui se intanciaran los personajes y se les asignaran las barras de vida.
 
     [SerializeField] GameObject[] personajes;
     [SerializeField] GameObject player1;
     [SerializeField] GameObject player2;
+
 
     private void Start()
     {
@@ -33,6 +35,8 @@ public class GameLogic : MonoBehaviour
                 break;
             }
         }
+
+        instance.StartComponents();
     }
 
 }

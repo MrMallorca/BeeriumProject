@@ -5,8 +5,8 @@ public class HealthManage : MonoBehaviour, IDamageable
     public static HealthManage instance;
 
 
-    [SerializeField] float maxHealth_Player1 = 100f;
-    [SerializeField] float maxHealth_Player2 = 100f;
+    private float maxHealth_Player1;
+    private float maxHealth_Player2;
 
     [SerializeField] GameObject Player1;
     [SerializeField] GameObject Player2;
@@ -18,12 +18,17 @@ public class HealthManage : MonoBehaviour, IDamageable
 
     public bool HasTakenDamage { get; set; }
 
-    private void Start()
+    public void StartComponents()
     {
-        currentHealth_Player1 = maxHealth_Player1;
-        currentHealth_Player2 = maxHealth_Player2;
+        currentHealth_Player1 = transform.GetChild(0).GetComponent<Diana>().health;
+        currentHealth_Player2 = transform.GetChild(0).GetComponent<Naife>().health;
+
+        Debug.Log(currentHealth_Player1);
+        Debug.Log(currentHealth_Player2);
+
         healthBar.maxHealth(maxHealth_Player1, maxHealth_Player2);
     }
+
     public void Damage_Player1(float damageAmount)
     {
         HasTakenDamage = true;

@@ -6,6 +6,8 @@ using UnityEngine.InputSystem;
 
 public class Naife : MonoBehaviour
 {
+    public static Naife instance;
+
     [Header("Movement Settings")]
 
     //NAIFE NO SALTA
@@ -44,6 +46,7 @@ public class Naife : MonoBehaviour
     private int nroAttack;
     private bool canAirAttack = true;
 
+    public float health = 120f;
 
 
     private void OnEnable()
