@@ -11,7 +11,7 @@ public class HealthManage : MonoBehaviour, IDamageable
     [SerializeField] GameObject Player1;
     [SerializeField] GameObject Player2;
 
-    public HealthBar healthBar;
+     public HealthBar healthBar;
 
     private float currentHealth_Player1;
     private float currentHealth_Player2;
@@ -48,14 +48,20 @@ public class HealthManage : MonoBehaviour, IDamageable
     }
 
     private void Die_Player1()
-    {  
+    {
         Debug.Log("Ha muerto player1");
-        Player1.gameObject.SetActive(false);
-    } 
+        Player1.transform.GetChild(0).gameObject.SetActive(false);
+    }
     private void Die_Player2()
     { 
         Debug.Log("Ha muerto player2");
-        Player2.gameObject.SetActive(false);
+        Player2.transform.GetChild(0).gameObject.SetActive(false);
+    }
+
+    private void RestartPlayers()
+    {
+        Player1.transform.GetChild(0).gameObject.SetActive(true);
+        Player2.transform.GetChild(0).gameObject.SetActive(true);
     }
 
 

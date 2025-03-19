@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class Player_Health : MonoBehaviour
 {
-    public float health;
+    public float health; // La vida depende del personaje 
+                         //Se ha de instanciar la vida a traves de su script
     public float maxHealth = 100f;
 
     private void Start()

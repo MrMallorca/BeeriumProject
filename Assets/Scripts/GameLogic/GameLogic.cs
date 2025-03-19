@@ -29,7 +29,7 @@ public class GameLogic : MonoBehaviour
         {
             if (personaje.name == personaje2)
             {
-                Instantiate(personaje, transform.position = new Vector3(4.94f, -3.55f, 0), Quaternion.identity, player1.transform);
+                Instantiate(personaje, transform.position = new Vector3(4.94f, -3.55f, 0), Quaternion.identity, player2.transform);
                 break;
             }
         }
