@@ -19,16 +19,16 @@ public class CameraController : MonoBehaviour
     {
         cam = GetComponent<Camera>();
 
-        leftTarget = GameObject.FindGameObjectWithTag("Player1");
-        rightTarget = GameObject.FindGameObjectWithTag("Player2");
-
-        Debug.Log(leftTarget);
-        Debug.Log(rightTarget);
+      
 
     }
 
     private void Update()
     {
+        leftTarget = GameObject.FindGameObjectWithTag("Player1");
+        rightTarget = GameObject.FindGameObjectWithTag("Player2");
+
+
         float distanceBetweenTargets = Mathf.Abs(leftTarget.transform.position.x - rightTarget.transform.position.x);
 
         float centerPosition = (leftTarget.transform.position.x + rightTarget.transform.position.x) / 2;
