@@ -20,8 +20,8 @@ public class HealthManage : MonoBehaviour, IDamageable
 
     public void StartComponents()
     {
-        currentHealth_Player1 = Player1.GetComponent<Diana>().health;
-        currentHealth_Player2 = Player2.GetComponent<Diana>().health;
+        //currentHealth_Player1 = Player1.GetComponent<Diana>().health;
+        //currentHealth_Player2 = Player2.GetComponent<Diana>().health;
 
         Debug.Log(currentHealth_Player1);
         Debug.Log(currentHealth_Player2);
