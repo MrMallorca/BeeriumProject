@@ -172,6 +172,7 @@ public class Naife : MonoBehaviour
     //        anim.SetTrigger("Jump");
     //    }
     //}
+
     void OnNormalAttack(InputAction.CallbackContext ctx)
     {
         float attackForce = 2f;

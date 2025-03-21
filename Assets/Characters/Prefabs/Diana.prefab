@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5327199475476749105}
   - component: {fileID: 1928586971832450855}
+  - component: {fileID: 2796438647981166845}
   m_Layer: 8
   m_Name: Square
   m_TagString: Untagged
@@ -78,6 +79,18 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.47322142, y: 0.2418325}
   m_EdgeRadius: 0
+--- !u!114 &2796438647981166845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5926443623068879014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac794167e61b9fb49bab8977bc939f5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6692884895733422554
 GameObject:
   m_ObjectHideFlags: 0
@@ -135,7 +148,7 @@ MonoBehaviour:
   crouch: {fileID: 7040659881675835329, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   normalAttack: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   strongAttack: {fileID: -3002350500028325013, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  healthManage: {fileID: 0}
+  health: 60
 --- !u!54 &472796323517978942
 Rigidbody:
   m_ObjectHideFlags: 0

@@ -44,7 +44,7 @@ public class Diana : MonoBehaviour
     private int nroAttack;
     private bool canAirAttack = true;
 
-    public float health = 60f; 
+    public float health = 60f;
 
 
     private void OnEnable()

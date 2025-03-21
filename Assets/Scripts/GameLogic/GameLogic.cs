@@ -36,7 +36,7 @@ public class GameLogic : MonoBehaviour
             }
         }
 
-        instance.StartComponents();
+        //instance.StartComponents();
     }
 
 }
