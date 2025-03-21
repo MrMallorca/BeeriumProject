@@ -2,8 +2,9 @@ using UnityEngine;
 
 public class HitBox : MonoBehaviour
 {
-    private void OnCollisionEnter2D(Collision2D collision) 
+    private void OnTriggerEnter(Collider collision) 
     {
-        Debug.Log("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+        Collider[] hitbox = Physics.OverlapBox(collision.bounds.center, collision.bounds.extents, collision.transform.rotation);
+        Debug.Log("Pega");
     }
 }

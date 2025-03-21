@@ -18,9 +18,6 @@ public class CameraController : MonoBehaviour
     private void Start()
     {
         cam = GetComponent<Camera>();
-
-      
-
     }
 
     private void Update()

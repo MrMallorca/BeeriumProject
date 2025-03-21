@@ -17,7 +17,6 @@ public class MenuInGame : MonoBehaviour
 
     void Update()
     {
-        Debug.Log("Entra");
         if(Input.GetKeyDown(KeyCode.Escape) && !options)
         {
             PauseGame();
