@@ -20,15 +20,6 @@ public class Diana : MonoBehaviour
 
     Vector3 currentPos;
 
-
-    [Header("Input Actions")]
-
-    [SerializeField] InputActionReference jump;
-    [SerializeField] InputActionReference move;
-    [SerializeField] InputActionReference crouch;
-    [SerializeField] InputActionReference normalAttack;
-    [SerializeField] InputActionReference strongAttack;
-
     [Header("Animation Settings")]
 
     Animator anim;
@@ -45,6 +36,17 @@ public class Diana : MonoBehaviour
     private bool canAirAttack = true;
 
     public float health = 60f;
+
+
+
+    InputActionReference move;
+    InputActionReference jump;
+    InputActionReference crouch;
+    InputActionReference normalAttack;
+    InputActionReference strongAttack;
+
+
+    
 
 
     private void OnEnable()
@@ -87,18 +89,15 @@ public class Diana : MonoBehaviour
         canAttack = true;
         nroAttack = 0;
 
-        if(gameObject.tag == "Player1")
+
+        if (gameObject.tag == "Player1")
         {
             enemyPlayer = GameObject.FindGameObjectWithTag("Player2");
-
         }
         else
         {
             enemyPlayer = GameObject.FindGameObjectWithTag("Player1");
-
         }
-
-
     }
 
     private void Update()

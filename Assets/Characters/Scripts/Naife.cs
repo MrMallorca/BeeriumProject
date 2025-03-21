@@ -23,14 +23,6 @@ public class Naife : MonoBehaviour
     Vector3 currentPos;
 
 
-    [Header("Input Actions")]
-
-   // [SerializeField] InputActionReference jump;
-    [SerializeField] InputActionReference move;
-    [SerializeField] InputActionReference crouch;
-    [SerializeField] InputActionReference normalAttack;
-    [SerializeField] InputActionReference strongAttack;
-
     [Header("Animation Settings")]
 
     Animator anim;
@@ -47,6 +39,16 @@ public class Naife : MonoBehaviour
     private bool canAirAttack = true;
 
     public float health = 120f;
+
+
+
+    InputActionReference move;
+    InputActionReference jump;
+    InputActionReference crouch;
+    InputActionReference normalAttack;
+    InputActionReference strongAttack;
+
+   
 
 
     private void OnEnable()
@@ -93,14 +95,11 @@ public class Naife : MonoBehaviour
         if (gameObject.tag == "Player1")
         {
             enemyPlayer = GameObject.FindGameObjectWithTag("Player2");
-
         }
         else
         {
             enemyPlayer = GameObject.FindGameObjectWithTag("Player1");
-
         }
-
     }
 
     private void Update()

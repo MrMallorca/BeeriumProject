@@ -28,8 +28,7 @@ public class CameraController : MonoBehaviour
         leftTarget = GameObject.FindGameObjectWithTag("Player1");
         rightTarget = GameObject.FindGameObjectWithTag("Player2");
 
-        Debug.Log(leftTarget);
-        Debug.Log(rightTarget);
+
 
 
         float distanceBetweenTargets = Mathf.Abs(leftTarget.transform.position.x - rightTarget.transform.position.x);

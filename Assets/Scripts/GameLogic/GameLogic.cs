@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class GameLogic : MonoBehaviour
 {
@@ -10,6 +11,11 @@ public class GameLogic : MonoBehaviour
     [SerializeField] GameObject player2;
 
 
+    [Header("Input Actions")]
+    public PlayerMovements.ActionSet actionSetPl1;
+    public PlayerMovements.ActionSet actionSetPl2;
+
+
     private void Start()
     {
         string personaje1 = CharacterSelectorManager.confirmedCharacter1;
@@ -19,7 +25,11 @@ public class GameLogic : MonoBehaviour
         {
             if (personaje.name == personaje1)
             {
-                Instantiate(personaje, player1.transform.position , Quaternion.identity, player1.transform);
+                GameObject p1 = Instantiate(personaje, player1.transform.position , Quaternion.identity, player1.transform);
+                p1.tag = "Player1";
+
+                PlayerMovements movements = p1.GetComponent<PlayerMovements>();
+                movements.actionSet = actionSetPl1;
                 break;
             }
         }
@@ -31,7 +41,11 @@ public class GameLogic : MonoBehaviour
         {
             if (personaje.name == personaje2)
             {
-                Instantiate(personaje, player2.transform.position = new Vector3(4.94f, -3.55f, 0), Quaternion.identity, player2.transform);
+                GameObject p2 = Instantiate(personaje, player2.transform.position = new Vector3(4.94f, -3.55f, 0), Quaternion.identity, player2.transform);
+                p2.tag = "Player2";
+
+                PlayerMovements movements = p2.GetComponent<PlayerMovements>();
+                movements.actionSet = actionSetPl2;
                 break;
             }
         }
