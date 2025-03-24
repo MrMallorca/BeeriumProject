@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b42a62f0080b31b4da087d40c28a2f2b, type: 3}
-  m_Name: TempusCS
+  m_Name: Diana
   m_EditorClassIdentifier: 
-  characterName: Tempus
-  characterSprite: {fileID: 5434696126948262914, guid: ce33d29ce18d9cc409bb3038241241c1, type: 3}
+  characterName: Diana
+  characterSprite: {fileID: -4996223053816659362, guid: a9e5d38aec96ba94a95c7dfce44cdcb3, type: 3}
   zoom: 0.6

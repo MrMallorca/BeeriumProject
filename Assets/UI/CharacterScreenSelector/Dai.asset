@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b42a62f0080b31b4da087d40c28a2f2b, type: 3}
-  m_Name: OxyCS
+  m_Name: Dai
   m_EditorClassIdentifier: 
-  characterName: Oxy
-  characterSprite: {fileID: -4060159693987970359, guid: 5cd8764f7b9156448b1682e149e68320, type: 3}
+  characterName: Dai
+  characterSprite: {fileID: -6007857137893288414, guid: 8ba20c34332670a44b00916cb5dedf51, type: 3}
   zoom: 0.6

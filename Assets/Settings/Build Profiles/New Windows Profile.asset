@@ -35,8 +35,6 @@ MonoBehaviour:
   - m_enabled: 1
     m_path: Assets/Menu/Scenes/MapSelector.unity
   - m_enabled: 0
-    m_path: Assets/Scenes/MapSelector.unity
-  - m_enabled: 0
     m_path: Assets/Scenes/ReplayScene.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
