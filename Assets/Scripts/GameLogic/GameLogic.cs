@@ -19,16 +19,43 @@ public class GameLogic : MonoBehaviour
 
     private void Start()
     {
+
         {
+
             string personaje1 = CharacterSelectorManager.confirmedCharacter1;
             GameObject personaje = personajes.Find((x) => x.name == personaje1);
-            InitCharacter(personaje, player1.transform, actionSetPl1, "Player1");
+
+            if (personaje1 == "Random")
+            {
+                int choice = Random.Range(0, personajes.Count);
+
+                personaje = personajes[choice];
+                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1");
+
+            }
+            else
+            {
+                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1");
+            }
+
         }
 
         {
             string personaje2 = CharacterSelectorManager.confirmedCharacter2;
             GameObject personaje = personajes.Find((x) => x.name == personaje2);
-            InitCharacter(personaje, player2.transform, actionSetPl2, "Player2");
+
+            if (personaje2 == "Random")
+            {
+                int choice = Random.Range(0, personajes.Count);
+
+                personaje = personajes[choice];
+                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2");
+
+            }
+            else
+            {
+                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2");
+            }
         }
     }
 
