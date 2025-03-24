@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -6,7 +7,7 @@ public class GameLogic : MonoBehaviour
     HealthManage instance;
     //Aqui se intanciaran los personajes y se les asignaran las barras de vida.
 
-    [SerializeField] GameObject[] personajes;
+    [SerializeField] List<GameObject> personajes;
     [SerializeField] GameObject player1;
     [SerializeField] GameObject player2;
 
@@ -18,39 +19,36 @@ public class GameLogic : MonoBehaviour
 
     private void Start()
     {
-        string personaje1 = CharacterSelectorManager.confirmedCharacter1;
-
-
-        foreach (GameObject personaje in personajes)
         {
-            if (personaje.name == personaje1)
-            {
-                GameObject p1 = Instantiate(personaje, player1.transform.position , Quaternion.identity, player1.transform);
-                p1.tag = "Player1";
-
-                PlayerMovements movements = p1.GetComponent<PlayerMovements>();
-                movements.actionSet = actionSetPl1;
-                break;
-            }
+            string personaje1 = CharacterSelectorManager.confirmedCharacter1;
+            GameObject personaje = personajes.Find((x) => x.name == personaje1);
+            InitCharacter1(personaje, player1.transform, actionSetPl1, "Player1");
         }
 
-        string personaje2 = CharacterSelectorManager.confirmedCharacter2;
-
-
-        foreach (GameObject personaje in personajes)
         {
-            if (personaje.name == personaje2)
-            {
-                GameObject p2 = Instantiate(personaje, player2.transform.position = new Vector3(4.94f, -3.55f, 0), Quaternion.identity, player2.transform);
-                p2.tag = "Player2";
-
-                PlayerMovements movements = p2.GetComponent<PlayerMovements>();
-                movements.actionSet = actionSetPl2;
-                break;
-            }
+            string personaje2 = CharacterSelectorManager.confirmedCharacter2;
+            GameObject personaje = personajes.Find((x) => x.name == personaje2);
+            InitCharacter2(personaje, player2.transform, actionSetPl2, "Player2");
         }
-
-        //instance.StartComponents();
     }
 
+    private void InitCharacter1(GameObject personaje, Transform playerTransform, PlayerMovements.ActionSet actionSet, string tag)
+    {
+        GameObject player = Instantiate(personaje, playerTransform.position, Quaternion.identity, playerTransform);
+        player.tag = tag;
+
+        BaseFighter baseFighter = player.GetComponent<BaseFighter>();
+        baseFighter.InitInputs(actionSetPl1);
+
+    }
+
+    private void InitCharacter2(GameObject personaje, Transform playerTransform, PlayerMovements.ActionSet actionSet, string tag)
+    {
+        GameObject player = Instantiate(personaje, playerTransform.position, Quaternion.identity, playerTransform);
+        player.tag = tag;
+
+        BaseFighter baseFighter = player.GetComponent<BaseFighter>();
+        baseFighter.InitInputs(actionSetPl2);
+
+    }
 }
