@@ -41,6 +41,4 @@ public class GameLogic : MonoBehaviour
         baseFighter.InitInputs(actionSet);
 
     }
-
-  
 }

@@ -64,6 +64,7 @@ public class BaseFighter : MonoBehaviour
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
+
         canAttack = true;
         nroAttack = 0;
 
