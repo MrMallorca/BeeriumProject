@@ -1929,13 +1929,13 @@ RectTransform:
   - {fileID: 326172587}
   - {fileID: 1603630937}
   - {fileID: 720315228}
+  - {fileID: 121838907}
+  - {fileID: 528230986}
   - {fileID: 1547821892}
   - {fileID: 886748736}
   - {fileID: 283504504}
   - {fileID: 25506797}
   - {fileID: 822227054}
-  - {fileID: 121838907}
-  - {fileID: 528230986}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}

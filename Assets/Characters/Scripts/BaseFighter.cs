@@ -104,7 +104,15 @@ public class BaseFighter : MonoBehaviour
     {
         float horizontalSpeed = characterRb.linearVelocity.x;
 
-        anim.SetFloat("Speed", horizontalSpeed);
+        if(gameObject.tag == "Player1")
+        {
+            anim.SetFloat("Speed", horizontalSpeed);
+        }
+        else
+        {
+            anim.SetFloat("Speed", -horizontalSpeed);
+
+        }
 
         if (horizontalSpeed > 0.01f)
         {

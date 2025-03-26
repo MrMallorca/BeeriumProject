@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterCanJump: 0
-  speed: 3
+  speed: 2.5
   extraGravityForce: 10
   jumpForce: 0
   health: 120
