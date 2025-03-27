@@ -177,10 +177,11 @@ public class BaseFighter : MonoBehaviour
 
     protected virtual void OnNormalAttack(InputAction.CallbackContext ctx)
     {
-        float attackForce = 2f;
+        float attackForce = 5f;
 
         if (ctx.performed && isGrounded)
         {
+            Vector3 attackImpulse = Vector3.zero;
 
             if (rawMove.z < -0.1f)
             {
@@ -199,15 +200,38 @@ public class BaseFighter : MonoBehaviour
             }
             else if (canAttack && nroAttack < 3)
             {
+                if(gameObject.tag == "Player1")
+                {
+                    Vector3 forceDirection = transform.right * attackForce; // Empuje hacia adelante
 
-                //characterRb.AddForce(Vector3.forward * attackForce, ForceMode.Impulse);
+                    nroAttack++;
+                    if (nroAttack == 1)
+                        anim.SetInteger("AttackCount", nroAttack);
 
-                nroAttack++;
-                if (nroAttack == 1)
-                    anim.SetInteger("AttackCount", nroAttack);
+                    canAttack = false;
 
-                canAttack = false;
+
+                    characterRb.AddForce(forceDirection, ForceMode.Impulse);
+                }
+                else
+                {
+                    Vector3 forceDirection = -transform.right * attackForce; // Empuje hacia adelante
+
+                    nroAttack++;
+                    if (nroAttack == 1)
+                        anim.SetInteger("AttackCount", nroAttack);
+
+                    canAttack = false;
+
+
+                    characterRb.AddForce(forceDirection, ForceMode.Impulse);
+                }
+               
+
             }
+
+            characterRb.linearVelocity += new Vector3(attackImpulse.x, 0, 0);
+
         }
         else if (ctx.performed && !isGrounded && canAirAttack)
         {

@@ -12,7 +12,7 @@ public class PlayerMovements : MonoBehaviour
         public InputActionReference normalAttack;
         public InputActionReference strongAttack;
     }
-    [Header("Input Actions Player1")]
+    [Header("Input Actions Player")]
     public ActionSet actionSet;
 
 }
