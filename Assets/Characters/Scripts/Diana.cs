@@ -4,4 +4,6 @@ public class Diana : BaseFighter
 {
     public static Diana instance;
 
+    public float health = 70f;
+
 }

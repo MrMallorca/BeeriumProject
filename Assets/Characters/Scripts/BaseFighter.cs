@@ -31,8 +31,6 @@ public class BaseFighter : MonoBehaviour
     private int nroAttack;
     private bool canAirAttack = true;
 
-    public float health = 60f;
-
     bool inputsHaveBeenInited = false;
 
     PlayerMovements movements;

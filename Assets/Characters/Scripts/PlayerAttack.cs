@@ -78,7 +78,7 @@ public class PlayerAttack : MonoBehaviour
             if (iDamageable != null) 
             {
                 //apply damage
-                iDamageable.Damage_Player1(normalAttackDamageAmount);
+                iDamageable.NotifyDamageReceived(normalAttackDamageAmount);
             }
         }
     }
@@ -93,7 +93,7 @@ public class PlayerAttack : MonoBehaviour
             if (iDamageable != null)
             {
                 //apply damage
-                iDamageable.Damage_Player1(specialAttackDamageAmount);
+                iDamageable.NotifyDamageReceived(specialAttackDamageAmount);
             }
         }
     }
