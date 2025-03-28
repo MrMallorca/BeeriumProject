@@ -4,7 +4,6 @@ using UnityEngine.InputSystem;
 
 public class GameLogic : MonoBehaviour
 {
-    HealthManage instance;
     //Aqui se intanciaran los personajes y se les asignaran las barras de vida.
 
     [SerializeField] List<GameObject> personajes;

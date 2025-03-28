@@ -8,12 +8,6 @@ public class Player_Health : MonoBehaviour
 
     HealthBar healthBar;
 
-
-    // La vida depende del personaje 
-    //Se ha de instanciar la vida a traves de su script
-
-
-
     private void Start()
     {
         currentHealth = startingHealth;
@@ -29,7 +23,6 @@ public class Player_Health : MonoBehaviour
         }
 
         healthBar.NotifyLifeChanged(currentHealth, startingHealth);
-        //HealthManage.instance.NotifyLifeChanged(this, currentHealth);
     }
 
     internal void SetHealthBar(HealthBar healthBar)
