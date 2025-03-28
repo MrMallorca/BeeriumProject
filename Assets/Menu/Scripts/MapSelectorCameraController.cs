@@ -17,6 +17,8 @@ public class MapSelectorCameraController : MonoBehaviour
 
     [SerializeField] Button ConfirmBtn;
 
+    [SerializeField] string[] mapas;
+
     public int MapaElegido;
 
 
@@ -36,6 +38,27 @@ public class MapSelectorCameraController : MonoBehaviour
             ConfirmBtn.gameObject.SetActive(true);
         }
     }
+    public void OnClickEarth()
+    {
+
+        Yellowcamera.enabled = false;
+        Pinkcamera.enabled = false;
+        Startcamera.enabled = false;
+        Greencamera.enabled = true;
+
+        MapaElegido = 1;
+    }
+
+    public void OnClickStarsLand()
+    {
+
+        //Yellowcamera.enabled = false;
+        //Pinkcamera.enabled = true;
+        //Greencamera.enabled = false;
+        //Startcamera.enabled = false;
+
+        MapaElegido = 2;
+    }
     public void OnClickYellow()
     {
 
@@ -44,19 +67,10 @@ public class MapSelectorCameraController : MonoBehaviour
         Greencamera.enabled = false;
         Startcamera.enabled = false;
 
-        MapaElegido = 1;
+        MapaElegido = 3;
     }
 
-    public void OnClickGreen()
-    {
-
-        Yellowcamera.enabled = false;
-        Pinkcamera.enabled = false;
-        Startcamera.enabled = false;
-        Greencamera.enabled = true;
-
-        MapaElegido = 2;
-    }
+   
     public void OnClickPink()
     {
 
@@ -65,19 +79,14 @@ public class MapSelectorCameraController : MonoBehaviour
         Greencamera.enabled = false;
         Startcamera.enabled = false;
 
-        MapaElegido = 3;
+        MapaElegido = 4;
     }
+
+  
 
     public void SelectScene(string scene)
-    { SceneManager.LoadScene(scene); }
+    { SceneManager.LoadScene(mapas[MapaElegido]); }
 
 
-    public void OnClickConfirm(string scene)
-    {
-        Debug.Log(MapaElegido);
-
-        SceneManager.LoadScene(scene);
-        
-    }
 
 }
