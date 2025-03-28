@@ -4,12 +4,14 @@ using UnityEngine.InputSystem;
 
 public class GameLogic : MonoBehaviour
 {
-    HealthManage instance;
     //Aqui se intanciaran los personajes y se les asignaran las barras de vida.
 
     [SerializeField] List<GameObject> personajes;
     [SerializeField] GameObject player1;
     [SerializeField] GameObject player2;
+
+    [SerializeField] HealthBar healthBarPL1;
+    [SerializeField] HealthBar healthBarPL2;
 
 
     [Header("Input Actions")]
@@ -30,12 +32,12 @@ public class GameLogic : MonoBehaviour
                 int choice = Random.Range(0, personajes.Count);
 
                 personaje = personajes[choice];
-                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1");
+                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1", healthBarPL1);
 
             }
             else
             {
-                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1");
+                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1", healthBarPL1);
             }
 
         }
@@ -49,23 +51,25 @@ public class GameLogic : MonoBehaviour
                 int choice = Random.Range(0, personajes.Count);
 
                 personaje = personajes[choice];
-                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2");
+                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2", healthBarPL2);
 
             }
             else
             {
-                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2");
+                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2", healthBarPL2);
             }
         }
     }
 
-    private void InitCharacter(GameObject personaje, Transform playerTransform, PlayerMovements.ActionSet actionSet, string tag)
+    private void InitCharacter(GameObject prefabPersonaje, Transform playerTransform, PlayerMovements.ActionSet actionSet, string tag, HealthBar healthBar)
     {
-        GameObject player = Instantiate(personaje, playerTransform.position, Quaternion.identity, playerTransform);
+        GameObject player = Instantiate(prefabPersonaje, playerTransform.position, Quaternion.identity, playerTransform);
         player.tag = tag;
 
         BaseFighter baseFighter = player.GetComponent<BaseFighter>();
         baseFighter.InitInputs(actionSet);
 
+        Player_Health player_Health = player.GetComponent<Player_Health>();
+        player_Health.SetHealthBar(healthBar);
     }
 }
