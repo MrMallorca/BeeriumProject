@@ -71,7 +71,5 @@ public class GameLogic : MonoBehaviour
 
         Player_Health player_Health = player.GetComponent<Player_Health>();
         player_Health.SetHealthBar(healthBar);
-
-        //HealthManage.instance.RegisterPlayerHealth(player_Health, side);
     }
 }

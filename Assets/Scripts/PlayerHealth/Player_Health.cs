@@ -25,6 +25,14 @@ public class Player_Health : MonoBehaviour
         healthBar.NotifyLifeChanged(currentHealth, startingHealth);
     }
 
+    public void aaaaaaaaaaa()
+    {
+        healthBar.NotifyLifeChanged(currentHealth, startingHealth);
+    }
+    //private void Update()
+    //{
+    //    healthBar.NotifyLifeChanged(currentHealth, startingHealth);
+    //}
     internal void SetHealthBar(HealthBar healthBar)
     {
         this.healthBar = healthBar;
