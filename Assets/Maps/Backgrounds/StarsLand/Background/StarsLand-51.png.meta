@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StarsLand-51_0: 3231155797742378413
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
