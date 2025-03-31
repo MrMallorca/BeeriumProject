@@ -955,6 +955,8 @@ MonoBehaviour:
   - {fileID: 6692884895733422554, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
   player1: {fileID: 1025084731}
   player2: {fileID: 1628573504}
+  healthBarPL1: {fileID: 0}
+  healthBarPL2: {fileID: 0}
   actionSetPl1:
     jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
     move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

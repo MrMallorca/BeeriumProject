@@ -146,8 +146,6 @@ MonoBehaviour:
   speed: 2
   extraGravityForce: 5
   jumpForce: 8
-  startingHealth: 60
-  health: 60
 --- !u!114 &7588434998000910269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -306,3 +304,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentHealth: 0
+  startingHealth: 60
