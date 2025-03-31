@@ -13,10 +13,14 @@ public class GameLogic : MonoBehaviour
     [SerializeField] HealthBar healthBarPL1;
     [SerializeField] HealthBar healthBarPL2;
 
+    Player_Health player_Health;
+
 
     [Header("Input Actions")]
     public PlayerMovements.ActionSet actionSetPl1;
     public PlayerMovements.ActionSet actionSetPl2;
+
+    public GameObject HealthBar_GO;
 
 
     private void Start()
@@ -70,6 +74,10 @@ public class GameLogic : MonoBehaviour
         baseFighter.InitInputs(actionSet);
 
         Player_Health player_Health = player.GetComponent<Player_Health>();
-        player_Health.SetHealthBar(healthBar);
+        //player_Health.SetHealthBar(healthBar);
+
+        HealthBar healthBarRef = player.GetComponent<HealthBar>();
+        healthBarRef = HealthBar_GO.gameObject.GetComponentInChildren<HealthBar>();
+        
     }
 }

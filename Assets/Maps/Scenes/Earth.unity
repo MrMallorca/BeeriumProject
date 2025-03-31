@@ -151,8 +151,6 @@ Transform:
   - {fileID: 1501523632}
   - {fileID: 1236533878}
   - {fileID: 544622796}
-  - {fileID: 1025084732}
-  - {fileID: 1628573505}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
@@ -651,50 +649,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 621194453}
   m_CullTransparentMesh: 1
---- !u!1 &647108432
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 647108434}
-  - component: {fileID: 647108433}
-  m_Layer: 0
-  m_Name: HealthManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &647108433
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 647108432}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a9d8a147cfd49d448b6b4e1f00c67ad1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &647108434
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 647108432}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 35.239677, y: 20.240757, z: -0.24800406}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &690789968
 GameObject:
   m_ObjectHideFlags: 0
@@ -729,6 +683,8 @@ MonoBehaviour:
   - {fileID: 6692884895733422554, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
   player1: {fileID: 1025084731}
   player2: {fileID: 1628573504}
+  healthBarPL1: {fileID: 1980441727}
+  healthBarPL2: {fileID: 1980441727}
   actionSetPl1:
     jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
     move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
@@ -741,6 +697,7 @@ MonoBehaviour:
     crouch: {fileID: 7040659881675835329, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
     normalAttack: {fileID: 1120369429361536294, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
     strongAttack: {fileID: 100810497327326868, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
+  HealthBar_GO: {fileID: 0}
 --- !u!4 &690789970
 Transform:
   m_ObjectHideFlags: 0
@@ -1032,7 +989,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1025084732}
-  - component: {fileID: 1025084733}
   m_Layer: 0
   m_Name: Player1
   m_TagString: Untagged
@@ -1049,26 +1005,12 @@ Transform:
   m_GameObject: {fileID: 1025084731}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.09, y: -4.96, z: 0}
+  m_LocalPosition: {x: -9.39, y: -6.26, z: 12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 468738104}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1025084733
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1025084731}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8a71b8d532669140803e61ac009ddd9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentHealth: 0
-  startingHealth: 60
 --- !u!1 &1069876299
 GameObject:
   m_ObjectHideFlags: 0
@@ -1666,7 +1608,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1628573505}
-  - component: {fileID: 1628573506}
   m_Layer: 0
   m_Name: Player2
   m_TagString: Untagged
@@ -1683,26 +1624,12 @@ Transform:
   m_GameObject: {fileID: 1628573504}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.16, y: -4.96, z: 0}
+  m_LocalPosition: {x: 5.8599997, y: -6.26, z: 12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 468738104}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1628573506
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1628573504}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8a71b8d532669140803e61ac009ddd9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentHealth: 0
-  startingHealth: 60
 --- !u!1 &1980441725
 GameObject:
   m_ObjectHideFlags: 0
@@ -1719,7 +1646,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1980441726
 Transform:
   m_ObjectHideFlags: 0
@@ -1914,6 +1841,7 @@ GameObject:
   - component: {fileID: 2138558603}
   - component: {fileID: 2138558602}
   - component: {fileID: 2138558601}
+  - component: {fileID: 2138558605}
   m_Layer: 5
   m_Name: HealthBar_Canvas
   m_TagString: Untagged
@@ -2005,6 +1933,19 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &2138558605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2138558600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba6d0b75d9feb9c43b9f3c375c1c890a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slider: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -2013,10 +1954,11 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 468738104}
   - {fileID: 1069876301}
+  - {fileID: 1025084732}
+  - {fileID: 1628573505}
   - {fileID: 2138558604}
   - {fileID: 2005009720}
   - {fileID: 1980441726}
-  - {fileID: 647108434}
   - {fileID: 780700430}
   - {fileID: 1115132393}
   - {fileID: 690789970}
