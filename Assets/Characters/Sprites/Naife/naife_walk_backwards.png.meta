@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: c7a7d3d6fe27d2c4982ced94d6799b6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5121966018687414649
+    second: naife_walk_backwards_0
+  - first:
+      213: -3462247270270063020
+    second: naife_walk_backwards_1
+  - first:
+      213: 8719650259081556553
+    second: naife_walk_backwards_2
+  - first:
+      213: 3725318502917007092
+    second: naife_walk_backwards_3
+  - first:
+      213: 6448235642904214370
+    second: naife_walk_backwards_4
+  - first:
+      213: -8298989751314267715
+    second: naife_walk_backwards_5
+  - first:
+      213: 1029945927346399505
+    second: naife_walk_backwards_6
+  - first:
+      213: 6988609727741641968
+    second: naife_walk_backwards_7
+  - first:
+      213: 1842337223170687724
+    second: naife_walk_backwards_8
+  - first:
+      213: -6447878731680971588
+    second: naife_walk_backwards_9
+  - first:
+      213: -7555408618642485765
+    second: naife_walk_backwards_10
+  - first:
+      213: 2059236468281672279
+    second: naife_walk_backwards_11
+  - first:
+      213: 8545966615774649792
+    second: naife_walk_backwards_12
+  - first:
+      213: -4477398116053711287
+    second: naife_walk_backwards_13
+  - first:
+      213: 4540484835340828652
+    second: naife_walk_backwards_14
+  - first:
+      213: 1617473643750475525
+    second: naife_walk_backwards_15
+  - first:
+      213: 8403278737244163563
+    second: naife_walk_backwards_16
+  - first:
+      213: -2047400181757983245
+    second: naife_walk_backwards_17
+  - first:
+      213: 1678241293053261828
+    second: naife_walk_backwards_18
+  - first:
+      213: -5406367162454607791
+    second: naife_walk_backwards_19
+  - first:
+      213: -5926841550905112112
+    second: naife_walk_backwards_20
+  - first:
+      213: 7672753248093567063
+    second: naife_walk_backwards_21
+  - first:
+      213: -2122707653708133682
+    second: naife_walk_backwards_22
+  - first:
+      213: -300078188118214570
+    second: naife_walk_backwards_23
+  - first:
+      213: -1225659847660443895
+    second: naife_walk_backwards_24
+  - first:
+      213: -5461050165392262153
+    second: naife_walk_backwards_25
+  - first:
+      213: 6218700916612268369
+    second: naife_walk_backwards_26
+  - first:
+      213: 7139357517422299368
+    second: naife_walk_backwards_27
+  - first:
+      213: 863677071750646594
+    second: naife_walk_backwards_28
+  - first:
+      213: -5584196318519704527
+    second: naife_walk_backwards_29
+  - first:
+      213: 6008300453864905491
+    second: naife_walk_backwards_30
+  - first:
+      213: 2304445811509207522
+    second: naife_walk_backwards_31
+  - first:
+      213: -2059162652935585450
+    second: naife_walk_backwards_32
+  - first:
+      213: 5195274553624169188
+    second: naife_walk_backwards_33
+  - first:
+      213: -4868652846091020418
+    second: naife_walk_backwards_34
+  - first:
+      213: 8903400913293914150
+    second: naife_walk_backwards_35
+  - first:
+      213: 431334762681353443
+    second: naife_walk_backwards_36
+  - first:
+      213: 461220680574611155
+    second: naife_walk_backwards_37
+  - first:
+      213: 5246651833980991126
+    second: naife_walk_backwards_38
+  - first:
+      213: 3365118815126264042
+    second: naife_walk_backwards_39
+  - first:
+      213: 3340625989279748572
+    second: naife_walk_backwards_40
+  - first:
+      213: -8949994908540510881
+    second: naife_walk_backwards_41
+  - first:
+      213: -1585750139012494026
+    second: naife_walk_backwards_42
+  - first:
+      213: -6249059959723199249
+    second: naife_walk_backwards_43
+  - first:
+      213: 6481462959177918297
+    second: naife_walk_backwards_44
+  - first:
+      213: 7386736973808583485
+    second: naife_walk_backwards_45
+  - first:
+      213: 1795829209699659556
+    second: naife_walk_backwards_46
+  - first:
+      213: 6166390393917893014
+    second: naife_walk_backwards_47
+  - first:
+      213: -1156934067709196701
+    second: naife_walk_backwards_48
+  - first:
+      213: 6731630390009431005
+    second: naife_walk_backwards_49
+  - first:
+      213: 7555543481934392010
+    second: naife_walk_backwards_50
+  - first:
+      213: 8268933413219558188
+    second: naife_walk_backwards_51
+  - first:
+      213: 9122457335168523379
+    second: naife_walk_backwards_52
+  - first:
+      213: -6394245316982455409
+    second: naife_walk_backwards_53
+  - first:
+      213: 1583093443386414188
+    second: naife_walk_backwards_54
+  - first:
+      213: 3343277982491829641
+    second: naife_walk_backwards_55
+  - first:
+      213: 2177344582385829394
+    second: naife_walk_backwards_56
+  - first:
+      213: 3701413275410917015
+    second: naife_walk_backwards_57
+  - first:
+      213: 7406972586963498342
+    second: naife_walk_backwards_58
+  - first:
+      213: -5912590141849245589
+    second: naife_walk_backwards_59
+  - first:
+      213: -7936697250249467784
+    second: naife_walk_backwards_60
+  - first:
+      213: 8143255265065501830
+    second: naife_walk_backwards_61
+  - first:
+      213: -3526654968514238225
+    second: naife_walk_backwards_62
+  - first:
+      213: 3773306377838207949
+    second: naife_walk_backwards_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naife_walk_backwards_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1917
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ec3881b0f1be8b0800000000000000
+      internalID: -5121966018687414649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1917
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eacf29370a3ffc0800000000000000
+      internalID: -3462247270270063020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1917
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942f23246bb620970800000000000000
+      internalID: 8719650259081556553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_3
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1917
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6ee89d07df2b330800000000000000
+      internalID: 3725318502917007092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1917
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b715b272cbc7950800000000000000
+      internalID: 6448235642904214370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_5
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1917
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db14e468ac014dc80800000000000000
+      internalID: -8298989751314267715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_6
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1917
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119a7513d5a1b4e00800000000000000
+      internalID: 1029945927346399505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_7
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1917
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f441e725878cf060800000000000000
+      internalID: 6988609727741641968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2819f71fb419910800000000000000
+      internalID: 1842337223170687724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb40c53b4788486a0800000000000000
+      internalID: -6447878731680971588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1661
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdc3e044ebc52790800000000000000
+      internalID: -7555408618642485765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752857858a0e39c10800000000000000
+      internalID: 2059236468281672279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd589bcb5f599670800000000000000
+      internalID: 8545966615774649792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_13
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1661
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9468d9eb2261dd1c0800000000000000
+      internalID: -4477398116053711287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_14
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefb986b6ea030f30800000000000000
+      internalID: 4540484835340828652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_15
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507cd4195bb627610800000000000000
+      internalID: 1617473643750475525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1405
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed08023d717e9470800000000000000
+      internalID: 8403278737244163563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1404
+        width: 38
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5ce3dd16c2693e0800000000000000
+      internalID: -2047400181757983245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1404
+        width: 39
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408f4d7709f4a4710800000000000000
+      internalID: 1678241293053261828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_19
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1404
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1587e8cb5b9b8f4b0800000000000000
+      internalID: -5406367162454607791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_20
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1405
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9864ed201afbda0800000000000000
+      internalID: -5926841550905112112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_21
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1405
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75877d95d681b7a60800000000000000
+      internalID: 7672753248093567063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_22
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1405
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca49b2b2a0aa82e0800000000000000
+      internalID: -2122707653708133682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_23
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1405
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658fe505a78e5dbf0800000000000000
+      internalID: -300078188118214570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1148
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9076db4ccd49dfee0800000000000000
+      internalID: -1225659847660443895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_25
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1148
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbb437fec37634b0800000000000000
+      internalID: -5461050165392262153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_26
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1148
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151021b19834d4650800000000000000
+      internalID: 6218700916612268369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_27
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1148
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8887e06d7141360800000000000000
+      internalID: 7139357517422299368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_28
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1148
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bc85688b56cfb00800000000000000
+      internalID: 863677071750646594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_29
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1148
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c69ed803f082b0800000000000000
+      internalID: -5584196318519704527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_30
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1148
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b9f60fd65c16350800000000000000
+      internalID: 6008300453864905491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_31
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1148
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1a42f81490bff10800000000000000
+      internalID: 2304445811509207522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 892
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65106012a726c63e0800000000000000
+      internalID: -2059162652935585450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 892
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea05674ea2591840800000000000000
+      internalID: 5195274553624169188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_34
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 892
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77dc0e18021f6cb0800000000000000
+      internalID: -4868652846091020418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_35
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 892
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b5c955fb3f8b70800000000000000
+      internalID: 8903400913293914150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_36
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 892
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e446ec6ea86cf500800000000000000
+      internalID: 431334762681353443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 892
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dea6bce3c5966600800000000000000
+      internalID: 461220680574611155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_38
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 892
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696b6988b0adfc840800000000000000
+      internalID: 5246651833980991126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_39
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 892
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae89592bbbd43be20800000000000000
+      internalID: 3365118815126264042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_40
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 636
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1157a43a94c5e20800000000000000
+      internalID: 3340625989279748572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_41
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 636
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d53eebc0b3bc380800000000000000
+      internalID: -8949994908540510881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_42
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 636
+        width: 36
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d42a576a84ef9e0800000000000000
+      internalID: -1585750139012494026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_43
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 637
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4f4985311e649a0800000000000000
+      internalID: -6249059959723199249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_44
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 637
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e6aa9838c2f950800000000000000
+      internalID: 6481462959177918297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_45
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 637
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33ca1d1426f28660800000000000000
+      internalID: 7386736973808583485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_46
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 637
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f2b69c6211ce810800000000000000
+      internalID: 1795829209699659556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 637
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6996bdf646b639550800000000000000
+      internalID: 6166390393917893014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36645a9589eb1ffe0800000000000000
+      internalID: -1156934067709196701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_49
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd38cbb8c2e8b6d50800000000000000
+      internalID: 6731630390009431005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_50
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaa7bd04ceaad860800000000000000
+      internalID: 7555543481934392010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_51
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c236f4ee02721c270800000000000000
+      internalID: 8268933413219558188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_52
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c506d0d9a799e70800000000000000
+      internalID: 9122457335168523379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_53
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 381
+        width: 31
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f834e8a23c31347a0800000000000000
+      internalID: -6394245316982455409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_54
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 381
+        width: 31
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c641c43691748f510800000000000000
+      internalID: 1583093443386414188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_55
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 381
+        width: 30
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9856fc39c95b56e20800000000000000
+      internalID: 3343277982491829641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 125
+        width: 30
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2168ab29c5b773e10800000000000000
+      internalID: 2177344582385829394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 125
+        width: 29
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79668c753cf0e5330800000000000000
+      internalID: 3701413275410917015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_58
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 125
+        width: 31
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f303f25adac660800000000000000
+      internalID: 7406972586963498342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_59
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 125
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68699c979242fda0800000000000000
+      internalID: -5912590141849245589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_60
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8789f0db6ef2bd190800000000000000
+      internalID: -7936697250249467784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_61
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 125
+        width: 36
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6840f8dc487a20170800000000000000
+      internalID: 8143255265065501830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_62
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 125
+        width: 37
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8a75cbdfdce0fc0800000000000000
+      internalID: -3526654968514238225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naife_walk_backwards_63
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 125
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc323c7a82a7d5430800000000000000
+      internalID: 3773306377838207949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      naife_walk_backwards_0: -5121966018687414649
+      naife_walk_backwards_1: -3462247270270063020
+      naife_walk_backwards_10: -7555408618642485765
+      naife_walk_backwards_11: 2059236468281672279
+      naife_walk_backwards_12: 8545966615774649792
+      naife_walk_backwards_13: -4477398116053711287
+      naife_walk_backwards_14: 4540484835340828652
+      naife_walk_backwards_15: 1617473643750475525
+      naife_walk_backwards_16: 8403278737244163563
+      naife_walk_backwards_17: -2047400181757983245
+      naife_walk_backwards_18: 1678241293053261828
+      naife_walk_backwards_19: -5406367162454607791
+      naife_walk_backwards_2: 8719650259081556553
+      naife_walk_backwards_20: -5926841550905112112
+      naife_walk_backwards_21: 7672753248093567063
+      naife_walk_backwards_22: -2122707653708133682
+      naife_walk_backwards_23: -300078188118214570
+      naife_walk_backwards_24: -1225659847660443895
+      naife_walk_backwards_25: -5461050165392262153
+      naife_walk_backwards_26: 6218700916612268369
+      naife_walk_backwards_27: 7139357517422299368
+      naife_walk_backwards_28: 863677071750646594
+      naife_walk_backwards_29: -5584196318519704527
+      naife_walk_backwards_3: 3725318502917007092
+      naife_walk_backwards_30: 6008300453864905491
+      naife_walk_backwards_31: 2304445811509207522
+      naife_walk_backwards_32: -2059162652935585450
+      naife_walk_backwards_33: 5195274553624169188
+      naife_walk_backwards_34: -4868652846091020418
+      naife_walk_backwards_35: 8903400913293914150
+      naife_walk_backwards_36: 431334762681353443
+      naife_walk_backwards_37: 461220680574611155
+      naife_walk_backwards_38: 5246651833980991126
+      naife_walk_backwards_39: 3365118815126264042
+      naife_walk_backwards_4: 6448235642904214370
+      naife_walk_backwards_40: 3340625989279748572
+      naife_walk_backwards_41: -8949994908540510881
+      naife_walk_backwards_42: -1585750139012494026
+      naife_walk_backwards_43: -6249059959723199249
+      naife_walk_backwards_44: 6481462959177918297
+      naife_walk_backwards_45: 7386736973808583485
+      naife_walk_backwards_46: 1795829209699659556
+      naife_walk_backwards_47: 6166390393917893014
+      naife_walk_backwards_48: -1156934067709196701
+      naife_walk_backwards_49: 6731630390009431005
+      naife_walk_backwards_5: -8298989751314267715
+      naife_walk_backwards_50: 7555543481934392010
+      naife_walk_backwards_51: 8268933413219558188
+      naife_walk_backwards_52: 9122457335168523379
+      naife_walk_backwards_53: -6394245316982455409
+      naife_walk_backwards_54: 1583093443386414188
+      naife_walk_backwards_55: 3343277982491829641
+      naife_walk_backwards_56: 2177344582385829394
+      naife_walk_backwards_57: 3701413275410917015
+      naife_walk_backwards_58: 7406972586963498342
+      naife_walk_backwards_59: -5912590141849245589
+      naife_walk_backwards_6: 1029945927346399505
+      naife_walk_backwards_60: -7936697250249467784
+      naife_walk_backwards_61: 8143255265065501830
+      naife_walk_backwards_62: -3526654968514238225
+      naife_walk_backwards_63: 3773306377838207949
+      naife_walk_backwards_7: 6988609727741641968
+      naife_walk_backwards_8: 1842337223170687724
+      naife_walk_backwards_9: -6447878731680971588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

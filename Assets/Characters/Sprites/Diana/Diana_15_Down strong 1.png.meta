@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: b39a38d1a1f39a24cac50edd5230ad68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3131503652717371625
+    second: Diana_15_Down strong_0
+  - first:
+      213: -6982546344914563753
+    second: Diana_15_Down strong_1
+  - first:
+      213: -4525840117656037809
+    second: Diana_15_Down strong_2
+  - first:
+      213: 4435807145831410717
+    second: Diana_15_Down strong_3
+  - first:
+      213: 2507591528714355676
+    second: Diana_15_Down strong_4
+  - first:
+      213: 6148448208828392231
+    second: Diana_15_Down strong_5
+  - first:
+      213: 2318230328459431816
+    second: Diana_15_Down strong_6
+  - first:
+      213: -1080366509247643144
+    second: Diana_15_Down strong_7
+  - first:
+      213: -6289149699102250321
+    second: Diana_15_Down strong_8
+  - first:
+      213: 6575660544768763869
+    second: Diana_15_Down strong_9
+  - first:
+      213: -55291351316611076
+    second: Diana_15_Down strong_10
+  - first:
+      213: -841831970655474435
+    second: Diana_15_Down strong_11
+  - first:
+      213: -7219309061760312583
+    second: Diana_15_Down strong_12
+  - first:
+      213: -3762791075072641378
+    second: Diana_15_Down strong_13
+  - first:
+      213: 8384667560569703493
+    second: Diana_15_Down strong_14
+  - first:
+      213: -3226690995190659681
+    second: Diana_15_Down strong_15
+  - first:
+      213: 6552359813113316258
+    second: Diana_15_Down strong_16
+  - first:
+      213: -5126946078709007596
+    second: Diana_15_Down strong_17
+  - first:
+      213: 772409898482974270
+    second: Diana_15_Down strong_18
+  - first:
+      213: 3381729339808949407
+    second: Diana_15_Down strong_19
+  - first:
+      213: 7738889720475823432
+    second: Diana_15_Down strong_20
+  - first:
+      213: -1011685011971667003
+    second: Diana_15_Down strong_21
+  - first:
+      213: -156455876578274894
+    second: Diana_15_Down strong_22
+  - first:
+      213: 1249463947386874845
+    second: Diana_15_Down strong_23
+  - first:
+      213: 6388431877196333538
+    second: Diana_15_Down strong_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_15_Down strong_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1917
+        width: 45
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0ae011bf5557b20800000000000000
+      internalID: 3131503652717371625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1914
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d4aab2813091f90800000000000000
+      internalID: -6982546344914563753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1916
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4656e4546cf031c0800000000000000
+      internalID: -4525840117656037809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_3
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1923
+        width: 113
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cab63e8172f8d30800000000000000
+      internalID: 4435807145831410717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_4
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1914
+        width: 119
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd34cc6a531ccc220800000000000000
+      internalID: 2507591528714355676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_5
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1917
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7236a1fe11da35550800000000000000
+      internalID: 6148448208828392231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_6
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1920
+        width: 118
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f8c5383320c2020800000000000000
+      internalID: 2318230328459431816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_7
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1922
+        width: 117
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1c0154264c101f0800000000000000
+      internalID: -1080366509247643144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1669
+        width: 115
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa61c58ba378b8a0800000000000000
+      internalID: -6289149699102250321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1667
+        width: 113
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd76e761d60714b50800000000000000
+      internalID: 6575660544768763869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1666
+        width: 111
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff3f951fc09b3ff0800000000000000
+      internalID: -55291351316611076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_11
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1664
+        width: 109
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc638c68463154f0800000000000000
+      internalID: -841831970655474435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_12
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1663
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa940a68acdfcb90800000000000000
+      internalID: -7219309061760312583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_13
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1661
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96f84e0471e7cbc0800000000000000
+      internalID: -3762791075072641378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_14
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1660
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c8f73f8b25c5470800000000000000
+      internalID: 8384667560569703493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_15
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1659
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9585b7b2ad7833d0800000000000000
+      internalID: -3226690995190659681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1402
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30a2db888aeea50800000000000000
+      internalID: 6552359813113316258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1402
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bb7f384bd69d8b0800000000000000
+      internalID: -5126946078709007596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1402
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eb214d5b628ba00800000000000000
+      internalID: 772409898482974270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_19
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1402
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9424d9dae05eee20800000000000000
+      internalID: 3381729339808949407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_20
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1402
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d22e8c23f066b60800000000000000
+      internalID: 7738889720475823432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_21
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1402
+        width: 63
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb87dc77d5c5f1f0800000000000000
+      internalID: -1011685011971667003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_22
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1403
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1978d853824ddf0800000000000000
+      internalID: -156455876578274894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_23
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1404
+        width: 52
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbe6a717dcf65110800000000000000
+      internalID: 1249463947386874845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15_Down strong_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1149
+        width: 45
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1c118e1f448a850800000000000000
+      internalID: 6388431877196333538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Diana_15_Down strong_0: 3131503652717371625
+      Diana_15_Down strong_1: -6982546344914563753
+      Diana_15_Down strong_10: -55291351316611076
+      Diana_15_Down strong_11: -841831970655474435
+      Diana_15_Down strong_12: -7219309061760312583
+      Diana_15_Down strong_13: -3762791075072641378
+      Diana_15_Down strong_14: 8384667560569703493
+      Diana_15_Down strong_15: -3226690995190659681
+      Diana_15_Down strong_16: 6552359813113316258
+      Diana_15_Down strong_17: -5126946078709007596
+      Diana_15_Down strong_18: 772409898482974270
+      Diana_15_Down strong_19: 3381729339808949407
+      Diana_15_Down strong_2: -4525840117656037809
+      Diana_15_Down strong_20: 7738889720475823432
+      Diana_15_Down strong_21: -1011685011971667003
+      Diana_15_Down strong_22: -156455876578274894
+      Diana_15_Down strong_23: 1249463947386874845
+      Diana_15_Down strong_24: 6388431877196333538
+      Diana_15_Down strong_3: 4435807145831410717
+      Diana_15_Down strong_4: 2507591528714355676
+      Diana_15_Down strong_5: 6148448208828392231
+      Diana_15_Down strong_6: 2318230328459431816
+      Diana_15_Down strong_7: -1080366509247643144
+      Diana_15_Down strong_8: -6289149699102250321
+      Diana_15_Down strong_9: 6575660544768763869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 6ddad4b944c56c443b7b4a4fed1e8617
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2340001952953854580
+    second: ostiapabajo_0
+  - first:
+      213: 1255586459162124501
+    second: ostiapabajo_1
+  - first:
+      213: -56353578145511326
+    second: ostiapabajo_2
+  - first:
+      213: -8322826519309155078
+    second: ostiapabajo_3
+  - first:
+      213: 1898817993309405645
+    second: ostiapabajo_4
+  - first:
+      213: -2855227007597885704
+    second: ostiapabajo_5
+  - first:
+      213: 5770324826932174782
+    second: ostiapabajo_6
+  - first:
+      213: -2161509961029069007
+    second: ostiapabajo_7
+  - first:
+      213: -8170791844572798597
+    second: ostiapabajo_8
+  - first:
+      213: -4368433928199438348
+    second: ostiapabajo_9
+  - first:
+      213: 711321503690529545
+    second: ostiapabajo_10
+  - first:
+      213: 8912937338954235349
+    second: ostiapabajo_11
+  - first:
+      213: -1725695219694632582
+    second: ostiapabajo_12
+  - first:
+      213: 4021059246085530090
+    second: ostiapabajo_13
+  - first:
+      213: 1170879192075869101
+    second: ostiapabajo_14
+  - first:
+      213: -6633255448444420220
+    second: ostiapabajo_15
+  - first:
+      213: -5362808059650814646
+    second: ostiapabajo_16
+  - first:
+      213: 4163168136664533348
+    second: ostiapabajo_17
+  - first:
+      213: -2103322266577327952
+    second: ostiapabajo_18
+  - first:
+      213: 8551119465916364875
+    second: ostiapabajo_19
+  - first:
+      213: 6506323578145215451
+    second: ostiapabajo_20
+  - first:
+      213: 408725549928300960
+    second: ostiapabajo_21
+  - first:
+      213: -5839403047402158494
+    second: ostiapabajo_22
+  - first:
+      213: 1090679260684551921
+    second: ostiapabajo_23
+  - first:
+      213: 7225826927161870594
+    second: ostiapabajo_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ostiapabajo_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1917
+        width: 45
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8517742f94a68fd0800000000000000
+      internalID: -2340001952953854580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1917
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d026237b3dbc6110800000000000000
+      internalID: 1255586459162124501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1917
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26880d028bac73ff0800000000000000
+      internalID: -56353578145511326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1917
+        width: 49
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4806d70616f7c80800000000000000
+      internalID: -8322826519309155078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_4
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1917
+        width: 48
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1c35097e4f95a10800000000000000
+      internalID: 1898817993309405645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_5
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1917
+        width: 46
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6c60b0a223068d0800000000000000
+      internalID: -2855227007597885704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_6
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1917
+        width: 42
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfd8eb8bdf441050800000000000000
+      internalID: 5770324826932174782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_7
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1917
+        width: 44
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137d4628426c002e0800000000000000
+      internalID: -2161509961029069007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1661
+        width: 56
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71649aab148b9e80800000000000000
+      internalID: -8170791844572798597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1661
+        width: 67
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff78ecbc743063c0800000000000000
+      internalID: -4368433928199438348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_10
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1659
+        width: 71
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b129c832f1fd900800000000000000
+      internalID: 711321503690529545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_11
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1659
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddbea9794d11bb70800000000000000
+      internalID: 8912937338954235349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_12
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1658
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71038f37591d08e0800000000000000
+      internalID: -1725695219694632582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1658
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae16abf641cadc730800000000000000
+      internalID: 4021059246085530090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_14
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1657
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab149eeb6ccf3010800000000000000
+      internalID: 1170879192075869101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_15
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1657
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fbb0b6051f1f3a0800000000000000
+      internalID: -6633255448444420220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1401
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d49edab7a7395b0800000000000000
+      internalID: -5362808059650814646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1401
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4694d16ec5b86c930800000000000000
+      internalID: 4163168136664533348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_18
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1401
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b82d7cda8f7fc2e0800000000000000
+      internalID: -2103322266577327952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1402
+        width: 65
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487fd539ddaba670800000000000000
+      internalID: 8551119465916364875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_20
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1402
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3181582da1b4a50800000000000000
+      internalID: 6506323578145215451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_21
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1403
+        width: 53
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a14a1ed8b51ca500800000000000000
+      internalID: 408725549928300960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_22
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1404
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266c24bedd546fea0800000000000000
+      internalID: -5839403047402158494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_23
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1405
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f60df8420fd22f00800000000000000
+      internalID: 1090679260684551921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ostiapabajo_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1150
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2098fe16e4b474460800000000000000
+      internalID: 7225826927161870594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ostiapabajo_0: -2340001952953854580
+      ostiapabajo_1: 1255586459162124501
+      ostiapabajo_10: 711321503690529545
+      ostiapabajo_11: 8912937338954235349
+      ostiapabajo_12: -1725695219694632582
+      ostiapabajo_13: 4021059246085530090
+      ostiapabajo_14: 1170879192075869101
+      ostiapabajo_15: -6633255448444420220
+      ostiapabajo_16: -5362808059650814646
+      ostiapabajo_17: 4163168136664533348
+      ostiapabajo_18: -2103322266577327952
+      ostiapabajo_19: 8551119465916364875
+      ostiapabajo_2: -56353578145511326
+      ostiapabajo_20: 6506323578145215451
+      ostiapabajo_21: 408725549928300960
+      ostiapabajo_22: -5839403047402158494
+      ostiapabajo_23: 1090679260684551921
+      ostiapabajo_24: 7225826927161870594
+      ostiapabajo_3: -8322826519309155078
+      ostiapabajo_4: 1898817993309405645
+      ostiapabajo_5: -2855227007597885704
+      ostiapabajo_6: 5770324826932174782
+      ostiapabajo_7: -2161509961029069007
+      ostiapabajo_8: -8170791844572798597
+      ostiapabajo_9: -4368433928199438348
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

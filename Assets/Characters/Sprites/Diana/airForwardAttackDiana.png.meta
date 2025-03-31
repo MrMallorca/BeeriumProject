@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: d2b66da19b865cb4095df8392215ceed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5710714994381258652
+    second: airForwardAttackDiana_0
+  - first:
+      213: 3159803206805526174
+    second: airForwardAttackDiana_1
+  - first:
+      213: 6523114589017603896
+    second: airForwardAttackDiana_2
+  - first:
+      213: 7367212036728905966
+    second: airForwardAttackDiana_3
+  - first:
+      213: -589114175952224039
+    second: airForwardAttackDiana_4
+  - first:
+      213: 1822930914943514259
+    second: airForwardAttackDiana_5
+  - first:
+      213: -686865658144650309
+    second: airForwardAttackDiana_6
+  - first:
+      213: 9050650276433630000
+    second: airForwardAttackDiana_7
+  - first:
+      213: -5996146508755288672
+    second: airForwardAttackDiana_8
+  - first:
+      213: -3959639720417193858
+    second: airForwardAttackDiana_9
+  - first:
+      213: -4209845250321361653
+    second: airForwardAttackDiana_10
+  - first:
+      213: -6979457474769638765
+    second: airForwardAttackDiana_11
+  - first:
+      213: -3091049328894645960
+    second: airForwardAttackDiana_12
+  - first:
+      213: 8731653556729005337
+    second: airForwardAttackDiana_13
+  - first:
+      213: 4279435427231714670
+    second: airForwardAttackDiana_14
+  - first:
+      213: 7138483823762539853
+    second: airForwardAttackDiana_15
+  - first:
+      213: -374787016954314838
+    second: airForwardAttackDiana_16
+  - first:
+      213: -3354398477081228609
+    second: airForwardAttackDiana_17
+  - first:
+      213: -4769367341660716234
+    second: airForwardAttackDiana_18
+  - first:
+      213: -1726241027291405721
+    second: airForwardAttackDiana_19
+  - first:
+      213: 1672646216728533673
+    second: airForwardAttackDiana_20
+  - first:
+      213: -4872343954317871904
+    second: airForwardAttackDiana_21
+  - first:
+      213: -6088461985681821699
+    second: airForwardAttackDiana_22
+  - first:
+      213: 4161872780441810136
+    second: airForwardAttackDiana_23
+  - first:
+      213: -8319359506120949769
+    second: airForwardAttackDiana_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: airForwardAttackDiana_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1922
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f779dd709804f40800000000000000
+      internalID: 5710714994381258652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1919
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9698c57640e9db20800000000000000
+      internalID: 3159803206805526174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1935
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fff836822c68a50800000000000000
+      internalID: 6523114589017603896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_3
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1965
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0653270589d3660800000000000000
+      internalID: 7367212036728905966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_4
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1931
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0883a37cb03d7f0800000000000000
+      internalID: -589114175952224039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_5
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1931
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3963943420a5c4910800000000000000
+      internalID: 1822930914943514259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_6
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1931
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb8fd5b253c776f0800000000000000
+      internalID: -686865658144650309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_7
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1930
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0331e19597e5a9d70800000000000000
+      internalID: 9050650276433630000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1674
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad317ce48869cca0800000000000000
+      internalID: -5996146508755288672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1674
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70910247a88c09c0800000000000000
+      internalID: -3959639720417193858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1674
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05da3fac00a395c0800000000000000
+      internalID: -4209845250321361653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1674
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a296bc76cf32f90800000000000000
+      internalID: -6979457474769638765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_12
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1674
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839660033036a15d0800000000000000
+      internalID: -3091049328894645960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_13
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1674
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915cb96c5a01d2970800000000000000
+      internalID: 8731653556729005337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_14
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1674
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d4e5ff8db936b30800000000000000
+      internalID: 4279435427231714670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_15
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1674
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d450d36673df01360800000000000000
+      internalID: 7138483823762539853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1417
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf720c913d7ccaf0800000000000000
+      internalID: -374787016954314838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1416
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba46728b58c271d0800000000000000
+      internalID: -3354398477081228609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1415
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633c6f40cadcfcdb0800000000000000
+      internalID: -4769367341660716234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1414
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76227938ee82b08e0800000000000000
+      internalID: -1726241027291405721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_20
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1413
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa510f3fde663710800000000000000
+      internalID: 1672646216728533673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_21
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1413
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47c530df4f16cb0800000000000000
+      internalID: -4872343954317871904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_22
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1412
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff27f20510718ba0800000000000000
+      internalID: -6088461985681821699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_23
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1412
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4f9964e31f1c930800000000000000
+      internalID: 4161872780441810136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airForwardAttackDiana_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff34e66b92bb8c80800000000000000
+      internalID: -8319359506120949769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      airForwardAttackDiana_0: 5710714994381258652
+      airForwardAttackDiana_1: 3159803206805526174
+      airForwardAttackDiana_10: -4209845250321361653
+      airForwardAttackDiana_11: -6979457474769638765
+      airForwardAttackDiana_12: -3091049328894645960
+      airForwardAttackDiana_13: 8731653556729005337
+      airForwardAttackDiana_14: 4279435427231714670
+      airForwardAttackDiana_15: 7138483823762539853
+      airForwardAttackDiana_16: -374787016954314838
+      airForwardAttackDiana_17: -3354398477081228609
+      airForwardAttackDiana_18: -4769367341660716234
+      airForwardAttackDiana_19: -1726241027291405721
+      airForwardAttackDiana_2: 6523114589017603896
+      airForwardAttackDiana_20: 1672646216728533673
+      airForwardAttackDiana_21: -4872343954317871904
+      airForwardAttackDiana_22: -6088461985681821699
+      airForwardAttackDiana_23: 4161872780441810136
+      airForwardAttackDiana_24: -8319359506120949769
+      airForwardAttackDiana_3: 7367212036728905966
+      airForwardAttackDiana_4: -589114175952224039
+      airForwardAttackDiana_5: 1822930914943514259
+      airForwardAttackDiana_6: -686865658144650309
+      airForwardAttackDiana_7: 9050650276433630000
+      airForwardAttackDiana_8: -5996146508755288672
+      airForwardAttackDiana_9: -3959639720417193858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

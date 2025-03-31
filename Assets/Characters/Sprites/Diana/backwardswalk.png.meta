@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: fbc39ced0d447584bbc12199331fcf52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1455766088010930570
+    second: backwardswalk_0
+  - first:
+      213: -6165061658674073415
+    second: backwardswalk_1
+  - first:
+      213: -8906032358485868975
+    second: backwardswalk_2
+  - first:
+      213: -9201713211558192852
+    second: backwardswalk_3
+  - first:
+      213: -2210559846740726874
+    second: backwardswalk_4
+  - first:
+      213: -6116704238353218617
+    second: backwardswalk_5
+  - first:
+      213: -894360842092279236
+    second: backwardswalk_6
+  - first:
+      213: 7407703177761438381
+    second: backwardswalk_7
+  - first:
+      213: 6081165473326177895
+    second: backwardswalk_8
+  - first:
+      213: 3264325009043592952
+    second: backwardswalk_9
+  - first:
+      213: 5501229880511159790
+    second: backwardswalk_10
+  - first:
+      213: -4517177093287272016
+    second: backwardswalk_11
+  - first:
+      213: 1439891653801780254
+    second: backwardswalk_12
+  - first:
+      213: 7509543545052552575
+    second: backwardswalk_13
+  - first:
+      213: 3441552402054363095
+    second: backwardswalk_14
+  - first:
+      213: -3020594649145648744
+    second: backwardswalk_15
+  - first:
+      213: -8045929880114047628
+    second: backwardswalk_16
+  - first:
+      213: -4491215634278259373
+    second: backwardswalk_17
+  - first:
+      213: -7857084972234570338
+    second: backwardswalk_18
+  - first:
+      213: 7837777451925979227
+    second: backwardswalk_19
+  - first:
+      213: -8217268074132675417
+    second: backwardswalk_20
+  - first:
+      213: 2782630744345112620
+    second: backwardswalk_21
+  - first:
+      213: -797103804449071945
+    second: backwardswalk_22
+  - first:
+      213: 1663271415198551621
+    second: backwardswalk_23
+  - first:
+      213: -8337033138708535955
+    second: backwardswalk_24
+  - first:
+      213: -7913307649489266795
+    second: backwardswalk_25
+  - first:
+      213: 6111166107153437204
+    second: backwardswalk_26
+  - first:
+      213: -7389186445561650722
+    second: backwardswalk_27
+  - first:
+      213: -8286245381841819956
+    second: backwardswalk_28
+  - first:
+      213: 5032855911066135310
+    second: backwardswalk_29
+  - first:
+      213: 6560963886777585081
+    second: backwardswalk_30
+  - first:
+      213: 5249803930469376822
+    second: backwardswalk_31
+  - first:
+      213: -3265822024654863207
+    second: backwardswalk_32
+  - first:
+      213: -7817262454865654780
+    second: backwardswalk_33
+  - first:
+      213: 3929266029927831717
+    second: backwardswalk_34
+  - first:
+      213: -8287141500932375699
+    second: backwardswalk_35
+  - first:
+      213: 199716863986681306
+    second: backwardswalk_36
+  - first:
+      213: 210363752478295363
+    second: backwardswalk_37
+  - first:
+      213: 1198250278566410319
+    second: backwardswalk_38
+  - first:
+      213: 8063088100561376385
+    second: backwardswalk_39
+  - first:
+      213: -8380467463342696969
+    second: backwardswalk_40
+  - first:
+      213: -1637027630657323306
+    second: backwardswalk_41
+  - first:
+      213: 6696977404270639970
+    second: backwardswalk_42
+  - first:
+      213: -2763716623970584612
+    second: backwardswalk_43
+  - first:
+      213: 1581218910475342605
+    second: backwardswalk_44
+  - first:
+      213: -8985735532385461322
+    second: backwardswalk_45
+  - first:
+      213: -5545622332367532483
+    second: backwardswalk_46
+  - first:
+      213: 4550249991702311167
+    second: backwardswalk_47
+  - first:
+      213: -324049455559630937
+    second: backwardswalk_48
+  - first:
+      213: 2461809843580689776
+    second: backwardswalk_49
+  - first:
+      213: 5406811792857966802
+    second: backwardswalk_50
+  - first:
+      213: 3974487632100290657
+    second: backwardswalk_51
+  - first:
+      213: 5163961507022812799
+    second: backwardswalk_52
+  - first:
+      213: -5574611536938993
+    second: backwardswalk_53
+  - first:
+      213: 4670352390281392104
+    second: backwardswalk_54
+  - first:
+      213: 1403023903744720888
+    second: backwardswalk_55
+  - first:
+      213: 2247590230318943529
+    second: backwardswalk_56
+  - first:
+      213: -7728972047761593104
+    second: backwardswalk_57
+  - first:
+      213: 6508488972637042019
+    second: backwardswalk_58
+  - first:
+      213: -3603029951765526253
+    second: backwardswalk_59
+  - first:
+      213: -8946834082657006472
+    second: backwardswalk_60
+  - first:
+      213: -5657254080645132896
+    second: backwardswalk_61
+  - first:
+      213: -5471342973912163828
+    second: backwardswalk_62
+  - first:
+      213: -3821828364043249496
+    second: backwardswalk_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backwardswalk_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1917
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6766c08b4741ccbe0800000000000000
+      internalID: -1455766088010930570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1917
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0f958d51d417aa0800000000000000
+      internalID: -6165061658674073415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1917
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eb05291ca676480800000000000000
+      internalID: -8906032358485868975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_3
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1917
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c291e0c3692fc4080800000000000000
+      internalID: -9201713211558192852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1917
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abe64c08838251e0800000000000000
+      internalID: -2210559846740726874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_5
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1917
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c384d427e91d1ba0800000000000000
+      internalID: -6116704238353218617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_6
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1917
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a021a7d879693f0800000000000000
+      internalID: -894360842092279236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_7
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1917
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab000eac27dc660800000000000000
+      internalID: 7407703177761438381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e1af157c3a46450800000000000000
+      internalID: 6081165473326177895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f69773fc463d4d20800000000000000
+      internalID: 3264325009043592952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1661
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd1a7fd6b485c40800000000000000
+      internalID: 5501229880511159790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1a41fdd53cf41c0800000000000000
+      internalID: -4517177093287272016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14a7eb84d58bf310800000000000000
+      internalID: 1439891653801780254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_13
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1661
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d5f242112473860800000000000000
+      internalID: 7509543545052552575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_14
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7b750fca9d2cf20800000000000000
+      internalID: 3441552402054363095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_15
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8995a3f9b21b416d0800000000000000
+      internalID: -3020594649145648744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1405
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475d918376d175090800000000000000
+      internalID: -8045929880114047628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1404
+        width: 38
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355e9251d2ffba1c0800000000000000
+      internalID: -4491215634278259373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1404
+        width: 39
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9506eba8d606f290800000000000000
+      internalID: -7857084972234570338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_19
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1404
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b504d92f01165cc60800000000000000
+      internalID: 7837777451925979227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_20
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1405
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4e929393666fd80800000000000000
+      internalID: -8217268074132675417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_21
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1405
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2075c14be3ed9620800000000000000
+      internalID: 2782630744345112620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_22
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1405
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc53b6205e10f4f0800000000000000
+      internalID: -797103804449071945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_23
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1405
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e88fb2a80251710800000000000000
+      internalID: 1663271415198551621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1148
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d652e962888ec4c80800000000000000
+      internalID: -8337033138708535955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_25
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1148
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5979fc98e984e2290800000000000000
+      internalID: -7913307649489266795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1148
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412994432393fc450800000000000000
+      internalID: 6111166107153437204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1148
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1aa2dc316547990800000000000000
+      internalID: -7389186445561650722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_28
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1149
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e8954ab7510d80800000000000000
+      internalID: -8286245381841819956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_29
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1149
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b62d039cb48d540800000000000000
+      internalID: 5032855911066135310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_30
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1149
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd4b8fb4e93d0b50800000000000000
+      internalID: 6560963886777585081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_31
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1149
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633a3103cdc0bd840800000000000000
+      internalID: 5249803930469376822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 893
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994ccc0fb287da2d0800000000000000
+      internalID: -3265822024654863207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 893
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c0cb50731838390800000000000000
+      internalID: -7817262454865654780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_34
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 893
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a89bd5d2ae878630800000000000000
+      internalID: 3929266029927831717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_35
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 894
+        width: 37
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b378946b82efc80800000000000000
+      internalID: -8287141500932375699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_36
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 893
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5c49dfd6985c200800000000000000
+      internalID: 199716863986681306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_37
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 893
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3454614e7bc5be200800000000000000
+      internalID: 210363752478295363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_38
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 893
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48b6fd974a01a010800000000000000
+      internalID: 1198250278566410319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_39
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 893
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184d3aa48e7d5ef60800000000000000
+      internalID: 8063088100561376385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 637
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f55db36e3992bb80800000000000000
+      internalID: -8380467463342696969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 637
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6debb231b0c1849e0800000000000000
+      internalID: -1637027630657323306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 637
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7e52977170fc50800000000000000
+      internalID: 6696977404270639970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_43
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 637
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd734609f5e45a9d0800000000000000
+      internalID: -2763716623970584612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_44
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 637
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03530fa83e91f510800000000000000
+      internalID: 1581218910475342605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_45
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 637
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb1f8a44214c4380800000000000000
+      internalID: -8985735532385461322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_46
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 637
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e82c4eeddf903b0800000000000000
+      internalID: -5545622332367532483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_47
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 637
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0f3aa524cb52f30800000000000000
+      internalID: 4550249991702311167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 381
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af95bfacbeb08bf0800000000000000
+      internalID: -324049455559630937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_49
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 380
+        width: 35
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ddf2f620b1a2220800000000000000
+      internalID: 2461809843580689776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 380
+        width: 36
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d821b8ddaad80b40800000000000000
+      internalID: 5406811792857966802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_51
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 380
+        width: 37
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16075839177382730800000000000000
+      internalID: 3974487632100290657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_52
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 380
+        width: 37
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76b2eb71a31aa740800000000000000
+      internalID: 5163961507022812799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_53
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 380
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08749b9be13ceff0800000000000000
+      internalID: -5574611536938993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_54
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 380
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef6e9e11cc60d040800000000000000
+      internalID: 4670352390281392104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_55
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 380
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fff5129eca887310800000000000000
+      internalID: 1403023903744720888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 124
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d8ccef76b013f10800000000000000
+      internalID: 2247590230318943529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_57
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 124
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc2f365fdc2db490800000000000000
+      internalID: -7728972047761593104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_58
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 124
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f396bc3cc25a50800000000000000
+      internalID: 6508488972637042019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_59
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 124
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194ce939577ffdc0800000000000000
+      internalID: -3603029951765526253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_60
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 125
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c0fdeddc576d380800000000000000
+      internalID: -8946834082657006472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_61
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 125
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad840713656d71b0800000000000000
+      internalID: -5657254080645132896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_62
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 125
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ad2abbd82e114b0800000000000000
+      internalID: -5471342973912163828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backwardswalk_63
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 125
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a890b01a5326fac0800000000000000
+      internalID: -3821828364043249496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      backwardswalk_0: -1455766088010930570
+      backwardswalk_1: -6165061658674073415
+      backwardswalk_10: 5501229880511159790
+      backwardswalk_11: -4517177093287272016
+      backwardswalk_12: 1439891653801780254
+      backwardswalk_13: 7509543545052552575
+      backwardswalk_14: 3441552402054363095
+      backwardswalk_15: -3020594649145648744
+      backwardswalk_16: -8045929880114047628
+      backwardswalk_17: -4491215634278259373
+      backwardswalk_18: -7857084972234570338
+      backwardswalk_19: 7837777451925979227
+      backwardswalk_2: -8906032358485868975
+      backwardswalk_20: -8217268074132675417
+      backwardswalk_21: 2782630744345112620
+      backwardswalk_22: -797103804449071945
+      backwardswalk_23: 1663271415198551621
+      backwardswalk_24: -8337033138708535955
+      backwardswalk_25: -7913307649489266795
+      backwardswalk_26: 6111166107153437204
+      backwardswalk_27: -7389186445561650722
+      backwardswalk_28: -8286245381841819956
+      backwardswalk_29: 5032855911066135310
+      backwardswalk_3: -9201713211558192852
+      backwardswalk_30: 6560963886777585081
+      backwardswalk_31: 5249803930469376822
+      backwardswalk_32: -3265822024654863207
+      backwardswalk_33: -7817262454865654780
+      backwardswalk_34: 3929266029927831717
+      backwardswalk_35: -8287141500932375699
+      backwardswalk_36: 199716863986681306
+      backwardswalk_37: 210363752478295363
+      backwardswalk_38: 1198250278566410319
+      backwardswalk_39: 8063088100561376385
+      backwardswalk_4: -2210559846740726874
+      backwardswalk_40: -8380467463342696969
+      backwardswalk_41: -1637027630657323306
+      backwardswalk_42: 6696977404270639970
+      backwardswalk_43: -2763716623970584612
+      backwardswalk_44: 1581218910475342605
+      backwardswalk_45: -8985735532385461322
+      backwardswalk_46: -5545622332367532483
+      backwardswalk_47: 4550249991702311167
+      backwardswalk_48: -324049455559630937
+      backwardswalk_49: 2461809843580689776
+      backwardswalk_5: -6116704238353218617
+      backwardswalk_50: 5406811792857966802
+      backwardswalk_51: 3974487632100290657
+      backwardswalk_52: 5163961507022812799
+      backwardswalk_53: -5574611536938993
+      backwardswalk_54: 4670352390281392104
+      backwardswalk_55: 1403023903744720888
+      backwardswalk_56: 2247590230318943529
+      backwardswalk_57: -7728972047761593104
+      backwardswalk_58: 6508488972637042019
+      backwardswalk_59: -3603029951765526253
+      backwardswalk_6: -894360842092279236
+      backwardswalk_60: -8946834082657006472
+      backwardswalk_61: -5657254080645132896
+      backwardswalk_62: -5471342973912163828
+      backwardswalk_63: -3821828364043249496
+      backwardswalk_7: 7407703177761438381
+      backwardswalk_8: 6081165473326177895
+      backwardswalk_9: 3264325009043592952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
