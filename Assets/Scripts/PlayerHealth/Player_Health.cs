@@ -33,10 +33,10 @@ public class Player_Health : HealthBar
 
     private void Update()
     {
-        if (slider.value <= 0) 
-        {
-            Debug.Log("Muerto");
-        }
+        //if (slider.value <= 0) 
+        //{
+        //    Debug.Log("Muerto");
+        //}
     }
 
     //internal void SetHealthBar(HealthBar healthBar)

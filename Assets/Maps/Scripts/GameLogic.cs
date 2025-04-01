@@ -20,7 +20,7 @@ public class GameLogic : MonoBehaviour
     public PlayerMovements.ActionSet actionSetPl1;
     public PlayerMovements.ActionSet actionSetPl2;
 
-    public GameObject HealthBar_GO;
+    //public GameObject HealthBar_GO;
 
 
     private void Start()
@@ -36,12 +36,12 @@ public class GameLogic : MonoBehaviour
                 int choice = Random.Range(0, personajes.Count);
 
                 personaje = personajes[choice];
-                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1", healthBarPL1);
+                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1");
 
             }
             else
             {
-                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1", healthBarPL1);
+                InitCharacter(personaje, player1.transform, actionSetPl1, "Player1");
             }
 
         }
@@ -55,17 +55,17 @@ public class GameLogic : MonoBehaviour
                 int choice = Random.Range(0, personajes.Count);
 
                 personaje = personajes[choice];
-                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2", healthBarPL2);
+                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2");
 
             }
             else
             {
-                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2", healthBarPL2);
+                InitCharacter(personaje, player2.transform, actionSetPl2, "Player2");
             }
         }
     }
 
-    private void InitCharacter(GameObject prefabPersonaje, Transform playerTransform, PlayerMovements.ActionSet actionSet, string tag, HealthBar healthBar)
+    private void InitCharacter(GameObject prefabPersonaje, Transform playerTransform, PlayerMovements.ActionSet actionSet, string tag)
     {
         GameObject player = Instantiate(prefabPersonaje, playerTransform.position, Quaternion.identity, playerTransform);
         player.tag = tag;
@@ -73,11 +73,11 @@ public class GameLogic : MonoBehaviour
         BaseFighter baseFighter = player.GetComponent<BaseFighter>();
         baseFighter.InitInputs(actionSet);
 
-        Player_Health player_Health = player.GetComponent<Player_Health>();
-        //player_Health.SetHealthBar(healthBar);
+        //Player_Health player_Health = player.GetComponent<Player_Health>();
+        ////player_Health.SetHealthBar(healthBar);
 
-        HealthBar healthBarRef = player.GetComponent<HealthBar>();
-        healthBarRef = HealthBar_GO.gameObject.GetComponentInChildren<HealthBar>();
+        //HealthBar healthBarRef = player.GetComponent<HealthBar>();
+        //healthBarRef = HealthBar_GO.gameObject.GetComponentInChildren<HealthBar>();
         
     }
 }
