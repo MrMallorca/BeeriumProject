@@ -19,7 +19,7 @@ public class HealthBar : MonoBehaviour
 
     protected virtual void DoAwake()
     {
-
+        Debug.Log("Acceso a DOAWAKE()");
     }
 
     internal void NotifyLifeChanged(float currentHealth, float startingHealth)
