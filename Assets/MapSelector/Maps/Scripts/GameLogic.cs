@@ -10,10 +10,10 @@ public class GameLogic : MonoBehaviour
     [SerializeField] GameObject player1;
     [SerializeField] GameObject player2;
 
-    [SerializeField] HealthBar healthBarPL1;
-    [SerializeField] HealthBar healthBarPL2;
+    //[SerializeField] HealthBar healthBarPL1;
+    //[SerializeField] HealthBar healthBarPL2;
 
-    Player_Health player_Health;
+    //Player_Health player_Health;
 
 
     [Header("Input Actions")]
