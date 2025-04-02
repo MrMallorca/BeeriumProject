@@ -1370,6 +1370,7 @@ MonoBehaviour:
   YellowBtn: {fileID: 800009951}
   PinkBtn: {fileID: 885789947}
   GreenBtn: {fileID: 1845963956}
+  StarsBtn: {fileID: 508822835}
   ConfirmBtn: {fileID: 2049086358}
   mapas:
   - 
@@ -3261,8 +3262,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 329.29996, y: -206.277}
-  m_SizeDelta: {x: -739.782, y: -486.324}
+  m_AnchoredPosition: {x: 329.29996, y: -189.4}
+  m_SizeDelta: {x: -739.782, y: -430.1474}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2049086356
 MonoBehaviour:
@@ -3416,7 +3417,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: ScenarioExample
+          m_StringArgument: StarsLand
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1660057539 &9223372036854775807

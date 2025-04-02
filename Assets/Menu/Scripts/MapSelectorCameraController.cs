@@ -14,6 +14,7 @@ public class MapSelectorCameraController : MonoBehaviour
     [SerializeField] Button YellowBtn;
     [SerializeField] Button PinkBtn;
     [SerializeField] Button GreenBtn;
+    [SerializeField] Button StarsBtn;
 
     [SerializeField] Button ConfirmBtn;
 
