@@ -17,7 +17,6 @@ public class MenuInGame : MonoBehaviour
 
     void Update()
     {
-        //Debug.Log("Entra");
         if(Input.GetKeyDown(KeyCode.Escape) && !options)
         {
             PauseGame();
@@ -28,7 +27,6 @@ public class MenuInGame : MonoBehaviour
             ReturnGame();
             options = false;
         }
-
     }
 
     public void ReturnGame()
@@ -46,7 +44,4 @@ public class MenuInGame : MonoBehaviour
         SceneManager.LoadScene(scene);
         Time.timeScale = 1.0f;
     }
-
-    public void Exit()
-    { Application.Quit(); }
 }

@@ -106,6 +106,7 @@ GameObject:
   - component: {fileID: 8331755610933786085}
   - component: {fileID: 3677916965261120776}
   - component: {fileID: 5307362639699744646}
+  - component: {fileID: 4732683438138352802}
   m_Layer: 8
   m_Name: Diana
   m_TagString: Untagged
@@ -141,10 +142,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37f6855d57a1d76458b505d4bfe4117f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  characterCanJump: 1
+  speed: 2
   extraGravityForce: 5
   jumpForce: 8
-  health: 60
 --- !u!114 &7588434998000910269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -157,16 +158,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd91380f8485f3f4b947e8de20a4e427, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  crouch: {fileID: 7040659881675835329, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  normalAttack: {fileID: 1120369429361536294, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  strongAttack: {fileID: -3002350500028325013, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  jump2: {fileID: -2099379676528639254, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
-  move2: {fileID: -1680190386980627800, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
-  crouch2: {fileID: 7040659881675835329, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
-  normalAttack2: {fileID: 1120369429361536294, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
-  strongAttack2: {fileID: 100810497327326868, guid: 9e8f6902da8dbae43ad03114f4d3426e, type: 3}
+  actionSet:
+    jump: {fileID: 0}
+    move: {fileID: 0}
+    crouch: {fileID: 0}
+    normalAttack: {fileID: 0}
+    strongAttack: {fileID: 0}
 --- !u!54 &472796323517978942
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -294,3 +291,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &4732683438138352802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6692884895733422554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8a71b8d532669140803e61ac009ddd9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slider: {fileID: 0}
+  currentHealth: 0
+  startingHealth: 60

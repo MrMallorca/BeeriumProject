@@ -1,40 +1,30 @@
+using System;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
 {
-    public static HealthBar instance;
-
-    public Slider slider_Player1;
-
-    public Slider slider_Player2;
+    [HideInInspector] public Slider slider;
 
     private void Awake()
     {
-        if (instance == null)
-        {
-            instance = this;
-        }
+        Debug.Log("Healthbar awake");
+        slider = GetComponent<Slider>();
+
+        DoAwake();
+
+
     }
 
-    public void maxHealth(float health_Player1, float health_Player2)
+    protected virtual void DoAwake()
     {
-        slider_Player1.maxValue = health_Player1;
-        slider_Player1.value = health_Player1;
-        
-        slider_Player2.maxValue = health_Player2;
-        slider_Player2.value = health_Player2;
+
     }
 
-    public void SetHealth(float health_Player1, float health_Player2)
+    internal void NotifyLifeChanged(float currentHealth, float startingHealth)
     {
-        slider_Player1.value = health_Player1; //Player1
-
-        slider_Player2.value = health_Player2; //Player2
-    }
-    public float GetHealth()
-    {
-        return slider_Player1.value;
+        slider.maxValue = startingHealth;
+        slider.value = currentHealth;
     }
 }

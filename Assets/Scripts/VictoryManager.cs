@@ -6,7 +6,8 @@ public class VictoryManager : MonoBehaviour
     [SerializeField] TMP_Text Player1Victory;
     [SerializeField] TMP_Text Player2Victory;
 
-    public HealthBar instance;
+    public HealthBar healthBarPL1;
+    public HealthBar healthBarPL2;
 
     private void Awake()
     {
@@ -14,11 +15,11 @@ public class VictoryManager : MonoBehaviour
     }
     void Update()
     {
-        if(HealthBar.instance.slider_Player1.value <= 0)
+        if(healthBarPL2.slider.value <= 0)
         {
             Debug.Log("player1 victory");
             Player1Victory.enabled = true;
-        }if(HealthBar.instance.slider_Player2.value <= 0)
+        }if(healthBarPL1.slider.value <= 0)
         {
             Debug.Log("player2 victory");
             Player2Victory.enabled = true;

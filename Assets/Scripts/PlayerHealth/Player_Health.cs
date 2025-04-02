@@ -1,26 +1,46 @@
+using System;
 using UnityEngine;
 
-public class Player_Health : MonoBehaviour
+public class Player_Health : HealthBar
 {
-    public float health;
-    private float maxHealth;
+    public float currentHealth;
+    [HideInInspector]  public float startingHealth = 70f;
 
-    // La vida depende del personaje 
-    //Se ha de instanciar la vida a traves de su script
-
-
-
-    private void Start()
+    protected override void DoAwake()
     {
-        health = maxHealth;
-        Debug.Log(health);
+        Debug.Log("Player_Health DoAwake");
+        currentHealth = startingHealth;
+        Debug.Log(currentHealth);
+        //Destroy(this);
     }
+
+
     public void TakeDamage(int amount)
     {
-        health -= amount;
-        if(health <= 0)
+        currentHealth -= amount;
+        if(currentHealth <= 0)
         {
             Destroy(gameObject);
         }
+
+        NotifyLifeChanged(currentHealth, startingHealth);
     }
+
+    //public void aaaaaaaaaaa()
+    //{
+    //    healthBar.NotifyLifeChanged(currentHealth, startingHealth);
+    //}
+
+    private void Update()
+    {
+        //if (slider.value <= 0) 
+        //{
+        //    Debug.Log("Muerto");
+        //}
+    }
+
+    //internal void SetHealthBar(HealthBar healthBar)
+    //{
+    //    this.healthBar = healthBar;
+    //}
 }

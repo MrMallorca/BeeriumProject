@@ -1,4 +1,3 @@
-using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -10,6 +9,8 @@ public class CharacterSelectorManager : MonoBehaviour
     [SerializeField] TheLastStarsCS grid;
 
 
+    [SerializeField] Button startGame;
+
     public static string confirmedCharacter1;
     public static string confirmedCharacter2;
 
@@ -19,13 +20,24 @@ public class CharacterSelectorManager : MonoBehaviour
     {
         currentScene = SceneManager.GetActiveScene().name;
 
+        startGame.gameObject.SetActive(false);
+
 
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        if(grid.confirmedCharacter1 != null && grid.confirmedCharacter2 != null)
+        {
+            startGame.gameObject.SetActive(true);
+            startGame.interactable = true;
+        }
+        else
+        {
+            startGame.gameObject.SetActive(false);
+            startGame.interactable = false;
+        }
     }
 
     public void StartGame()
