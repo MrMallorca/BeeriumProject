@@ -128,12 +128,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 468738104}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e64dbf8e783b845419f6025b6707dc60, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 54.271652
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e64dbf8e783b845419f6025b6707dc60, type: 3}
       propertyPath: m_LocalScale.z
       value: 173.8504
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e64dbf8e783b845419f6025b6707dc60, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.45
+      value: 7.4921
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e64dbf8e783b845419f6025b6707dc60, type: 3}
       propertyPath: m_LocalPosition.y
@@ -827,8 +831,6 @@ MonoBehaviour:
   - {fileID: 6692884895733422554, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
   player1: {fileID: 1025084731}
   player2: {fileID: 1628573504}
-  healthBarPL1: {fileID: 0}
-  healthBarPL2: {fileID: 0}
   actionSetPl1:
     jump: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
     move: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
@@ -1228,12 +1230,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1025084731}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8a71b8d532669140803e61ac009ddd9, type: 3}
+  m_Script: {fileID: 11500000, guid: 93d92d8e33439f340841d02aeba886c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slider: {fileID: 0}
-  currentHealth: 0
-  startingHealth: 60
+  health: 0
+  maxHealth: 100
+  healthBar: {fileID: 1397701385}
 --- !u!1 &1102193749
 GameObject:
   m_ObjectHideFlags: 0
@@ -1777,12 +1779,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1628573504}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e8a71b8d532669140803e61ac009ddd9, type: 3}
+  m_Script: {fileID: 11500000, guid: 93d92d8e33439f340841d02aeba886c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slider: {fileID: 0}
-  currentHealth: 0
-  startingHealth: 60
+  health: 0
+  maxHealth: 100
+  healthBar: {fileID: 559663458}
 --- !u!1 &1980441725
 GameObject:
   m_ObjectHideFlags: 0
@@ -1827,7 +1829,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba6d0b75d9feb9c43b9f3c375c1c890a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slider: {fileID: 0}
 --- !u!1 &2005009717
 GameObject:
   m_ObjectHideFlags: 0

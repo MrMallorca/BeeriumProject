@@ -16,6 +16,7 @@ public class MapSelectorCameraController : MonoBehaviour
     [SerializeField] Button PinkBtn;
     [SerializeField] Button GreenBtn;
     [SerializeField] Button StarsBtn;
+    [SerializeField] Button EarthPrueba_Btn;
 
     [SerializeField] Button ConfirmBtn;
 
@@ -88,10 +89,21 @@ public class MapSelectorCameraController : MonoBehaviour
         MapaElegido = 4;
     }
 
-  
+    //public void OnClickEarthPrueba()
+    //{
+
+    //    Yellowcamera.enabled = false;
+    //    Pinkcamera.enabled = true;
+    //    Greencamera.enabled = false;
+    //    Startcamera.enabled = false;
+
+    //    MapaElegido = 5;
+    //}
+
+
 
     public void SelectScene(string scene)
-    { SceneManager.LoadScene(mapas[MapaElegido]); }
+    { SceneManager.LoadScene(mapas[MapaElegido]);}
 
 
 
