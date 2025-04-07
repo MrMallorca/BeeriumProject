@@ -1,26 +1,23 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class GameLogic : MonoBehaviour
 {
-    //Aqui se intanciaran los personajes y se les asignaran las barras de vida.
 
     [SerializeField] List<GameObject> personajes;
     [SerializeField] GameObject player1;
     [SerializeField] GameObject player2;
 
-    //[SerializeField] HealthBar healthBarPL1;
-    //[SerializeField] HealthBar healthBarPL2;
-
-    //Player_Health player_Health;
+    [SerializeField] Slider player1Health;
+    [SerializeField] Slider player2Health;
 
 
     [Header("Input Actions")]
     public PlayerMovements.ActionSet actionSetPl1;
     public PlayerMovements.ActionSet actionSetPl2;
 
-    //public GameObject HealthBar_GO;
 
 
     private void Start()
@@ -73,11 +70,15 @@ public class GameLogic : MonoBehaviour
         BaseFighter baseFighter = player.GetComponent<BaseFighter>();
         baseFighter.InitInputs(actionSet);
 
-        //Player_Health player_Health = player.GetComponent<Player_Health>();
-        ////player_Health.SetHealthBar(healthBar);
-
-        //HealthBar healthBarRef = player.GetComponent<HealthBar>();
-        //healthBarRef = HealthBar_GO.gameObject.GetComponentInChildren<HealthBar>();
-        
+        if (tag == "Player1")
+        {
+            player1Health.maxValue = baseFighter.health;
+            player1Health.value = baseFighter.health;
+        }
+        else if (tag == "Player2")
+        {
+            player2Health.maxValue = baseFighter.health;
+            player2Health.value = baseFighter.health;
+        }
     }
 }

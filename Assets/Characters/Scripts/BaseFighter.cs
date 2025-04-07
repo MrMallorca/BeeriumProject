@@ -35,6 +35,8 @@ public class BaseFighter : MonoBehaviour
 
     PlayerMovements movements;
 
+    public float health;
+
 
 
     public void InitInputs(PlayerMovements.ActionSet actionSetPl)
@@ -95,6 +97,12 @@ public class BaseFighter : MonoBehaviour
         if (anim.GetCurrentAnimatorStateInfo(0).IsName("Idle") && nroAttack == 0)
         {
             canAttack = true;
+        }
+
+
+        if(health < 0)
+        {
+            Destroy(gameObject);
         }
     }
 

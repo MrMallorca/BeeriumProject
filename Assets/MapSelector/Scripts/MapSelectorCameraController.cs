@@ -9,6 +9,7 @@ public class MapSelectorCameraController : MonoBehaviour
     [SerializeField] CinemachineCamera Yellowcamera;
     [SerializeField] CinemachineCamera Pinkcamera;
     [SerializeField] CinemachineCamera Greencamera;
+    [SerializeField] CinemachineCamera StarsLandCamera;
     [SerializeField] CinemachineCamera Startcamera;
 
     [SerializeField] Button YellowBtn;
@@ -28,6 +29,7 @@ public class MapSelectorCameraController : MonoBehaviour
         Yellowcamera.enabled = false;
         Pinkcamera.enabled = false;
         Greencamera.enabled = false;
+        StarsLandCamera.enabled = false;
         Startcamera.enabled = true;
 
         MapaElegido = 0;
@@ -45,6 +47,7 @@ public class MapSelectorCameraController : MonoBehaviour
         Yellowcamera.enabled = false;
         Pinkcamera.enabled = false;
         Startcamera.enabled = false;
+        StarsLandCamera.enabled = false;
         Greencamera.enabled = true;
 
         MapaElegido = 1;
@@ -52,11 +55,11 @@ public class MapSelectorCameraController : MonoBehaviour
 
     public void OnClickStarsLand()
     {
-
-        //Yellowcamera.enabled = false;
-        //Pinkcamera.enabled = true;
-        //Greencamera.enabled = false;
-        //Startcamera.enabled = false;
+        StarsLandCamera.enabled = true;
+        Yellowcamera.enabled = false;
+        Pinkcamera.enabled = false;
+        Greencamera.enabled = false;
+        Startcamera.enabled = false;
 
         MapaElegido = 2;
     }
@@ -67,6 +70,7 @@ public class MapSelectorCameraController : MonoBehaviour
         Pinkcamera.enabled = false;
         Greencamera.enabled = false;
         Startcamera.enabled = false;
+        StarsLandCamera.enabled = false;
 
         MapaElegido = 3;
     }
@@ -79,6 +83,7 @@ public class MapSelectorCameraController : MonoBehaviour
         Pinkcamera.enabled = true;
         Greencamera.enabled = false;
         Startcamera.enabled = false;
+        StarsLandCamera.enabled = false;
 
         MapaElegido = 4;
     }
