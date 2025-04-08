@@ -13,6 +13,9 @@ public class GameLogic : MonoBehaviour
     [SerializeField] Slider player1Health;
     [SerializeField] Slider player2Health;
 
+    private BaseFighter fighter1;
+    private BaseFighter fighter2;
+
 
     [Header("Input Actions")]
     public PlayerMovements.ActionSet actionSetPl1;
@@ -62,6 +65,15 @@ public class GameLogic : MonoBehaviour
         }
     }
 
+    private void Update()
+    {
+        if (fighter1 != null)
+            player1Health.value = fighter1.currentHealth;
+
+        if (fighter2 != null)
+            player2Health.value = fighter2.currentHealth;
+    }
+
     private void InitCharacter(GameObject prefabPersonaje, Transform playerTransform, PlayerMovements.ActionSet actionSet, string tag)
     {
         GameObject player = Instantiate(prefabPersonaje, playerTransform.position, Quaternion.identity, playerTransform);
@@ -74,11 +86,15 @@ public class GameLogic : MonoBehaviour
         {
             player1Health.maxValue = baseFighter.health;
             player1Health.value = baseFighter.health;
+
+            fighter1 = baseFighter;
         }
         else if (tag == "Player2")
         {
             player2Health.maxValue = baseFighter.health;
             player2Health.value = baseFighter.health;
+
+            fighter2 = baseFighter;
         }
     }
 }
