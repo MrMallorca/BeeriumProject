@@ -146,8 +146,6 @@ MonoBehaviour:
   speed: 2
   extraGravityForce: 5
   jumpForce: 8
-  startingHealth: 60
-  health: 60
 --- !u!114 &7588434998000910269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -305,4 +303,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8a71b8d532669140803e61ac009ddd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  slider: {fileID: 0}
   currentHealth: 0
+  startingHealth: 60

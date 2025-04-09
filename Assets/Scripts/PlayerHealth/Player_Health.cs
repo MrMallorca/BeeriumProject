@@ -1,18 +1,19 @@
 using System;
 using UnityEngine;
 
-public class Player_Health : MonoBehaviour
+public class Player_Health : HealthBar
 {
     public float currentHealth;
-    public float startingHealth = 60f;
+    [HideInInspector]  public float startingHealth = 70f;
 
-    HealthBar healthBar;
-
-    private void Start()
+    protected override void DoAwake()
     {
+        Debug.Log("Player_Health DoAwake");
         currentHealth = startingHealth;
         Debug.Log(currentHealth);
+        //Destroy(this);
     }
+
 
     public void TakeDamage(int amount)
     {
@@ -22,19 +23,24 @@ public class Player_Health : MonoBehaviour
             Destroy(gameObject);
         }
 
-        healthBar.NotifyLifeChanged(currentHealth, startingHealth);
+        NotifyLifeChanged(currentHealth, startingHealth);
     }
 
-    public void aaaaaaaaaaa()
-    {
-        healthBar.NotifyLifeChanged(currentHealth, startingHealth);
-    }
-    //private void Update()
+    //public void aaaaaaaaaaa()
     //{
     //    healthBar.NotifyLifeChanged(currentHealth, startingHealth);
     //}
-    internal void SetHealthBar(HealthBar healthBar)
+
+    private void Update()
     {
-        this.healthBar = healthBar;
+        //if (slider.value <= 0) 
+        //{
+        //    Debug.Log("Muerto");
+        //}
     }
+
+    //internal void SetHealthBar(HealthBar healthBar)
+    //{
+    //    this.healthBar = healthBar;
+    //}
 }

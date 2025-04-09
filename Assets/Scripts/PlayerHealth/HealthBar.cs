@@ -9,7 +9,17 @@ public class HealthBar : MonoBehaviour
 
     private void Awake()
     {
+        Debug.Log("Healthbar awake");
         slider = GetComponent<Slider>();
+
+        DoAwake();
+
+
+    }
+
+    protected virtual void DoAwake()
+    {
+
     }
 
     internal void NotifyLifeChanged(float currentHealth, float startingHealth)
