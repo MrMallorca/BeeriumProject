@@ -4,11 +4,11 @@ public class FightingGameCamera : MonoBehaviour
 {
     [SerializeField] Transform player1;
     [SerializeField] Transform player2;
-    public float minZoom = 50f;  // Antes: 40f
-    public float maxZoom = 100f; // Antes: 80f
+    public float minZoom = 50f;  
+    public float maxZoom = 100f; 
     public float zoomSpeed = 2f;
     public float followSpeed = 5f;
-    public Vector3 cameraOffset = new Vector3(0, 1, 2.59f); // Desplaza la cámara
+    public Vector3 cameraOffset = new Vector3(0, 1, 1.59f); 
 
     private Camera cam;
 

@@ -1,8 +1,9 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using static UnityEngine.Rendering.DebugUI;
 
-public class BaseFighter : MonoBehaviour
+public class BaseFighter : MonoBehaviour, IDamageable
 {
     [Header("Movement Settings")]
 
@@ -35,6 +36,12 @@ public class BaseFighter : MonoBehaviour
 
     PlayerMovements movements;
 
+    public float health;
+    public float currentHealth;
+
+    private bool hitted;
+
+
 
 
     public void InitInputs(PlayerMovements.ActionSet actionSetPl)
@@ -62,6 +69,9 @@ public class BaseFighter : MonoBehaviour
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
+        currentHealth = health;
+
+        hitted = false;
 
         canAttack = true;
         nroAttack = 0;
@@ -96,6 +106,12 @@ public class BaseFighter : MonoBehaviour
         {
             canAttack = true;
         }
+
+
+        if(currentHealth < 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
     private void UpdateAnimatorParameters()
@@ -124,10 +140,14 @@ public class BaseFighter : MonoBehaviour
 
     void FixedUpdate()
     {
+        Debug.Log(currentHealth);
+
         UpdateMovementOnPlane();
     }
 
     Vector3 rawMove = Vector3.zero;
+
+
     void UpdateMovementOnPlane()
     {
 
@@ -329,6 +349,14 @@ public class BaseFighter : MonoBehaviour
         canAirAttack = true;
     }
 
+    public bool HasTakenDamage { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+    public void NotifyDamageReceived(float damageAmount)
+    {
+        currentHealth -= damageAmount;
+
+    }
+
+
     #region InputManagement
     private void EnableInputs()
     {
@@ -381,5 +409,7 @@ public class BaseFighter : MonoBehaviour
         movements.actionSet.move.action.started -= OnMove;
         movements.actionSet.move.action.canceled -= OnMove;
     }
+
+ 
     #endregion
 }

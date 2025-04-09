@@ -2,9 +2,15 @@ using UnityEngine;
 
 public class HitBox : MonoBehaviour
 {
-    private void OnTriggerEnter(Collider collision) 
+    private BaseFighter fighter;
+
+    private void Start()
     {
-        Collider[] hitbox = Physics.OverlapBox(collision.bounds.center, collision.bounds.extents, collision.transform.rotation);
-        Debug.Log("Pega");
+        fighter = GetComponentInParent<BaseFighter>();
+    }
+    private void OnTriggerEnter(Collider collision)
+    {
+        fighter.NotifyDamageReceived(10f);
+
     }
 }

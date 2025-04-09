@@ -8,4 +8,9 @@ public class Naife : BaseFighter
 {
     public static Naife instance;
 
+    private void Awake()
+    {
+        instance = this;
+    }
+
 }
