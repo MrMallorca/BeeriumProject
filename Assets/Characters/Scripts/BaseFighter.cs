@@ -34,14 +34,15 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     bool inputsHaveBeenInited = false;
 
-    PlayerMovements movements;
 
     public float health;
     public float currentHealth;
 
+    [SerializeField] int basicAttackHitCount;
+    [SerializeField] int strongAttackHitCount;
     private bool hitted;
 
-
+    PlayerMovements movements;
 
 
     public void InitInputs(PlayerMovements.ActionSet actionSetPl)
@@ -105,6 +106,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
         if (anim.GetCurrentAnimatorStateInfo(0).IsName("Idle") && nroAttack == 0)
         {
             canAttack = true;
+            hitted = false ;
         }
 
 
@@ -140,7 +142,6 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     void FixedUpdate()
     {
-        Debug.Log(currentHealth);
 
         UpdateMovementOnPlane();
     }
@@ -349,13 +350,23 @@ public class BaseFighter : MonoBehaviour, IDamageable
         canAirAttack = true;
     }
 
-    public bool HasTakenDamage { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
-    public void NotifyDamageReceived(float damageAmount)
+    public bool HasTakenDamage { get { return hitted;  } set { hitted = value;  } }
+    public void NotifyDamageReceivedBasic(float damageAmount)
     {
-        currentHealth -= damageAmount;
+            // Ataco
+
+            if (!hitted)
+            {
+                currentHealth -= damageAmount;
+                hitted = true;
+            }
 
     }
 
+    public void NotifyDamageReceivedStrong(float damageAmount)
+    {
+        throw new System.NotImplementedException();
+    }
 
     #region InputManagement
     private void EnableInputs()
@@ -410,6 +421,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
         movements.actionSet.move.action.canceled -= OnMove;
     }
 
- 
+   
+
     #endregion
 }

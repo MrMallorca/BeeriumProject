@@ -2,15 +2,24 @@ using UnityEngine;
 
 public class HitBox : MonoBehaviour
 {
-    private BaseFighter fighter;
+    private BaseFighter enemyFighter;
 
+    private float basicAttack = 5f;
+    private float chargeAttack = 10f;
     private void Start()
     {
-        fighter = GetComponentInParent<BaseFighter>();
+        
     }
-    private void OnTriggerEnter(Collider collision)
-    {
-        fighter.NotifyDamageReceived(10f);
 
+    private void OnTriggerEnter(Collider other)
+    {
+        enemyFighter = other.gameObject.GetComponentInParent<BaseFighter>();
+
+        if (gameObject.tag != enemyFighter.tag)
+        {
+            enemyFighter.NotifyDamageReceivedBasic(basicAttack);
+
+        }
     }
+ 
 }

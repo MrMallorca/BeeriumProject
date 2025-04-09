@@ -121,6 +121,9 @@ MonoBehaviour:
   extraGravityForce: 10
   jumpForce: 0
   health: 120
+  currentHealth: 0
+  basicAttackHitCount: 0
+  strongAttackHitCount: 0
 --- !u!114 &4640964497946155289
 MonoBehaviour:
   m_ObjectHideFlags: 0

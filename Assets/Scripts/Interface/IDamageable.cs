@@ -2,7 +2,9 @@ using UnityEngine;
 
 public interface IDamageable
 {
-    public void NotifyDamageReceived(float damageAmount);
+    public void NotifyDamageReceivedBasic(float damageAmount);
+
+    public void NotifyDamageReceivedStrong(float damageAmount);
 
     public bool HasTakenDamage { get; set;}
 
