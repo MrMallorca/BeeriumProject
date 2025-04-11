@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wizard fly forward_0: 3273891158123787203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

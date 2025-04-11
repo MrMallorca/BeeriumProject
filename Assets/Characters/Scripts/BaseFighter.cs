@@ -31,7 +31,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     private bool canAttack;
     private int nroAttack;
     private bool canAirAttack = true;
-
+    private bool isBlocking = false;
     bool inputsHaveBeenInited = false;
 
 
@@ -43,6 +43,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     private bool hitted;
 
     PlayerMovements movements;
+
 
 
     public void InitInputs(PlayerMovements.ActionSet actionSetPl)
@@ -114,6 +115,8 @@ public class BaseFighter : MonoBehaviour, IDamageable
         {
             Destroy(gameObject);
         }
+
+        isBlocking = false;
     }
 
     private void UpdateAnimatorParameters()
@@ -142,8 +145,10 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     void FixedUpdate()
     {
-
-        UpdateMovementOnPlane();
+        if(!isBlocking)
+        {
+            UpdateMovementOnPlane();
+        }
     }
 
     Vector3 rawMove = Vector3.zero;
@@ -184,8 +189,9 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     private void OnCrouch(InputAction.CallbackContext ctx)
     {
+        isBlocking = true;
 
-        if (isGrounded)
+        if (isGrounded && isBlocking)
         {
             anim.SetBool("crouch", ctx.ReadValue<float>() > 0);
             canAttackTrue();
@@ -363,7 +369,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     }
 
-    
+   
 
     #region InputManagement
     private void EnableInputs()
