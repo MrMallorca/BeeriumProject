@@ -4,12 +4,6 @@ public class HitBox : MonoBehaviour
 {
     private BaseFighter enemyFighter;
 
-    private float basicAttack = 5f;
-    private float chargeAttack = 10f;
-    private void Start()
-    {
-        
-    }
 
     private void OnTriggerEnter(Collider other)
     {
@@ -17,8 +11,10 @@ public class HitBox : MonoBehaviour
 
         if (gameObject.tag != enemyFighter.tag)
         {
-            enemyFighter.NotifyDamageReceivedBasic(basicAttack);
-
+           
+           enemyFighter.NotifyDamageReceived(5f);
+            
+            
         }
     }
  

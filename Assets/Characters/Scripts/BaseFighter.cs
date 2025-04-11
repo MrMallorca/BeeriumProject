@@ -351,7 +351,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     }
 
     public bool HasTakenDamage { get { return hitted;  } set { hitted = value;  } }
-    public void NotifyDamageReceivedBasic(float damageAmount)
+    public void NotifyDamageReceived(float damageAmount)
     {
             // Ataco
 
@@ -363,10 +363,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     }
 
-    public void NotifyDamageReceivedStrong(float damageAmount)
-    {
-        throw new System.NotImplementedException();
-    }
+    
 
     #region InputManagement
     private void EnableInputs()
