@@ -12,26 +12,26 @@ EditorBuildSettings:
     path: Assets/SplashGame/Scenes/SplashGame.unity
     guid: 01c11681cdf148246bac6596d3e1b43b
   - enabled: 1
+    path: Assets/Menu/Scenes/Options.unity
+    guid: e580f6869e819174f865cd39dc2ad45a
+  - enabled: 1
     path: Assets/MapSelector/Scenes/SelectGame.unity
     guid: d5e9be223672cf9428c162b2f6c7f95e
   - enabled: 1
-    path: Assets/CharacterSelector.unity
+    path: Assets/MapSelector/Scenes/CharacterSelector.unity
     guid: 0bb44aed428cec14187d5d9bf6a33160
   - enabled: 1
     path: Assets/MapSelector/Scenes/MapSelector.unity
     guid: d3d37e3f4f1f22043953c74b36ae3c19
   - enabled: 1
-    path: Assets/Earth.unity
+    path: Assets/MapSelector/Maps/Scenes/Earth.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/MiniGames/Minigame_Oleadas.unity
     guid: 5da54b970db543b4583476235fb1da3c
   - enabled: 1
-    path: Assets/StarsLand.unity
+    path: Assets/MapSelector/Maps/Scenes/StarsLand.unity
     guid: eea99ccad1e579e409d0ad9a240f13b8
-  - enabled: 0
-    path: Assets/Menu/Scenes/Options.unity
-    guid: e580f6869e819174f865cd39dc2ad45a
   - enabled: 0
     path: Assets/MenuInGame/MenuInGame.unity
     guid: 86e59ca702b0c8e4f9629d254c68c75c
