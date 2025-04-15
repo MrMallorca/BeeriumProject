@@ -25,11 +25,11 @@ public class HitBox : MonoBehaviour
            enemyFighter.NotifyDamageReceived(5f);
 
 
-            if (hitCount >= 3)
-            {
+            //if (hitCount >= 3)
+            //{
                 ApplyKnockback(enemyFighter);
                 StartCoroutine(ResetHitCount());
-            }
+            //}
         }
     }
 
@@ -40,8 +40,7 @@ public class HitBox : MonoBehaviour
         {
             // Dirección de empuje contraria al atacante
             Vector3 direction = (target.transform.position - transform.position).normalized;
-            direction.y = 0; // Evita empuje vertical
-            direction.Normalize(); // Vuelve a normalizar el vector sin la Y
+            
             rb.AddForce(direction * knockbackForce, ForceMode.Impulse);
 
         
