@@ -7,7 +7,11 @@ public class HitBox : MonoBehaviour
     private BaseFighter enemyFighter;
 
     [SerializeField] public int hitCount;
-    float knockbackForce = 30f;
+    float knockbackForce = 600f;
+
+
+    Rigidbody otherRb;
+    Vector3 direction;
 
 
     private void Start()
@@ -24,28 +28,23 @@ public class HitBox : MonoBehaviour
            hitCount += 1;
            enemyFighter.NotifyDamageReceived(5f);
 
+            otherRb = enemyFighter.GetComponentInParent<Rigidbody>();
 
-            //if (hitCount >= 3)
-            //{
-                ApplyKnockback(enemyFighter);
-                StartCoroutine(ResetHitCount());
-            //}
-        }
-    }
+            print(enemyFighter.name);
 
-    private void ApplyKnockback(BaseFighter target)
-    {
-        Rigidbody rb = target.GetComponent<Rigidbody>();
-        if (rb != null)
-        {
-            // Dirección de empuje contraria al atacante
-            Vector3 direction = (target.transform.position - transform.position).normalized;
+            Vector3 flatDirection = otherRb.position - transform.parent.position;
+            flatDirection.y = 0f;
+            flatDirection.Normalize();
+            flatDirection.y = 0.2f; // Salto hacia atrás
+
+            otherRb.mass = 0.5f;
+
+            otherRb.AddForce(flatDirection * knockbackForce * Time.deltaTime, ForceMode.Impulse);
             
-            rb.AddForce(direction * knockbackForce, ForceMode.Impulse);
-
-        
+           
         }
     }
+
 
     public IEnumerator ResetHitCount()
     {

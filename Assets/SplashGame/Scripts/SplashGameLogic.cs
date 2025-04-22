@@ -2,10 +2,13 @@ using System.Collections;
 using EasyTransition;
 using TMPro;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.Video;
 
 public class SplashGameLogic : MonoBehaviour
 {
+    [SerializeField] InputActionReference start;
+
     [SerializeField] string nextSceneName;
     [SerializeField] TransitionSettings transitionSettings;
     public float startDelay;
@@ -14,8 +17,14 @@ public class SplashGameLogic : MonoBehaviour
 
     [SerializeField] CanvasGroup[] images;
     [SerializeField] TextMeshProUGUI title;
+    [SerializeField] TextMeshProUGUI pressKeyText;
 
+    private void OnEnable()
+    {
+        start.action.Enable();
 
+        start.action.performed += onStartGame;
+    }
     private void Start()
     {
         StartCoroutine(FadeImagesSequentially());
@@ -23,9 +32,11 @@ public class SplashGameLogic : MonoBehaviour
 
     }
 
-    private void Update()
+   
+
+    public void onStartGame(InputAction.CallbackContext ctx)
     {
-        if(Input.anyKeyDown && transitionIsFinish)
+        if (transitionIsFinish)
         {
             TransitionManager.Instance().Transition(nextSceneName, transitionSettings, startDelay);
         }
@@ -33,11 +44,13 @@ public class SplashGameLogic : MonoBehaviour
 
     private IEnumerator BlinkText()
     {
+        title.text = "The Last Stars";
+
         while (true)
         {
-            title.text = " ";
+            pressKeyText.text = " ";
             yield return new WaitForSeconds(0.5f);
-            title.text = "The Last Stars";
+            pressKeyText.text = "Press any key";
             yield return new WaitForSeconds(0.5f);
         }
     }
@@ -67,5 +80,12 @@ public class SplashGameLogic : MonoBehaviour
         StartCoroutine(BlinkText());
 
 
+    }
+
+    private void OnDisable()
+    {
+        start.action.Disable();
+
+        start.action.performed -= onStartGame;
     }
 }
