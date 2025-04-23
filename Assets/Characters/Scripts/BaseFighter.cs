@@ -24,7 +24,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     GameObject enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
-
+    public FadeManager fadeManager;
 
     [Header("Attacks Parameters")]
 
@@ -359,13 +359,17 @@ public class BaseFighter : MonoBehaviour, IDamageable
     public bool HasTakenDamage { get { return hitted;  } set { hitted = value;  } }
     public void NotifyDamageReceived(float damageAmount)
     {
-            // Ataco
+        // Ataco
 
-            if (!hitted)
-            {
-                currentHealth -= damageAmount;
-                hitted = true;
-            }
+        if (!hitted)
+        {
+            currentHealth -= damageAmount;
+            hitted = true;
+        }
+        if(currentHealth <= 0)
+        {
+            fadeManager.SceneLoad();
+        }
 
     }
 
