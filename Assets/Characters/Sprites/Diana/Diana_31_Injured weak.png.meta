@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: d7b5e76e448fb224b8efb02f46deb96e
+guid: 9ce5250656e344043960afc5307e569f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1417991769515213830
-    second: portaemmision_0
+      213: 9136715440369522791
+    second: Diana_31_Injured weak_0
+  - first:
+      213: -8003457768771099884
+    second: Diana_31_Injured weak_1
+  - first:
+      213: 8118480338786354235
+    second: Diana_31_Injured weak_2
+  - first:
+      213: 6349758212933561200
+    second: Diana_31_Injured weak_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,43 +105,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: portaemmision_0
+      name: Diana_31_Injured weak_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 4096
-        height: 4096
+        x: 129
+        y: 1918
+        width: 43
+        height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 604c1646008bda310800000000000000
-      internalID: 1417991769515213830
+      spriteID: 7685d0dd8422cce70800000000000000
+      internalID: 9136715440369522791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_31_Injured weak_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1918
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413ee8d30910ee090800000000000000
+      internalID: -8003457768771099884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_31_Injured weak_2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1917
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b348a55cad2aaa070800000000000000
+      internalID: 8118480338786354235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_31_Injured weak_3
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1917
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b2683c37fde1850800000000000000
+      internalID: 6349758212933561200
       vertices: []
       indices: 
       edges: []
@@ -160,8 +209,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      portaemmision_0: 1417991769515213830
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

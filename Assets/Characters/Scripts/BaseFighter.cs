@@ -24,7 +24,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     GameObject enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
-
+    public FadeManager fadeManager;
 
     [Header("Attacks Parameters")]
 
@@ -356,16 +356,39 @@ public class BaseFighter : MonoBehaviour, IDamageable
         canAirAttack = true;
     }
 
+    public void CanGetHit()
+    {
+        hitted = false;
+    }
+
     public bool HasTakenDamage { get { return hitted;  } set { hitted = value;  } }
     public void NotifyDamageReceived(float damageAmount)
     {
-            // Ataco
+        // Ataco
 
+<<<<<<< HEAD
             if (!hitted)
             {
                 currentHealth -= damageAmount;
+                anim.SetTrigger("hit");
                 hitted = true;
+                Invoke("CanGetHit", 1.5f);
             }
+             if(currentHealth <= 0)
+        {
+            fadeManager.SceneLoad();
+        }
+=======
+        if (!hitted)
+        {
+            currentHealth -= damageAmount;
+            hitted = true;
+        }
+        if(currentHealth <= 0)
+        {
+            fadeManager.SceneLoad();
+        }
+>>>>>>> 52af48c89500d3b1bbc77760dc5fe34fc4b5b247
 
     }
 

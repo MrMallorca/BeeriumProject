@@ -1,6 +1,5 @@
 using System.Collections;
 using UnityEngine;
-using static UnityEngine.Rendering.DebugUI;
 
 public class HitBox : MonoBehaviour
 {
@@ -11,7 +10,6 @@ public class HitBox : MonoBehaviour
 
 
     Rigidbody otherRb;
-    Vector3 direction;
 
 
     private void Start()
