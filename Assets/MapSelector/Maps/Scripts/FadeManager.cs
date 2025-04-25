@@ -6,7 +6,6 @@ public class FadeManager : MonoBehaviour
 {
     BaseFighter baseFighter;
 
-
     private Animator transitionAnimator;
     [SerializeField] float transitionTime = 1f;
     [SerializeField] Canvas canvas;
@@ -29,21 +28,22 @@ public class FadeManager : MonoBehaviour
     //    }
     //}
 
-    //public void LoadScene()
-    //{
-    //    transitionAnimator.SetTrigger("StartTransition");
-    //    yield return new WaitForSeconds(transitionTime);
-    //    SceneManager.LoadScene("Options");
-    //}
+    public void LoadScene()
+    {
+        StartCoroutine(SceneLoad());
+    }
 
     public IEnumerator SceneLoad()
     {
-        if (baseFighter.currentHealth <= 0)
-        {
+        Debug.Log("ENTRA EN SCENELOAD");
+        //if (baseFighter.currentHealth <= 0)
+        //{
+        canvas.gameObject.SetActive(true);
+        transitionAnimator.SetTrigger("StartTransition");
+        yield return new WaitForSeconds(transitionTime);
+        Debug.Log("Siguiente escena");
+        SceneManager.LoadScene("Options");
+        //}
 
-            transitionAnimator.SetTrigger("StartTransition");
-            yield return new WaitForSeconds(transitionTime);
-            SceneManager.LoadScene("Options");
-        }
     }
 }
