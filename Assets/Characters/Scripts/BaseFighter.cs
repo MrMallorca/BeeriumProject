@@ -1,10 +1,15 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using static UnityEngine.Rendering.DebugUI;
 
 public class BaseFighter : MonoBehaviour, IDamageable
 {
+    public static List<BaseFighter> fighterList = new();
+
+    VictoryManager victoryManager;
+
     [Header("Movement Settings")]
 
     public bool characterCanJump = true;
@@ -24,8 +29,6 @@ public class BaseFighter : MonoBehaviour, IDamageable
     GameObject enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
-    public FadeManager fadeManager;
-
     [Header("Attacks Parameters")]
 
     private bool canAttack;
@@ -44,8 +47,6 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     PlayerMovements movements;
 
-
-
     public void InitInputs(PlayerMovements.ActionSet actionSetPl)
     {
         movements = GetComponent<PlayerMovements>();
@@ -58,6 +59,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     private void OnEnable()
     {
+        fighterList.Add(this);
         if (inputsHaveBeenInited)
             { EnableInputs(); }
 
@@ -111,10 +113,12 @@ public class BaseFighter : MonoBehaviour, IDamageable
         }
 
 
-        if(currentHealth < 0)
-        {
-            Destroy(gameObject);
-        }
+        //if(currentHealth < 0)
+        //{
+        //    Debug.Log("Se destruye aqui... creo");
+        //    victoryManager.ChargeScene();
+        //    Destroy(gameObject);
+        //}
 
         isBlocking = false;
     }
@@ -322,6 +326,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     private void OnDisable()
     {
+        fighterList.Remove(this);
         DisableInput();
 
     }
@@ -366,30 +371,20 @@ public class BaseFighter : MonoBehaviour, IDamageable
     {
         // Ataco
 
-<<<<<<< HEAD
-            if (!hitted)
-            {
-                currentHealth -= damageAmount;
-                anim.SetTrigger("hit");
-                hitted = true;
-                Invoke("CanGetHit", 1.5f);
-            }
-             if(currentHealth <= 0)
+        if (!hitted)
         {
-            fadeManager.SceneLoad();
+            currentHealth -= damageAmount;
+            anim.SetTrigger("hit");
+            hitted = true;
+            Invoke("CanGetHit", 1.5f);
+
         }
-=======
+
         if (!hitted)
         {
             currentHealth -= damageAmount;
             hitted = true;
         }
-        if(currentHealth <= 0)
-        {
-            fadeManager.SceneLoad();
-        }
->>>>>>> 52af48c89500d3b1bbc77760dc5fe34fc4b5b247
-
     }
 
    

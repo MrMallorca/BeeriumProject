@@ -123,6 +123,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -359,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Diana_33_Ground impact_0: -4008854648090848473
+      Diana_33_Ground impact_1: 112314750476996319
+      Diana_33_Ground impact_2: 2916913442095386886
+      Diana_33_Ground impact_3: 3492518073067775140
+      Diana_33_Ground impact_4: -3402179163373698352
+      Diana_33_Ground impact_5: -7436347811806643199
+      Diana_33_Ground impact_6: 7956037475989279685
+      Diana_33_Ground impact_7: 7363966712453898606
+      Diana_33_Ground impact_8: 8987594797758319844
+      Diana_33_Ground impact_9: 6622278277039143530
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

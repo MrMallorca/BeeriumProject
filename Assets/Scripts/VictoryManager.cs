@@ -1,28 +1,59 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class VictoryManager : MonoBehaviour
 {
-    [SerializeField] TMP_Text Player1Victory;
-    [SerializeField] TMP_Text Player2Victory;
+    private Animator transitionAnimator;
+    [SerializeField] float transitionTime = 5f;
+    [SerializeField] Canvas canvas;
 
-    //public HealthBar healthBarPL1;
-    //public HealthBar healthBarPL2;
-
-    private void Awake()
-    {
-
-    }
     void Update()
     {
-        //if(healthBarPL2.slider.value <= 0)
+        bool playerMuerto = false;
+
+        foreach (BaseFighter bf in BaseFighter.fighterList)
+        {
+            playerMuerto |= bf.currentHealth < 0f;
+
+            if(bf.currentHealth < 0f)
+            {
+                playerMuerto = true;
+                StartCoroutine(SceneLoad());
+
+                ChargeScene();
+            }
+
+
+        }
+
+        //if (playerMuerto)
+        //{
+        //    StartCoroutine(SceneLoad());
+        //}
+
+        //Debug.Log(baseFighter.currentHealth);
+        //if (baseFighter.currentHealth <= 0)
         //{
         //    Debug.Log("player1 victory");
-        //    Player1Victory.enabled = true;
-        //}if(healthBarPL1.slider.value <= 0)
-        //{
-        //    Debug.Log("player2 victory");
-        //    Player2Victory.enabled = true;
         //}
+    }
+
+    public IEnumerator SceneLoad()
+    {
+        //if (baseFighter.currentHealth <= 0)
+        //{
+        canvas.gameObject.SetActive(true);
+        transitionAnimator.SetTrigger("StartTransition");
+        yield return new WaitForSeconds(transitionTime);
+        //}
+
+    }
+
+    public static void ChargeScene()
+    {
+        Debug.Log("Siguiente escena");
+        SceneManager.LoadScene("Options");
     }
 }
