@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -5,13 +6,14 @@ using static UnityEngine.Rendering.DebugUI;
 
 public class BaseFighter : MonoBehaviour, IDamageable
 {
+    
+
     [Header("Movement Settings")]
 
     public bool characterCanJump = true;
 
     public float speed;
 
-    public float extraGravityForce = 10f;
     public float jumpForce = 5f;
     private bool isGrounded = true;
 
@@ -42,7 +44,13 @@ public class BaseFighter : MonoBehaviour, IDamageable
     [SerializeField] int strongAttackHitCount;
     private bool hitted;
 
+    [SerializeField] public int hitCount;
+    float knockbackForce = 250f;
+
     PlayerMovements movements;
+
+    private Coroutine resetHitCoroutine;
+
 
 
 
@@ -67,6 +75,8 @@ public class BaseFighter : MonoBehaviour, IDamageable
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        hitCount = 0;
+
         characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -107,7 +117,6 @@ public class BaseFighter : MonoBehaviour, IDamageable
         if (anim.GetCurrentAnimatorStateInfo(0).IsName("Idle") && nroAttack == 0)
         {
             canAttack = true;
-            hitted = false ;
         }
 
 
@@ -157,12 +166,13 @@ public class BaseFighter : MonoBehaviour, IDamageable
     void UpdateMovementOnPlane()
     {
 
-        Vector3 moveDirection = rawMove * speed;
-        Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, 0);
+        if (!hitted)
+        {
+            Vector3 moveDirection = rawMove * speed;
+            Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, 0);
 
-        characterRb.linearVelocity = velocity;
-
-        characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
+            characterRb.linearVelocity = velocity;
+        }
 
     }
 
@@ -225,7 +235,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
             }
             else if (canAttack && nroAttack < 3)
             {
-                if(gameObject.tag == "Player1")
+                if (spriteRenderer.flipX == false)
                 {
                     Vector3 forceDirection = transform.right * attackForce; // Empuje hacia adelante
 
@@ -366,29 +376,18 @@ public class BaseFighter : MonoBehaviour, IDamageable
     {
         // Ataco
 
-<<<<<<< HEAD
-            if (!hitted)
-            {
-                currentHealth -= damageAmount;
-                anim.SetTrigger("hit");
-                hitted = true;
-                Invoke("CanGetHit", 1.5f);
-            }
-             if(currentHealth <= 0)
-        {
-            fadeManager.SceneLoad();
-        }
-=======
         if (!hitted)
         {
             currentHealth -= damageAmount;
+            anim.SetTrigger("hit");
             hitted = true;
+            Invoke("CanGetHit", 1.5f);
         }
-        if(currentHealth <= 0)
+        if(currentHealth == 0)
         {
             fadeManager.SceneLoad();
         }
->>>>>>> 52af48c89500d3b1bbc77760dc5fe34fc4b5b247
+
 
     }
 
@@ -447,7 +446,46 @@ public class BaseFighter : MonoBehaviour, IDamageable
         movements.actionSet.move.action.canceled -= OnMove;
     }
 
-   
+    internal void NotifyHit()
+    {
+        hitCount += 1;
+        NotifyDamageReceived(5f);
+
+        if (resetHitCoroutine != null)
+        {
+            StopCoroutine(resetHitCoroutine);
+        }
+        resetHitCoroutine = StartCoroutine(ResetHitCount());
+
+        if (hitCount >= 3)
+        {
+            Vector3 flatDirection = characterRb.position - enemyPlayer.transform.position;
+            flatDirection.y = 0f;
+            flatDirection.Normalize();
+            flatDirection.y = 0.8f; // Salto hacia atrás
+
+            characterRb.AddForce(flatDirection * knockbackForce * Time.deltaTime, ForceMode.Impulse);
+
+            hitted = true;
+
+            Invoke(nameof(ResetHit), 0.5f);
+        }
+
+        
+    }
+
+    void ResetHit()
+    {
+        hitted = false;
+    }
+
+
+    public IEnumerator ResetHitCount()
+    {
+        yield return new WaitForSeconds(1f);
+        hitCount = 0;
+    }
+
 
     #endregion
 }
