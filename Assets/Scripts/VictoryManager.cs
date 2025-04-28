@@ -6,7 +6,7 @@ using System.Collections;
 public class VictoryManager : MonoBehaviour
 {
     private Animator transitionAnimator;
-    [SerializeField] float transitionTime = 5f;
+    [SerializeField] float transitionTime = 5f * 1000f;
     [SerializeField] Canvas canvas;
 
     void Update()
