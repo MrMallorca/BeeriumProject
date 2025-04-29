@@ -40,8 +40,6 @@ public class BaseFighter : MonoBehaviour, IDamageable
     public float health;
     public float currentHealth;
 
-    [SerializeField] int basicAttackHitCount;
-    [SerializeField] int strongAttackHitCount;
     private bool hitted;
 
     [SerializeField] public int hitCount;
@@ -449,6 +447,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     internal void NotifyHit()
     {
         hitCount += 1;
+        anim.SetInteger("hitCount", hitCount);
         NotifyDamageReceived(5f);
 
         if (resetHitCoroutine != null)

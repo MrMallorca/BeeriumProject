@@ -13,20 +13,20 @@ public class VictoryManager : MonoBehaviour
     {
         bool playerMuerto = false;
 
-        foreach (BaseFighter bf in BaseFighter.fighterList)
-        {
-            playerMuerto |= bf.currentHealth < 0f;
+        //foreach (BaseFighter bf in BaseFighter.fighterList)
+        //{
+        //    playerMuerto |= bf.currentHealth < 0f;
 
-            if(bf.currentHealth < 0f)
-            {
-                playerMuerto = true;
-                StartCoroutine(SceneLoad());
+        //    if(bf.currentHealth < 0f)
+        //    {
+        //        playerMuerto = true;
+        //        StartCoroutine(SceneLoad());
 
-                ChargeScene();
-            }
+        //        ChargeScene();
+        //    }
 
 
-        }
+        //}
 
         //if (playerMuerto)
         //{
