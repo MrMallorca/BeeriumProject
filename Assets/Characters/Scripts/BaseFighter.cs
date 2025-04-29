@@ -1,12 +1,15 @@
 using System;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using static UnityEngine.Rendering.DebugUI;
 
 public class BaseFighter : MonoBehaviour, IDamageable
 {
-    
+    public static List<BaseFighter> fighterList = new();
+    VictoryManager victoryManager;
+
 
     [Header("Movement Settings")]
 
@@ -64,6 +67,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     private void OnEnable()
     {
+        fighterList.Add(this);
         if (inputsHaveBeenInited)
             { EnableInputs(); }
 
@@ -330,6 +334,8 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     private void OnDisable()
     {
+        fighterList.Remove(this);
+
         DisableInput();
 
     }
