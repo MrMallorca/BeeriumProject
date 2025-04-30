@@ -29,8 +29,6 @@ public class BaseFighter : MonoBehaviour, IDamageable
     GameObject enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
-    public FadeManager fadeManager;
-
     [Header("Attacks Parameters")]
 
     private bool canAttack;
@@ -387,12 +385,6 @@ public class BaseFighter : MonoBehaviour, IDamageable
             hitted = true;
             Invoke("CanGetHit", 1.5f);
         }
-        if(currentHealth == 0)
-        {
-            fadeManager.SceneLoad();
-        }
-
-
     }
 
    

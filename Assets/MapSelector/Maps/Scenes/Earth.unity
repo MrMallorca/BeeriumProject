@@ -1414,7 +1414,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1551487550}
-  - component: {fileID: 1551487549}
   - component: {fileID: 1551487551}
   m_Layer: 0
   m_Name: FadeManager
@@ -1423,20 +1422,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1551487549
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1551487548}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08586281ecb39b34bb5253f835d0390c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  transitionTime: 1
-  canvas: {fileID: 1463587659}
 --- !u!4 &1551487550
 Transform:
   m_ObjectHideFlags: 0
