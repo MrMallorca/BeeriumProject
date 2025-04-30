@@ -759,7 +759,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oxy_20_Down air_0: 5738930841414121690
+      Oxy_20_Down air_1: 6315576129651940840
+      Oxy_20_Down air_10: -5323878517089541000
+      Oxy_20_Down air_11: -941710170126766214
+      Oxy_20_Down air_12: 3597288795030857793
+      Oxy_20_Down air_13: 7854403072637776621
+      Oxy_20_Down air_14: -7272520030113596046
+      Oxy_20_Down air_15: 1243545376756089089
+      Oxy_20_Down air_16: -1447948826324464506
+      Oxy_20_Down air_17: -495033536122290664
+      Oxy_20_Down air_18: -5677830316067885536
+      Oxy_20_Down air_19: -2280422319273596197
+      Oxy_20_Down air_2: 5869139290559229677
+      Oxy_20_Down air_20: 1201528605836538256
+      Oxy_20_Down air_21: 5119485696011766084
+      Oxy_20_Down air_22: -7040428083119741843
+      Oxy_20_Down air_23: 665290973496359141
+      Oxy_20_Down air_24: -4792246680812812021
+      Oxy_20_Down air_25: -6458251204656877478
+      Oxy_20_Down air_3: -7313533875713222770
+      Oxy_20_Down air_4: 1543489346045770755
+      Oxy_20_Down air_5: 3350781971912208679
+      Oxy_20_Down air_6: 3955333624676213793
+      Oxy_20_Down air_7: 1317526383040853627
+      Oxy_20_Down air_8: 3323017895634304640
+      Oxy_20_Down air_9: 1065100205922296989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
