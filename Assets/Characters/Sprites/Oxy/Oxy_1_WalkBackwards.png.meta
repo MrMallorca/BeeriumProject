@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 4d9d5d026386cf04c821fdefea304c41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3927064650784395040
+    second: Oxy_1_WalkBackwards_0
+  - first:
+      213: 6294247251896244251
+    second: Oxy_1_WalkBackwards_1
+  - first:
+      213: -1376682509000622775
+    second: Oxy_1_WalkBackwards_2
+  - first:
+      213: 6193166883972792135
+    second: Oxy_1_WalkBackwards_3
+  - first:
+      213: -5125045082495838918
+    second: Oxy_1_WalkBackwards_4
+  - first:
+      213: 3799814337404790884
+    second: Oxy_1_WalkBackwards_5
+  - first:
+      213: 6382088737360324452
+    second: Oxy_1_WalkBackwards_6
+  - first:
+      213: 3711198933571437439
+    second: Oxy_1_WalkBackwards_7
+  - first:
+      213: 9175736296203553607
+    second: Oxy_1_WalkBackwards_8
+  - first:
+      213: 5728932185449066942
+    second: Oxy_1_WalkBackwards_9
+  - first:
+      213: 4762245221985765830
+    second: Oxy_1_WalkBackwards_10
+  - first:
+      213: 2279036690185388203
+    second: Oxy_1_WalkBackwards_11
+  - first:
+      213: 2052290338597348975
+    second: Oxy_1_WalkBackwards_12
+  - first:
+      213: 1051724604108798725
+    second: Oxy_1_WalkBackwards_13
+  - first:
+      213: 1704470695715131058
+    second: Oxy_1_WalkBackwards_14
+  - first:
+      213: -4291270112022401203
+    second: Oxy_1_WalkBackwards_15
+  - first:
+      213: -1543812274767414681
+    second: Oxy_1_WalkBackwards_16
+  - first:
+      213: 1738630668802741534
+    second: Oxy_1_WalkBackwards_17
+  - first:
+      213: 7626183397654782604
+    second: Oxy_1_WalkBackwards_18
+  - first:
+      213: 5501721948330909440
+    second: Oxy_1_WalkBackwards_19
+  - first:
+      213: -8119101497893963898
+    second: Oxy_1_WalkBackwards_20
+  - first:
+      213: 7703387432911003861
+    second: Oxy_1_WalkBackwards_21
+  - first:
+      213: -7012373409983536685
+    second: Oxy_1_WalkBackwards_22
+  - first:
+      213: 3022026581572343150
+    second: Oxy_1_WalkBackwards_23
+  - first:
+      213: 3626718253642721919
+    second: Oxy_1_WalkBackwards_24
+  - first:
+      213: 5092137228298723116
+    second: Oxy_1_WalkBackwards_25
+  - first:
+      213: 1307338412764738106
+    second: Oxy_1_WalkBackwards_26
+  - first:
+      213: 30219899165837234
+    second: Oxy_1_WalkBackwards_27
+  - first:
+      213: -6925394476277959418
+    second: Oxy_1_WalkBackwards_28
+  - first:
+      213: -9199148905444658734
+    second: Oxy_1_WalkBackwards_29
+  - first:
+      213: 3031604465996572561
+    second: Oxy_1_WalkBackwards_30
+  - first:
+      213: -1575234302003150673
+    second: Oxy_1_WalkBackwards_31
+  - first:
+      213: 8873417526059589381
+    second: Oxy_1_WalkBackwards_32
+  - first:
+      213: 2623317857319774655
+    second: Oxy_1_WalkBackwards_33
+  - first:
+      213: 7206117276710905561
+    second: Oxy_1_WalkBackwards_34
+  - first:
+      213: -1695503578055412923
+    second: Oxy_1_WalkBackwards_35
+  - first:
+      213: 4260252778743907992
+    second: Oxy_1_WalkBackwards_36
+  - first:
+      213: 2397235157520018315
+    second: Oxy_1_WalkBackwards_37
+  - first:
+      213: -2870158168842093925
+    second: Oxy_1_WalkBackwards_38
+  - first:
+      213: 3238331017692015549
+    second: Oxy_1_WalkBackwards_39
+  - first:
+      213: -2965725025597159229
+    second: Oxy_1_WalkBackwards_40
+  - first:
+      213: -4607406771138025226
+    second: Oxy_1_WalkBackwards_41
+  - first:
+      213: 3343249885780518755
+    second: Oxy_1_WalkBackwards_42
+  - first:
+      213: 5449048395048852067
+    second: Oxy_1_WalkBackwards_43
+  - first:
+      213: 5448010495530035742
+    second: Oxy_1_WalkBackwards_44
+  - first:
+      213: -7071442905920514674
+    second: Oxy_1_WalkBackwards_45
+  - first:
+      213: 8834928614458563977
+    second: Oxy_1_WalkBackwards_46
+  - first:
+      213: -5700919906654348544
+    second: Oxy_1_WalkBackwards_47
+  - first:
+      213: -6047973169729125302
+    second: Oxy_1_WalkBackwards_48
+  - first:
+      213: 4902776040568972541
+    second: Oxy_1_WalkBackwards_49
+  - first:
+      213: 5131709574708608609
+    second: Oxy_1_WalkBackwards_50
+  - first:
+      213: 4210202366865274599
+    second: Oxy_1_WalkBackwards_51
+  - first:
+      213: -7694440480668260815
+    second: Oxy_1_WalkBackwards_52
+  - first:
+      213: -1018228800789476550
+    second: Oxy_1_WalkBackwards_53
+  - first:
+      213: -5597703442778513831
+    second: Oxy_1_WalkBackwards_54
+  - first:
+      213: 3748994889344100140
+    second: Oxy_1_WalkBackwards_55
+  - first:
+      213: 6066836190405614804
+    second: Oxy_1_WalkBackwards_56
+  - first:
+      213: 2100414844041432735
+    second: Oxy_1_WalkBackwards_57
+  - first:
+      213: 7299086247753589215
+    second: Oxy_1_WalkBackwards_58
+  - first:
+      213: 4183284658606157151
+    second: Oxy_1_WalkBackwards_59
+  - first:
+      213: -6008324731524756019
+    second: Oxy_1_WalkBackwards_60
+  - first:
+      213: 6798695517593413905
+    second: Oxy_1_WalkBackwards_61
+  - first:
+      213: 7000287594600797815
+    second: Oxy_1_WalkBackwards_62
+  - first:
+      213: -7769295838193580129
+    second: Oxy_1_WalkBackwards_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1917
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f4fff4e7cbf7630800000000000000
+      internalID: 3927064650784395040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1917
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1811c9f688a95750800000000000000
+      internalID: 6294247251896244251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1917
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d36825d8a05ece0800000000000000
+      internalID: -1376682509000622775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_3
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1917
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f39e9d77c82f550800000000000000
+      internalID: 6193166883972792135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1917
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3519ffa6ae20e8b0800000000000000
+      internalID: -5125045082495838918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_5
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1917
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468e271f107abb430800000000000000
+      internalID: 3799814337404790884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_6
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1917
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467226394ebb19850800000000000000
+      internalID: 6382088737360324452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1917
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73855e64c3d08330800000000000000
+      internalID: 3711198933571437439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b0fd7db83c65f70800000000000000
+      internalID: 9175736296203553607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb17eff2871418f40800000000000000
+      internalID: 5728932185449066942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c943c54cc4e61240800000000000000
+      internalID: 4762245221985765830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0059c7bc3c0af10800000000000000
+      internalID: 2279036690185388203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66af0080333b7c10800000000000000
+      internalID: 2052290338597348975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_13
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b717584f9789e00800000000000000
+      internalID: 1051724604108798725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_14
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bec92c211f77a710800000000000000
+      internalID: 1704470695715131058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_15
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f67a9b1985274c0800000000000000
+      internalID: -4291270112022401203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1405
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ab9926ae6439ae0800000000000000
+      internalID: -1543812274767414681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e155691b16bd02810800000000000000
+      internalID: 1738630668802741534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82e1391565a5d960800000000000000
+      internalID: 7626183397654782604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fdb3f66fa0a5c40800000000000000
+      internalID: 5501721948330909440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_20
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1405
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68730ba5438235f80800000000000000
+      internalID: -8119101497893963898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_21
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1405
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d06ed15e0ee7ea60800000000000000
+      internalID: 7703387432911003861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_22
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1405
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d16989698b0fae90800000000000000
+      internalID: -7012373409983536685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_23
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1405
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6558602a2560f920800000000000000
+      internalID: 3022026581572343150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1149
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aacc85901b45230800000000000000
+      internalID: 3626718253642721919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_25
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1150
+        width: 37
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f994074d7eaa640800000000000000
+      internalID: 5092137228298723116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_26
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1149
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32b01e1c59942210800000000000000
+      internalID: 1307338412764738106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_27
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1149
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b78de296dc5b6000800000000000000
+      internalID: 30219899165837234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_28
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1149
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605fff78a6e04ef90800000000000000
+      internalID: -6925394476277959418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_29
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1149
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d13c074fce065080800000000000000
+      internalID: -9199148905444658734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_30
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1149
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a63f133c621a20800000000000000
+      internalID: 3031604465996572561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_31
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1149
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0871f8fb4a32ae0800000000000000
+      internalID: -1575234302003150673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 893
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fd1800a36b42b70800000000000000
+      internalID: 8873417526059589381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 893
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9eb7a31b5e76420800000000000000
+      internalID: 2623317857319774655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_34
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 892
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6a828cb75410460800000000000000
+      internalID: 7206117276710905561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 892
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5437a9a9a7c5878e0800000000000000
+      internalID: -1695503578055412923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_36
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 892
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896c66a94557f1b30800000000000000
+      internalID: 4260252778743907992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 893
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bee07bca0b44120800000000000000
+      internalID: 2397235157520018315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_38
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 893
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a3bf82a562b28d0800000000000000
+      internalID: -2870158168842093925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_39
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 893
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb69a637ecd0fc20800000000000000
+      internalID: 3238331017692015549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 637
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c88bc36dc0a7d6d0800000000000000
+      internalID: -2965725025597159229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 637
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8a696e3f33f00c0800000000000000
+      internalID: -4607406771138025226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 636
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367205dce0c956e20800000000000000
+      internalID: 3343249885780518755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_43
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 637
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a9cce15a8ee9b40800000000000000
+      internalID: 5449048395048852067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_44
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 637
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aeaae4ea83b9b40800000000000000
+      internalID: 5448010495530035742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_45
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 637
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85d627a4203ddd90800000000000000
+      internalID: -7071442905920514674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_46
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 637
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d9cb0f3c8fb9a70800000000000000
+      internalID: 8834928614458563977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_47
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 637
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b1ae6bc8342e0b0800000000000000
+      internalID: -5700919906654348544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44c3371278411ca0800000000000000
+      internalID: -6047973169729125302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4e86735d82a0440800000000000000
+      internalID: 4902776040568972541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_50
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e3af25bae773740800000000000000
+      internalID: 5131709574708608609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_51
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6738dfeb4ad6a30800000000000000
+      internalID: 4210202366865274599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_52
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136e164562bd73590800000000000000
+      internalID: -7694440480668260815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_53
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b0fdcec468ed1f0800000000000000
+      internalID: -1018228800789476550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_54
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e943f6066f052b0800000000000000
+      internalID: -5597703442778513831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_55
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c272c142dfa170430800000000000000
+      internalID: 3748994889344100140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 125
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc5c972f5bb13450800000000000000
+      internalID: 6066836190405614804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e0c041c2c262d10800000000000000
+      internalID: 2100414844041432735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1aa4625409b4560800000000000000
+      internalID: 7299086247753589215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_59
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 125
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5daf86ab330e0a30800000000000000
+      internalID: 4183284658606157151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_60
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 125
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdc54a7d742e9ca0800000000000000
+      internalID: -6008324731524756019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_61
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 125
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119223e5d81d95e50800000000000000
+      internalID: 6798695517593413905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_62
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 125
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77611c96a74062160800000000000000
+      internalID: 7000287594600797815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_1_WalkBackwards_63
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 125
+        width: 39
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f970d81499aed2490800000000000000
+      internalID: -7769295838193580129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

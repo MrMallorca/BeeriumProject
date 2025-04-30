@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 74d651ceac0bf98499ec5cb9f176e580
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1128459854346218305
+    second: Oxy_2_Walk_0
+  - first:
+      213: 8575687258751542370
+    second: Oxy_2_Walk_1
+  - first:
+      213: -939480052095129134
+    second: Oxy_2_Walk_2
+  - first:
+      213: -5619346915165287652
+    second: Oxy_2_Walk_3
+  - first:
+      213: 6342189893751150939
+    second: Oxy_2_Walk_4
+  - first:
+      213: 2895458386078054712
+    second: Oxy_2_Walk_5
+  - first:
+      213: -4566491766373856187
+    second: Oxy_2_Walk_6
+  - first:
+      213: 455234269837499891
+    second: Oxy_2_Walk_7
+  - first:
+      213: -6092813197513151062
+    second: Oxy_2_Walk_8
+  - first:
+      213: -2252330180335607634
+    second: Oxy_2_Walk_9
+  - first:
+      213: -992875939905331579
+    second: Oxy_2_Walk_10
+  - first:
+      213: -7779422937319538187
+    second: Oxy_2_Walk_11
+  - first:
+      213: -3300312658358089258
+    second: Oxy_2_Walk_12
+  - first:
+      213: -1312936982729173101
+    second: Oxy_2_Walk_13
+  - first:
+      213: 1500197859039034934
+    second: Oxy_2_Walk_14
+  - first:
+      213: 2154993162837377275
+    second: Oxy_2_Walk_15
+  - first:
+      213: -8719886185197905300
+    second: Oxy_2_Walk_16
+  - first:
+      213: 1334568622983784713
+    second: Oxy_2_Walk_17
+  - first:
+      213: 4137255091475950314
+    second: Oxy_2_Walk_18
+  - first:
+      213: -3742693410493567114
+    second: Oxy_2_Walk_19
+  - first:
+      213: 656206032604006491
+    second: Oxy_2_Walk_20
+  - first:
+      213: -5735532045360343472
+    second: Oxy_2_Walk_21
+  - first:
+      213: -4388974463144608507
+    second: Oxy_2_Walk_22
+  - first:
+      213: -323207269428248767
+    second: Oxy_2_Walk_23
+  - first:
+      213: -8091754289051496125
+    second: Oxy_2_Walk_24
+  - first:
+      213: -1538253783705722724
+    second: Oxy_2_Walk_25
+  - first:
+      213: -1655057543559540290
+    second: Oxy_2_Walk_26
+  - first:
+      213: -5859164574437716507
+    second: Oxy_2_Walk_27
+  - first:
+      213: -5253889347055059006
+    second: Oxy_2_Walk_28
+  - first:
+      213: -7243606901520730632
+    second: Oxy_2_Walk_29
+  - first:
+      213: -6735020617806654708
+    second: Oxy_2_Walk_30
+  - first:
+      213: -4669786013175110584
+    second: Oxy_2_Walk_31
+  - first:
+      213: 7186632784042339948
+    second: Oxy_2_Walk_32
+  - first:
+      213: -2620790265698235228
+    second: Oxy_2_Walk_33
+  - first:
+      213: -7899163160522031343
+    second: Oxy_2_Walk_34
+  - first:
+      213: -7089523645433148241
+    second: Oxy_2_Walk_35
+  - first:
+      213: 6785717718680280013
+    second: Oxy_2_Walk_36
+  - first:
+      213: -2910327755419337847
+    second: Oxy_2_Walk_37
+  - first:
+      213: 4583920088319051523
+    second: Oxy_2_Walk_38
+  - first:
+      213: -6845019047282306132
+    second: Oxy_2_Walk_39
+  - first:
+      213: -2875738480096715449
+    second: Oxy_2_Walk_40
+  - first:
+      213: -7097273761378632861
+    second: Oxy_2_Walk_41
+  - first:
+      213: 7478173350905249683
+    second: Oxy_2_Walk_42
+  - first:
+      213: -6304956475786941891
+    second: Oxy_2_Walk_43
+  - first:
+      213: 3270238550982105583
+    second: Oxy_2_Walk_44
+  - first:
+      213: 6710821845308087566
+    second: Oxy_2_Walk_45
+  - first:
+      213: -5469667177772490283
+    second: Oxy_2_Walk_46
+  - first:
+      213: 2031415654995835941
+    second: Oxy_2_Walk_47
+  - first:
+      213: 102524924528905127
+    second: Oxy_2_Walk_48
+  - first:
+      213: -7487467326959221042
+    second: Oxy_2_Walk_49
+  - first:
+      213: -7135316554884928098
+    second: Oxy_2_Walk_50
+  - first:
+      213: -846581214107932752
+    second: Oxy_2_Walk_51
+  - first:
+      213: 2150161120643880199
+    second: Oxy_2_Walk_52
+  - first:
+      213: -7869134728021784471
+    second: Oxy_2_Walk_53
+  - first:
+      213: 699389947964554869
+    second: Oxy_2_Walk_54
+  - first:
+      213: 4779401570529442733
+    second: Oxy_2_Walk_55
+  - first:
+      213: -9201015236157427159
+    second: Oxy_2_Walk_56
+  - first:
+      213: 3748642274767584992
+    second: Oxy_2_Walk_57
+  - first:
+      213: -3821314054330445908
+    second: Oxy_2_Walk_58
+  - first:
+      213: 7214512359060487612
+    second: Oxy_2_Walk_59
+  - first:
+      213: -4352262010037944024
+    second: Oxy_2_Walk_60
+  - first:
+      213: 4288266156432811644
+    second: Oxy_2_Walk_61
+  - first:
+      213: -5593872800685606830
+    second: Oxy_2_Walk_62
+  - first:
+      213: 526228966933222999
+    second: Oxy_2_Walk_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_2_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1917
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb49766cdb7e650f0800000000000000
+      internalID: -1128459854346218305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1917
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264aaba3026f20770800000000000000
+      internalID: 8575687258751542370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1917
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9ed45cedb46f2f0800000000000000
+      internalID: -939480052095129134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1917
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc2e3d0c11402b0800000000000000
+      internalID: -5619346915165287652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1917
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b591c132b1cf30850800000000000000
+      internalID: 6342189893751150939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1917
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839bb14bf0cbe2820800000000000000
+      internalID: 2895458386078054712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1917
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4a8bceef80a0c0800000000000000
+      internalID: -4566491766373856187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1917
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd9f3f0821515600800000000000000
+      internalID: 455234269837499891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadaa6f8daaf17ba0800000000000000
+      internalID: -6092813197513151062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0643462ad1eb0e0800000000000000
+      internalID: -2252330180335607634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e19e7d7989832f0800000000000000
+      internalID: -992875939905331579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f10b8f3e00f90490800000000000000
+      internalID: -7779422937319538187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d947de7f1fe232d0800000000000000
+      internalID: -3300312658358089258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39754fb35c287cde0800000000000000
+      internalID: -1312936982729173101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eb2d02106c1d410800000000000000
+      internalID: 1500197859039034934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0415c2dd218ed10800000000000000
+      internalID: 2154993162837377275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1405
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a5179e6bdbcf680800000000000000
+      internalID: -8719886185197905300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909a45d7717558210800000000000000
+      internalID: 1334568622983784713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaa998e59b7a6930800000000000000
+      internalID: 4137255091475950314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fe55c3c284f0cc0800000000000000
+      internalID: -3742693410493567114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1405
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5884d0f8ef4b1900800000000000000
+      internalID: 656206032604006491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1405
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0565d6e2efb4760b0800000000000000
+      internalID: -5735532045360343472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1405
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d3104cafa3713c0800000000000000
+      internalID: -4388974463144608507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1405
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fb7ec63bcb38bf0800000000000000
+      internalID: -323207269428248767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1149
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3419757985054bf80800000000000000
+      internalID: -8091754289051496125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1150
+        width: 37
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90e1df655607aae0800000000000000
+      internalID: -1538253783705722724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1149
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19d49deed0809e0800000000000000
+      internalID: -1655057543559540290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1149
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed461cdcd010bea0800000000000000
+      internalID: -5859164574437716507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1149
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cff293a97f6617b0800000000000000
+      internalID: -5253889347055059006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1149
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5f94eb6e9897b90800000000000000
+      internalID: -7243606901520730632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1149
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03d3b88e666882a0800000000000000
+      internalID: -6735020617806654708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1149
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8442c93dc56913fb0800000000000000
+      internalID: -4669786013175110584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 893
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e2500d07c0cb360800000000000000
+      internalID: 7186632784042339948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 893
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac414e832511abd0800000000000000
+      internalID: -2620790265698235228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 892
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f7b3205f8806290800000000000000
+      internalID: -7899163160522031343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 892
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac893f6ec3fc9d90800000000000000
+      internalID: -7089523645433148241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 892
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb13081056bb2e50800000000000000
+      internalID: 6785717718680280013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 893
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b354673507c97d0800000000000000
+      internalID: -2910327755419337847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 893
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307c80f980b5d9f30800000000000000
+      internalID: 4583920088319051523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 893
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca394f5617b9101a0800000000000000
+      internalID: -6845019047282306132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 637
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dd9e2b6135718d0800000000000000
+      internalID: -2875738480096715449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 637
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b7353fd1b618d90800000000000000
+      internalID: -7097273761378632861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 636
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fff75aa0fc7c760800000000000000
+      internalID: 7478173350905249683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 637
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aab688d7b4088a0800000000000000
+      internalID: -6304956475786941891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 637
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9931ab2a8326d20800000000000000
+      internalID: 3270238550982105583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 637
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d1580b9e0a12d50800000000000000
+      internalID: 6710821845308087566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_46
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 637
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1e14d6ea6d714b0800000000000000
+      internalID: -5469667177772490283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 637
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb13b76c9013c10800000000000000
+      internalID: 2031415654995835941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab4b2b20ed3c6100800000000000000
+      internalID: 102524924528905127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6804de22c271890800000000000000
+      internalID: -7487467326959221042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_50
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dae1ad5634afc90800000000000000
+      internalID: -7135316554884928098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_51
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7e3930fd65044f0800000000000000
+      internalID: -846581214107932752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_52
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70595dda528e6dd10800000000000000
+      internalID: 2150161120643880199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_53
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 381
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968429648a73bc290800000000000000
+      internalID: -7869134728021784471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_54
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ef7efb37bb4b900800000000000000
+      internalID: 699389947964554869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_55
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf952f768d35240800000000000000
+      internalID: 4779401570529442733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 125
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92231eb446d6f4080800000000000000
+      internalID: -9201015236157427159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeb889a94ad50430800000000000000
+      internalID: 3748642274767584992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf0d602d17f7fac0800000000000000
+      internalID: -3821314054330445908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_59
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 125
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd377534c81f1460800000000000000
+      internalID: 7214512359060487612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_60
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 125
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821c24ad2c8a993c0800000000000000
+      internalID: -4352262010037944024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_61
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 125
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76e18c595bf28b30800000000000000
+      internalID: 4288266156432811644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_62
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 125
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2583a6c43529e52b0800000000000000
+      internalID: -5593872800685606830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_2_Walk_63
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 125
+        width: 39
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7565394157a8d4700800000000000000
+      internalID: 526228966933222999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1492 @@
+fileFormatVersion: 2
+guid: 65777585b6a01fa4f8b4900b9f6b0cd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2970498501743182467
+    second: Oxy_8_A_0
+  - first:
+      213: -2245883897184197166
+    second: Oxy_8_A_1
+  - first:
+      213: 5576005353142912756
+    second: Oxy_8_A_2
+  - first:
+      213: 6195165021256125092
+    second: Oxy_8_A_3
+  - first:
+      213: 3492343052657025427
+    second: Oxy_8_A_4
+  - first:
+      213: 2023396892524735524
+    second: Oxy_8_A_5
+  - first:
+      213: 9158100269678729481
+    second: Oxy_8_A_6
+  - first:
+      213: -9031115701400045296
+    second: Oxy_8_A_7
+  - first:
+      213: -2498570476772014521
+    second: Oxy_8_A_8
+  - first:
+      213: -675639352245305363
+    second: Oxy_8_A_9
+  - first:
+      213: -871590551022357661
+    second: Oxy_8_A_10
+  - first:
+      213: 7767420280621167660
+    second: Oxy_8_A_11
+  - first:
+      213: -2414329129391978136
+    second: Oxy_8_A_12
+  - first:
+      213: 329446831904238507
+    second: Oxy_8_A_13
+  - first:
+      213: 7235219149261806693
+    second: Oxy_8_A_14
+  - first:
+      213: -1488824675511845183
+    second: Oxy_8_A_15
+  - first:
+      213: 4778045115152751585
+    second: Oxy_8_A_16
+  - first:
+      213: 6260524579693981785
+    second: Oxy_8_A_17
+  - first:
+      213: 9131451056595907853
+    second: Oxy_8_A_18
+  - first:
+      213: 8617052726582053268
+    second: Oxy_8_A_19
+  - first:
+      213: 3699794012796961701
+    second: Oxy_8_A_20
+  - first:
+      213: -4432220461452347154
+    second: Oxy_8_A_21
+  - first:
+      213: 2252508037814148005
+    second: Oxy_8_A_22
+  - first:
+      213: -5993899611310265226
+    second: Oxy_8_A_23
+  - first:
+      213: 4318487601047989224
+    second: Oxy_8_A_24
+  - first:
+      213: 8639016108148356187
+    second: Oxy_8_A_25
+  - first:
+      213: 7981785970533241397
+    second: Oxy_8_A_26
+  - first:
+      213: -57144654878042150
+    second: Oxy_8_A_27
+  - first:
+      213: -6395453577241606776
+    second: Oxy_8_A_28
+  - first:
+      213: -229087525968113224
+    second: Oxy_8_A_29
+  - first:
+      213: 8023796580363490020
+    second: Oxy_8_A_30
+  - first:
+      213: 6381481843342265441
+    second: Oxy_8_A_31
+  - first:
+      213: 3866490842482985371
+    second: Oxy_8_A_32
+  - first:
+      213: -5899072697783893032
+    second: Oxy_8_A_33
+  - first:
+      213: -1240143020002079227
+    second: Oxy_8_A_34
+  - first:
+      213: 7779362809631192970
+    second: Oxy_8_A_35
+  - first:
+      213: 4700321543867206433
+    second: Oxy_8_A_36
+  - first:
+      213: -793498714596771979
+    second: Oxy_8_A_37
+  - first:
+      213: 8693741621700906658
+    second: Oxy_8_A_38
+  - first:
+      213: 2916012694961984323
+    second: Oxy_8_A_39
+  - first:
+      213: -5718729943222207089
+    second: Oxy_8_A_40
+  - first:
+      213: -8039406278971052297
+    second: Oxy_8_A_41
+  - first:
+      213: 7538156495697705875
+    second: Oxy_8_A_42
+  - first:
+      213: 3053564243287624756
+    second: Oxy_8_A_43
+  - first:
+      213: 5589190498568900626
+    second: Oxy_8_A_44
+  - first:
+      213: -1561258235272711438
+    second: Oxy_8_A_45
+  - first:
+      213: -1510295403237509378
+    second: Oxy_8_A_46
+  - first:
+      213: 1560108645705927563
+    second: Oxy_8_A_47
+  - first:
+      213: 9163608868005251261
+    second: Oxy_8_A_48
+  - first:
+      213: 5167081321523070402
+    second: Oxy_8_A_49
+  - first:
+      213: -1896065526318396859
+    second: Oxy_8_A_50
+  - first:
+      213: 564796734258324522
+    second: Oxy_8_A_51
+  - first:
+      213: 3109007667452731763
+    second: Oxy_8_A_52
+  - first:
+      213: 8050140857057666231
+    second: Oxy_8_A_53
+  - first:
+      213: -5712239165144729046
+    second: Oxy_8_A_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_8_A_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1918
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3828b3226a4593920800000000000000
+      internalID: 2970498501743182467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1918
+        width: 50
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5e095ae7405d0e0800000000000000
+      internalID: -2245883897184197166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1917
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f682c36353f16d40800000000000000
+      internalID: 5576005353142912756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_3
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1917
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa85e073c5a9f550800000000000000
+      internalID: 6195165021256125092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_4
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1917
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391ec6fc08b477030800000000000000
+      internalID: 3492343052657025427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_5
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1916
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ce09ad0cc841c10800000000000000
+      internalID: 2023396892524735524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_6
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1916
+        width: 43
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9091c9f6cab181f70800000000000000
+      internalID: 9158100269678729481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_7
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1916
+        width: 23
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f8945e180ba280800000000000000
+      internalID: -9031115701400045296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1660
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746c9bda36b435dd0800000000000000
+      internalID: -2498570476772014521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1660
+        width: 40
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defb42db695af96f0800000000000000
+      internalID: -675639352245305363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1660
+        width: 36
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363b9b0030d77e3f0800000000000000
+      internalID: -871590551022357661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_11
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1661
+        width: 32
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24f697779b6bcb60800000000000000
+      internalID: 7767420280621167660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_12
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1661
+        width: 29
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86986bfc2749e7ed0800000000000000
+      internalID: -2414329129391978136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_13
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1661
+        width: 30
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baba70ce52e629400800000000000000
+      internalID: 329446831904238507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_14
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1662
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c9adf7b79a86460800000000000000
+      internalID: 7235219149261806693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1405
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceb74388d1a65be0800000000000000
+      internalID: -1488824675511845183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1405
+        width: 40
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb587197b60f4240800000000000000
+      internalID: 4778045115152751585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1406
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950f2408fe9d1e650800000000000000
+      internalID: 6260524579693981785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_18
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1406
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05b3400b5e69be70800000000000000
+      internalID: 9131451056595907853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_19
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1405
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4990cbabccbe59770800000000000000
+      internalID: 8617052726582053268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_20
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1405
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a341e26d0f485330800000000000000
+      internalID: 3699794012796961701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_21
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1405
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee83ae429f69d72c0800000000000000
+      internalID: -4432220461452347154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_22
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1405
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abdf974024824f10800000000000000
+      internalID: 2252508037814148005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1149
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cef708f0461dca0800000000000000
+      internalID: -5993899611310265226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_24
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1149
+        width: 51
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebe463c7995eeb30800000000000000
+      internalID: 4318487601047989224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1147
+        width: 46
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b547f0ff063f3e770800000000000000
+      internalID: 8639016108148356187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1146
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53294d60d0005ce60800000000000000
+      internalID: 7981785970533241397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_27
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1146
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad79e293d3bf43ff0800000000000000
+      internalID: -57144654878042150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_28
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1147
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88543072bd8ce37a0800000000000000
+      internalID: -6395453577241606776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_29
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1149
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b19230eb1e12dcf0800000000000000
+      internalID: -229087525968113224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 893
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e25f8a5a704a5f60800000000000000
+      internalID: 8023796580363490020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 892
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c450d0de39f8850800000000000000
+      internalID: 6381481843342265441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_32
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 894
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99cf798fe888a530800000000000000
+      internalID: 3866490842482985371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_33
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 893
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3c260d2a8422ea0800000000000000
+      internalID: -5899072697783893032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_34
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 892
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e881e6e702acee0800000000000000
+      internalID: -1240143020002079227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_35
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 894
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87b3fe2249d5fb60800000000000000
+      internalID: 7779362809631192970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_36
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 898
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b02507a85ea3140800000000000000
+      internalID: 4700321543867206433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_37
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 906
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577faba8f1decf4f0800000000000000
+      internalID: -793498714596771979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 650
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aec28a81ff56a870800000000000000
+      internalID: 8693741621700906658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 643
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3431dbba812c77820800000000000000
+      internalID: 2916012694961984323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_40
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 644
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8db9df6a6df2a0b0800000000000000
+      internalID: -5718729943222207089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_41
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 654
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fea2e8759a4e6090800000000000000
+      internalID: -8039406278971052297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_42
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 659
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b7d5bd469ec9860800000000000000
+      internalID: 7538156495697705875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_43
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 666
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c4ef33080706a20800000000000000
+      internalID: 3053564243287624756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_44
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 653
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2101039452bc09d40800000000000000
+      internalID: 5589190498568900626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_45
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 643
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2baeb28eb455ae0800000000000000
+      internalID: -1561258235272711438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 386
+        width: 86
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef67f18255a5a0be0800000000000000
+      internalID: -1510295403237509378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_47
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 384
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b41562c8e96a510800000000000000
+      internalID: 1560108645705927563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_48
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 383
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8821ee6bdab2f70800000000000000
+      internalID: 9163608868005251261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_49
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 381
+        width: 114
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c540f6e51925b740800000000000000
+      internalID: 5167081321523070402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_50
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 380
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a8de81372dfa5e0800000000000000
+      internalID: -1896065526318396859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_51
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 380
+        width: 93
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24a4cb23af86d700800000000000000
+      internalID: 564796734258324522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_52
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 381
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3716c76500a652b20800000000000000
+      internalID: 3109007667452731763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_53
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 381
+        width: 45
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e7c04578d7bf60800000000000000
+      internalID: 8050140857057666231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_8_A_54
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 125
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a79797ebc0ab0b0800000000000000
+      internalID: -5712239165144729046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
