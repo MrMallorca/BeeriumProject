@@ -30,6 +30,8 @@ public class FollowEnemy : MonoBehaviour
             Debug.Log("COMBOS");
             doingCombo = true;
         }
+
+        transform.LookAt(player1);
     }
 
     private void Start()

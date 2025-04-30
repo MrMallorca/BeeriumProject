@@ -41,6 +41,7 @@ public class GameLogic_Oleadas : MonoBehaviour
             }
             else
             {
+                Debug.Log(personaje);
                 InitCharacter(personaje, player1.transform, actionSetPl1, "Player1");
             }
 

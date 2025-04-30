@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: 9f823c780e66fb544955032512f6d677
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -425939867501958072
+    second: Oxy_3_Jump_0
+  - first:
+      213: 4385353850591405294
+    second: Oxy_3_Jump_1
+  - first:
+      213: -3153134815354139274
+    second: Oxy_3_Jump_2
+  - first:
+      213: -6477926460910801792
+    second: Oxy_3_Jump_3
+  - first:
+      213: 1744366392104111092
+    second: Oxy_3_Jump_4
+  - first:
+      213: 3737568154357740280
+    second: Oxy_3_Jump_5
+  - first:
+      213: -2910664665686386433
+    second: Oxy_3_Jump_6
+  - first:
+      213: -3842135819476307055
+    second: Oxy_3_Jump_7
+  - first:
+      213: -7530799944175417890
+    second: Oxy_3_Jump_8
+  - first:
+      213: 8363885065481580594
+    second: Oxy_3_Jump_9
+  - first:
+      213: -3176951307331014525
+    second: Oxy_3_Jump_10
+  - first:
+      213: -8898421016871990003
+    second: Oxy_3_Jump_11
+  - first:
+      213: 4612039387032976524
+    second: Oxy_3_Jump_12
+  - first:
+      213: -5263559029507327122
+    second: Oxy_3_Jump_13
+  - first:
+      213: 1599218525820895520
+    second: Oxy_3_Jump_14
+  - first:
+      213: 3439309909603456791
+    second: Oxy_3_Jump_15
+  - first:
+      213: 3178094766123778344
+    second: Oxy_3_Jump_16
+  - first:
+      213: -6156172343658144123
+    second: Oxy_3_Jump_17
+  - first:
+      213: -4671624832275797783
+    second: Oxy_3_Jump_18
+  - first:
+      213: 1532493307760358536
+    second: Oxy_3_Jump_19
+  - first:
+      213: 572746755547479926
+    second: Oxy_3_Jump_20
+  - first:
+      213: 6493490505745191059
+    second: Oxy_3_Jump_21
+  - first:
+      213: 1821507387058596264
+    second: Oxy_3_Jump_22
+  - first:
+      213: -8477281175407449172
+    second: Oxy_3_Jump_23
+  - first:
+      213: -6885757897620234411
+    second: Oxy_3_Jump_24
+  - first:
+      213: 8068808660302692652
+    second: Oxy_3_Jump_25
+  - first:
+      213: -4063911370768176897
+    second: Oxy_3_Jump_26
+  - first:
+      213: 6479832751614565790
+    second: Oxy_3_Jump_27
+  - first:
+      213: -2310646940867117790
+    second: Oxy_3_Jump_28
+  - first:
+      213: -282673517942976898
+    second: Oxy_3_Jump_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_3_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1918
+        width: 30
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c6edd72f1c61af0800000000000000
+      internalID: -425939867501958072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1917
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee464eea718ebdc30800000000000000
+      internalID: 4385353850591405294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1917
+        width: 34
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d46e96790dd34d0800000000000000
+      internalID: -3153134815354139274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1916
+        width: 39
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cee409438c916a0800000000000000
+      internalID: -6477926460910801792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1917
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbce77ddfb353810800000000000000
+      internalID: 1744366392104111092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1915
+        width: 41
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f23e441f628ed330800000000000000
+      internalID: 3737568154357740280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1915
+        width: 37
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff85b7d68ed3b97d0800000000000000
+      internalID: -2910664665686386433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1919
+        width: 36
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1937f4524ddfdaac0800000000000000
+      internalID: -3842135819476307055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1663
+        width: 36
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed584e4c9593d7790800000000000000
+      internalID: -7530799944175417890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1663
+        width: 35
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230793e372d721470800000000000000
+      internalID: 8363885065481580594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1663
+        width: 36
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38072d14e9339e3d0800000000000000
+      internalID: -3176951307331014525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1663
+        width: 35
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d89732b35728480800000000000000
+      internalID: -8898421016871990003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1663
+        width: 36
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cf53a0361410040800000000000000
+      internalID: 4612039387032976524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_13
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1663
+        width: 35
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b7aef33f414f6b0800000000000000
+      internalID: -5263559029507327122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_14
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1663
+        width: 36
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02147c5b6c0913610800000000000000
+      internalID: 1599218525820895520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_15
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1664
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717156af322eabf20800000000000000
+      internalID: 3439309909603456791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1408
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821065df95cda1c20800000000000000
+      internalID: 3178094766123778344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1409
+        width: 35
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e1c28ced1e09aa0800000000000000
+      internalID: -6156172343658144123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_18
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1409
+        width: 35
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8ae4467fd0b2fb0800000000000000
+      internalID: -4671624832275797783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_19
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1410
+        width: 35
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88438bd3b82844510800000000000000
+      internalID: 1532493307760358536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_20
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1411
+        width: 34
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f3aaeb32ec2f700800000000000000
+      internalID: 572746755547479926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_21
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1411
+        width: 35
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390505306338d1a50800000000000000
+      internalID: 6493490505745191059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_22
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1412
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9a069515b474910800000000000000
+      internalID: 1821507387058596264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_23
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1413
+        width: 37
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cababbe7fa5aa5a80800000000000000
+      internalID: -8477281175407449172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1157
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5107acafd070a0800000000000000
+      internalID: -6885757897620234411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1158
+        width: 40
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2100f5e9ba2aff60800000000000000
+      internalID: 8068808660302692652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_26
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1157
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff821bac3261a97c0800000000000000
+      internalID: -4063911370768176897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_27
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1157
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d9de35e8dfce950800000000000000
+      internalID: 6479832751614565790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_28
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22db54089deeeefd0800000000000000
+      internalID: -2310646940867117790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_3_Jump_29
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e499fdeedb31cf0800000000000000
+      internalID: -282673517942976898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

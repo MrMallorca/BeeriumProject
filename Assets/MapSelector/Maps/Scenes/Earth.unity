@@ -677,6 +677,7 @@ MonoBehaviour:
   personajes:
   - {fileID: 6692884895733422554, guid: 9f4e3afd60d7a3d47807576f537a135b, type: 3}
   - {fileID: 6692884895733422554, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
+  - {fileID: 6692884895733422554, guid: ff47710b37f801e4a9a750abbeda759a, type: 3}
   player1: {fileID: 1025084731}
   player2: {fileID: 1628573504}
   player1Health: {fileID: 1205989644}
@@ -882,6 +883,14 @@ PrefabInstance:
     - target: {fileID: 6910770571585581349, guid: 227657d8205d9cc41b789c58746156b2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: SelectScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 7427688816769137119, guid: 227657d8205d9cc41b789c58746156b2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1115132392}
+    - target: {fileID: 7427688816769137119, guid: 227657d8205d9cc41b789c58746156b2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ReturnGame
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1406,7 +1415,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1551487550}
-  - component: {fileID: 1551487549}
   - component: {fileID: 1551487551}
   m_Layer: 0
   m_Name: FadeManager
@@ -1415,20 +1423,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1551487549
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1551487548}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08586281ecb39b34bb5253f835d0390c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  transitionTime: 1
-  canvas: {fileID: 1463587659}
 --- !u!4 &1551487550
 Transform:
   m_ObjectHideFlags: 0
