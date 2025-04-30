@@ -122,9 +122,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84ee1591a3d569b40be4f2f0c2a21893, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
-  enemy: {fileID: 0}
-  minDistance: 2
+  speed: 2
+  minDistance: 1
+  player1: {fileID: 0}
 --- !u!54 &5286755274018762095
 Rigidbody:
   m_ObjectHideFlags: 0
