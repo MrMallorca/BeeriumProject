@@ -13,31 +13,21 @@ public class VictoryManager : MonoBehaviour
     {
         bool playerMuerto = false;
 
-        //foreach (BaseFighter bf in BaseFighter.fighterList)
-        //{
-        //    playerMuerto |= bf.currentHealth < 0f;
+       foreach (BaseFighter bf in BaseFighter.fighterList)
+       {
+           playerMuerto |= bf.currentHealth < 0f;
 
-        //    if(bf.currentHealth < 0f)
-        //    {
-        //        playerMuerto = true;
-        //        StartCoroutine(SceneLoad());
+           if(bf.currentHealth < 0f)
+           {
+               playerMuerto = true;
+               StartCoroutine(SceneLoad());
 
-        //        ChargeScene();
-        //    }
-
-
-        //}
-
-        //if (playerMuerto)
-        //{
-        //    StartCoroutine(SceneLoad());
-        //}
-
-        //Debug.Log(baseFighter.currentHealth);
-        //if (baseFighter.currentHealth <= 0)
-        //{
-        //    Debug.Log("player1 victory");
-        //}
+           }
+       }
+       if (playerMuerto)
+       {
+           StartCoroutine(SceneLoad());
+       }
     }
 
     public IEnumerator SceneLoad()
@@ -46,7 +36,12 @@ public class VictoryManager : MonoBehaviour
         //{
         canvas.gameObject.SetActive(true);
         transitionAnimator.SetTrigger("StartTransition");
+
+        
+
         yield return new WaitForSeconds(transitionTime);
+
+        ChargeScene();
         //}
 
     }
