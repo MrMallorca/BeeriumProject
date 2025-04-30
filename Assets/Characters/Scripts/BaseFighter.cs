@@ -1,16 +1,22 @@
+using System;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using static UnityEngine.Rendering.DebugUI;
 
-public class BaseFighter : MonoBehaviour
+public class BaseFighter : MonoBehaviour, IDamageable
 {
+    public static List<BaseFighter> fighterList = new();
+    VictoryManager victoryManager;
+
+
     [Header("Movement Settings")]
 
     public bool characterCanJump = true;
 
     public float speed;
 
-    public float extraGravityForce = 10f;
     public float jumpForce = 5f;
     private bool isGrounded = true;
 
@@ -23,17 +29,29 @@ public class BaseFighter : MonoBehaviour
     GameObject enemyPlayer;
     private SpriteRenderer spriteRenderer;
 
-
+    public FadeManager fadeManager;
 
     [Header("Attacks Parameters")]
 
     private bool canAttack;
     private int nroAttack;
     private bool canAirAttack = true;
-
+    private bool isBlocking = false;
     bool inputsHaveBeenInited = false;
 
+
+    public float health;
+    public float currentHealth;
+
+    private bool hitted;
+
+    [SerializeField] public int hitCount;
+    float knockbackForce = 250f;
+
     PlayerMovements movements;
+
+    private Coroutine resetHitCoroutine;
+
 
 
 
@@ -49,6 +67,7 @@ public class BaseFighter : MonoBehaviour
 
     private void OnEnable()
     {
+        fighterList.Add(this);
         if (inputsHaveBeenInited)
             { EnableInputs(); }
 
@@ -58,10 +77,15 @@ public class BaseFighter : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        hitCount = 0;
+
         characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
+        currentHealth = health;
+
+        hitted = false;
 
         canAttack = true;
         nroAttack = 0;
@@ -96,6 +120,14 @@ public class BaseFighter : MonoBehaviour
         {
             canAttack = true;
         }
+
+
+        if(currentHealth < 0)
+        {
+            Destroy(gameObject);
+        }
+
+        isBlocking = false;
     }
 
     private void UpdateAnimatorParameters()
@@ -124,19 +156,25 @@ public class BaseFighter : MonoBehaviour
 
     void FixedUpdate()
     {
-        UpdateMovementOnPlane();
+        if(!isBlocking)
+        {
+            UpdateMovementOnPlane();
+        }
     }
 
     Vector3 rawMove = Vector3.zero;
+
+
     void UpdateMovementOnPlane()
     {
 
-        Vector3 moveDirection = rawMove * speed;
-        Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, 0);
+        if (!hitted)
+        {
+            Vector3 moveDirection = rawMove * speed;
+            Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, 0);
 
-        characterRb.linearVelocity = velocity;
-
-        characterRb.AddForce(Vector3.down * extraGravityForce, ForceMode.Acceleration);
+            characterRb.linearVelocity = velocity;
+        }
 
     }
 
@@ -163,8 +201,9 @@ public class BaseFighter : MonoBehaviour
 
     private void OnCrouch(InputAction.CallbackContext ctx)
     {
+        isBlocking = true;
 
-        if (isGrounded)
+        if (isGrounded && isBlocking)
         {
             anim.SetBool("crouch", ctx.ReadValue<float>() > 0);
             canAttackTrue();
@@ -198,7 +237,7 @@ public class BaseFighter : MonoBehaviour
             }
             else if (canAttack && nroAttack < 3)
             {
-                if(gameObject.tag == "Player1")
+                if (spriteRenderer.flipX == false)
                 {
                     Vector3 forceDirection = transform.right * attackForce; // Empuje hacia adelante
 
@@ -295,6 +334,8 @@ public class BaseFighter : MonoBehaviour
 
     private void OnDisable()
     {
+        fighterList.Remove(this);
+
         DisableInput();
 
     }
@@ -328,6 +369,33 @@ public class BaseFighter : MonoBehaviour
         yield return new WaitForSeconds(time);
         canAirAttack = true;
     }
+
+    public void CanGetHit()
+    {
+        hitted = false;
+    }
+
+    public bool HasTakenDamage { get { return hitted;  } set { hitted = value;  } }
+    public void NotifyDamageReceived(float damageAmount)
+    {
+        // Ataco
+
+        if (!hitted)
+        {
+            currentHealth -= damageAmount;
+            anim.SetTrigger("hit");
+            hitted = true;
+            Invoke("CanGetHit", 1.5f);
+        }
+        if(currentHealth == 0)
+        {
+            fadeManager.SceneLoad();
+        }
+
+
+    }
+
+   
 
     #region InputManagement
     private void EnableInputs()
@@ -381,5 +449,48 @@ public class BaseFighter : MonoBehaviour
         movements.actionSet.move.action.started -= OnMove;
         movements.actionSet.move.action.canceled -= OnMove;
     }
+
+    internal void NotifyHit()
+    {
+        hitCount += 1;
+        anim.SetInteger("hitCount", hitCount);
+        NotifyDamageReceived(5f);
+
+        if (resetHitCoroutine != null)
+        {
+            StopCoroutine(resetHitCoroutine);
+        }
+        resetHitCoroutine = StartCoroutine(ResetHitCount());
+
+        if (hitCount >= 3)
+        {
+            Vector3 flatDirection = characterRb.position - enemyPlayer.transform.position;
+            flatDirection.y = 0f;
+            flatDirection.Normalize();
+            flatDirection.y = 0.8f; // Salto hacia atrás
+
+            characterRb.AddForce(flatDirection * knockbackForce * Time.deltaTime, ForceMode.Impulse);
+
+            hitted = true;
+
+            Invoke(nameof(ResetHit), 0.5f);
+        }
+
+        
+    }
+
+    void ResetHit()
+    {
+        hitted = false;
+    }
+
+
+    public IEnumerator ResetHitCount()
+    {
+        yield return new WaitForSeconds(1f);
+        hitCount = 0;
+    }
+
+
     #endregion
 }

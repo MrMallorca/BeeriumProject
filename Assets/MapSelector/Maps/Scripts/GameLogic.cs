@@ -1,26 +1,26 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class GameLogic : MonoBehaviour
 {
-    //Aqui se intanciaran los personajes y se les asignaran las barras de vida.
 
     [SerializeField] List<GameObject> personajes;
     [SerializeField] GameObject player1;
     [SerializeField] GameObject player2;
 
-    [SerializeField] HealthBar healthBarPL1;
-    [SerializeField] HealthBar healthBarPL2;
+    [SerializeField] Slider player1Health;
+    [SerializeField] Slider player2Health;
 
-    Player_Health player_Health;
+    private BaseFighter fighter1;
+    private BaseFighter fighter2;
 
 
     [Header("Input Actions")]
     public PlayerMovements.ActionSet actionSetPl1;
     public PlayerMovements.ActionSet actionSetPl2;
 
-    //public GameObject HealthBar_GO;
 
 
     private void Start()
@@ -65,6 +65,15 @@ public class GameLogic : MonoBehaviour
         }
     }
 
+    private void Update()
+    {
+        if (fighter1 != null)
+            player1Health.value = fighter1.currentHealth;
+
+        if (fighter2 != null)
+            player2Health.value = fighter2.currentHealth;
+    }
+
     private void InitCharacter(GameObject prefabPersonaje, Transform playerTransform, PlayerMovements.ActionSet actionSet, string tag)
     {
         GameObject player = Instantiate(prefabPersonaje, playerTransform.position, Quaternion.identity, playerTransform);
@@ -73,11 +82,19 @@ public class GameLogic : MonoBehaviour
         BaseFighter baseFighter = player.GetComponent<BaseFighter>();
         baseFighter.InitInputs(actionSet);
 
-        //Player_Health player_Health = player.GetComponent<Player_Health>();
-        ////player_Health.SetHealthBar(healthBar);
+        if (tag == "Player1")
+        {
+            player1Health.maxValue = baseFighter.health;
+            player1Health.value = baseFighter.health;
 
-        //HealthBar healthBarRef = player.GetComponent<HealthBar>();
-        //healthBarRef = HealthBar_GO.gameObject.GetComponentInChildren<HealthBar>();
-        
+            fighter1 = baseFighter;
+        }
+        else if (tag == "Player2")
+        {
+            player2Health.maxValue = baseFighter.health;
+            player2Health.value = baseFighter.health;
+
+            fighter2 = baseFighter;
+        }
     }
 }
