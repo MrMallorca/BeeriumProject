@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oxy_6_Land_0: 9117176423875774906
+      Oxy_6_Land_1: 1178507793809490399
+      Oxy_6_Land_2: 595922263250471046
+      Oxy_6_Land_3: -9013567632315064513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

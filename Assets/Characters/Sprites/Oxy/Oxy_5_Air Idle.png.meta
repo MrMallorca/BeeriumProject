@@ -1109,7 +1109,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oxy_5_Air Idle_0: -8572427034625685566
+      Oxy_5_Air Idle_1: 5615223049565211529
+      Oxy_5_Air Idle_10: 6384556453347498205
+      Oxy_5_Air Idle_11: 7061083766359561009
+      Oxy_5_Air Idle_12: 8752547254963374449
+      Oxy_5_Air Idle_13: -8211436135550500569
+      Oxy_5_Air Idle_14: -8951602480765802610
+      Oxy_5_Air Idle_15: 7798979902193347223
+      Oxy_5_Air Idle_16: -9049047429729173070
+      Oxy_5_Air Idle_17: -6659262268549921978
+      Oxy_5_Air Idle_18: -3238345856545760013
+      Oxy_5_Air Idle_19: -2940139605492096181
+      Oxy_5_Air Idle_2: -5264676639471125870
+      Oxy_5_Air Idle_20: -4704731448565099681
+      Oxy_5_Air Idle_21: 4805022523074296130
+      Oxy_5_Air Idle_22: -6756277541142579558
+      Oxy_5_Air Idle_23: -6168375522383582101
+      Oxy_5_Air Idle_24: 7549896736560231256
+      Oxy_5_Air Idle_25: 9201994914265639651
+      Oxy_5_Air Idle_26: 188027386597410546
+      Oxy_5_Air Idle_27: 6141029897802288036
+      Oxy_5_Air Idle_28: 3114957961710942758
+      Oxy_5_Air Idle_29: 447129582816164689
+      Oxy_5_Air Idle_3: -7060342509623528639
+      Oxy_5_Air Idle_30: -7467068540024569326
+      Oxy_5_Air Idle_31: 4877174334047593626
+      Oxy_5_Air Idle_32: -8213604936392165338
+      Oxy_5_Air Idle_33: -9142064215115306157
+      Oxy_5_Air Idle_34: -8625991453063794385
+      Oxy_5_Air Idle_35: -4189595375028468632
+      Oxy_5_Air Idle_36: 355001837513587354
+      Oxy_5_Air Idle_37: 3636160504258873164
+      Oxy_5_Air Idle_38: -7978859400823863171
+      Oxy_5_Air Idle_39: 1782021533810954942
+      Oxy_5_Air Idle_4: -7082416686878172461
+      Oxy_5_Air Idle_5: 6176772481071032629
+      Oxy_5_Air Idle_6: -2004793248589927802
+      Oxy_5_Air Idle_7: 7656723867354106092
+      Oxy_5_Air Idle_8: 8404280802892220919
+      Oxy_5_Air Idle_9: 7906491721331517211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

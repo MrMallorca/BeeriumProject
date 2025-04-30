@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oxy_33_Ground impact_0: 1247073477008590471
+      Oxy_33_Ground impact_1: 5353890565730201914
+      Oxy_33_Ground impact_2: 7843812714257896086
+      Oxy_33_Ground impact_3: 5355357320667619350
+      Oxy_33_Ground impact_4: 6834099254700633367
+      Oxy_33_Ground impact_5: -2230620747462607554
+      Oxy_33_Ground impact_6: 4649866875636057848
+      Oxy_33_Ground impact_7: 7116809008513506896
+      Oxy_33_Ground impact_8: -920241805096999495
+      Oxy_33_Ground impact_9: -6364667340858540268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

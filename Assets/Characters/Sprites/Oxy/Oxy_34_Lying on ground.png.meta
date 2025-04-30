@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oxy_34_Lying on ground_0: -1083166441812515587
+      Oxy_34_Lying on ground_1: -4378045514966554018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

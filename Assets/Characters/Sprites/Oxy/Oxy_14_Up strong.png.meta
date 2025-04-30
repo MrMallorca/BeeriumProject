@@ -734,7 +734,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oxy_14_Up strong_0: 9099273584467034870
+      Oxy_14_Up strong_1: -5289251883654379603
+      Oxy_14_Up strong_10: 3050628169537203311
+      Oxy_14_Up strong_11: -7055441473696422833
+      Oxy_14_Up strong_12: 753866527574488732
+      Oxy_14_Up strong_13: -1512123963601413319
+      Oxy_14_Up strong_14: 2593540711926263427
+      Oxy_14_Up strong_15: 1412472367098254755
+      Oxy_14_Up strong_16: 7441045883676505312
+      Oxy_14_Up strong_17: -8750282127031400601
+      Oxy_14_Up strong_18: -4991653102818989247
+      Oxy_14_Up strong_19: -3027804490842545390
+      Oxy_14_Up strong_2: -8044660845681613238
+      Oxy_14_Up strong_20: -6784328355892916291
+      Oxy_14_Up strong_21: 3854674813992104331
+      Oxy_14_Up strong_22: -6165977709934427904
+      Oxy_14_Up strong_23: -2501445492075066130
+      Oxy_14_Up strong_24: -8396822939519272320
+      Oxy_14_Up strong_3: 6595636507469078915
+      Oxy_14_Up strong_4: -3656761958633680379
+      Oxy_14_Up strong_5: 1980591741265391363
+      Oxy_14_Up strong_6: 7783550001908030621
+      Oxy_14_Up strong_7: 3789138164853188562
+      Oxy_14_Up strong_8: 6251806995947507752
+      Oxy_14_Up strong_9: -693815763421515511
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -734,7 +734,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oxy_16_Neutral air_0: -8752680541413804631
+      Oxy_16_Neutral air_1: -7840860706154735160
+      Oxy_16_Neutral air_10: 5969778330143265342
+      Oxy_16_Neutral air_11: 728902495041019213
+      Oxy_16_Neutral air_12: -8225062363828105811
+      Oxy_16_Neutral air_13: 3685514730345000166
+      Oxy_16_Neutral air_14: 6123040992439982795
+      Oxy_16_Neutral air_15: 3737775111883790752
+      Oxy_16_Neutral air_16: 4483998484637064884
+      Oxy_16_Neutral air_17: 7779563343358021133
+      Oxy_16_Neutral air_18: -2892681298243144693
+      Oxy_16_Neutral air_19: 6582599044514943640
+      Oxy_16_Neutral air_2: 2593610790634372705
+      Oxy_16_Neutral air_20: 2571463024324821651
+      Oxy_16_Neutral air_21: -2695539699985427535
+      Oxy_16_Neutral air_22: 1446097002712765563
+      Oxy_16_Neutral air_23: 8754879146502268739
+      Oxy_16_Neutral air_24: 3137868107623298095
+      Oxy_16_Neutral air_3: 2844916405093573413
+      Oxy_16_Neutral air_4: 7155847256837685168
+      Oxy_16_Neutral air_5: 3910374648602286668
+      Oxy_16_Neutral air_6: -7084984386158047034
+      Oxy_16_Neutral air_7: -2733137213303619177
+      Oxy_16_Neutral air_8: -214968838440681537
+      Oxy_16_Neutral air_9: 4493638629966212305
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
