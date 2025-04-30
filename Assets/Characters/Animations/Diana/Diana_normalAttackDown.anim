@@ -286,15 +286,6 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.06666667
-        value: 0
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
         time: 0.083333336
         value: 1
         inSlope: Infinity
@@ -315,9 +306,9 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_Enabled
+    attribute: m_IsActive
     path: Square
-    classID: 65
+    classID: 1
     script: {fileID: 0}
     flags: 0
   m_PPtrCurves:
@@ -405,9 +396,9 @@ AnimationClip:
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3394203039
-      attribute: 3305885265
+      attribute: 2086281974
       script: {fileID: 0}
-      typeID: 65
+      typeID: 1
       customType: 0
       isPPtrCurve: 0
       isIntCurve: 0
@@ -1301,15 +1292,6 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.06666667
-        value: 0
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
         time: 0.083333336
         value: 1
         inSlope: Infinity
@@ -1330,9 +1312,9 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_Enabled
+    attribute: m_IsActive
     path: Square
-    classID: 65
+    classID: 1
     script: {fileID: 0}
     flags: 0
   m_EulerEditorCurves:

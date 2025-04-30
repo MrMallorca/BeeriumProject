@@ -38,20 +38,20 @@ public class BaseFighter : MonoBehaviour, IDamageable
     private bool canAirAttack = true;
     private bool isBlocking = false;
     bool inputsHaveBeenInited = false;
-
+    private bool hitted;
+    [SerializeField] public int hitCount;
+    float knockbackForce = 250f;
+    bool isInvulnerable = false;
 
     public float health;
     public float currentHealth;
 
-    private bool hitted;
 
-    [SerializeField] public int hitCount;
-    float knockbackForce = 250f;
+    
 
     PlayerMovements movements;
 
     private Coroutine resetHitCoroutine;
-
 
 
 
@@ -450,6 +450,8 @@ public class BaseFighter : MonoBehaviour, IDamageable
         movements.actionSet.move.action.canceled -= OnMove;
     }
 
+    #endregion
+
     internal void NotifyHit()
     {
         hitCount += 1;
@@ -473,6 +475,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
             hitted = true;
 
+            StartCoroutine(IsInvunerable());
             Invoke(nameof(ResetHit), 0.5f);
         }
 
@@ -489,8 +492,18 @@ public class BaseFighter : MonoBehaviour, IDamageable
     {
         yield return new WaitForSeconds(1f);
         hitCount = 0;
+        anim.SetInteger("hitCount", hitCount);
+    }
+
+    public IEnumerator IsInvunerable()
+    {
+        isInvulnerable = true;
+        anim.SetBool("IsInvunerable", isInvulnerable);
+        yield return new WaitForSeconds(2f);
+        isInvulnerable = false;
+        anim.SetBool("IsInvunerable", isInvulnerable);
+
     }
 
 
-    #endregion
 }
