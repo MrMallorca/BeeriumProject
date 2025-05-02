@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 73c951128dec6a7499f271353385cf40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3644701195105821833
+    second: Dai_14_Up strong_0
+  - first:
+      213: -5186464994556407452
+    second: Dai_14_Up strong_1
+  - first:
+      213: -7919287669580053455
+    second: Dai_14_Up strong_2
+  - first:
+      213: 3971565101961322343
+    second: Dai_14_Up strong_3
+  - first:
+      213: -8248294258317750875
+    second: Dai_14_Up strong_4
+  - first:
+      213: -2855501979218870830
+    second: Dai_14_Up strong_5
+  - first:
+      213: -795422513839424216
+    second: Dai_14_Up strong_6
+  - first:
+      213: -2324579016794709049
+    second: Dai_14_Up strong_7
+  - first:
+      213: -4869781378393534882
+    second: Dai_14_Up strong_8
+  - first:
+      213: -8626090420320912051
+    second: Dai_14_Up strong_9
+  - first:
+      213: 779569905109655085
+    second: Dai_14_Up strong_10
+  - first:
+      213: 2494067357036692919
+    second: Dai_14_Up strong_11
+  - first:
+      213: 1547784884239800639
+    second: Dai_14_Up strong_12
+  - first:
+      213: -8359974610407765609
+    second: Dai_14_Up strong_13
+  - first:
+      213: -9186478416265185904
+    second: Dai_14_Up strong_14
+  - first:
+      213: 3772169595123011211
+    second: Dai_14_Up strong_15
+  - first:
+      213: -7743440147152247859
+    second: Dai_14_Up strong_16
+  - first:
+      213: -3078418104979083118
+    second: Dai_14_Up strong_17
+  - first:
+      213: 598414009299063807
+    second: Dai_14_Up strong_18
+  - first:
+      213: 684715665806585666
+    second: Dai_14_Up strong_19
+  - first:
+      213: 3311281559121620741
+    second: Dai_14_Up strong_20
+  - first:
+      213: 3674857741912362459
+    second: Dai_14_Up strong_21
+  - first:
+      213: -1288258126741624580
+    second: Dai_14_Up strong_22
+  - first:
+      213: -3438385913069334810
+    second: Dai_14_Up strong_23
+  - first:
+      213: 1329189609794821963
+    second: Dai_14_Up strong_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dai_14_Up strong_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1811
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98469be2d64949230800000000000000
+      internalID: 3644701195105821833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1811
+        width: 74
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46197770199f508b0800000000000000
+      internalID: -5186464994556407452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1811
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134cc8c92d9091290800000000000000
+      internalID: -7919287669580053455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_3
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1811
+        width: 74
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f1eb00b65dd1730800000000000000
+      internalID: 3971565101961322343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_4
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1811
+        width: 149
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad831ac21c288d80800000000000000
+      internalID: -8248294258317750875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_5
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1811
+        width: 70
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddfb3934183f58d0800000000000000
+      internalID: -2855501979218870830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1811
+        width: 68
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82db040207716f4f0800000000000000
+      internalID: -795422513839424216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_7
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1811
+        width: 80
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3ef9b43bf6dbfd0800000000000000
+      internalID: -2324579016794709049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1555
+        width: 92
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e8a0733af0b6cb0800000000000000
+      internalID: -4869781378393534882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1555
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d3f583778f94880800000000000000
+      internalID: -8626090420320912051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1555
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e55a7c2b691da00800000000000000
+      internalID: 779569905109655085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_11
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1555
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5c11e0c05bc9220800000000000000
+      internalID: 2494067357036692919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_12
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1555
+        width: 85
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3915d5d626da7510800000000000000
+      internalID: 1547784884239800639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_13
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1555
+        width: 73
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7994c5782676bfb80800000000000000
+      internalID: -8359974610407765609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_14
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1555
+        width: 71
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09578bd6d82138080800000000000000
+      internalID: -9186478416265185904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_15
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1555
+        width: 71
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e06ddc240795430800000000000000
+      internalID: 3772169595123011211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1299
+        width: 75
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3ed717636c98490800000000000000
+      internalID: -7743440147152247859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1299
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290379e2b034745d0800000000000000
+      internalID: -3078418104979083118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_18
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1299
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff353e4fe5efd4800800000000000000
+      internalID: 598414009299063807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1299
+        width: 105
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24feb803549908900800000000000000
+      internalID: 684715665806585666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_20
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1299
+        width: 96
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50feebab80904fd20800000000000000
+      internalID: 3311281559121620741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_21
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1299
+        width: 79
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddc7c265a7bff230800000000000000
+      internalID: 3674857741912362459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_22
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1294
+        width: 72
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf82e882f003f1ee0800000000000000
+      internalID: -1288258126741624580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_23
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1297
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee8bcaba366840d0800000000000000
+      internalID: -3438385913069334810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_14_Up strong_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1043
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fd5f268ea327210800000000000000
+      internalID: 1329189609794821963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

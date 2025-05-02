@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 9fd1c4f2364e8724aa00846a02eaf4ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9065140272368113569
+    second: Tempus_16_Neutral air_0
+  - first:
+      213: 5199644232228720961
+    second: Tempus_16_Neutral air_1
+  - first:
+      213: -1189865374719219391
+    second: Tempus_16_Neutral air_2
+  - first:
+      213: -3948872769342063852
+    second: Tempus_16_Neutral air_3
+  - first:
+      213: -1422135868070020161
+    second: Tempus_16_Neutral air_4
+  - first:
+      213: 4725618463471400420
+    second: Tempus_16_Neutral air_5
+  - first:
+      213: -4515740370219871071
+    second: Tempus_16_Neutral air_6
+  - first:
+      213: 5606581129543093068
+    second: Tempus_16_Neutral air_7
+  - first:
+      213: -4262729662604962646
+    second: Tempus_16_Neutral air_8
+  - first:
+      213: 447566182879205714
+    second: Tempus_16_Neutral air_9
+  - first:
+      213: 3170038334579511536
+    second: Tempus_16_Neutral air_10
+  - first:
+      213: -7924179986487916673
+    second: Tempus_16_Neutral air_11
+  - first:
+      213: 8012370023461917856
+    second: Tempus_16_Neutral air_12
+  - first:
+      213: 6987161859571985767
+    second: Tempus_16_Neutral air_13
+  - first:
+      213: -4130421340315609770
+    second: Tempus_16_Neutral air_14
+  - first:
+      213: -1381738064097306132
+    second: Tempus_16_Neutral air_15
+  - first:
+      213: -4829679161425723898
+    second: Tempus_16_Neutral air_16
+  - first:
+      213: -4796203776941142922
+    second: Tempus_16_Neutral air_17
+  - first:
+      213: -1687545564436440426
+    second: Tempus_16_Neutral air_18
+  - first:
+      213: 9027828533225999514
+    second: Tempus_16_Neutral air_19
+  - first:
+      213: -8449755290557285325
+    second: Tempus_16_Neutral air_20
+  - first:
+      213: 1504624839803072723
+    second: Tempus_16_Neutral air_21
+  - first:
+      213: 364237566334056764
+    second: Tempus_16_Neutral air_22
+  - first:
+      213: -3633498134752454803
+    second: Tempus_16_Neutral air_23
+  - first:
+      213: 6997666961789315990
+    second: Tempus_16_Neutral air_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1916
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d69d6c09ddcd70800000000000000
+      internalID: 9065140272368113569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1916
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141d66c51e8d82840800000000000000
+      internalID: 5199644232228720961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1916
+        width: 46
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149e251febfbc7fe0800000000000000
+      internalID: -1189865374719219391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_3
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1916
+        width: 48
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b37286329c239c0800000000000000
+      internalID: -3948872769342063852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1916
+        width: 44
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb385976fe834ce0800000000000000
+      internalID: -1422135868070020161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_5
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1916
+        width: 47
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e57d3384f4c49140800000000000000
+      internalID: 4725618463471400420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_6
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1916
+        width: 65
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a457270f0ed451c0800000000000000
+      internalID: -4515740370219871071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_7
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1924
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b03d615d39ecd40800000000000000
+      internalID: 5606581129543093068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1664
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa419eee4fdb7d4c0800000000000000
+      internalID: -4262729662604962646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_9
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1662
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2591eff6213163600800000000000000
+      internalID: 447566182879205714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_10
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1660
+        width: 41
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f09bf8d11d3efb20800000000000000
+      internalID: 3170038334579511536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1660
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77c0215948a70290800000000000000
+      internalID: -7924179986487916673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1660
+        width: 41
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a49f61c518a13f60800000000000000
+      internalID: 8012370023461917856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_13
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1660
+        width: 45
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d22f311b267f060800000000000000
+      internalID: 6987161859571985767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_14
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1660
+        width: 49
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6559bc5ccabcda6c0800000000000000
+      internalID: -4130421340315609770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_15
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1660
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce918dc2d8413dce0800000000000000
+      internalID: -1381738064097306132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1404
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60efc14346889fcb0800000000000000
+      internalID: -4829679161425723898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_17
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1404
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c49058316707db0800000000000000
+      internalID: -4796203776941142922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_18
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1404
+        width: 62
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ada790042a498e0800000000000000
+      internalID: -1687545564436440426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_19
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1404
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c4210383a494d70800000000000000
+      internalID: 9027828533225999514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_20
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1404
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cfa5bf4507cba80800000000000000
+      internalID: -8449755290557285325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_21
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1404
+        width: 72
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0f0b8e15081e410800000000000000
+      internalID: 1504624839803072723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_22
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1404
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39b13303280e0500800000000000000
+      internalID: 364237566334056764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_23
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1404
+        width: 77
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67190292b8339dc0800000000000000
+      internalID: -3633498134752454803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_16_Neutral air_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1148
+        width: 79
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b60f9c605bc1160800000000000000
+      internalID: 6997666961789315990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

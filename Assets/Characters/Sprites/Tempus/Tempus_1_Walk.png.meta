@@ -1,0 +1,1867 @@
+fileFormatVersion: 2
+guid: f342d7584dc8c0c4589887ecf70be65e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5082724405925220902
+    second: Tempus_1_Walk_0
+  - first:
+      213: -6696028925018280894
+    second: Tempus_1_Walk_1
+  - first:
+      213: -6571892947597089938
+    second: Tempus_1_Walk_2
+  - first:
+      213: 4021139812398998024
+    second: Tempus_1_Walk_3
+  - first:
+      213: 474734026083220684
+    second: Tempus_1_Walk_4
+  - first:
+      213: 5378207608310198336
+    second: Tempus_1_Walk_5
+  - first:
+      213: 5002206485535311030
+    second: Tempus_1_Walk_6
+  - first:
+      213: -5171280296250881491
+    second: Tempus_1_Walk_7
+  - first:
+      213: 5665068568298321918
+    second: Tempus_1_Walk_8
+  - first:
+      213: 310673847695467007
+    second: Tempus_1_Walk_9
+  - first:
+      213: 6918562710863099226
+    second: Tempus_1_Walk_10
+  - first:
+      213: 8767070983899551907
+    second: Tempus_1_Walk_11
+  - first:
+      213: 5911898250140428994
+    second: Tempus_1_Walk_12
+  - first:
+      213: 7885058270043690046
+    second: Tempus_1_Walk_13
+  - first:
+      213: 5774289231248645954
+    second: Tempus_1_Walk_14
+  - first:
+      213: -2683800809556667479
+    second: Tempus_1_Walk_15
+  - first:
+      213: -2185550623218537525
+    second: Tempus_1_Walk_16
+  - first:
+      213: 2347563740114975682
+    second: Tempus_1_Walk_17
+  - first:
+      213: 6202814901813903160
+    second: Tempus_1_Walk_18
+  - first:
+      213: 7272226203580082441
+    second: Tempus_1_Walk_19
+  - first:
+      213: -6023738706480067184
+    second: Tempus_1_Walk_20
+  - first:
+      213: -494162383400949801
+    second: Tempus_1_Walk_21
+  - first:
+      213: 5201617017872238619
+    second: Tempus_1_Walk_22
+  - first:
+      213: -7446910654021576634
+    second: Tempus_1_Walk_23
+  - first:
+      213: -7430181260292140856
+    second: Tempus_1_Walk_24
+  - first:
+      213: -5737162256701405899
+    second: Tempus_1_Walk_25
+  - first:
+      213: -5931029059000802685
+    second: Tempus_1_Walk_26
+  - first:
+      213: 5211780230041442076
+    second: Tempus_1_Walk_27
+  - first:
+      213: -192337591964622803
+    second: Tempus_1_Walk_28
+  - first:
+      213: 5963655575063258752
+    second: Tempus_1_Walk_29
+  - first:
+      213: -8988854955640039579
+    second: Tempus_1_Walk_30
+  - first:
+      213: 3150579481526850947
+    second: Tempus_1_Walk_31
+  - first:
+      213: 2374353814923467458
+    second: Tempus_1_Walk_32
+  - first:
+      213: 144531392770584601
+    second: Tempus_1_Walk_33
+  - first:
+      213: -2818156807474377691
+    second: Tempus_1_Walk_34
+  - first:
+      213: 4389617066912704316
+    second: Tempus_1_Walk_35
+  - first:
+      213: 1487422013986934318
+    second: Tempus_1_Walk_36
+  - first:
+      213: -1049511188317853922
+    second: Tempus_1_Walk_37
+  - first:
+      213: -1903056793683436498
+    second: Tempus_1_Walk_38
+  - first:
+      213: -246578085551862999
+    second: Tempus_1_Walk_39
+  - first:
+      213: -3486059076585450658
+    second: Tempus_1_Walk_40
+  - first:
+      213: 4229996444010428600
+    second: Tempus_1_Walk_41
+  - first:
+      213: 377962207591573036
+    second: Tempus_1_Walk_42
+  - first:
+      213: 3036284312858039297
+    second: Tempus_1_Walk_43
+  - first:
+      213: -1286443010180481588
+    second: Tempus_1_Walk_44
+  - first:
+      213: -9170707277012105819
+    second: Tempus_1_Walk_45
+  - first:
+      213: -7517092576444731830
+    second: Tempus_1_Walk_46
+  - first:
+      213: -7792051274149291381
+    second: Tempus_1_Walk_47
+  - first:
+      213: 1906767107114939375
+    second: Tempus_1_Walk_48
+  - first:
+      213: -2613161763933656961
+    second: Tempus_1_Walk_49
+  - first:
+      213: 6514845502301569966
+    second: Tempus_1_Walk_50
+  - first:
+      213: -5155438447106754419
+    second: Tempus_1_Walk_51
+  - first:
+      213: 3879892928771526574
+    second: Tempus_1_Walk_52
+  - first:
+      213: 329292861497303796
+    second: Tempus_1_Walk_53
+  - first:
+      213: 165861745795549060
+    second: Tempus_1_Walk_54
+  - first:
+      213: -2777721452705295590
+    second: Tempus_1_Walk_55
+  - first:
+      213: -4573314216777134730
+    second: Tempus_1_Walk_56
+  - first:
+      213: 8044356216814498097
+    second: Tempus_1_Walk_57
+  - first:
+      213: -6481030837274003051
+    second: Tempus_1_Walk_58
+  - first:
+      213: -5419640293278193436
+    second: Tempus_1_Walk_59
+  - first:
+      213: 2057409163968922316
+    second: Tempus_1_Walk_60
+  - first:
+      213: 71154208184430837
+    second: Tempus_1_Walk_61
+  - first:
+      213: 7550878347309551441
+    second: Tempus_1_Walk_62
+  - first:
+      213: 4612433653857047374
+    second: Tempus_1_Walk_63
+  - first:
+      213: 1710391975174136762
+    second: Tempus_1_Walk_64
+  - first:
+      213: 8315905276533407656
+    second: Tempus_1_Walk_65
+  - first:
+      213: -8230988072218450674
+    second: Tempus_1_Walk_66
+  - first:
+      213: 8240624876215765288
+    second: Tempus_1_Walk_67
+  - first:
+      213: -4461596458896862861
+    second: Tempus_1_Walk_68
+  - first:
+      213: 2185949230482848669
+    second: Tempus_1_Walk_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_1_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1917
+        width: 46
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6229162fae6798640800000000000000
+      internalID: 5082724405925220902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1917
+        width: 45
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6b867b2de213a0800000000000000
+      internalID: -6696028925018280894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1917
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63a49cfe22fbc4a0800000000000000
+      internalID: -6571892947597089938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1917
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802293eba55fdc730800000000000000
+      internalID: 4021139812398998024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1917
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc3b7bd418969600800000000000000
+      internalID: 474734026083220684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1917
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040f1a5235b33aa40800000000000000
+      internalID: 5378207608310198336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1917
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4cc77bb486b6540800000000000000
+      internalID: 5002206485535311030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1917
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a4dfb18fbeb38b0800000000000000
+      internalID: -5171280296250881491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1661
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7f6a919dd5e9e40800000000000000
+      internalID: 5665068568298321918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1661
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff164ece73cbf4400800000000000000
+      internalID: 310673847695467007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a553241212ca30060800000000000000
+      internalID: 6918562710863099226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1661
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a897f32c94eaa970800000000000000
+      internalID: 8767070983899551907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1661
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caafdbc2284b0250800000000000000
+      internalID: 5911898250140428994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1661
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34d53348ba5d6d60800000000000000
+      internalID: 7885058270043690046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1661
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f50fa5675622050800000000000000
+      internalID: 5774289231248645954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1661
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a31872126931cad0800000000000000
+      internalID: -2683800809556667479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1405
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbec68a94d5ba1e0800000000000000
+      internalID: -2185550623218537525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1404
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbf321a8c8349020800000000000000
+      internalID: 2347563740114975682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1404
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ffd1e0a43d41650800000000000000
+      internalID: 6202814901813903160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1404
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909ada6c3332ce460800000000000000
+      internalID: 7272226203580082441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1405
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d0c74cf81676ca0800000000000000
+      internalID: -6023738706480067184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1405
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7a6043ee16429f0800000000000000
+      internalID: -494162383400949801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1405
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18c6ef4e1bdf2840800000000000000
+      internalID: 5201617017872238619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1405
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d8f0373247a890800000000000000
+      internalID: -7446910654021576634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1148
+        width: 45
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0d583b281b2e890800000000000000
+      internalID: -7430181260292140856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1148
+        width: 46
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c88603518160b0800000000000000
+      internalID: -5737162256701405899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1148
+        width: 45
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382ecb9ae70c0bda0800000000000000
+      internalID: -5931029059000802685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1148
+        width: 45
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17160b8186f35840800000000000000
+      internalID: 5211780230041442076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1149
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20aef9aafda45df0800000000000000
+      internalID: -192337591964622803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1149
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0866c62162923c250800000000000000
+      internalID: 5963655575063258752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1149
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d097fa0c214380800000000000000
+      internalID: -8988854955640039579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1149
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385da01985b19bb20800000000000000
+      internalID: 3150579481526850947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 893
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca5b9df63663f020800000000000000
+      internalID: 2374353814923467458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 893
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910bbf4398a710200800000000000000
+      internalID: 144531392770584601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 893
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c04299055e3e8d0800000000000000
+      internalID: -2818156807474377691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 894
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e255177d0bec30800000000000000
+      internalID: 4389617066912704316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 893
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e89c6e07264a410800000000000000
+      internalID: 1487422013986934318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 893
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17248082236f61f0800000000000000
+      internalID: -1049511188317853922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 893
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cda11ddebf695e0800000000000000
+      internalID: -1903056793683436498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 893
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b0941a98af39cf0800000000000000
+      internalID: -246578085551862999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 637
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5319126db70f9fc0800000000000000
+      internalID: -3486059076585450658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 637
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b83866ba57f3ba30800000000000000
+      internalID: 4229996444010428600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 637
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26a40210aace3500800000000000000
+      internalID: 377962207591573036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 637
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1049ef0ee7c032a20800000000000000
+      internalID: 3036284312858039297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 637
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd786ae5e2a52ee0800000000000000
+      internalID: -1286443010180481588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 637
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a58a9ee15a1bb080800000000000000
+      internalID: -9170707277012105819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_46
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 637
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e2945012ceda790800000000000000
+      internalID: -7517092576444731830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 637
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a93b476a21dd390800000000000000
+      internalID: -7792051274149291381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 381
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe33cf8d492367a10800000000000000
+      internalID: 1906767107114939375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_49
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 380
+        width: 41
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78e918883f2cbbd0800000000000000
+      internalID: -2613161763933656961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 380
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea38c3b9771696a50800000000000000
+      internalID: 6514845502301569966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_51
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 380
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d887fca0c043478b0800000000000000
+      internalID: -5155438447106754419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_52
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 380
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf0af9ef0628d530800000000000000
+      internalID: 3879892928771526574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_53
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 380
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f26e94ec12e19400800000000000000
+      internalID: 329292861497303796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_54
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 477
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48748f701624d4200800000000000000
+      internalID: 165861745795549060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_55
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 380
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13d4864e0d8379d0800000000000000
+      internalID: -2777721452705295590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_56
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 477
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d41c643f25880c0800000000000000
+      internalID: -4573314216777134730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_57
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 380
+        width: 47
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131feedbb5b43af60800000000000000
+      internalID: 8044356216814498097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_58
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 124
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5993eed9ac0ce06a0800000000000000
+      internalID: -6481030837274003051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_59
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 124
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e862c42ed199c4b0800000000000000
+      internalID: -5419640293278193436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_60
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 124
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc24008ebb26d8c10800000000000000
+      internalID: 2057409163968922316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_61
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 220
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f07b17106accf000800000000000000
+      internalID: 71154208184430837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_62
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 124
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f0391c9db1ac860800000000000000
+      internalID: 7550878347309551441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_63
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 220
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43d43078f7a20040800000000000000
+      internalID: 4612433653857047374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_64
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 125
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3eeea70788cb710800000000000000
+      internalID: 1710391975174136762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_65
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 220
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aff1991ac7086370800000000000000
+      internalID: 8315905276533407656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_66
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 125
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0521fc35f7a5cd80800000000000000
+      internalID: -8230988072218450674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_67
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 220
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829861a0aa49c5270800000000000000
+      internalID: 8240624876215765288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_68
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 125
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371df40c8a93512c0800000000000000
+      internalID: -4461596458896862861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_1_Walk_69
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 125
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bf7f35e3d065e10800000000000000
+      internalID: 2185949230482848669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

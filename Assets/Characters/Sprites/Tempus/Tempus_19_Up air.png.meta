@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 3694fcedbb8cf8b41b41418fb9470b89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4749962236726040445
+    second: Tempus_19_Up air_0
+  - first:
+      213: 6994277077102219280
+    second: Tempus_19_Up air_1
+  - first:
+      213: 8483940990080808990
+    second: Tempus_19_Up air_2
+  - first:
+      213: 914614495727873041
+    second: Tempus_19_Up air_3
+  - first:
+      213: 9130015105677420901
+    second: Tempus_19_Up air_4
+  - first:
+      213: 6265455598785048839
+    second: Tempus_19_Up air_5
+  - first:
+      213: 859052308495768487
+    second: Tempus_19_Up air_6
+  - first:
+      213: -7509080363714100310
+    second: Tempus_19_Up air_7
+  - first:
+      213: 8998468717923309342
+    second: Tempus_19_Up air_8
+  - first:
+      213: -8642019665911153682
+    second: Tempus_19_Up air_9
+  - first:
+      213: -2507756888522956868
+    second: Tempus_19_Up air_10
+  - first:
+      213: 2658941301781091984
+    second: Tempus_19_Up air_11
+  - first:
+      213: 7481843025021484343
+    second: Tempus_19_Up air_12
+  - first:
+      213: -309435613518337475
+    second: Tempus_19_Up air_13
+  - first:
+      213: -7649750574218496584
+    second: Tempus_19_Up air_14
+  - first:
+      213: 6613389821418097129
+    second: Tempus_19_Up air_15
+  - first:
+      213: -6315655197875542628
+    second: Tempus_19_Up air_16
+  - first:
+      213: -7609202960089210954
+    second: Tempus_19_Up air_17
+  - first:
+      213: 4827997480865735797
+    second: Tempus_19_Up air_18
+  - first:
+      213: 7120693683724174046
+    second: Tempus_19_Up air_19
+  - first:
+      213: 8166213726284331609
+    second: Tempus_19_Up air_20
+  - first:
+      213: 1201574424426722697
+    second: Tempus_19_Up air_21
+  - first:
+      213: 6842111114456499681
+    second: Tempus_19_Up air_22
+  - first:
+      213: 3499391730894641043
+    second: Tempus_19_Up air_23
+  - first:
+      213: -8974199506731018853
+    second: Tempus_19_Up air_24
+  - first:
+      213: -7146647673995024196
+    second: Tempus_19_Up air_25
+  - first:
+      213: 7194929687774340362
+    second: Tempus_19_Up air_26
+  - first:
+      213: -3670626651109509603
+    second: Tempus_19_Up air_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_19_Up air_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1917
+        width: 48
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388ac67138eb41eb0800000000000000
+      internalID: -4749962236726040445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2016
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d551c1f9a01160800000000000000
+      internalID: 6994277077102219280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1909
+        width: 52
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18742171630db570800000000000000
+      internalID: 8483940990080808990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_3
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1915
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c684cb90d51bc00800000000000000
+      internalID: 914614495727873041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_4
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1916
+        width: 55
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5696adf9d5454be70800000000000000
+      internalID: 9130015105677420901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_5
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1915
+        width: 54
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701b099dbae53f650800000000000000
+      internalID: 6265455598785048839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_6
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1915
+        width: 53
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab9e5be587fbeb00800000000000000
+      internalID: 859052308495768487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_7
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1915
+        width: 54
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3c5faa1336ac790800000000000000
+      internalID: -7509080363714100310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1988
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17984e7f9bf0ec70800000000000000
+      internalID: 8998468717923309342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1917
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebfc67b6e0611880800000000000000
+      internalID: -8642019665911153682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1659
+        width: 57
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfdc848568a23dd0800000000000000
+      internalID: -2507756888522956868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1659
+        width: 58
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096d64bb60576e420800000000000000
+      internalID: 2658941301781091984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1659
+        width: 59
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73db3ab3798d4d760800000000000000
+      internalID: 7481843025021484343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_13
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1659
+        width: 60
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a626fe2f9a4bbf0800000000000000
+      internalID: -309435613518337475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_14
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1659
+        width: 60
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5bd530260a6d590800000000000000
+      internalID: -7649750574218496584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_15
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1659
+        width: 61
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e94fcad00b77cb50800000000000000
+      internalID: 6613389821418097129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_16
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1659
+        width: 61
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9567ce2f094a58a0800000000000000
+      internalID: -6315655197875542628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_17
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1660
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf180c193ea66690800000000000000
+      internalID: -7609202960089210954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1404
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574ab77012e700340800000000000000
+      internalID: 4827997480865735797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1404
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed24fb4ad29c1d260800000000000000
+      internalID: 7120693683724174046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1404
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab81b1e18345170800000000000000
+      internalID: 8166213726284331609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_21
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1405
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9853623a299dca010800000000000000
+      internalID: 1201574424426722697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_22
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1405
+        width: 53
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e58eeabecf04fe50800000000000000
+      internalID: 6842111114456499681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_23
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1405
+        width: 50
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3971ae91d36509030800000000000000
+      internalID: 3499391730894641043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_24
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1405
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95dfc1981d357380800000000000000
+      internalID: -8974199506731018853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_25
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1406
+        width: 46
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8a7a81ec102dc90800000000000000
+      internalID: -7146647673995024196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1150
+        width: 43
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05a3bf3e6689d360800000000000000
+      internalID: 7194929687774340362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_19_Up air_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1248
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16398532805f0dc0800000000000000
+      internalID: -3670626651109509603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

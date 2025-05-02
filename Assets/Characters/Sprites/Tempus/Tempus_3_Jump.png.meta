@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: e7767506042541647aaa2535e74ad35c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2961602835670982012
+    second: Tempus_3_Jump_0
+  - first:
+      213: 1767845356077705100
+    second: Tempus_3_Jump_1
+  - first:
+      213: -7506657776733047722
+    second: Tempus_3_Jump_2
+  - first:
+      213: -7344037707992927857
+    second: Tempus_3_Jump_3
+  - first:
+      213: -1891081703050679264
+    second: Tempus_3_Jump_4
+  - first:
+      213: -4589250893964100813
+    second: Tempus_3_Jump_5
+  - first:
+      213: -8550325406474626175
+    second: Tempus_3_Jump_6
+  - first:
+      213: -1570073570503131357
+    second: Tempus_3_Jump_7
+  - first:
+      213: 5403098591361270490
+    second: Tempus_3_Jump_8
+  - first:
+      213: 1967415433895701611
+    second: Tempus_3_Jump_9
+  - first:
+      213: -6551194720597203523
+    second: Tempus_3_Jump_10
+  - first:
+      213: 4621475642372407796
+    second: Tempus_3_Jump_11
+  - first:
+      213: 4481016109518825685
+    second: Tempus_3_Jump_12
+  - first:
+      213: 8024658837522689860
+    second: Tempus_3_Jump_13
+  - first:
+      213: 1737202852040521029
+    second: Tempus_3_Jump_14
+  - first:
+      213: -7956684096322736811
+    second: Tempus_3_Jump_15
+  - first:
+      213: 3983335912052921189
+    second: Tempus_3_Jump_16
+  - first:
+      213: 4243172859272626707
+    second: Tempus_3_Jump_17
+  - first:
+      213: -7552583206490728740
+    second: Tempus_3_Jump_18
+  - first:
+      213: 7689514662854640095
+    second: Tempus_3_Jump_19
+  - first:
+      213: 1529190475477829655
+    second: Tempus_3_Jump_20
+  - first:
+      213: -3732465815280278907
+    second: Tempus_3_Jump_21
+  - first:
+      213: 3702888761378621898
+    second: Tempus_3_Jump_22
+  - first:
+      213: -5250823151977109209
+    second: Tempus_3_Jump_23
+  - first:
+      213: 7314666615615740446
+    second: Tempus_3_Jump_24
+  - first:
+      213: 6996930362718094366
+    second: Tempus_3_Jump_25
+  - first:
+      213: 2590897497248002925
+    second: Tempus_3_Jump_26
+  - first:
+      213: -3885991647808261103
+    second: Tempus_3_Jump_27
+  - first:
+      213: -5424390709215022937
+    second: Tempus_3_Jump_28
+  - first:
+      213: 2879683486573622343
+    second: Tempus_3_Jump_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_3_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1794
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482aa0689e546e6d0800000000000000
+      internalID: -2961602835670982012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1794
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87e5d22cf5a88810800000000000000
+      internalID: 1767845356077705100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1794
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6543767268ef2d790800000000000000
+      internalID: -7506657776733047722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1794
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81f10e6d9cb41a90800000000000000
+      internalID: -7344037707992927857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1794
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c6c60e53781c5e0800000000000000
+      internalID: -1891081703050679264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1794
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b302870a4bf40c0800000000000000
+      internalID: -4589250893964100813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1794
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b15192854275980800000000000000
+      internalID: -8550325406474626175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1794
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f7eeef76af53ae0800000000000000
+      internalID: -1570073570503131357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1538
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad28080ca89abfa40800000000000000
+      internalID: 5403098591361270490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1538
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c69fec9e9ad4b10800000000000000
+      internalID: 1967415433895701611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1538
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5a3608c1b7515a0800000000000000
+      internalID: -6551194720597203523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1539
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f14ab17c97c22040800000000000000
+      internalID: 4621475642372407796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1539
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d82ca00964cf2e30800000000000000
+      internalID: 4481016109518825685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_13
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1539
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f2d3e32b05d5f60800000000000000
+      internalID: 8024658837522689860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_14
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1539
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545bba23ac8cb1810800000000000000
+      internalID: 1737202852040521029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_15
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1539
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55deea088fd249190800000000000000
+      internalID: -7956684096322736811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1283
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56398fa48e6a74730800000000000000
+      internalID: 3983335912052921189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1283
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3120685fb37c2ea30800000000000000
+      internalID: 4243172859272626707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_18
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1283
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd61a88c695df2790800000000000000
+      internalID: -7552583206490728740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1282
+        width: 68
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1cb9658d4a6ba60800000000000000
+      internalID: 7689514662854640095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_20
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1282
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71844cca2a6c83510800000000000000
+      internalID: 1529190475477829655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_21
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1282
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5822eefcd1e933cc0800000000000000
+      internalID: -3732465815280278907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_22
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1282
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac942c0b5bd436330800000000000000
+      internalID: 3702888761378621898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_23
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1282
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729e100d9245127b0800000000000000
+      internalID: -5250823151977109209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1026
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a5f2a388ae28560800000000000000
+      internalID: 7314666615615740446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1026
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405f3f7171a1160800000000000000
+      internalID: 6996930362718094366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_26
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1026
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d637aeceb87b4f320800000000000000
+      internalID: 2590897497248002925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_27
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1026
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114f0486f2f221ac0800000000000000
+      internalID: -3885991647808261103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_28
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1026
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a03f4eb361b8b4b0800000000000000
+      internalID: -5424390709215022937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_3_Jump_29
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1026
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74477c2bfd0b6f720800000000000000
+      internalID: 2879683486573622343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

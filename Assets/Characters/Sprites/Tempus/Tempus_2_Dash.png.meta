@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 2c7d64f5cde7a2c41ac4801bfb359750
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7545049918435403586
+    second: Tempus_2_Dash_0
+  - first:
+      213: 8820529877562634781
+    second: Tempus_2_Dash_1
+  - first:
+      213: -2902343156107092251
+    second: Tempus_2_Dash_2
+  - first:
+      213: -8358690281188662326
+    second: Tempus_2_Dash_3
+  - first:
+      213: -2026663612964568384
+    second: Tempus_2_Dash_4
+  - first:
+      213: -2581842717910552796
+    second: Tempus_2_Dash_5
+  - first:
+      213: 2584227850759551795
+    second: Tempus_2_Dash_6
+  - first:
+      213: -1040686785255134804
+    second: Tempus_2_Dash_7
+  - first:
+      213: 2428085627670976800
+    second: Tempus_2_Dash_8
+  - first:
+      213: 3097179572605652757
+    second: Tempus_2_Dash_9
+  - first:
+      213: 3753238462588262661
+    second: Tempus_2_Dash_10
+  - first:
+      213: -1670210556587639453
+    second: Tempus_2_Dash_11
+  - first:
+      213: -5569435773959915863
+    second: Tempus_2_Dash_12
+  - first:
+      213: -2079618525993741225
+    second: Tempus_2_Dash_13
+  - first:
+      213: 6202561033510737263
+    second: Tempus_2_Dash_14
+  - first:
+      213: -3009279340725875702
+    second: Tempus_2_Dash_15
+  - first:
+      213: -2464940301620005950
+    second: Tempus_2_Dash_16
+  - first:
+      213: -6071941048536217038
+    second: Tempus_2_Dash_17
+  - first:
+      213: 1367275740178640925
+    second: Tempus_2_Dash_18
+  - first:
+      213: -474757771014716056
+    second: Tempus_2_Dash_19
+  - first:
+      213: -8103742848510127860
+    second: Tempus_2_Dash_20
+  - first:
+      213: 3875438330428412179
+    second: Tempus_2_Dash_21
+  - first:
+      213: -550870012577006262
+    second: Tempus_2_Dash_22
+  - first:
+      213: -3019827888647958548
+    second: Tempus_2_Dash_23
+  - first:
+      213: 5564731733160888038
+    second: Tempus_2_Dash_24
+  - first:
+      213: 7452211943553806760
+    second: Tempus_2_Dash_25
+  - first:
+      213: 2306733856388578916
+    second: Tempus_2_Dash_26
+  - first:
+      213: 2150994551681955101
+    second: Tempus_2_Dash_27
+  - first:
+      213: 4202788658331127050
+    second: Tempus_2_Dash_28
+  - first:
+      213: 1329025026718875852
+    second: Tempus_2_Dash_29
+  - first:
+      213: -2611701000610385415
+    second: Tempus_2_Dash_30
+  - first:
+      213: 4377096477837087606
+    second: Tempus_2_Dash_31
+  - first:
+      213: -536210145174759074
+    second: Tempus_2_Dash_32
+  - first:
+      213: 1905200607831978135
+    second: Tempus_2_Dash_33
+  - first:
+      213: -7199053129605798297
+    second: Tempus_2_Dash_34
+  - first:
+      213: -7267932407918530669
+    second: Tempus_2_Dash_35
+  - first:
+      213: -8859276104812908847
+    second: Tempus_2_Dash_36
+  - first:
+      213: 1288403691728172772
+    second: Tempus_2_Dash_37
+  - first:
+      213: 476265074680209012
+    second: Tempus_2_Dash_38
+  - first:
+      213: -344155897203392773
+    second: Tempus_2_Dash_39
+  - first:
+      213: -6567075034601693886
+    second: Tempus_2_Dash_40
+  - first:
+      213: 3508751425815641066
+    second: Tempus_2_Dash_41
+  - first:
+      213: -7581676833216785836
+    second: Tempus_2_Dash_42
+  - first:
+      213: -8588537052154322043
+    second: Tempus_2_Dash_43
+  - first:
+      213: -4069538400278648668
+    second: Tempus_2_Dash_44
+  - first:
+      213: -993127083073636919
+    second: Tempus_2_Dash_45
+  - first:
+      213: -7811638723714690418
+    second: Tempus_2_Dash_46
+  - first:
+      213: 1428461718004949390
+    second: Tempus_2_Dash_47
+  - first:
+      213: -6284429834349406362
+    second: Tempus_2_Dash_48
+  - first:
+      213: -8608914908899859033
+    second: Tempus_2_Dash_49
+  - first:
+      213: 9105539625856791147
+    second: Tempus_2_Dash_50
+  - first:
+      213: -4622357396127794609
+    second: Tempus_2_Dash_51
+  - first:
+      213: 1836012821554475806
+    second: Tempus_2_Dash_52
+  - first:
+      213: -7465113532799116545
+    second: Tempus_2_Dash_53
+  - first:
+      213: 6232875938852298111
+    second: Tempus_2_Dash_54
+  - first:
+      213: -8304557804893475613
+    second: Tempus_2_Dash_55
+  - first:
+      213: -821126530423530409
+    second: Tempus_2_Dash_56
+  - first:
+      213: -3226597593956632524
+    second: Tempus_2_Dash_57
+  - first:
+      213: -3812712848362707881
+    second: Tempus_2_Dash_58
+  - first:
+      213: -1315503668390761173
+    second: Tempus_2_Dash_59
+  - first:
+      213: 5553126798272016881
+    second: Tempus_2_Dash_60
+  - first:
+      213: 6812967130110736583
+    second: Tempus_2_Dash_61
+  - first:
+      213: -7285700137497315483
+    second: Tempus_2_Dash_62
+  - first:
+      213: -4798385592786635866
+    second: Tempus_2_Dash_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_2_Dash_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1917
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8511713199a4790800000000000000
+      internalID: -7545049918435403586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1917
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1237d2c031d86a70800000000000000
+      internalID: 8820529877562634781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1917
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee53fbd64ec8b7d0800000000000000
+      internalID: -2902343156107092251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1917
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac36d3ab977fffb80800000000000000
+      internalID: -8358690281188662326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1917
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c289068e28dfd3e0800000000000000
+      internalID: -2026663612964568384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1917
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f230d2ab37b2cd0800000000000000
+      internalID: -2581842717910552796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1917
+        width: 32
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb137d9850dd320800000000000000
+      internalID: 2584227850759551795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1917
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9ac62f1ecbe81f0800000000000000
+      internalID: -1040686785255134804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0295f89830b42b120800000000000000
+      internalID: 2428085627670976800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1661
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f81c669646bfa20800000000000000
+      internalID: 3097179572605652757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50918e70f7e261430800000000000000
+      internalID: 3753238462588262661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d7c72195832d8e0800000000000000
+      internalID: -1670210556587639453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1661
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a634c5fba365b2b0800000000000000
+      internalID: -5569435773959915863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_13
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1661
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75452d908f5b323e0800000000000000
+      internalID: -2079618525993741225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_14
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65561cb56ce31650800000000000000
+      internalID: 6202561033510737263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_15
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ccc1a2264ec36d0800000000000000
+      internalID: -3009279340725875702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1405
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c335610bd5cacdd0800000000000000
+      internalID: -2464940301620005950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1405
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ac2e079c12cbba0800000000000000
+      internalID: -6071941048536217038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1405
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d107b53aa0a89f210800000000000000
+      internalID: 1367275740178640925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1405
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865cf4892525969f0800000000000000
+      internalID: -474757771014716056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_20
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1405
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01117390d8b98f80800000000000000
+      internalID: -8103742848510127860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_21
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1405
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3115e1ae0a258c530800000000000000
+      internalID: 3875438330428412179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_22
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1405
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dbee664aaea58f0800000000000000
+      internalID: -550870012577006262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_23
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1405
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef0256f88a6716d0800000000000000
+      internalID: -3019827888647958548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1149
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e606613706e93d40800000000000000
+      internalID: 5564731733160888038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_25
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1150
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1b27677439b6760800000000000000
+      internalID: 7452211943553806760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_26
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1149
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e7865883a230020800000000000000
+      internalID: 2306733856388578916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_27
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1149
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15bdc6f52ed9dd10800000000000000
+      internalID: 2150994551681955101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_28
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1149
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d0ed5740e435a30800000000000000
+      internalID: 4202788658331127050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_29
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1149
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0ce276835a17210800000000000000
+      internalID: 1329025026718875852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_30
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1149
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1f51ff6cf51cbd0800000000000000
+      internalID: -2611701000610385415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_31
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1149
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d7154e029ebc30800000000000000
+      internalID: 4377096477837087606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 893
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59d5e3c6bffe88f0800000000000000
+      internalID: -536210145174759074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 893
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790feafcbd1a07a10800000000000000
+      internalID: 1905200607831978135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_34
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 892
+        width: 45
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766aea22253d71c90800000000000000
+      internalID: -7199053129605798297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 892
+        width: 45
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f677e6bfd132b90800000000000000
+      internalID: -7267932407918530669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_36
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 892
+        width: 46
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de258532578d0580800000000000000
+      internalID: -8859276104812908847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 893
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e672c4d45451e110800000000000000
+      internalID: 1288403691728172772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_38
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 893
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e1d33ef880c9600800000000000000
+      internalID: 476265074680209012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_39
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 893
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfef5dfe800593bf0800000000000000
+      internalID: -344155897203392773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 637
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dda35cc001dd4a0800000000000000
+      internalID: -6567075034601693886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 637
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf2e4e4d691b030800000000000000
+      internalID: 3508751425815641066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 636
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4521e42f61978c690800000000000000
+      internalID: -7581676833216785836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_43
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 637
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583af0a1e036fc880800000000000000
+      internalID: -8588537052154322043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_44
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 637
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a86493e2681687c0800000000000000
+      internalID: -4069538400278648668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_45
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 637
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c573940e24b732f0800000000000000
+      internalID: -993127083073636919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_46
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 637
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82dc47f7fb779390800000000000000
+      internalID: -7811638723714690418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_47
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 637
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81edec3d5ae2d310800000000000000
+      internalID: 1428461718004949390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 381
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6679cbbac5839c8a0800000000000000
+      internalID: -6284429834349406362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 381
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5a579908df68880800000000000000
+      internalID: -8608914908899859033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_50
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 381
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62ff67eb006d5e70800000000000000
+      internalID: 9105539625856791147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_51
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 381
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a37e240761adfb0800000000000000
+      internalID: -4622357396127794609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_52
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 381
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1331dffee3da7910800000000000000
+      internalID: 1836012821554475806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_53
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 381
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa1c853bc6966890800000000000000
+      internalID: -7465113532799116545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_54
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 381
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dde58a4af9f7650800000000000000
+      internalID: 6232875938852298111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_55
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 381
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec60a60da840cc80800000000000000
+      internalID: -8304557804893475613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 125
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cd47665c5ca94f0800000000000000
+      internalID: -821126530423530409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 125
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438b5136592d833d0800000000000000
+      internalID: -3226597593956632524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 125
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e5c27dd5861bc0800000000000000
+      internalID: -3812712848362707881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_59
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 125
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d68d822646ebde0800000000000000
+      internalID: -1315503668390761173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_60
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 125
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b4bbb66ba01d40800000000000000
+      internalID: 5553126798272016881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_61
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 125
+        width: 39
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8b9a812858c8e50800000000000000
+      internalID: 6812967130110736583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_62
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 125
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5673574835ef3ea90800000000000000
+      internalID: -7285700137497315483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_2_Dash_63
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 125
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3b99ee9b5b86db0800000000000000
+      internalID: -4798385592786635866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

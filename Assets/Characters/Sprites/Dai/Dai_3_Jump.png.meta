@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: 63fd54de8184ab144b32a1b1eec50fde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1700627053825209949
+    second: Dai_3_Jump_0
+  - first:
+      213: -1360859961834012991
+    second: Dai_3_Jump_1
+  - first:
+      213: 1306697609372854960
+    second: Dai_3_Jump_2
+  - first:
+      213: 9056288042985717855
+    second: Dai_3_Jump_3
+  - first:
+      213: -1447789318319804242
+    second: Dai_3_Jump_4
+  - first:
+      213: 7474157641082033976
+    second: Dai_3_Jump_5
+  - first:
+      213: -8878932498293078596
+    second: Dai_3_Jump_6
+  - first:
+      213: 9082920065018166286
+    second: Dai_3_Jump_7
+  - first:
+      213: -6843439909714881361
+    second: Dai_3_Jump_8
+  - first:
+      213: 1093013097636066594
+    second: Dai_3_Jump_9
+  - first:
+      213: 5402722544619269836
+    second: Dai_3_Jump_10
+  - first:
+      213: -6972416686287131415
+    second: Dai_3_Jump_11
+  - first:
+      213: -9100692934821947824
+    second: Dai_3_Jump_12
+  - first:
+      213: -5591845319031176493
+    second: Dai_3_Jump_13
+  - first:
+      213: -5254147169217470416
+    second: Dai_3_Jump_14
+  - first:
+      213: 8348941089330561653
+    second: Dai_3_Jump_15
+  - first:
+      213: 6452307237870245675
+    second: Dai_3_Jump_16
+  - first:
+      213: -2285088424491609738
+    second: Dai_3_Jump_17
+  - first:
+      213: 145234621278983517
+    second: Dai_3_Jump_18
+  - first:
+      213: 7024703122445455320
+    second: Dai_3_Jump_19
+  - first:
+      213: -3785528169420467673
+    second: Dai_3_Jump_20
+  - first:
+      213: -7615717660908958336
+    second: Dai_3_Jump_21
+  - first:
+      213: 8768644116750015919
+    second: Dai_3_Jump_22
+  - first:
+      213: 5224454969367922600
+    second: Dai_3_Jump_23
+  - first:
+      213: 1318550618381538067
+    second: Dai_3_Jump_24
+  - first:
+      213: 6631927944562264563
+    second: Dai_3_Jump_25
+  - first:
+      213: -4220044463085012061
+    second: Dai_3_Jump_26
+  - first:
+      213: -786482757107064872
+    second: Dai_3_Jump_27
+  - first:
+      213: 320972908593064202
+    second: Dai_3_Jump_28
+  - first:
+      213: -9002572671758934127
+    second: Dai_3_Jump_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dai_3_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1808
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9445174b82668e0800000000000000
+      internalID: -1700627053825209949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1808
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cef4d923114d1de0800000000000000
+      internalID: -1360859961834012991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1808
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba65837d82522210800000000000000
+      internalID: 1306697609372854960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1808
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5008c92ef56ead70800000000000000
+      internalID: 9056288042985717855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1807
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea071f3294b68ebe0800000000000000
+      internalID: -1447789318319804242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1807
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83757f756ca89b760800000000000000
+      internalID: 7474157641082033976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1808
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5c1967fe1b7c480800000000000000
+      internalID: -8878932498293078596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1808
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cfcaefca30d0e70800000000000000
+      internalID: 9082920065018166286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1552
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa496b309a73701a0800000000000000
+      internalID: -6843439909714881361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1552
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225727b0f992b2f00800000000000000
+      internalID: 1093013097636066594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1552
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccea60c87835afa40800000000000000
+      internalID: 5402722544619269836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1552
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec69db17fffc3f90800000000000000
+      internalID: -6972416686287131415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1552
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056d70a4ef7d3b180800000000000000
+      internalID: -9100692934821947824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_13
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1551
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d247382f46c562b0800000000000000
+      internalID: -5591845319031176493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_14
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1551
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0302b2dbcf48517b0800000000000000
+      internalID: -5254147169217470416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_15
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1550
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5720638afa56dd370800000000000000
+      internalID: 8348941089330561653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1295
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2710fe3f333b8950800000000000000
+      internalID: 6452307237870245675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1295
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67112d15f2cb940e0800000000000000
+      internalID: -2285088424491609738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_18
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1296
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d551c6a5e1af30200800000000000000
+      internalID: 145234621278983517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1296
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df40f97542cc7160800000000000000
+      internalID: 7024703122445455320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_20
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1296
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722557ebf2a177bc0800000000000000
+      internalID: -3785528169420467673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_21
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1296
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d4adf13298f4690800000000000000
+      internalID: -7615717660908958336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_22
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1296
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad14bcad5b70b970800000000000000
+      internalID: 8768644116750015919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_23
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1296
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a703324d1ef08840800000000000000
+      internalID: 5224454969367922600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1039
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d00b2dce6c4210800000000000000
+      internalID: 1318550618381538067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1039
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9ce9ff357590c50800000000000000
+      internalID: 6631927944562264563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_26
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1040
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abb6796be36f65c0800000000000000
+      internalID: -4220044463085012061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_27
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1040
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfd9a0791ad515f0800000000000000
+      internalID: -786482757107064872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_28
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1040
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a637e823547400800000000000000
+      internalID: 320972908593064202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_3_Jump_29
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1040
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f5b2b4adf601380800000000000000
+      internalID: -9002572671758934127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

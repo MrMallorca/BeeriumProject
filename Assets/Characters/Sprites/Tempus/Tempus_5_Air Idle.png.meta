@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: 45dbf7b2752595741b773cb736cfeef3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7669021993415057245
+    second: Tempus_5_Air Idle_0
+  - first:
+      213: -5649637038628552625
+    second: Tempus_5_Air Idle_1
+  - first:
+      213: -3842514762359706863
+    second: Tempus_5_Air Idle_2
+  - first:
+      213: -2249516782119894581
+    second: Tempus_5_Air Idle_3
+  - first:
+      213: 4999733443605399397
+    second: Tempus_5_Air Idle_4
+  - first:
+      213: -961936946157585836
+    second: Tempus_5_Air Idle_5
+  - first:
+      213: -1748640248620551437
+    second: Tempus_5_Air Idle_6
+  - first:
+      213: -7590025670448928118
+    second: Tempus_5_Air Idle_7
+  - first:
+      213: 491181679399917701
+    second: Tempus_5_Air Idle_8
+  - first:
+      213: -4423790859155866393
+    second: Tempus_5_Air Idle_9
+  - first:
+      213: 1587343770182014054
+    second: Tempus_5_Air Idle_10
+  - first:
+      213: 6783328671532899142
+    second: Tempus_5_Air Idle_11
+  - first:
+      213: -9029046232745280831
+    second: Tempus_5_Air Idle_12
+  - first:
+      213: -2275492460730066276
+    second: Tempus_5_Air Idle_13
+  - first:
+      213: 6494346620921072048
+    second: Tempus_5_Air Idle_14
+  - first:
+      213: -5282548719088475677
+    second: Tempus_5_Air Idle_15
+  - first:
+      213: -8359596625092901669
+    second: Tempus_5_Air Idle_16
+  - first:
+      213: 7574076351268094347
+    second: Tempus_5_Air Idle_17
+  - first:
+      213: 983643972500213800
+    second: Tempus_5_Air Idle_18
+  - first:
+      213: -5335675679557935024
+    second: Tempus_5_Air Idle_19
+  - first:
+      213: 7128425130931278642
+    second: Tempus_5_Air Idle_20
+  - first:
+      213: -3137307211207007660
+    second: Tempus_5_Air Idle_21
+  - first:
+      213: 3413538404100546409
+    second: Tempus_5_Air Idle_22
+  - first:
+      213: 492807052802862151
+    second: Tempus_5_Air Idle_23
+  - first:
+      213: 1239938867381614979
+    second: Tempus_5_Air Idle_24
+  - first:
+      213: -1388348013346661528
+    second: Tempus_5_Air Idle_25
+  - first:
+      213: 8785801043806412096
+    second: Tempus_5_Air Idle_26
+  - first:
+      213: -8203362080782198925
+    second: Tempus_5_Air Idle_27
+  - first:
+      213: 1691932117328651301
+    second: Tempus_5_Air Idle_28
+  - first:
+      213: -7665076187727120912
+    second: Tempus_5_Air Idle_29
+  - first:
+      213: 4466179919117011714
+    second: Tempus_5_Air Idle_30
+  - first:
+      213: 2753336073608366467
+    second: Tempus_5_Air Idle_31
+  - first:
+      213: 2263031601575494799
+    second: Tempus_5_Air Idle_32
+  - first:
+      213: -8752278991371579066
+    second: Tempus_5_Air Idle_33
+  - first:
+      213: 8582160601782160070
+    second: Tempus_5_Air Idle_34
+  - first:
+      213: 2570638322903331326
+    second: Tempus_5_Air Idle_35
+  - first:
+      213: 4451341873764701290
+    second: Tempus_5_Air Idle_36
+  - first:
+      213: 227987304451600371
+    second: Tempus_5_Air Idle_37
+  - first:
+      213: 8213912630472020009
+    second: Tempus_5_Air Idle_38
+  - first:
+      213: -5810663989999889705
+    second: Tempus_5_Air Idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a066d31129229590800000000000000
+      internalID: -7669021993415057245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1924
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40c7a2eb057891b0800000000000000
+      internalID: -5649637038628552625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_2
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1924
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bea51ae25acaac0800000000000000
+      internalID: -3842514762359706863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1924
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c675b76c18c0e0800000000000000
+      internalID: -2249516782119894581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1924
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5678db5c31f926540800000000000000
+      internalID: 4999733443605399397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1924
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45af3fba17386a2f0800000000000000
+      internalID: -961936946157585836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1924
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2750565f49bb7e0800000000000000
+      internalID: -1748640248620551437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1924
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aabcccddfcaa690800000000000000
+      internalID: -7590025670448928118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1668
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588dfc0922701d600800000000000000
+      internalID: 491181679399917701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1668
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecf46fd6a98b92c0800000000000000
+      internalID: -4423790859155866393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1668
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664d026bfb0670610800000000000000
+      internalID: 1587343770182014054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_11
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1668
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bd075bc79332e50800000000000000
+      internalID: 6783328671532899142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1668
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca73ac0a4262b280800000000000000
+      internalID: -9029046232745280831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1668
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ada1db9a3db60e0800000000000000
+      internalID: -2275492460730066276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1668
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9424cd7dd802a50800000000000000
+      internalID: 6494346620921072048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1668
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1690a9ded90b6b0800000000000000
+      internalID: -5282548719088475677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1413
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd488c7192fbcfb80800000000000000
+      internalID: -8359596625092901669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1413
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b818503ff468c1960800000000000000
+      internalID: 7574076351268094347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_18
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1413
+        width: 52
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820545e3bfa96ad00800000000000000
+      internalID: 983643972500213800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1413
+        width: 52
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05022433d3fd3f5b0800000000000000
+      internalID: -5335675679557935024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1412
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233502973e04de260800000000000000
+      internalID: 7128425130931278642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1412
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4522cbca6bb0674d0800000000000000
+      internalID: -3137307211207007660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1412
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f1193c7135f5f20800000000000000
+      internalID: 3413538404100546409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1412
+        width: 55
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c2f1d476dc6d600800000000000000
+      internalID: 492807052802862151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1156
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893b7594d5253110800000000000000
+      internalID: 1239938867381614979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_25
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1156
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b5adf66d89bbce0800000000000000
+      internalID: -1388348013346661528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1156
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d565b008f6de970800000000000000
+      internalID: 8785801043806412096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_27
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1156
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377511b96adc72e80800000000000000
+      internalID: -8203362080782198925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1156
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524e275eb43fa7710800000000000000
+      internalID: 1691932117328651301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1156
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5383e81dd20a590800000000000000
+      internalID: -7665076187727120912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1156
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bc3fd39fe0bfd30800000000000000
+      internalID: 4466179919117011714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1156
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38902b63290d53620800000000000000
+      internalID: 2753336073608366467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 900
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8404676047e76f10800000000000000
+      internalID: 2263031601575494799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 900
+        width: 60
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641de2001a8a98680800000000000000
+      internalID: -8752278991371579066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_34
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 900
+        width: 60
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca049ad895f91770800000000000000
+      internalID: 8582160601782160070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_35
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 900
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b8a25fedbca320800000000000000
+      internalID: 2570638322903331326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 900
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64119799d756cd30800000000000000
+      internalID: 4451341873764701290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_37
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 900
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffe227de39f92300800000000000000
+      internalID: 227987304451600371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 900
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920116ba40eadf170800000000000000
+      internalID: 8213912630472020009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_5_Air Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 900
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d217e623ef5c5fa0800000000000000
+      internalID: -5810663989999889705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

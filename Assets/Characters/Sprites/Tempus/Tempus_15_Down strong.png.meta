@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: b079fa17d84649a4eaf5fe8efd273631
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5298915788935486601
+    second: Tempus_15_Down strong_0
+  - first:
+      213: -1937803997772592617
+    second: Tempus_15_Down strong_1
+  - first:
+      213: 5643189061788308779
+    second: Tempus_15_Down strong_2
+  - first:
+      213: 1957988321125632805
+    second: Tempus_15_Down strong_3
+  - first:
+      213: -7210280795242733004
+    second: Tempus_15_Down strong_4
+  - first:
+      213: 1758213328282367196
+    second: Tempus_15_Down strong_5
+  - first:
+      213: 8463081156591676027
+    second: Tempus_15_Down strong_6
+  - first:
+      213: 2702013490858426419
+    second: Tempus_15_Down strong_7
+  - first:
+      213: -4106548728001552709
+    second: Tempus_15_Down strong_8
+  - first:
+      213: -3242950458290810396
+    second: Tempus_15_Down strong_9
+  - first:
+      213: 4730630168285894320
+    second: Tempus_15_Down strong_10
+  - first:
+      213: 3739308656366337571
+    second: Tempus_15_Down strong_11
+  - first:
+      213: 7408065252403096433
+    second: Tempus_15_Down strong_12
+  - first:
+      213: -1555435905447278344
+    second: Tempus_15_Down strong_13
+  - first:
+      213: -300169767653685304
+    second: Tempus_15_Down strong_14
+  - first:
+      213: -3703058767532468408
+    second: Tempus_15_Down strong_15
+  - first:
+      213: -3260999660897396301
+    second: Tempus_15_Down strong_16
+  - first:
+      213: -8641604473215062606
+    second: Tempus_15_Down strong_17
+  - first:
+      213: -2898145754437218495
+    second: Tempus_15_Down strong_18
+  - first:
+      213: -5229236145524297687
+    second: Tempus_15_Down strong_19
+  - first:
+      213: 2523835529109130902
+    second: Tempus_15_Down strong_20
+  - first:
+      213: -2988711306333482943
+    second: Tempus_15_Down strong_21
+  - first:
+      213: 8166672153588231515
+    second: Tempus_15_Down strong_22
+  - first:
+      213: 9046265596396183038
+    second: Tempus_15_Down strong_23
+  - first:
+      213: -9212630647724258077
+    second: Tempus_15_Down strong_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1917
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773aac13a287676b0800000000000000
+      internalID: -5298915788935486601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1917
+        width: 44
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ace6ce7898b15e0800000000000000
+      internalID: -1937803997772592617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1917
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2513448d82a05e40800000000000000
+      internalID: 5643189061788308779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1917
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b8e03110c2c2b10800000000000000
+      internalID: 1957988321125632805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_4
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1916
+        width: 42
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4326cb481dfefeb90800000000000000
+      internalID: -7210280795242733004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_5
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1917
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4b0a7e4bd666810800000000000000
+      internalID: 1758213328282367196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_6
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1916
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ae2fbf877e27570800000000000000
+      internalID: 8463081156591676027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_7
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1915
+        width: 63
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3300eec34fa7f7520800000000000000
+      internalID: 2702013490858426419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1659
+        width: 63
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe92a670bb9207c0800000000000000
+      internalID: -4106548728001552709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1659
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d2657db9bef2d0800000000000000
+      internalID: -3242950458290810396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1659
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b65d68f21396a140800000000000000
+      internalID: 4730630168285894320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1659
+        width: 48
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e32484961b4e330800000000000000
+      internalID: 3739308656366337571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_12
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1660
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba662f81cbec660800000000000000
+      internalID: 7408065252403096433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_13
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1661
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f84de8f84bf96ae0800000000000000
+      internalID: -1555435905447278344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_14
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1661
+        width: 37
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7c0bacf2595dbf0800000000000000
+      internalID: -300169767653685304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1661
+        width: 42
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847d4daaba71c9cc0800000000000000
+      internalID: -3703058767532468408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1405
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b99a8ff51a9eb2d0800000000000000
+      internalID: -3260999660897396301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1405
+        width: 50
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bde69c448ad21880800000000000000
+      internalID: -8641604473215062606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1405
+        width: 51
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f86779ac7b7c7d0800000000000000
+      internalID: -2898145754437218495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1405
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920346b6e650e67b0800000000000000
+      internalID: -5229236145524297687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1405
+        width: 46
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e4f08ba07760320800000000000000
+      internalID: 2523835529109130902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_21
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1405
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1409cc9d6e6f586d0800000000000000
+      internalID: -2988711306333482943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_22
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1405
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d63b70e09d55170800000000000000
+      internalID: 8166672153588231515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1405
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd180971aaca8d70800000000000000
+      internalID: 9046265596396183038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_15_Down strong_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1149
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecc48b8c39262080800000000000000
+      internalID: -9212630647724258077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
