@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dai_11_Down A_0: 8050224502673137066
+      Dai_11_Down A_1: -7685146655362349554
+      Dai_11_Down A_10: 8170837419063065182
+      Dai_11_Down A_11: 4193084591848509673
+      Dai_11_Down A_12: 5523879483812921225
+      Dai_11_Down A_13: 1305663991738342866
+      Dai_11_Down A_14: 8578055833944525991
+      Dai_11_Down A_15: -9040069985291882407
+      Dai_11_Down A_2: 5001367224469942615
+      Dai_11_Down A_3: 8464463521320563177
+      Dai_11_Down A_4: -2701006839569855951
+      Dai_11_Down A_5: -3498652293865265059
+      Dai_11_Down A_6: -6470289330127971741
+      Dai_11_Down A_7: -463451225255403856
+      Dai_11_Down A_8: 3629347668966542562
+      Dai_11_Down A_9: -7692273011862614845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

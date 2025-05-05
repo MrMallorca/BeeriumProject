@@ -759,7 +759,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tempus_20_Down air_0: -1540558293930332422
+      Tempus_20_Down air_1: -8877700538714121557
+      Tempus_20_Down air_10: 5710033409427063920
+      Tempus_20_Down air_11: -6284836064078573413
+      Tempus_20_Down air_12: -7255670204084094556
+      Tempus_20_Down air_13: -5089452489324224781
+      Tempus_20_Down air_14: 3141116683601845932
+      Tempus_20_Down air_15: -6416168964072833815
+      Tempus_20_Down air_16: -3807471875963975394
+      Tempus_20_Down air_17: 2165744676992978739
+      Tempus_20_Down air_18: -6138249845266167072
+      Tempus_20_Down air_19: -1437747479883272256
+      Tempus_20_Down air_2: -5598155817208387589
+      Tempus_20_Down air_20: 6212323498333806341
+      Tempus_20_Down air_21: -680917312133616808
+      Tempus_20_Down air_22: 6816936671648143894
+      Tempus_20_Down air_23: 4158339501944689072
+      Tempus_20_Down air_24: 1400132125374832622
+      Tempus_20_Down air_25: 4849722650999372240
+      Tempus_20_Down air_3: 8707124877739837004
+      Tempus_20_Down air_4: 4428750587223807981
+      Tempus_20_Down air_5: 1843440247343258689
+      Tempus_20_Down air_6: 1373979646574543800
+      Tempus_20_Down air_7: -3560880731798495934
+      Tempus_20_Down air_8: -2774090986594717557
+      Tempus_20_Down air_9: -8945422767261138879
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

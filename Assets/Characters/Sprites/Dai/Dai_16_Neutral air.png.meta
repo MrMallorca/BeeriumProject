@@ -734,7 +734,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dai_16_Neutral air_0: -1828247630170319938
+      Dai_16_Neutral air_1: 1490512232926197110
+      Dai_16_Neutral air_10: -5607287356246337561
+      Dai_16_Neutral air_11: -194571426301955910
+      Dai_16_Neutral air_12: -7536216135171654100
+      Dai_16_Neutral air_13: -6371481369579962208
+      Dai_16_Neutral air_14: 6619114915915095508
+      Dai_16_Neutral air_15: -2565033755900465624
+      Dai_16_Neutral air_16: -4963211394884861229
+      Dai_16_Neutral air_17: -4020140172818065641
+      Dai_16_Neutral air_18: -6355479089044458276
+      Dai_16_Neutral air_19: 3483511258606910409
+      Dai_16_Neutral air_2: 5112004212138569172
+      Dai_16_Neutral air_20: -8887772919313020499
+      Dai_16_Neutral air_21: 7706178075821143331
+      Dai_16_Neutral air_22: -3548327152152106448
+      Dai_16_Neutral air_23: 4376828615675710636
+      Dai_16_Neutral air_24: 2392376768122363962
+      Dai_16_Neutral air_3: -7364046232018024036
+      Dai_16_Neutral air_4: -6720708184494657791
+      Dai_16_Neutral air_5: 5387539858692365455
+      Dai_16_Neutral air_6: 6433284897752298026
+      Dai_16_Neutral air_7: -6120454139129800034
+      Dai_16_Neutral air_8: -4499580873091845724
+      Dai_16_Neutral air_9: -8538641389378536514
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

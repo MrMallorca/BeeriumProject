@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dai_12_Running A_0: 2661535622927532298
+      Dai_12_Running A_1: -6519474064660215717
+      Dai_12_Running A_10: -5315813217489183711
+      Dai_12_Running A_11: -6615952391412239997
+      Dai_12_Running A_12: -6812535187881316637
+      Dai_12_Running A_13: -3921305637214599017
+      Dai_12_Running A_14: -990774623923049916
+      Dai_12_Running A_15: 8336703827069696597
+      Dai_12_Running A_16: -1383736852875994843
+      Dai_12_Running A_17: -2048756549733196698
+      Dai_12_Running A_18: -7923304376745803510
+      Dai_12_Running A_19: 2783642936278678816
+      Dai_12_Running A_2: 8398960336040391369
+      Dai_12_Running A_3: -5281765042711708877
+      Dai_12_Running A_4: 2427352612988361185
+      Dai_12_Running A_5: -1799051797088832329
+      Dai_12_Running A_6: 4040799629749698201
+      Dai_12_Running A_7: 1732997753023285794
+      Dai_12_Running A_8: -1919276785051902328
+      Dai_12_Running A_9: -7668402489134976502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

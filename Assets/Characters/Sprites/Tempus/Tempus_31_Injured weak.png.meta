@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tempus_31_Injured weak_0: -4147322970078035740
+      Tempus_31_Injured weak_1: -7697604377207616133
+      Tempus_31_Injured weak_2: 77108004738362980
+      Tempus_31_Injured weak_3: 370492484988405211
+      Tempus_31_Injured weak_4: 6624364021964502278
+      Tempus_31_Injured weak_5: 6197069058157310969
+      Tempus_31_Injured weak_6: 5949398937203971564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

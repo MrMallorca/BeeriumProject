@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 93f2d259f71dea84788fbf5bcb8577ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3059791759458134501
+    second: Dai_WalkBackwards_0
+  - first:
+      213: 3406295152418905252
+    second: Dai_WalkBackwards_1
+  - first:
+      213: -2169445090021157361
+    second: Dai_WalkBackwards_2
+  - first:
+      213: -375169728085793508
+    second: Dai_WalkBackwards_3
+  - first:
+      213: 4067667501718538246
+    second: Dai_WalkBackwards_4
+  - first:
+      213: 1702747008326630197
+    second: Dai_WalkBackwards_5
+  - first:
+      213: -3752501915626221816
+    second: Dai_WalkBackwards_6
+  - first:
+      213: 8170591657846780956
+    second: Dai_WalkBackwards_7
+  - first:
+      213: 641379126671580381
+    second: Dai_WalkBackwards_8
+  - first:
+      213: -369443781175573533
+    second: Dai_WalkBackwards_9
+  - first:
+      213: -4110106441676208895
+    second: Dai_WalkBackwards_10
+  - first:
+      213: -6942531251261108332
+    second: Dai_WalkBackwards_11
+  - first:
+      213: 3439109706000590315
+    second: Dai_WalkBackwards_12
+  - first:
+      213: -6825822584103599574
+    second: Dai_WalkBackwards_13
+  - first:
+      213: -2069616200051752513
+    second: Dai_WalkBackwards_14
+  - first:
+      213: -6008287111496764288
+    second: Dai_WalkBackwards_15
+  - first:
+      213: -4161935490816947991
+    second: Dai_WalkBackwards_16
+  - first:
+      213: 1486719946382439529
+    second: Dai_WalkBackwards_17
+  - first:
+      213: 3382126353192763130
+    second: Dai_WalkBackwards_18
+  - first:
+      213: -6983510596217739431
+    second: Dai_WalkBackwards_19
+  - first:
+      213: -4872981984044346395
+    second: Dai_WalkBackwards_20
+  - first:
+      213: 6133048243966359227
+    second: Dai_WalkBackwards_21
+  - first:
+      213: 5964757886337844076
+    second: Dai_WalkBackwards_22
+  - first:
+      213: 6128344000160883521
+    second: Dai_WalkBackwards_23
+  - first:
+      213: 7334772150348688587
+    second: Dai_WalkBackwards_24
+  - first:
+      213: 6213130263081480057
+    second: Dai_WalkBackwards_25
+  - first:
+      213: 2844947856929281359
+    second: Dai_WalkBackwards_26
+  - first:
+      213: 6252571934503719797
+    second: Dai_WalkBackwards_27
+  - first:
+      213: 3075521535024540315
+    second: Dai_WalkBackwards_28
+  - first:
+      213: 724298481344914275
+    second: Dai_WalkBackwards_29
+  - first:
+      213: 949948909829952528
+    second: Dai_WalkBackwards_30
+  - first:
+      213: 6530475845739503547
+    second: Dai_WalkBackwards_31
+  - first:
+      213: -1811804428067343160
+    second: Dai_WalkBackwards_32
+  - first:
+      213: -5361016551087003760
+    second: Dai_WalkBackwards_33
+  - first:
+      213: 7952492778477896679
+    second: Dai_WalkBackwards_34
+  - first:
+      213: 2164204175978394194
+    second: Dai_WalkBackwards_35
+  - first:
+      213: -7744695672088849651
+    second: Dai_WalkBackwards_36
+  - first:
+      213: -1941375264252424713
+    second: Dai_WalkBackwards_37
+  - first:
+      213: -4512134420558314791
+    second: Dai_WalkBackwards_38
+  - first:
+      213: -7974284102417473844
+    second: Dai_WalkBackwards_39
+  - first:
+      213: 5666846769775290283
+    second: Dai_WalkBackwards_40
+  - first:
+      213: -636955089072468377
+    second: Dai_WalkBackwards_41
+  - first:
+      213: 7896324154969845441
+    second: Dai_WalkBackwards_42
+  - first:
+      213: -8178529244622310850
+    second: Dai_WalkBackwards_43
+  - first:
+      213: -6126685768677885335
+    second: Dai_WalkBackwards_44
+  - first:
+      213: 4469487087917871047
+    second: Dai_WalkBackwards_45
+  - first:
+      213: -6272951040049356137
+    second: Dai_WalkBackwards_46
+  - first:
+      213: 3280495933891663672
+    second: Dai_WalkBackwards_47
+  - first:
+      213: 2369956630328521189
+    second: Dai_WalkBackwards_48
+  - first:
+      213: 3258612246286244745
+    second: Dai_WalkBackwards_49
+  - first:
+      213: -8493850594123930895
+    second: Dai_WalkBackwards_50
+  - first:
+      213: -8256477838326664096
+    second: Dai_WalkBackwards_51
+  - first:
+      213: -8992337198027816667
+    second: Dai_WalkBackwards_52
+  - first:
+      213: -8915658989279316581
+    second: Dai_WalkBackwards_53
+  - first:
+      213: -9053151291661309786
+    second: Dai_WalkBackwards_54
+  - first:
+      213: -8586349423846127959
+    second: Dai_WalkBackwards_55
+  - first:
+      213: 4271543743406470747
+    second: Dai_WalkBackwards_56
+  - first:
+      213: 8046171862651150864
+    second: Dai_WalkBackwards_57
+  - first:
+      213: 3246006236365135125
+    second: Dai_WalkBackwards_58
+  - first:
+      213: 7848963069047755751
+    second: Dai_WalkBackwards_59
+  - first:
+      213: 7507737723251788738
+    second: Dai_WalkBackwards_60
+  - first:
+      213: 8600055168288963851
+    second: Dai_WalkBackwards_61
+  - first:
+      213: 6248892195837781457
+    second: Dai_WalkBackwards_62
+  - first:
+      213: -2111553844106007767
+    second: Dai_WalkBackwards_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1917
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e96b2dc460967a20800000000000000
+      internalID: 3059791759458134501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1917
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac5010d467954f20800000000000000
+      internalID: 3406295152418905252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1917
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d2915f2594e1e0800000000000000
+      internalID: -2169445090021157361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1917
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1567fabe112bcaf0800000000000000
+      internalID: -375169728085793508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_4
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1917
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60885589a02437830800000000000000
+      internalID: 4067667501718538246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_5
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1917
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bfaade16f51a710800000000000000
+      internalID: 1702747008326630197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_6
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1917
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f402ca36f6cebc0800000000000000
+      internalID: -3752501915626221816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_7
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1917
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c143abab2d5c36170800000000000000
+      internalID: 8170591657846780956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1661
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc1c93eae2a6e800800000000000000
+      internalID: 641379126671580381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1661
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e38d82a6d87fdaf0800000000000000
+      internalID: -369443781175573533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1661
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10548d2b7f7f5f6c0800000000000000
+      internalID: -4110106441676208895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1661
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f888e2c9c27af90800000000000000
+      internalID: -6942531251261108332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_12
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1661
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be563c17e0c2abf20800000000000000
+      internalID: 3439109706000590315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_13
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1661
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a228aa6468ec541a0800000000000000
+      internalID: -6825822584103599574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_14
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1661
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb18586080f3743e0800000000000000
+      internalID: -2069616200051752513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_15
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1661
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0847da294b64e9ca0800000000000000
+      internalID: -6008287111496764288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8c3c3d8b5dd36c0800000000000000
+      internalID: -4161935490816947991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964fc9c0ae3e1a410800000000000000
+      internalID: 1486719946382439529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeba8bbff9bfee20800000000000000
+      internalID: 3382126353192763130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e34bec16951f90800000000000000
+      internalID: -6983510596217739431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_20
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3982424b0bf5cb0800000000000000
+      internalID: -4872981984044346395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_21
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6b2f332e6fc1550800000000000000
+      internalID: 6133048243966359227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_22
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63806ae1b317c250800000000000000
+      internalID: 5964757886337844076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_23
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1405
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1436cf616604c0550800000000000000
+      internalID: 6128344000160883521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1149
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc26f1d8685ac560800000000000000
+      internalID: 7334772150348688587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1149
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f63324e09793650800000000000000
+      internalID: 6213130263081480057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_26
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1149
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4557c0b0094b7720800000000000000
+      internalID: 2844947856929281359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1149
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573dba00c0995c650800000000000000
+      internalID: 6252571934503719797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_28
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1149
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa3329a827eaa20800000000000000
+      internalID: 3075521535024540315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_29
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1149
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3632beb91a93d0a00800000000000000
+      internalID: 724298481344914275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_30
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1148
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0141f2d1085ee2d00800000000000000
+      internalID: 949948909829952528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_31
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1149
+        width: 83
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf52978e29e0aa50800000000000000
+      internalID: 6530475845739503547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 893
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4f096d87d2bd6e0800000000000000
+      internalID: -1811804428067343160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 893
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0972875c9d7d995b0800000000000000
+      internalID: -5361016551087003760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_34
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 893
+        width: 85
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3c8044c0eec5e60800000000000000
+      internalID: 7952492778477896679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_35
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 893
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252fb9a4b3cc80e10800000000000000
+      internalID: 2164204175978394194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_36
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 892
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0393a3c150558490800000000000000
+      internalID: -7744695672088849651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_37
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 892
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd0186ab79de05e0800000000000000
+      internalID: -1941375264252424713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_38
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 892
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d20fcb96ada161c0800000000000000
+      internalID: -4512134420558314791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_39
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 893
+        width: 83
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce9c51cbd6a55190800000000000000
+      internalID: -7974284102417473844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_40
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 637
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7a605ec1fa4ae40800000000000000
+      internalID: 5666846769775290283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_41
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 637
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e45f1a8b41927f0800000000000000
+      internalID: -636955089072468377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_42
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 637
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce60508bf0659d60800000000000000
+      internalID: 7896324154969845441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_43
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 637
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b425dbf6008e80800000000000000
+      internalID: -8178529244622310850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_44
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 637
+        width: 83
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a738301c3a9faa0800000000000000
+      internalID: -6126685768677885335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_45
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 637
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf2a8b73dec60e30800000000000000
+      internalID: 4469487087917871047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_46
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 638
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792e07cb34002f8a0800000000000000
+      internalID: -6272951040049356137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_47
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 637
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837d9bacba9a68d20800000000000000
+      internalID: 3280495933891663672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 381
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e130dbaff6c3e020800000000000000
+      internalID: 2369956630328521189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 381
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b11a8b29ae83d20800000000000000
+      internalID: 3258612246286244745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_50
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 381
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a00213e7cf1a80800000000000000
+      internalID: -8493850594123930895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_51
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 381
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06477a696291b6d80800000000000000
+      internalID: -8256477838326664096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_52
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 381
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521450b36fcc43380800000000000000
+      internalID: -8992337198027816667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_53
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 381
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95fc7de267354480800000000000000
+      internalID: -8915658989279316581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_54
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 381
+        width: 78
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a8aaaddebc5280800000000000000
+      internalID: -9053151291661309786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_55
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 381
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6854201b827d880800000000000000
+      internalID: -8586349423846127959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 125
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56f84c2762974b30800000000000000
+      internalID: 4271543743406470747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 125
+        width: 78
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012a01bbdaeb9af60800000000000000
+      internalID: 8046171862651150864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_58
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 125
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d1f3159712c0d20800000000000000
+      internalID: 3246006236365135125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_59
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 125
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e350c1635e1dec60800000000000000
+      internalID: 7848963069047755751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_60
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 125
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb093d7ea7d03860800000000000000
+      internalID: 7507737723251788738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_61
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 125
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d30aa4c98895770800000000000000
+      internalID: 8600055168288963851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_62
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 125
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d52f94185688b650800000000000000
+      internalID: 6248892195837781457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_WalkBackwards_63
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 125
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b63fd57f042b2e0800000000000000
+      internalID: -2111553844106007767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

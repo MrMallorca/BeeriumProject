@@ -34,7 +34,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     private bool canAttack;
     private int nroAttack;
     private bool canAirAttack = true;
-    private bool isBlocking = false;
+    public bool isBlocking = false;
     bool inputsHaveBeenInited = false;
     private bool hitted;
     [SerializeField] public int hitCount;
@@ -107,11 +107,11 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
         if (direction.x < 0)
         {
-            spriteRenderer.flipX = true;
+            transform.rotation = Quaternion.Euler(0, 180, 0);
         }
         else
         {
-            spriteRenderer.flipX = false;
+            transform.rotation = Quaternion.Euler(0, 0, 0);
         }
 
         if (anim.GetCurrentAnimatorStateInfo(0).IsName("Idle") && nroAttack == 0)
@@ -120,7 +120,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
         }
 
 
-        if(currentHealth < 0)
+        if (currentHealth < 0)
         {
             Destroy(gameObject);
         }
@@ -144,12 +144,12 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
         if (horizontalSpeed > 0.01f)
         {
-            spriteRenderer.flipX = false;
+            transform.rotation = Quaternion.Euler(0, 180, 0);
         }
         else if (horizontalSpeed < -0.01f)
         {
-            spriteRenderer.flipX = true;
-        }
+            transform.rotation = Quaternion.Euler(0, 0, 0);
+       }
     }
 
     void FixedUpdate()
@@ -380,7 +380,14 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
         if (!hitted)
         {
-            currentHealth -= damageAmount;
+            if(isBlocking)
+            {
+                currentHealth -= 1f;
+            }
+            else
+            {
+                currentHealth -= damageAmount;
+            }
             anim.SetTrigger("hit");
             hitted = true;
             Invoke("CanGetHit", 1.5f);
@@ -456,12 +463,13 @@ public class BaseFighter : MonoBehaviour, IDamageable
         }
         resetHitCoroutine = StartCoroutine(ResetHitCount());
 
-        if (hitCount >= 3)
+        if (hitCount >= 3 && !isBlocking)
         {
             Vector3 flatDirection = characterRb.position - enemyPlayer.transform.position;
             flatDirection.y = 0f;
             flatDirection.Normalize();
             flatDirection.y = 0.8f; // Salto hacia atrás
+            flatDirection.z = 0f;
 
             characterRb.AddForce(flatDirection * knockbackForce * Time.deltaTime, ForceMode.Impulse);
 

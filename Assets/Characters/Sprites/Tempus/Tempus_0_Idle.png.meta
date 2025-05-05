@@ -1709,7 +1709,71 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tempus_0_Idle_0: -497089667820573272
+      Tempus_0_Idle_1: 4050338152815831109
+      Tempus_0_Idle_10: 4447993071541754064
+      Tempus_0_Idle_11: 7195599386468378450
+      Tempus_0_Idle_12: 4425450905954026040
+      Tempus_0_Idle_13: -2237637545328305956
+      Tempus_0_Idle_14: 683926714374491257
+      Tempus_0_Idle_15: -2600319239374474638
+      Tempus_0_Idle_16: -8039702499722819640
+      Tempus_0_Idle_17: 6413115203302377388
+      Tempus_0_Idle_18: 6959733459589065365
+      Tempus_0_Idle_19: 9173088783112994119
+      Tempus_0_Idle_2: 9120131838696888627
+      Tempus_0_Idle_20: -4749993967777916660
+      Tempus_0_Idle_21: -6916392578336633040
+      Tempus_0_Idle_22: 7777813822652059042
+      Tempus_0_Idle_23: -3072490995574961747
+      Tempus_0_Idle_24: -391285678846292867
+      Tempus_0_Idle_25: 9109859904916088368
+      Tempus_0_Idle_26: -6143359042060818251
+      Tempus_0_Idle_27: 4388459677891201870
+      Tempus_0_Idle_28: 4522056196752707501
+      Tempus_0_Idle_29: -2474121352708056900
+      Tempus_0_Idle_3: -1907519476323083330
+      Tempus_0_Idle_30: -1107588469767720488
+      Tempus_0_Idle_31: -434763429478796132
+      Tempus_0_Idle_32: -3206949157459843808
+      Tempus_0_Idle_33: -5213184001171310697
+      Tempus_0_Idle_34: -4433417945873805471
+      Tempus_0_Idle_35: -7247129855237862869
+      Tempus_0_Idle_36: 4450017894837475451
+      Tempus_0_Idle_37: -5292183988042346578
+      Tempus_0_Idle_38: -2913322769374258284
+      Tempus_0_Idle_39: 1045555518472191877
+      Tempus_0_Idle_4: -2351739931597831027
+      Tempus_0_Idle_40: 1386889193598799037
+      Tempus_0_Idle_41: 5086418187324691516
+      Tempus_0_Idle_42: -8166174984933392626
+      Tempus_0_Idle_43: 4785374607717145397
+      Tempus_0_Idle_44: -6679100538376284879
+      Tempus_0_Idle_45: -8633882604341285298
+      Tempus_0_Idle_46: -784363696401687681
+      Tempus_0_Idle_47: 593793800467468857
+      Tempus_0_Idle_48: -8784448451127373961
+      Tempus_0_Idle_49: 408527468432029984
+      Tempus_0_Idle_5: -2296106096884063292
+      Tempus_0_Idle_50: 8928088692099839361
+      Tempus_0_Idle_51: -5725979469586093992
+      Tempus_0_Idle_52: 5677767100350906509
+      Tempus_0_Idle_53: 3563158359735061577
+      Tempus_0_Idle_54: 3578405936313129948
+      Tempus_0_Idle_55: -6970000561611299244
+      Tempus_0_Idle_56: -2483353887851074845
+      Tempus_0_Idle_57: 4855539325583434175
+      Tempus_0_Idle_58: -4227677465126072645
+      Tempus_0_Idle_59: 8723839873733706246
+      Tempus_0_Idle_6: 8266754232840376150
+      Tempus_0_Idle_60: -1612390109907612561
+      Tempus_0_Idle_61: -3486424005238766229
+      Tempus_0_Idle_62: 7041605888538364060
+      Tempus_0_Idle_63: 7424563185817352059
+      Tempus_0_Idle_7: -2047176915638038922
+      Tempus_0_Idle_8: -6928031159304493511
+      Tempus_0_Idle_9: -1435720252301506268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

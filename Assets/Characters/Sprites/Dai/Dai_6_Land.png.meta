@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dai_6_Land_0: 3672501458265958898
+      Dai_6_Land_1: -7446897660440763626
+      Dai_6_Land_2: 5529632574856486756
+      Dai_6_Land_3: -5204975520230473592
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

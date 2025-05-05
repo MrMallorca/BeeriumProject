@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tempus_34_Lying on ground_0: 4655666233341124209
+      Tempus_34_Lying on ground_1: 5294224186643147507
+      Tempus_34_Lying on ground_2: 8066328335453129857
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

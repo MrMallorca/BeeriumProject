@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dai_34_Lying on ground_0: 8047454143281525050
+      Dai_34_Lying on ground_1: -9054793597315607893
+      Dai_34_Lying on ground_2: -2953081224491703020
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

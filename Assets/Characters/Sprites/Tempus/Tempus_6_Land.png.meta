@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tempus_6_Land_0: 8188025000037644025
+      Tempus_6_Land_1: 6922520189340461385
+      Tempus_6_Land_2: 1133779414050958558
+      Tempus_6_Land_3: -7259616564034462874
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

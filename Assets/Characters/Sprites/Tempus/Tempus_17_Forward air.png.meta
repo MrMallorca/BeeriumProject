@@ -734,7 +734,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tempus_17_Forward air_0: -4307588573761153311
+      Tempus_17_Forward air_1: 1769878604233290907
+      Tempus_17_Forward air_10: -1021467921590549593
+      Tempus_17_Forward air_11: -5700732109653318336
+      Tempus_17_Forward air_12: 103940778458035949
+      Tempus_17_Forward air_13: 7084093063677018320
+      Tempus_17_Forward air_14: -3668329781904375782
+      Tempus_17_Forward air_15: 7413016050276481250
+      Tempus_17_Forward air_16: -1655448129997491336
+      Tempus_17_Forward air_17: -515267533063792625
+      Tempus_17_Forward air_18: 3482998555336596093
+      Tempus_17_Forward air_19: -3953798932814415487
+      Tempus_17_Forward air_2: -7596745897358872082
+      Tempus_17_Forward air_20: 5481659621083140535
+      Tempus_17_Forward air_21: 6880118689045707463
+      Tempus_17_Forward air_22: 4258776780272981124
+      Tempus_17_Forward air_23: -4784836870315644285
+      Tempus_17_Forward air_24: 7022730891269366683
+      Tempus_17_Forward air_3: -3059737847141047507
+      Tempus_17_Forward air_4: -2928674063238453751
+      Tempus_17_Forward air_5: -6470379647337687871
+      Tempus_17_Forward air_6: -5801985918719054328
+      Tempus_17_Forward air_7: 4533649388058716462
+      Tempus_17_Forward air_8: 6243880116449786561
+      Tempus_17_Forward air_9: 7822972436483895868
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

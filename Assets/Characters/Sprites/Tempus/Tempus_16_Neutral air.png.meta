@@ -734,7 +734,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tempus_16_Neutral air_0: 9065140272368113569
+      Tempus_16_Neutral air_1: 5199644232228720961
+      Tempus_16_Neutral air_10: 3170038334579511536
+      Tempus_16_Neutral air_11: -7924179986487916673
+      Tempus_16_Neutral air_12: 8012370023461917856
+      Tempus_16_Neutral air_13: 6987161859571985767
+      Tempus_16_Neutral air_14: -4130421340315609770
+      Tempus_16_Neutral air_15: -1381738064097306132
+      Tempus_16_Neutral air_16: -4829679161425723898
+      Tempus_16_Neutral air_17: -4796203776941142922
+      Tempus_16_Neutral air_18: -1687545564436440426
+      Tempus_16_Neutral air_19: 9027828533225999514
+      Tempus_16_Neutral air_2: -1189865374719219391
+      Tempus_16_Neutral air_20: -8449755290557285325
+      Tempus_16_Neutral air_21: 1504624839803072723
+      Tempus_16_Neutral air_22: 364237566334056764
+      Tempus_16_Neutral air_23: -3633498134752454803
+      Tempus_16_Neutral air_24: 6997666961789315990
+      Tempus_16_Neutral air_3: -3948872769342063852
+      Tempus_16_Neutral air_4: -1422135868070020161
+      Tempus_16_Neutral air_5: 4725618463471400420
+      Tempus_16_Neutral air_6: -4515740370219871071
+      Tempus_16_Neutral air_7: 5606581129543093068
+      Tempus_16_Neutral air_8: -4262729662604962646
+      Tempus_16_Neutral air_9: 447566182879205714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

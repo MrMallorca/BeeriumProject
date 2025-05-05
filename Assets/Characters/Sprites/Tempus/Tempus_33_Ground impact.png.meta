@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tempus_33_Ground impact_0: -1226524753291196562
+      Tempus_33_Ground impact_1: -51174410882993701
+      Tempus_33_Ground impact_10: 4795562508715777409
+      Tempus_33_Ground impact_11: 8151382766514748641
+      Tempus_33_Ground impact_2: 398930568206504162
+      Tempus_33_Ground impact_3: -1187568908468252907
+      Tempus_33_Ground impact_4: 4189250390509282801
+      Tempus_33_Ground impact_5: -7097528364489958190
+      Tempus_33_Ground impact_6: -1378852991802449250
+      Tempus_33_Ground impact_7: 2910054059062096511
+      Tempus_33_Ground impact_8: -3701849104112676988
+      Tempus_33_Ground impact_9: -3960194471322993847
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

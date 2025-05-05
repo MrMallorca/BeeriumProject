@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dai_31_Injured weak_0: -3633932495236956077
+      Dai_31_Injured weak_1: 7182201815957529609
+      Dai_31_Injured weak_2: 9157064268516973455
+      Dai_31_Injured weak_3: -422971349317663799
+      Dai_31_Injured weak_4: 1254410440601956668
+      Dai_31_Injured weak_5: 8686377048776510060
+      Dai_31_Injured weak_6: 8325369004494675286
+      Dai_31_Injured weak_7: 6599010781963855891
+      Dai_31_Injured weak_8: 4472074201035057270
+      Dai_31_Injured weak_9: 6126705637386754568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

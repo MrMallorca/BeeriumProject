@@ -734,7 +734,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tempus_13_Side strong_0: 6317306185286983450
+      Tempus_13_Side strong_1: 3781268784583165275
+      Tempus_13_Side strong_10: -5460059597505894845
+      Tempus_13_Side strong_11: -443445938332807329
+      Tempus_13_Side strong_12: -4392979380411709394
+      Tempus_13_Side strong_13: 8764033125831844850
+      Tempus_13_Side strong_14: -6318638829108070097
+      Tempus_13_Side strong_15: -2788775550862171540
+      Tempus_13_Side strong_16: -5572373253066904133
+      Tempus_13_Side strong_17: 3003819602902921084
+      Tempus_13_Side strong_18: -9011494959369648444
+      Tempus_13_Side strong_19: 3782477044069828613
+      Tempus_13_Side strong_2: 2354318351581011601
+      Tempus_13_Side strong_20: 2422972907992872882
+      Tempus_13_Side strong_21: -9049004635649300032
+      Tempus_13_Side strong_22: 7740927082799737373
+      Tempus_13_Side strong_23: -7623277379516433870
+      Tempus_13_Side strong_24: -3891319195055002778
+      Tempus_13_Side strong_3: 1549680637720795623
+      Tempus_13_Side strong_4: -4584581171557817731
+      Tempus_13_Side strong_5: 8674826243212500219
+      Tempus_13_Side strong_6: -1219194632544894221
+      Tempus_13_Side strong_7: -1401987172098804342
+      Tempus_13_Side strong_8: 1608763023117302088
+      Tempus_13_Side strong_9: -7743990077459532216
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
