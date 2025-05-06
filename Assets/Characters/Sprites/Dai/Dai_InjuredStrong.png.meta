@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dai_InjuredStrong_0: -7728392296723267105
+      Dai_InjuredStrong_1: -6599502499139983793
+      Dai_InjuredStrong_2: -6265943054644426358
+      Dai_InjuredStrong_3: -4149055255895453892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

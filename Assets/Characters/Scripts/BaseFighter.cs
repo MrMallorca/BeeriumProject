@@ -118,18 +118,18 @@ public class BaseFighter : MonoBehaviour, IDamageable
         {
             canAttack = true;
         }
-
+      
 
         if (currentHealth < 0)
         {
             Destroy(gameObject);
         }
 
-        isBlocking = false;
     }
 
     private void UpdateAnimatorParameters()
     {
+
         float horizontalSpeed = characterRb.linearVelocity.x;
 
         if(gameObject.tag == "Player1")
@@ -201,7 +201,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     {
         isBlocking = true;
 
-        if (isGrounded && isBlocking)
+        if (isGrounded)
         {
             anim.SetBool("crouch", ctx.ReadValue<float>() > 0);
             canAttackTrue();
@@ -368,11 +368,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
         canAirAttack = true;
     }
 
-    public void CanGetHit()
-    {
-        hitted = false;
-    }
-
+   
     public bool HasTakenDamage { get { return hitted;  } set { hitted = value;  } }
     public void NotifyDamageReceived(float damageAmount)
     {
@@ -387,14 +383,24 @@ public class BaseFighter : MonoBehaviour, IDamageable
             else
             {
                 currentHealth -= damageAmount;
+                anim.SetTrigger("hit");
+                hitted = true;
             }
-            anim.SetTrigger("hit");
-            hitted = true;
-            Invoke("CanGetHit", 1.5f);
+
+            Invoke(nameof(ResetHit), 0.3f);
         }
     }
+    public void ResetHit()
+    {
+        hitted = false;
+    }
 
-   
+
+    public void ResetBlocking()
+    {
+        isBlocking = false;
+    }
+
 
     #region InputManagement
     private void EnableInputs()
@@ -480,11 +486,6 @@ public class BaseFighter : MonoBehaviour, IDamageable
         }
 
         
-    }
-
-    void ResetHit()
-    {
-        hitted = false;
     }
 
 

@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oxy_InjuredStrong_0: 137423231036255259
+      Oxy_InjuredStrong_1: -8429660800755528251
+      Oxy_InjuredStrong_2: 848891968998422780
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oxy_HitGround_0: 2765372164865889368
+      Oxy_HitGround_1: -3772019856795553047
+      Oxy_HitGround_2: -6619798772539153250
+      Oxy_HitGround_3: -8191914693114597611
+      Oxy_HitGround_4: 1860872236856291156
+      Oxy_HitGround_5: -2501270859350991995
+      Oxy_HitGround_6: 9065066583744122852
+      Oxy_HitGround_7: 4276684643614543816
+      Oxy_HitGround_8: -4830113807456866555
+      Oxy_HitGround_9: -6914934831697326106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
