@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   start: {fileID: -6483103238629338796, guid: b9d600ed7e4f4df41ad246d17d3176be, type: 3}
-  nextSceneName: SelectGame
+  nextSceneName: Options
   transitionSettings: {fileID: 11400000, guid: 057babd6f13132c449650d99e3c4e99c, type: 2}
   startDelay: 1
   images:
