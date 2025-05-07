@@ -5,14 +5,18 @@ using TMPro;
 using UnityEngine.Rendering;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
+using EasyTransition;
 
 public class MenuController : MonoBehaviour
 {
+    [Header("Cambio Escena")]
+    public TransitionSettings transition;
+    public float loadDelay;
+
     [Header("Volume Settings")]
     [SerializeField] private TMP_Text volumeTextValue = null;
     [SerializeField] private Slider volumeSlider = null;
     [SerializeField] private float defaultVolume = 1.0f;
-
 
     [Header("Graphics Settings")]
     [SerializeField] private Slider brightnessSlider = null;
@@ -25,6 +29,7 @@ public class MenuController : MonoBehaviour
     [Header("Resolutiuon DropDown")]
     public TMP_Dropdown resolutionDropDown;
     private Resolution[] resolutions;
+    
 
     [SerializeField] private GameObject confirmationPrompt = null;
 
@@ -143,7 +148,11 @@ public class MenuController : MonoBehaviour
 
     
     public void ChangeScene(string name)
-    {SceneManager.LoadScene(name);}
+    {
+        //SceneManager.LoadScene(name);
+        TransitionManager.Instance().Transition(name, transition, loadDelay);
+
+    }
 
     public void Exit()
     {Application.Quit();}
