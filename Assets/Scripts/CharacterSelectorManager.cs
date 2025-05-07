@@ -14,6 +14,7 @@ public class CharacterSelectorManager : MonoBehaviour
     public static string confirmedCharacter1;
     public static string confirmedCharacter2;
 
+
     string currentScene;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -21,7 +22,6 @@ public class CharacterSelectorManager : MonoBehaviour
         currentScene = SceneManager.GetActiveScene().name;
 
         startGame.gameObject.SetActive(false);
-
 
     }
 

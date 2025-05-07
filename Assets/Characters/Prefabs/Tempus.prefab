@@ -242,6 +242,7 @@ MonoBehaviour:
   characterCanJump: 1
   speed: 2
   jumpForce: 5
+  isBlocking: 0
   hitCount: 0
   health: 100
   currentHealth: 0

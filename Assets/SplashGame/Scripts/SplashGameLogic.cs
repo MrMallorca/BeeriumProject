@@ -20,6 +20,8 @@ public class SplashGameLogic : MonoBehaviour
     [SerializeField] TextMeshProUGUI title;
     [SerializeField] TextMeshProUGUI pressKeyText;
 
+    AudioSource audio;
+    [SerializeField] AudioClip musicTheme;
     private void OnEnable()
     {
         start.action.Enable();
@@ -28,6 +30,8 @@ public class SplashGameLogic : MonoBehaviour
     }
     private void Start()
     {
+        audio = GetComponent<AudioSource>();
+
         StartCoroutine(FadeImagesSequentially());
 
 
@@ -77,7 +81,8 @@ public class SplashGameLogic : MonoBehaviour
 
             yield return new WaitForSeconds(0.3f);
         }
-
+        audio.clip = musicTheme;
+        audio.Play();
         transitionIsFinish = true;
         StartCoroutine(BlinkText());
     }

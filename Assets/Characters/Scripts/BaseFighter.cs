@@ -166,7 +166,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     void UpdateMovementOnPlane()
     {
 
-        if (!hitted)
+        if (!hitted && !isInvulnerable)
         {
             Vector3 moveDirection = rawMove * speed;
             Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, 0);
@@ -181,7 +181,9 @@ public class BaseFighter : MonoBehaviour, IDamageable
     {
         if (characterCanJump)
         {
-            if (ctx.performed && isGrounded)
+            if (ctx.performed &&
+                isGrounded &&
+                !isInvulnerable)
             {
                 isGrounded = false;
                 characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
@@ -199,14 +201,24 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     private void OnCrouch(InputAction.CallbackContext ctx)
     {
-        isBlocking = true;
-
-        if (isGrounded)
+        if (ctx.performed)
         {
-            anim.SetBool("crouch", ctx.ReadValue<float>() > 0);
-            canAttackTrue();
-            nroAttack = 0;
-            anim.SetInteger("AttackCount", nroAttack);
+            if (isGrounded)
+            {
+                isBlocking = true;
+
+                anim.SetBool("crouch", true);
+                canAttackTrue();
+                nroAttack = 0;
+                anim.SetInteger("AttackCount", nroAttack);
+            }
+        }
+        else if (ctx.canceled)
+        {
+            anim.SetBool("crouch", false);
+
+            ResetBlocking();
+
         }
     }
 
@@ -378,7 +390,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
         {
             if(isBlocking)
             {
-                currentHealth -= 1f;
+                currentHealth -= 0.5f;
             }
             else
             {

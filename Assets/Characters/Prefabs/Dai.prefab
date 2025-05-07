@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterCanJump: 1
-  speed: 2
+  speed: 3
   jumpForce: 5
   isBlocking: 0
   hitCount: 0

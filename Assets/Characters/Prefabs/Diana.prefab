@@ -185,10 +185,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterCanJump: 1
   speed: 2
-  jumpForce: 8
+  jumpForce: 5
   isBlocking: 0
   hitCount: 0
-  health: 100
+  health: 50
   currentHealth: 0
 --- !u!114 &7588434998000910269
 MonoBehaviour:
