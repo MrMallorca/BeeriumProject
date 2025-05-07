@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: ef8312e12f2c9c743afb458be6f435aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6455999524457945902
+    second: Tempus_56_Down throw_0
+  - first:
+      213: 1480630281811949663
+    second: Tempus_56_Down throw_1
+  - first:
+      213: 1598742092944086430
+    second: Tempus_56_Down throw_2
+  - first:
+      213: -6112835241762100787
+    second: Tempus_56_Down throw_3
+  - first:
+      213: -8097105107567622812
+    second: Tempus_56_Down throw_4
+  - first:
+      213: -8107407994479431120
+    second: Tempus_56_Down throw_5
+  - first:
+      213: 405067715173053801
+    second: Tempus_56_Down throw_6
+  - first:
+      213: 4233689990312554904
+    second: Tempus_56_Down throw_7
+  - first:
+      213: -2160821574302312014
+    second: Tempus_56_Down throw_8
+  - first:
+      213: -5058891165416202717
+    second: Tempus_56_Down throw_9
+  - first:
+      213: -1532522601323558538
+    second: Tempus_56_Down throw_10
+  - first:
+      213: 206330246515120959
+    second: Tempus_56_Down throw_11
+  - first:
+      213: 2899729140124835699
+    second: Tempus_56_Down throw_12
+  - first:
+      213: 4366996793795425006
+    second: Tempus_56_Down throw_13
+  - first:
+      213: 4069704044956054238
+    second: Tempus_56_Down throw_14
+  - first:
+      213: 8615510883366308696
+    second: Tempus_56_Down throw_15
+  - first:
+      213: -2488414217952721610
+    second: Tempus_56_Down throw_16
+  - first:
+      213: 8205505925355676433
+    second: Tempus_56_Down throw_17
+  - first:
+      213: -8546394572237803680
+    second: Tempus_56_Down throw_18
+  - first:
+      213: -4937701560161186114
+    second: Tempus_56_Down throw_19
+  - first:
+      213: 6685487008025198664
+    second: Tempus_56_Down throw_20
+  - first:
+      213: -1000821375388348826
+    second: Tempus_56_Down throw_21
+  - first:
+      213: -7188424605013113866
+    second: Tempus_56_Down throw_22
+  - first:
+      213: 483112829513554361
+    second: Tempus_56_Down throw_23
+  - first:
+      213: -5800564702269831500
+    second: Tempus_56_Down throw_24
+  - first:
+      213: -644514718203642710
+    second: Tempus_56_Down throw_25
+  - first:
+      213: -5316753793741876496
+    second: Tempus_56_Down throw_26
+  - first:
+      213: 7386580819072340400
+    second: Tempus_56_Down throw_27
+  - first:
+      213: 3874823621257734537
+    second: Tempus_56_Down throw_28
+  - first:
+      213: -835232454873922708
+    second: Tempus_56_Down throw_29
+  - first:
+      213: -4603651280380981335
+    second: Tempus_56_Down throw_30
+  - first:
+      213: 2908983962457969056
+    second: Tempus_56_Down throw_31
+  - first:
+      213: 5940618603360451536
+    second: Tempus_56_Down throw_32
+  - first:
+      213: -3516870335481003978
+    second: Tempus_56_Down throw_33
+  - first:
+      213: -3258673527779959771
+    second: Tempus_56_Down throw_34
+  - first:
+      213: 2674146051821727613
+    second: Tempus_56_Down throw_35
+  - first:
+      213: 1993264747073918049
+    second: Tempus_56_Down throw_36
+  - first:
+      213: -7304508113859196487
+    second: Tempus_56_Down throw_37
+  - first:
+      213: -2594098280040679307
+    second: Tempus_56_Down throw_38
+  - first:
+      213: -546430621523633519
+    second: Tempus_56_Down throw_39
+  - first:
+      213: -934637915598491850
+    second: Tempus_56_Down throw_40
+  - first:
+      213: 4765496210286937808
+    second: Tempus_56_Down throw_41
+  - first:
+      213: 3466969192246630150
+    second: Tempus_56_Down throw_42
+  - first:
+      213: 410606368412812443
+    second: Tempus_56_Down throw_43
+  - first:
+      213: 1978209020340433778
+    second: Tempus_56_Down throw_44
+  - first:
+      213: -3492466084679146210
+    second: Tempus_56_Down throw_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4e79a43aea766a0800000000000000
+      internalID: -6455999524457945902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58761785614c8410800000000000000
+      internalID: 1480630281811949663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e959569867fdf2610800000000000000
+      internalID: 1598742092944086430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e74c1cb8da2ba0800000000000000
+      internalID: -6112835241762100787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_4
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4654e621ecd41af80800000000000000
+      internalID: -8097105107567622812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03234e74263bc7f80800000000000000
+      internalID: -8107407994479431120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9657ed8d0f61f9500800000000000000
+      internalID: 405067715173053801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891f4b97d9611ca30800000000000000
+      internalID: 4233689990312554904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_8
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9d5b80a383302e0800000000000000
+      internalID: -2160821574302312014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_9
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e5108c9453bc9b0800000000000000
+      internalID: -5058891165416202717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_10
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6790ad150d26bbae0800000000000000
+      internalID: -1532522601323558538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_11
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bd3f914480dd200800000000000000
+      internalID: 206330246515120959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_12
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f5dfd1a48ed3820800000000000000
+      internalID: 2899729140124835699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_13
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee232755270ba9c30800000000000000
+      internalID: 4366996793795425006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_14
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed27394444e7a7830800000000000000
+      internalID: 4069704044956054238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_15
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b8f816081709770800000000000000
+      internalID: 8615510883366308696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63585e4f370677dd0800000000000000
+      internalID: -2488414217952721610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113203b1a20dfd170800000000000000
+      internalID: 8205505925355676433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_18
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f6073da6b156980800000000000000
+      internalID: -8546394572237803680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe43b39792c97bb0800000000000000
+      internalID: -4937701560161186114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_20
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840c4d7330f97cc50800000000000000
+      internalID: 6685487008025198664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e0c5cf24e5c12f0800000000000000
+      internalID: -1000821375388348826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_22
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3048b58e59d3c90800000000000000
+      internalID: -7188424605013113866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_23
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9d69d0f8c54b600800000000000000
+      internalID: 483112829513554361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_24
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b68980d221408fa0800000000000000
+      internalID: -5800564702269831500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_25
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacf5f057493e07f0800000000000000
+      internalID: -644514718203642710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_26
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f21ecd08981736b0800000000000000
+      internalID: -5316753793741876496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_27
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b155818e18628660800000000000000
+      internalID: 7386580819072340400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_28
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9892c58cd8326c530800000000000000
+      internalID: 3874823621257734537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_29
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63cc5ee188a864f0800000000000000
+      internalID: -835232454873922708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_30
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af8e1b3d8b8c10c0800000000000000
+      internalID: -4603651280380981335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_31
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a19d9b5089ce5820800000000000000
+      internalID: 2908983962457969056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db706f1521517250800000000000000
+      internalID: 5940618603360451536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630cb842011913fc0800000000000000
+      internalID: -3516870335481003978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd4b111bdd6c2d0800000000000000
+      internalID: -3258673527779959771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe8587aa97c1520800000000000000
+      internalID: 2674146051821727613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_36
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16456a80abf79ab10800000000000000
+      internalID: 1993264747073918049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_37
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9c676429c21aa90800000000000000
+      internalID: -7304508113859196487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_38
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57839b1cb59effbd0800000000000000
+      internalID: -2594098280040679307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a10bdae30ba68f0800000000000000
+      internalID: -546430621523633519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_40
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fe32784cf7703f0800000000000000
+      internalID: -934637915598491850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_41
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d68f98fd81722240800000000000000
+      internalID: 4765496210286937808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_42
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607551f8c162d1030800000000000000
+      internalID: 3466969192246630150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_43
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9442cb0154c2b500800000000000000
+      internalID: 410606368412812443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_44
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2737ddc7f92047b10800000000000000
+      internalID: 1978209020340433778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_56_Down throw_45
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15a9909994488fc0800000000000000
+      internalID: -3492466084679146210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_56_Down throw_0: -6455999524457945902
+      Tempus_56_Down throw_1: 1480630281811949663
+      Tempus_56_Down throw_10: -1532522601323558538
+      Tempus_56_Down throw_11: 206330246515120959
+      Tempus_56_Down throw_12: 2899729140124835699
+      Tempus_56_Down throw_13: 4366996793795425006
+      Tempus_56_Down throw_14: 4069704044956054238
+      Tempus_56_Down throw_15: 8615510883366308696
+      Tempus_56_Down throw_16: -2488414217952721610
+      Tempus_56_Down throw_17: 8205505925355676433
+      Tempus_56_Down throw_18: -8546394572237803680
+      Tempus_56_Down throw_19: -4937701560161186114
+      Tempus_56_Down throw_2: 1598742092944086430
+      Tempus_56_Down throw_20: 6685487008025198664
+      Tempus_56_Down throw_21: -1000821375388348826
+      Tempus_56_Down throw_22: -7188424605013113866
+      Tempus_56_Down throw_23: 483112829513554361
+      Tempus_56_Down throw_24: -5800564702269831500
+      Tempus_56_Down throw_25: -644514718203642710
+      Tempus_56_Down throw_26: -5316753793741876496
+      Tempus_56_Down throw_27: 7386580819072340400
+      Tempus_56_Down throw_28: 3874823621257734537
+      Tempus_56_Down throw_29: -835232454873922708
+      Tempus_56_Down throw_3: -6112835241762100787
+      Tempus_56_Down throw_30: -4603651280380981335
+      Tempus_56_Down throw_31: 2908983962457969056
+      Tempus_56_Down throw_32: 5940618603360451536
+      Tempus_56_Down throw_33: -3516870335481003978
+      Tempus_56_Down throw_34: -3258673527779959771
+      Tempus_56_Down throw_35: 2674146051821727613
+      Tempus_56_Down throw_36: 1993264747073918049
+      Tempus_56_Down throw_37: -7304508113859196487
+      Tempus_56_Down throw_38: -2594098280040679307
+      Tempus_56_Down throw_39: -546430621523633519
+      Tempus_56_Down throw_4: -8097105107567622812
+      Tempus_56_Down throw_40: -934637915598491850
+      Tempus_56_Down throw_41: 4765496210286937808
+      Tempus_56_Down throw_42: 3466969192246630150
+      Tempus_56_Down throw_43: 410606368412812443
+      Tempus_56_Down throw_44: 1978209020340433778
+      Tempus_56_Down throw_45: -3492466084679146210
+      Tempus_56_Down throw_5: -8107407994479431120
+      Tempus_56_Down throw_6: 405067715173053801
+      Tempus_56_Down throw_7: 4233689990312554904
+      Tempus_56_Down throw_8: -2160821574302312014
+      Tempus_56_Down throw_9: -5058891165416202717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

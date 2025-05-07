@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 35b599d8bc6e5dd4aa518cd370b6d26b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6621948007885172184
+    second: Tempus_50_Ultra_0
+  - first:
+      213: 7008314882671599417
+    second: Tempus_50_Ultra_1
+  - first:
+      213: -9137553225317525097
+    second: Tempus_50_Ultra_2
+  - first:
+      213: -4794495851992302977
+    second: Tempus_50_Ultra_3
+  - first:
+      213: -3552873552427381962
+    second: Tempus_50_Ultra_4
+  - first:
+      213: -7411004102993350920
+    second: Tempus_50_Ultra_5
+  - first:
+      213: 6980274920482006333
+    second: Tempus_50_Ultra_6
+  - first:
+      213: 7519052334780656938
+    second: Tempus_50_Ultra_7
+  - first:
+      213: 2039953239860499345
+    second: Tempus_50_Ultra_8
+  - first:
+      213: 2891836238479443325
+    second: Tempus_50_Ultra_9
+  - first:
+      213: 1327882974546460911
+    second: Tempus_50_Ultra_10
+  - first:
+      213: -6387374549033158487
+    second: Tempus_50_Ultra_11
+  - first:
+      213: -6564593780972722303
+    second: Tempus_50_Ultra_12
+  - first:
+      213: -3423499318380397875
+    second: Tempus_50_Ultra_13
+  - first:
+      213: 7123755427778096766
+    second: Tempus_50_Ultra_14
+  - first:
+      213: -6941320389508029550
+    second: Tempus_50_Ultra_15
+  - first:
+      213: -6112180900559415328
+    second: Tempus_50_Ultra_16
+  - first:
+      213: 7845838404665527012
+    second: Tempus_50_Ultra_17
+  - first:
+      213: 2273229560351974878
+    second: Tempus_50_Ultra_18
+  - first:
+      213: 4892748588845107144
+    second: Tempus_50_Ultra_19
+  - first:
+      213: -6803157553260264237
+    second: Tempus_50_Ultra_20
+  - first:
+      213: 2964584471017972834
+    second: Tempus_50_Ultra_21
+  - first:
+      213: -4569244471449583080
+    second: Tempus_50_Ultra_22
+  - first:
+      213: -5278400817101643146
+    second: Tempus_50_Ultra_23
+  - first:
+      213: 2853873158539520319
+    second: Tempus_50_Ultra_24
+  - first:
+      213: 1128141686273959684
+    second: Tempus_50_Ultra_25
+  - first:
+      213: 519109732557884231
+    second: Tempus_50_Ultra_26
+  - first:
+      213: -8145648992649154948
+    second: Tempus_50_Ultra_27
+  - first:
+      213: 391527327810627917
+    second: Tempus_50_Ultra_28
+  - first:
+      213: -6925849665875488639
+    second: Tempus_50_Ultra_29
+  - first:
+      213: 2123172367401877418
+    second: Tempus_50_Ultra_30
+  - first:
+      213: 2068180764975503192
+    second: Tempus_50_Ultra_31
+  - first:
+      213: 950968029661033097
+    second: Tempus_50_Ultra_32
+  - first:
+      213: -688663616737841505
+    second: Tempus_50_Ultra_33
+  - first:
+      213: -955523444784457219
+    second: Tempus_50_Ultra_34
+  - first:
+      213: -3189000502801574280
+    second: Tempus_50_Ultra_35
+  - first:
+      213: 7235030426172390670
+    second: Tempus_50_Ultra_36
+  - first:
+      213: 7273991666621152469
+    second: Tempus_50_Ultra_37
+  - first:
+      213: 2463122494448816102
+    second: Tempus_50_Ultra_38
+  - first:
+      213: -5633847107771670865
+    second: Tempus_50_Ultra_39
+  - first:
+      213: -4942070964608530518
+    second: Tempus_50_Ultra_40
+  - first:
+      213: 7637821818615112813
+    second: Tempus_50_Ultra_41
+  - first:
+      213: 8078196093778116410
+    second: Tempus_50_Ultra_42
+  - first:
+      213: 8211048827106152190
+    second: Tempus_50_Ultra_43
+  - first:
+      213: 203243920173073055
+    second: Tempus_50_Ultra_44
+  - first:
+      213: -3010603777501478832
+    second: Tempus_50_Ultra_45
+  - first:
+      213: 1442391734743338881
+    second: Tempus_50_Ultra_46
+  - first:
+      213: 8576562739995843618
+    second: Tempus_50_Ultra_47
+  - first:
+      213: 5519186981981641682
+    second: Tempus_50_Ultra_48
+  - first:
+      213: -7861638966416353534
+    second: Tempus_50_Ultra_49
+  - first:
+      213: -6288192970393189695
+    second: Tempus_50_Ultra_50
+  - first:
+      213: -8347536915290143098
+    second: Tempus_50_Ultra_51
+  - first:
+      213: 5215765569626126673
+    second: Tempus_50_Ultra_52
+  - first:
+      213: 3393994556979825369
+    second: Tempus_50_Ultra_53
+  - first:
+      213: 3324545748868182350
+    second: Tempus_50_Ultra_54
+  - first:
+      213: -8029716591153714691
+    second: Tempus_50_Ultra_55
+  - first:
+      213: 5454123267240918887
+    second: Tempus_50_Ultra_56
+  - first:
+      213: 6818520300245650140
+    second: Tempus_50_Ultra_57
+  - first:
+      213: 7201460773422578100
+    second: Tempus_50_Ultra_58
+  - first:
+      213: -4819727966534695391
+    second: Tempus_50_Ultra_59
+  - first:
+      213: -8728095435066812948
+    second: Tempus_50_Ultra_60
+  - first:
+      213: 3677881211677871430
+    second: Tempus_50_Ultra_61
+  - first:
+      213: -2554652838916975309
+    second: Tempus_50_Ultra_62
+  - first:
+      213: 3098532645722017203
+    second: Tempus_50_Ultra_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1917
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82216e41f5d1a14a0800000000000000
+      internalID: -6621948007885172184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1917
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f59bf0149824160800000000000000
+      internalID: 7008314882671599417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1917
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79959b021c3e03180800000000000000
+      internalID: -9137553225317525097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1917
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3ae8cc67867db0800000000000000
+      internalID: -4794495851992302977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1917
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b8fa7f358a1bec0800000000000000
+      internalID: -3552873552427381962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1917
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe6e149803d62990800000000000000
+      internalID: -7411004102993350920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_6
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1917
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35e5ed9e0beed060800000000000000
+      internalID: 6980274920482006333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1917
+        width: 56
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d2c26c24a095860800000000000000
+      internalID: 7519052334780656938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1661
+        width: 55
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193da4cd9ae5f4c10800000000000000
+      internalID: 2039953239860499345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1661
+        width: 45
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754b2fbcbdd12820800000000000000
+      internalID: 2891836238479443325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1661
+        width: 34
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe08129a7869d6210800000000000000
+      internalID: 1327882974546460911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1661
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f18d70bc7b57a0800000000000000
+      internalID: -6387374549033158487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1661
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187e166acb0e5e4a0800000000000000
+      internalID: -6564593780972722303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_13
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1661
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaf42722894d70d0800000000000000
+      internalID: -3423499318380397875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_14
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1661
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e697b71d9acd260800000000000000
+      internalID: 7123755427778096766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1661
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a237e1e97baf90800000000000000
+      internalID: -6941320389508029550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1405
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e79a3bcadb2d2ba0800000000000000
+      internalID: -6112180900559415328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1405
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac433c57402ec60800000000000000
+      internalID: 7845838404665527012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1405
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed562b5bd322c8f10800000000000000
+      internalID: 2273229560351974878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1405
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7086d2be886e340800000000000000
+      internalID: 4892748588845107144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1405
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d408eeff345691a0800000000000000
+      internalID: -6803157553260264237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_21
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1405
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2646aad8ed1542920800000000000000
+      internalID: 2964584471017972834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_22
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1405
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8128453bc58c690c0800000000000000
+      internalID: -4569244471449583080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1405
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672668a4c6a5fb6b0800000000000000
+      internalID: -5278400817101643146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1149
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3925c8648efa9720800000000000000
+      internalID: 2853873158539520319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1149
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4076ba2f2e6f7af00800000000000000
+      internalID: 1128141686273959684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1149
+        width: 44
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8f882d8f343700800000000000000
+      internalID: 519109732557884231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1149
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ee0201667d4fe80800000000000000
+      internalID: -8145648992649154948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_28
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1149
+        width: 46
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49a20eb70cfe6500800000000000000
+      internalID: 391527327810627917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_29
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1149
+        width: 47
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180dbb17c6072ef90800000000000000
+      internalID: -6925849665875488639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_30
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1149
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaff9e3e406077d10800000000000000
+      internalID: 2123172367401877418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1149
+        width: 50
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85719a3b277a3bc10800000000000000
+      internalID: 2068180764975503192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 893
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f2b07264823d00800000000000000
+      internalID: 950968029661033097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 893
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eea9ad6106176f0800000000000000
+      internalID: -688663616737841505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 893
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df990135d7c4db2f0800000000000000
+      internalID: -955523444784457219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 893
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87658f150f46eb3d0800000000000000
+      internalID: -3189000502801574280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 893
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0df52bf6ddf76460800000000000000
+      internalID: 7235030426172390670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_37
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 893
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcfa1ca1e862f460800000000000000
+      internalID: 7273991666621152469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_38
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 893
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef45e7cbd4ce2220800000000000000
+      internalID: 2463122494448816102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 893
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae5866a7ed80d1b0800000000000000
+      internalID: -5633847107771670865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 637
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78cb354ac3a6bb0800000000000000
+      internalID: -4942070964608530518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 637
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6428442a7efef960800000000000000
+      internalID: 7637821818615112813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 637
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fb7931c848b1070800000000000000
+      internalID: 8078196093778116410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 637
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efecc0d776183f170800000000000000
+      internalID: 8211048827106152190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_44
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 637
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f928ca0c44112d200800000000000000
+      internalID: 203243920173073055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_45
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 637
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0504392b0df2836d0800000000000000
+      internalID: -3010603777501478832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_46
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 637
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f065004a7640410800000000000000
+      internalID: 1442391734743338881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 637
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c9d471f52160770800000000000000
+      internalID: 8576562739995843618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 381
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbd9f57157189c40800000000000000
+      internalID: 5519186981981641682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 381
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20752664309d5e290800000000000000
+      internalID: -7861638966416353534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 381
+        width: 37
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c20b984fc9dbb8a0800000000000000
+      internalID: -6288192970393189695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 381
+        width: 35
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686cba61767972c80800000000000000
+      internalID: -8347536915290143098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_52
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 381
+        width: 35
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1593749b62f126840800000000000000
+      internalID: 5215765569626126673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_53
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 381
+        width: 37
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da44624114e91f20800000000000000
+      internalID: 3393994556979825369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_54
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 380
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41b2d09eb8232e20800000000000000
+      internalID: 3324545748868182350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_55
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 380
+        width: 43
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9e839bd47b09090800000000000000
+      internalID: -8029716591153714691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 123
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f7611e630f0bb40800000000000000
+      internalID: 5454123267240918887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_57
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 123
+        width: 49
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda8ee5461040ae50800000000000000
+      internalID: 6818520300245650140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_58
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 122
+        width: 55
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b933cf1b6ab0f360800000000000000
+      internalID: 7201460773422578100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_59
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 122
+        width: 60
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1260fa053f2ec1db0800000000000000
+      internalID: -4819727966534695391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_60
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 122
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5522bf1739fd680800000000000000
+      internalID: -8728095435066812948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_61
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 123
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d842cc9757a0330800000000000000
+      internalID: 3677881211677871430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_62
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 123
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33519e337cc0c8cd0800000000000000
+      internalID: -2554652838916975309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_50_Ultra_63
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 123
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd46394603300b20800000000000000
+      internalID: 3098532645722017203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_50_Ultra_0: -6621948007885172184
+      Tempus_50_Ultra_1: 7008314882671599417
+      Tempus_50_Ultra_10: 1327882974546460911
+      Tempus_50_Ultra_11: -6387374549033158487
+      Tempus_50_Ultra_12: -6564593780972722303
+      Tempus_50_Ultra_13: -3423499318380397875
+      Tempus_50_Ultra_14: 7123755427778096766
+      Tempus_50_Ultra_15: -6941320389508029550
+      Tempus_50_Ultra_16: -6112180900559415328
+      Tempus_50_Ultra_17: 7845838404665527012
+      Tempus_50_Ultra_18: 2273229560351974878
+      Tempus_50_Ultra_19: 4892748588845107144
+      Tempus_50_Ultra_2: -9137553225317525097
+      Tempus_50_Ultra_20: -6803157553260264237
+      Tempus_50_Ultra_21: 2964584471017972834
+      Tempus_50_Ultra_22: -4569244471449583080
+      Tempus_50_Ultra_23: -5278400817101643146
+      Tempus_50_Ultra_24: 2853873158539520319
+      Tempus_50_Ultra_25: 1128141686273959684
+      Tempus_50_Ultra_26: 519109732557884231
+      Tempus_50_Ultra_27: -8145648992649154948
+      Tempus_50_Ultra_28: 391527327810627917
+      Tempus_50_Ultra_29: -6925849665875488639
+      Tempus_50_Ultra_3: -4794495851992302977
+      Tempus_50_Ultra_30: 2123172367401877418
+      Tempus_50_Ultra_31: 2068180764975503192
+      Tempus_50_Ultra_32: 950968029661033097
+      Tempus_50_Ultra_33: -688663616737841505
+      Tempus_50_Ultra_34: -955523444784457219
+      Tempus_50_Ultra_35: -3189000502801574280
+      Tempus_50_Ultra_36: 7235030426172390670
+      Tempus_50_Ultra_37: 7273991666621152469
+      Tempus_50_Ultra_38: 2463122494448816102
+      Tempus_50_Ultra_39: -5633847107771670865
+      Tempus_50_Ultra_4: -3552873552427381962
+      Tempus_50_Ultra_40: -4942070964608530518
+      Tempus_50_Ultra_41: 7637821818615112813
+      Tempus_50_Ultra_42: 8078196093778116410
+      Tempus_50_Ultra_43: 8211048827106152190
+      Tempus_50_Ultra_44: 203243920173073055
+      Tempus_50_Ultra_45: -3010603777501478832
+      Tempus_50_Ultra_46: 1442391734743338881
+      Tempus_50_Ultra_47: 8576562739995843618
+      Tempus_50_Ultra_48: 5519186981981641682
+      Tempus_50_Ultra_49: -7861638966416353534
+      Tempus_50_Ultra_5: -7411004102993350920
+      Tempus_50_Ultra_50: -6288192970393189695
+      Tempus_50_Ultra_51: -8347536915290143098
+      Tempus_50_Ultra_52: 5215765569626126673
+      Tempus_50_Ultra_53: 3393994556979825369
+      Tempus_50_Ultra_54: 3324545748868182350
+      Tempus_50_Ultra_55: -8029716591153714691
+      Tempus_50_Ultra_56: 5454123267240918887
+      Tempus_50_Ultra_57: 6818520300245650140
+      Tempus_50_Ultra_58: 7201460773422578100
+      Tempus_50_Ultra_59: -4819727966534695391
+      Tempus_50_Ultra_6: 6980274920482006333
+      Tempus_50_Ultra_60: -8728095435066812948
+      Tempus_50_Ultra_61: 3677881211677871430
+      Tempus_50_Ultra_62: -2554652838916975309
+      Tempus_50_Ultra_63: 3098532645722017203
+      Tempus_50_Ultra_7: 7519052334780656938
+      Tempus_50_Ultra_8: 2039953239860499345
+      Tempus_50_Ultra_9: 2891836238479443325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

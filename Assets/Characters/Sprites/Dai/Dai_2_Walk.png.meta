@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 1c17ea870e297d54388c5573140723c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2928065205071330399
+    second: Dai_2_Walk_0
+  - first:
+      213: -9072821799981540158
+    second: Dai_2_Walk_1
+  - first:
+      213: -1713648602052405913
+    second: Dai_2_Walk_2
+  - first:
+      213: 6045747719041199948
+    second: Dai_2_Walk_3
+  - first:
+      213: 462261047969647413
+    second: Dai_2_Walk_4
+  - first:
+      213: -2167109811940911851
+    second: Dai_2_Walk_5
+  - first:
+      213: -8223979378263476188
+    second: Dai_2_Walk_6
+  - first:
+      213: 3037583053790250477
+    second: Dai_2_Walk_7
+  - first:
+      213: -4893915628168572166
+    second: Dai_2_Walk_8
+  - first:
+      213: -4945213051023759080
+    second: Dai_2_Walk_9
+  - first:
+      213: 1698862291018504470
+    second: Dai_2_Walk_10
+  - first:
+      213: 8796265793741349882
+    second: Dai_2_Walk_11
+  - first:
+      213: -3633195556831148780
+    second: Dai_2_Walk_12
+  - first:
+      213: -2370376380104904341
+    second: Dai_2_Walk_13
+  - first:
+      213: -8548744560501285342
+    second: Dai_2_Walk_14
+  - first:
+      213: -6982433536337874071
+    second: Dai_2_Walk_15
+  - first:
+      213: -1790812999708283105
+    second: Dai_2_Walk_16
+  - first:
+      213: -7172135074559093309
+    second: Dai_2_Walk_17
+  - first:
+      213: -4451538892305019233
+    second: Dai_2_Walk_18
+  - first:
+      213: -1106848739704154771
+    second: Dai_2_Walk_19
+  - first:
+      213: -8546285325426193594
+    second: Dai_2_Walk_20
+  - first:
+      213: -6445173370323788099
+    second: Dai_2_Walk_21
+  - first:
+      213: -4800185378173007423
+    second: Dai_2_Walk_22
+  - first:
+      213: 1143011776587119540
+    second: Dai_2_Walk_23
+  - first:
+      213: -4181567490732517272
+    second: Dai_2_Walk_24
+  - first:
+      213: 8858701656625296677
+    second: Dai_2_Walk_25
+  - first:
+      213: -2537104698149323167
+    second: Dai_2_Walk_26
+  - first:
+      213: -1521224321855271733
+    second: Dai_2_Walk_27
+  - first:
+      213: 5225183004447267423
+    second: Dai_2_Walk_28
+  - first:
+      213: 4076298002111386280
+    second: Dai_2_Walk_29
+  - first:
+      213: -7068607408509566215
+    second: Dai_2_Walk_30
+  - first:
+      213: 6392881198115944967
+    second: Dai_2_Walk_31
+  - first:
+      213: 3465753415589363817
+    second: Dai_2_Walk_32
+  - first:
+      213: 4690308132629668623
+    second: Dai_2_Walk_33
+  - first:
+      213: -2713847590008043566
+    second: Dai_2_Walk_34
+  - first:
+      213: 3560991030871054662
+    second: Dai_2_Walk_35
+  - first:
+      213: -6483382434915489019
+    second: Dai_2_Walk_36
+  - first:
+      213: -5442367889584814396
+    second: Dai_2_Walk_37
+  - first:
+      213: 8005803493625413319
+    second: Dai_2_Walk_38
+  - first:
+      213: 4780019075964372258
+    second: Dai_2_Walk_39
+  - first:
+      213: -1201099842844574814
+    second: Dai_2_Walk_40
+  - first:
+      213: -6562324203208416354
+    second: Dai_2_Walk_41
+  - first:
+      213: -1015555353066350372
+    second: Dai_2_Walk_42
+  - first:
+      213: -6932931041241219110
+    second: Dai_2_Walk_43
+  - first:
+      213: -5843020751732914010
+    second: Dai_2_Walk_44
+  - first:
+      213: -3586862645561681457
+    second: Dai_2_Walk_45
+  - first:
+      213: -5984123172670713398
+    second: Dai_2_Walk_46
+  - first:
+      213: 1528645729669834108
+    second: Dai_2_Walk_47
+  - first:
+      213: -1386445766846615875
+    second: Dai_2_Walk_48
+  - first:
+      213: -165939459668940284
+    second: Dai_2_Walk_49
+  - first:
+      213: 1784400571199992774
+    second: Dai_2_Walk_50
+  - first:
+      213: 416568022874319156
+    second: Dai_2_Walk_51
+  - first:
+      213: 149719777034124266
+    second: Dai_2_Walk_52
+  - first:
+      213: -1004090616273635546
+    second: Dai_2_Walk_53
+  - first:
+      213: 3672598410983083801
+    second: Dai_2_Walk_54
+  - first:
+      213: 6267967719522163101
+    second: Dai_2_Walk_55
+  - first:
+      213: -2930257097026759762
+    second: Dai_2_Walk_56
+  - first:
+      213: 8815417192243638187
+    second: Dai_2_Walk_57
+  - first:
+      213: 4379494020939411342
+    second: Dai_2_Walk_58
+  - first:
+      213: -5034771505155114232
+    second: Dai_2_Walk_59
+  - first:
+      213: 7940463452506455995
+    second: Dai_2_Walk_60
+  - first:
+      213: 2844382609246619772
+    second: Dai_2_Walk_61
+  - first:
+      213: -6580746727946073848
+    second: Dai_2_Walk_62
+  - first:
+      213: -5481388329704194835
+    second: Dai_2_Walk_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dai_2_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1917
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3ca84a53c6d57d0800000000000000
+      internalID: -2928065205071330399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1917
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc1ead84acd61280800000000000000
+      internalID: -9072821799981540158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1917
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76552dcfca5e738e0800000000000000
+      internalID: -1713648602052405913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1917
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f241bc48fc6e350800000000000000
+      internalID: 6045747719041199948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1917
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b0bb559f74a6600800000000000000
+      internalID: 462261047969647413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1917
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5159ffd9b11ece1e0800000000000000
+      internalID: -2167109811940911851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1917
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428b776f35e8edd80800000000000000
+      internalID: -8223979378263476188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1917
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de50ae091b9a72a20800000000000000
+      internalID: 3037583053790250477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1661
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2974e4aa1551cb0800000000000000
+      internalID: -4893915628168572166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1661
+        width: 78
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8196a135ee21f5bb0800000000000000
+      internalID: -4945213051023759080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1661
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d672b042939710800000000000000
+      internalID: 1698862291018504470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1661
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af36fd1822d921a70800000000000000
+      internalID: 8796265793741349882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1661
+        width: 78
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4154d8bf3eb449dc0800000000000000
+      internalID: -3633195556831148780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1661
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61fed7bd3bba1fd0800000000000000
+      internalID: -2370376380104904341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1661
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e94cb8d12cc5980800000000000000
+      internalID: -8548744560501285342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1661
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9637ec671b9691f90800000000000000
+      internalID: -6982433536337874071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f6c3d9011c527e0800000000000000
+      internalID: -1790812999708283105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c519c73625777c90800000000000000
+      internalID: -7172135074559093309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1405
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec25476f4f832c0800000000000000
+      internalID: -4451538892305019233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1405
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6558d18feea3a0f0800000000000000
+      internalID: -1106848739704154771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1405
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b86d4d6ce756980800000000000000
+      internalID: -8546285325426193594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1405
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1b0ab7f42e86a0800000000000000
+      internalID: -6445173370323788099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1405
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c949fdb4d0526db0800000000000000
+      internalID: -4800185378173007423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1405
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb3095a72bccdf00800000000000000
+      internalID: 1143011776587119540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1149
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8681196a58618f5c0800000000000000
+      internalID: -4181567490732517272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1150
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525b056a83e60fa70800000000000000
+      internalID: 8858701656625296677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1149
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eb5dc18b46accd0800000000000000
+      internalID: -2537104698149323167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1149
+        width: 83
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccc1200a8683eae0800000000000000
+      internalID: -1521224321855271733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1149
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5adc722244938840800000000000000
+      internalID: 5225183004447267423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1149
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2db7e8f6be19830800000000000000
+      internalID: 4076298002111386280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1149
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2c717530347ed90800000000000000
+      internalID: -7068607408509566215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1149
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a79f8249318b850800000000000000
+      internalID: 6392881198115944967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 893
+        width: 82
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9600d4f7e54d81030800000000000000
+      internalID: 3465753415589363817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 893
+        width: 83
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0364847562571140800000000000000
+      internalID: 4690308132629668623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 892
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d74507def9765ad0800000000000000
+      internalID: -2713847590008043566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 892
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649db63c97e2b6130800000000000000
+      internalID: 3560991030871054662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 892
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50beadf96066606a0800000000000000
+      internalID: -6483382434915489019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 893
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c60e444d33d874b0800000000000000
+      internalID: -5442367889584814396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 893
+        width: 85
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cebf136cd35a1f60800000000000000
+      internalID: 8005803493625413319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 893
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2258272260a065240800000000000000
+      internalID: 4780019075964372258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 637
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abb87f7e06d45fe0800000000000000
+      internalID: -1201099842844574814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 637
+        width: 83
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9360d6e7e0fde4a0800000000000000
+      internalID: -6562324203208416354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 636
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8dbba79c508e1f0800000000000000
+      internalID: -1015555353066350372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 637
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfb98243f749cf90800000000000000
+      internalID: -6932931041241219110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 637
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a849bd759b69eea0800000000000000
+      internalID: -5843020751732914010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 637
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc99d298d67e83ec0800000000000000
+      internalID: -3586862645561681457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_46
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 637
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac157c00eaf14fca0800000000000000
+      internalID: -5984123172670713398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 637
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7563682137d63510800000000000000
+      internalID: 1528645729669834108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 381
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe63c6bbea52cce0800000000000000
+      internalID: -1386445766846615875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_49
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 381
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a663cc0f672bdf0800000000000000
+      internalID: -165939459668940284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 381
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c331678dd673c810800000000000000
+      internalID: 1784400571199992774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_51
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 381
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e534e862f7c500800000000000000
+      internalID: 416568022874319156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_52
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 381
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb38fd0859e31200800000000000000
+      internalID: 149719777034124266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_53
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 381
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f4b687e0c012f0800000000000000
+      internalID: -1004090616273635546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_54
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 381
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f8f49ebc0b7f230800000000000000
+      internalID: 3672598410983083801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_55
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 381
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99dbb98e6b4cf650800000000000000
+      internalID: 6267967719522163101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 125
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3172702b2a557d0800000000000000
+      internalID: -2930257097026759762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_57
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 125
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafad82fa37a65a70800000000000000
+      internalID: 8815417192243638187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 125
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f6a06cb9617cc30800000000000000
+      internalID: 4379494020939411342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_59
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 125
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b78fdcdf5e02ab0800000000000000
+      internalID: -5034771505155114232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_60
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 125
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf7e9e8071323e60800000000000000
+      internalID: 7940463452506455995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_61
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 125
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c788175b9e6497720800000000000000
+      internalID: 2844382609246619772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_62
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 125
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c5fb97bd7ca4a0800000000000000
+      internalID: -6580746727946073848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_2_Walk_63
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 125
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec72041b523ee3b0800000000000000
+      internalID: -5481388329704194835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dai_2_Walk_0: -2928065205071330399
+      Dai_2_Walk_1: -9072821799981540158
+      Dai_2_Walk_10: 1698862291018504470
+      Dai_2_Walk_11: 8796265793741349882
+      Dai_2_Walk_12: -3633195556831148780
+      Dai_2_Walk_13: -2370376380104904341
+      Dai_2_Walk_14: -8548744560501285342
+      Dai_2_Walk_15: -6982433536337874071
+      Dai_2_Walk_16: -1790812999708283105
+      Dai_2_Walk_17: -7172135074559093309
+      Dai_2_Walk_18: -4451538892305019233
+      Dai_2_Walk_19: -1106848739704154771
+      Dai_2_Walk_2: -1713648602052405913
+      Dai_2_Walk_20: -8546285325426193594
+      Dai_2_Walk_21: -6445173370323788099
+      Dai_2_Walk_22: -4800185378173007423
+      Dai_2_Walk_23: 1143011776587119540
+      Dai_2_Walk_24: -4181567490732517272
+      Dai_2_Walk_25: 8858701656625296677
+      Dai_2_Walk_26: -2537104698149323167
+      Dai_2_Walk_27: -1521224321855271733
+      Dai_2_Walk_28: 5225183004447267423
+      Dai_2_Walk_29: 4076298002111386280
+      Dai_2_Walk_3: 6045747719041199948
+      Dai_2_Walk_30: -7068607408509566215
+      Dai_2_Walk_31: 6392881198115944967
+      Dai_2_Walk_32: 3465753415589363817
+      Dai_2_Walk_33: 4690308132629668623
+      Dai_2_Walk_34: -2713847590008043566
+      Dai_2_Walk_35: 3560991030871054662
+      Dai_2_Walk_36: -6483382434915489019
+      Dai_2_Walk_37: -5442367889584814396
+      Dai_2_Walk_38: 8005803493625413319
+      Dai_2_Walk_39: 4780019075964372258
+      Dai_2_Walk_4: 462261047969647413
+      Dai_2_Walk_40: -1201099842844574814
+      Dai_2_Walk_41: -6562324203208416354
+      Dai_2_Walk_42: -1015555353066350372
+      Dai_2_Walk_43: -6932931041241219110
+      Dai_2_Walk_44: -5843020751732914010
+      Dai_2_Walk_45: -3586862645561681457
+      Dai_2_Walk_46: -5984123172670713398
+      Dai_2_Walk_47: 1528645729669834108
+      Dai_2_Walk_48: -1386445766846615875
+      Dai_2_Walk_49: -165939459668940284
+      Dai_2_Walk_5: -2167109811940911851
+      Dai_2_Walk_50: 1784400571199992774
+      Dai_2_Walk_51: 416568022874319156
+      Dai_2_Walk_52: 149719777034124266
+      Dai_2_Walk_53: -1004090616273635546
+      Dai_2_Walk_54: 3672598410983083801
+      Dai_2_Walk_55: 6267967719522163101
+      Dai_2_Walk_56: -2930257097026759762
+      Dai_2_Walk_57: 8815417192243638187
+      Dai_2_Walk_58: 4379494020939411342
+      Dai_2_Walk_59: -5034771505155114232
+      Dai_2_Walk_6: -8223979378263476188
+      Dai_2_Walk_60: 7940463452506455995
+      Dai_2_Walk_61: 2844382609246619772
+      Dai_2_Walk_62: -6580746727946073848
+      Dai_2_Walk_63: -5481388329704194835
+      Dai_2_Walk_7: 3037583053790250477
+      Dai_2_Walk_8: -4893915628168572166
+      Dai_2_Walk_9: -4945213051023759080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d624d27275e46e844b4684110cbdadcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2661535622927532298
+    second: Dai_12_Running A_0
+  - first:
+      213: -6519474064660215717
+    second: Dai_12_Running A_1
+  - first:
+      213: 8398960336040391369
+    second: Dai_12_Running A_2
+  - first:
+      213: -5281765042711708877
+    second: Dai_12_Running A_3
+  - first:
+      213: 2427352612988361185
+    second: Dai_12_Running A_4
+  - first:
+      213: -1799051797088832329
+    second: Dai_12_Running A_5
+  - first:
+      213: 4040799629749698201
+    second: Dai_12_Running A_6
+  - first:
+      213: 1732997753023285794
+    second: Dai_12_Running A_7
+  - first:
+      213: -1919276785051902328
+    second: Dai_12_Running A_8
+  - first:
+      213: -7668402489134976502
+    second: Dai_12_Running A_9
+  - first:
+      213: -5315813217489183711
+    second: Dai_12_Running A_10
+  - first:
+      213: -6615952391412239997
+    second: Dai_12_Running A_11
+  - first:
+      213: -6812535187881316637
+    second: Dai_12_Running A_12
+  - first:
+      213: -3921305637214599017
+    second: Dai_12_Running A_13
+  - first:
+      213: -990774623923049916
+    second: Dai_12_Running A_14
+  - first:
+      213: 8336703827069696597
+    second: Dai_12_Running A_15
+  - first:
+      213: -1383736852875994843
+    second: Dai_12_Running A_16
+  - first:
+      213: -2048756549733196698
+    second: Dai_12_Running A_17
+  - first:
+      213: -7923304376745803510
+    second: Dai_12_Running A_18
+  - first:
+      213: 2783642936278678816
+    second: Dai_12_Running A_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dai_12_Running A_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1917
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01c4a13c8cafe420800000000000000
+      internalID: 2661535622927532298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1915
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b584e8d31ec2685a0800000000000000
+      internalID: -6519474064660215717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1910
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c278401de91f8470800000000000000
+      internalID: 8398960336040391369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_3
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1909
+        width: 92
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb71a7da663b6b0800000000000000
+      internalID: -5281765042711708877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_4
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1910
+        width: 103
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e999c14750bfa120800000000000000
+      internalID: 2427352612988361185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_5
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1914
+        width: 129
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4fdfd1ceb7807e0800000000000000
+      internalID: -1799051797088832329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_6
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1914
+        width: 138
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eb2cbaaddc31830800000000000000
+      internalID: 4040799629749698201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_7
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1916
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ac0894648dc0810800000000000000
+      internalID: 1732997753023285794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1660
+        width: 165
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ed359ceeb5d55e0800000000000000
+      internalID: -1919276785051902328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1659
+        width: 176
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a027368a09c549590800000000000000
+      internalID: -7668402489134976502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1659
+        width: 189
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c1b370b007a36b0800000000000000
+      internalID: -5315813217489183711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1659
+        width: 190
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3813af25a5a6f24a0800000000000000
+      internalID: -6615952391412239997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_12
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1660
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee2c7a47530571a0800000000000000
+      internalID: -6812535187881316637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1661
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79846168c49b499c0800000000000000
+      internalID: -3921305637214599017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_14
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1659
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a68989abf0042f0800000000000000
+      internalID: -990774623923049916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_15
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1658
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55af02206fbe1b370800000000000000
+      internalID: 8336703827069696597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1375
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52995b5e9aafbcce0800000000000000
+      internalID: -1383736852875994843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1349
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd5e5d5ca5193e0800000000000000
+      internalID: -2048756549733196698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_18
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1318
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01c4c816a4ca0290800000000000000
+      internalID: -7923304376745803510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_12_Running A_19
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1299
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d7a6e808c71a620800000000000000
+      internalID: 2783642936278678816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dai_12_Running A_0: 2661535622927532298
+      Dai_12_Running A_1: -6519474064660215717
+      Dai_12_Running A_10: -5315813217489183711
+      Dai_12_Running A_11: -6615952391412239997
+      Dai_12_Running A_12: -6812535187881316637
+      Dai_12_Running A_13: -3921305637214599017
+      Dai_12_Running A_14: -990774623923049916
+      Dai_12_Running A_15: 8336703827069696597
+      Dai_12_Running A_16: -1383736852875994843
+      Dai_12_Running A_17: -2048756549733196698
+      Dai_12_Running A_18: -7923304376745803510
+      Dai_12_Running A_19: 2783642936278678816
+      Dai_12_Running A_2: 8398960336040391369
+      Dai_12_Running A_3: -5281765042711708877
+      Dai_12_Running A_4: 2427352612988361185
+      Dai_12_Running A_5: -1799051797088832329
+      Dai_12_Running A_6: 4040799629749698201
+      Dai_12_Running A_7: 1732997753023285794
+      Dai_12_Running A_8: -1919276785051902328
+      Dai_12_Running A_9: -7668402489134976502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

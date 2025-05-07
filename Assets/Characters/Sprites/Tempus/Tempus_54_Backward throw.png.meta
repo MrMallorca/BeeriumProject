@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: cac8583765f029e44b4ad223cd0fa3e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6710790087832449560
+    second: Tempus_54_Backward throw_0
+  - first:
+      213: -1109322444396372475
+    second: Tempus_54_Backward throw_1
+  - first:
+      213: 7863158405633734641
+    second: Tempus_54_Backward throw_2
+  - first:
+      213: 6610325084068834768
+    second: Tempus_54_Backward throw_3
+  - first:
+      213: 4082497738234410195
+    second: Tempus_54_Backward throw_4
+  - first:
+      213: 3857884178549387326
+    second: Tempus_54_Backward throw_5
+  - first:
+      213: -3154890186175060103
+    second: Tempus_54_Backward throw_6
+  - first:
+      213: 6101061186052701222
+    second: Tempus_54_Backward throw_7
+  - first:
+      213: -3911110192248080499
+    second: Tempus_54_Backward throw_8
+  - first:
+      213: 6243241303841024521
+    second: Tempus_54_Backward throw_9
+  - first:
+      213: -2859325280171429685
+    second: Tempus_54_Backward throw_10
+  - first:
+      213: -6071520683342561786
+    second: Tempus_54_Backward throw_11
+  - first:
+      213: -487782620934546410
+    second: Tempus_54_Backward throw_12
+  - first:
+      213: -5393213825431741087
+    second: Tempus_54_Backward throw_13
+  - first:
+      213: -3123318842080546824
+    second: Tempus_54_Backward throw_14
+  - first:
+      213: -612964774137360441
+    second: Tempus_54_Backward throw_15
+  - first:
+      213: -7479122343693946083
+    second: Tempus_54_Backward throw_16
+  - first:
+      213: 236042748819697296
+    second: Tempus_54_Backward throw_17
+  - first:
+      213: 7418704029738642965
+    second: Tempus_54_Backward throw_18
+  - first:
+      213: 8554497718617446860
+    second: Tempus_54_Backward throw_19
+  - first:
+      213: -9160591540117718858
+    second: Tempus_54_Backward throw_20
+  - first:
+      213: 1596583144328896759
+    second: Tempus_54_Backward throw_21
+  - first:
+      213: 2384393416272132365
+    second: Tempus_54_Backward throw_22
+  - first:
+      213: 6893901072039293500
+    second: Tempus_54_Backward throw_23
+  - first:
+      213: -1210013878610079288
+    second: Tempus_54_Backward throw_24
+  - first:
+      213: -1301913847307099724
+    second: Tempus_54_Backward throw_25
+  - first:
+      213: -8597215850234751157
+    second: Tempus_54_Backward throw_26
+  - first:
+      213: -7326402831813780903
+    second: Tempus_54_Backward throw_27
+  - first:
+      213: 6157655786270674907
+    second: Tempus_54_Backward throw_28
+  - first:
+      213: 7912685542941047660
+    second: Tempus_54_Backward throw_29
+  - first:
+      213: 6931914281300957284
+    second: Tempus_54_Backward throw_30
+  - first:
+      213: -7097033768943616904
+    second: Tempus_54_Backward throw_31
+  - first:
+      213: -23184079292682923
+    second: Tempus_54_Backward throw_32
+  - first:
+      213: 3177189761675314550
+    second: Tempus_54_Backward throw_33
+  - first:
+      213: -3980500043500358975
+    second: Tempus_54_Backward throw_34
+  - first:
+      213: -8145004671273972372
+    second: Tempus_54_Backward throw_35
+  - first:
+      213: -8138019767326649449
+    second: Tempus_54_Backward throw_36
+  - first:
+      213: 2577864405861137767
+    second: Tempus_54_Backward throw_37
+  - first:
+      213: 6573474435165918708
+    second: Tempus_54_Backward throw_38
+  - first:
+      213: -6977831713725546888
+    second: Tempus_54_Backward throw_39
+  - first:
+      213: 6836026806367260591
+    second: Tempus_54_Backward throw_40
+  - first:
+      213: -3528995039868396666
+    second: Tempus_54_Backward throw_41
+  - first:
+      213: 9024859303728460026
+    second: Tempus_54_Backward throw_42
+  - first:
+      213: -7805714511086692113
+    second: Tempus_54_Backward throw_43
+  - first:
+      213: 2407768958940674274
+    second: Tempus_54_Backward throw_44
+  - first:
+      213: 569523353659360238
+    second: Tempus_54_Backward throw_45
+  - first:
+      213: -2189112435991576134
+    second: Tempus_54_Backward throw_46
+  - first:
+      213: 1026211105620992047
+    second: Tempus_54_Backward throw_47
+  - first:
+      213: 4639839416191848852
+    second: Tempus_54_Backward throw_48
+  - first:
+      213: -6822139351415040769
+    second: Tempus_54_Backward throw_49
+  - first:
+      213: 8003927048387436151
+    second: Tempus_54_Backward throw_50
+  - first:
+      213: 3040772351960714316
+    second: Tempus_54_Backward throw_51
+  - first:
+      213: 6631274667503231187
+    second: Tempus_54_Backward throw_52
+  - first:
+      213: 6603498508796070751
+    second: Tempus_54_Backward throw_53
+  - first:
+      213: 5966862744749008110
+    second: Tempus_54_Backward throw_54
+  - first:
+      213: -3312221909455869217
+    second: Tempus_54_Backward throw_55
+  - first:
+      213: 5752098020773351061
+    second: Tempus_54_Backward throw_56
+  - first:
+      213: 2045637735385805987
+    second: Tempus_54_Backward throw_57
+  - first:
+      213: -1633653477978572628
+    second: Tempus_54_Backward throw_58
+  - first:
+      213: 5322499622846350486
+    second: Tempus_54_Backward throw_59
+  - first:
+      213: -7576411992119128070
+    second: Tempus_54_Backward throw_60
+  - first:
+      213: -8600874589450699099
+    second: Tempus_54_Backward throw_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edc88c68fb7ed2a0800000000000000
+      internalID: -6710790087832449560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ed2604d15ea90f0800000000000000
+      internalID: -1109322444396372475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7fc6cb8ec8f1d60800000000000000
+      internalID: 7863158405633734641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dde6c514a79cbb50800000000000000
+      internalID: 6610325084068834768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_4
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d43ccb1012f7a830800000000000000
+      internalID: 4082497738234410195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30390f6835f98530800000000000000
+      internalID: 3857884178549387326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9776bab47149734d0800000000000000
+      internalID: -3154890186175060103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c389be2d25ba450800000000000000
+      internalID: 6101061186052701222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_8
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87b4a98002f8b9c0800000000000000
+      internalID: -3911110192248080499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_9
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aad7243e274a650800000000000000
+      internalID: 6243241303841024521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_10
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0761a9ec2a158d0800000000000000
+      internalID: -2859325280171429685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_11
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60efde65b10adbba0800000000000000
+      internalID: -6071520683342561786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_12
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c56976a4c0b39f0800000000000000
+      internalID: -487782620934546410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_13
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d5a69a9947725b0800000000000000
+      internalID: -5393213825431741087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_14
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1916
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff2189af0eb7a4d0800000000000000
+      internalID: -3123318842080546824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_15
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1978
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf07b919cf4e77f0800000000000000
+      internalID: -612964774137360441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d137f60cad1d43890800000000000000
+      internalID: -7479122343693946083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e643321a7964300800000000000000
+      internalID: 236042748819697296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_18
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ea452520884f660800000000000000
+      internalID: 7418704029738642965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc91516f95ea7b670800000000000000
+      internalID: 8554497718617446860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_20
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8b5d6778a0fd080800000000000000
+      internalID: -9160591540117718858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0a91429e3382610800000000000000
+      internalID: 1596583144328896759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_22
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d093ea5dd21171120800000000000000
+      internalID: 2384393416272132365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_23
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c323693ef7e0caf50800000000000000
+      internalID: 6893901072039293500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_24
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c15720d9ca253fe0800000000000000
+      internalID: -1210013878610079288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_25
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b12913f04caeede0800000000000000
+      internalID: -1301913847307099724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_26
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b475665fbbd80b880800000000000000
+      internalID: -8597215850234751157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_27
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ad2500173635a90800000000000000
+      internalID: -7326402831813780903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_28
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfcacd1053647550800000000000000
+      internalID: 6157655786270674907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_29
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bbe5ef3918fcd60800000000000000
+      internalID: 7912685542941047660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_30
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1660
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468966edf4b133060800000000000000
+      internalID: 6931914281300957284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_31
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1722
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cf92b8365428d90800000000000000
+      internalID: -7097033768943616904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55da055e332adaff0800000000000000
+      internalID: -23184079292682923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6754aa83145a71c20800000000000000
+      internalID: 3177189761675314550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2fbbecc4c62c8c0800000000000000
+      internalID: -3980500043500358975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d41d2d76127fe80800000000000000
+      internalID: -8145004671273972372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_36
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79353618322ff0f80800000000000000
+      internalID: -8138019767326649449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_37
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76df97ed40a66c320800000000000000
+      internalID: 2577864405861137767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_38
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51d28cb2ca93b50800000000000000
+      internalID: 6573474435165918708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87efee8c603c92f90800000000000000
+      internalID: -6977831713725546888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_40
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf819c59227ede50800000000000000
+      internalID: 6836026806367260591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_41
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b578a65bd760fc0800000000000000
+      internalID: -3528995039868396666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_42
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af03d9298bdbe3d70800000000000000
+      internalID: 9024859303728460026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_43
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8d09432088ca390800000000000000
+      internalID: -7805714511086692113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_44
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8feda7c1d1a6120800000000000000
+      internalID: 2407768958940674274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_45
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3c722097a57e700800000000000000
+      internalID: 569523353659360238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_46
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1404
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1055f76d5be91e0800000000000000
+      internalID: -2189112435991576134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_47
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1466
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20a91f3095dd3e00800000000000000
+      internalID: 1026211105620992047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49198f8bd55046040800000000000000
+      internalID: 4639839416191848852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff451b6b764e251a0800000000000000
+      internalID: -6822139351415040769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e164f6e39a31f60800000000000000
+      internalID: 8003927048387436151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c8279e75ef23a20800000000000000
+      internalID: 3040772351960714316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_52
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a3941d25070c50800000000000000
+      internalID: 6631274667503231187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_53
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b8c9b28e654ab50800000000000000
+      internalID: 6603498508796070751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_54
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4e6447d0e8ec250800000000000000
+      internalID: 5966862744749008110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_55
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaed95e8bf9802d0800000000000000
+      internalID: -3312221909455869217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_56
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e4c698cae83df40800000000000000
+      internalID: 5752098020773351061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_57
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a43ecc9ea0936c10800000000000000
+      internalID: 2045637735385805987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_58
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8710731d81459e0800000000000000
+      internalID: -1633653477978572628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_59
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69448e805315dd940800000000000000
+      internalID: 5322499622846350486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_60
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1148
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affcab94f6d2bd690800000000000000
+      internalID: -7576411992119128070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_54_Backward throw_61
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1210
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae7b1a512e83a880800000000000000
+      internalID: -8600874589450699099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_54_Backward throw_0: -6710790087832449560
+      Tempus_54_Backward throw_1: -1109322444396372475
+      Tempus_54_Backward throw_10: -2859325280171429685
+      Tempus_54_Backward throw_11: -6071520683342561786
+      Tempus_54_Backward throw_12: -487782620934546410
+      Tempus_54_Backward throw_13: -5393213825431741087
+      Tempus_54_Backward throw_14: -3123318842080546824
+      Tempus_54_Backward throw_15: -612964774137360441
+      Tempus_54_Backward throw_16: -7479122343693946083
+      Tempus_54_Backward throw_17: 236042748819697296
+      Tempus_54_Backward throw_18: 7418704029738642965
+      Tempus_54_Backward throw_19: 8554497718617446860
+      Tempus_54_Backward throw_2: 7863158405633734641
+      Tempus_54_Backward throw_20: -9160591540117718858
+      Tempus_54_Backward throw_21: 1596583144328896759
+      Tempus_54_Backward throw_22: 2384393416272132365
+      Tempus_54_Backward throw_23: 6893901072039293500
+      Tempus_54_Backward throw_24: -1210013878610079288
+      Tempus_54_Backward throw_25: -1301913847307099724
+      Tempus_54_Backward throw_26: -8597215850234751157
+      Tempus_54_Backward throw_27: -7326402831813780903
+      Tempus_54_Backward throw_28: 6157655786270674907
+      Tempus_54_Backward throw_29: 7912685542941047660
+      Tempus_54_Backward throw_3: 6610325084068834768
+      Tempus_54_Backward throw_30: 6931914281300957284
+      Tempus_54_Backward throw_31: -7097033768943616904
+      Tempus_54_Backward throw_32: -23184079292682923
+      Tempus_54_Backward throw_33: 3177189761675314550
+      Tempus_54_Backward throw_34: -3980500043500358975
+      Tempus_54_Backward throw_35: -8145004671273972372
+      Tempus_54_Backward throw_36: -8138019767326649449
+      Tempus_54_Backward throw_37: 2577864405861137767
+      Tempus_54_Backward throw_38: 6573474435165918708
+      Tempus_54_Backward throw_39: -6977831713725546888
+      Tempus_54_Backward throw_4: 4082497738234410195
+      Tempus_54_Backward throw_40: 6836026806367260591
+      Tempus_54_Backward throw_41: -3528995039868396666
+      Tempus_54_Backward throw_42: 9024859303728460026
+      Tempus_54_Backward throw_43: -7805714511086692113
+      Tempus_54_Backward throw_44: 2407768958940674274
+      Tempus_54_Backward throw_45: 569523353659360238
+      Tempus_54_Backward throw_46: -2189112435991576134
+      Tempus_54_Backward throw_47: 1026211105620992047
+      Tempus_54_Backward throw_48: 4639839416191848852
+      Tempus_54_Backward throw_49: -6822139351415040769
+      Tempus_54_Backward throw_5: 3857884178549387326
+      Tempus_54_Backward throw_50: 8003927048387436151
+      Tempus_54_Backward throw_51: 3040772351960714316
+      Tempus_54_Backward throw_52: 6631274667503231187
+      Tempus_54_Backward throw_53: 6603498508796070751
+      Tempus_54_Backward throw_54: 5966862744749008110
+      Tempus_54_Backward throw_55: -3312221909455869217
+      Tempus_54_Backward throw_56: 5752098020773351061
+      Tempus_54_Backward throw_57: 2045637735385805987
+      Tempus_54_Backward throw_58: -1633653477978572628
+      Tempus_54_Backward throw_59: 5322499622846350486
+      Tempus_54_Backward throw_6: -3154890186175060103
+      Tempus_54_Backward throw_60: -7576411992119128070
+      Tempus_54_Backward throw_61: -8600874589450699099
+      Tempus_54_Backward throw_7: 6101061186052701222
+      Tempus_54_Backward throw_8: -3911110192248080499
+      Tempus_54_Backward throw_9: 6243241303841024521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -184,9 +184,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterCanJump: 0
-  speed: 2.5
+  speed: 1.5
   jumpForce: 0
-  fadeManager: {fileID: 0}
+  isBlocking: 0
   hitCount: 0
   health: 120
   currentHealth: 0
@@ -233,7 +233,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 112
+  m_Constraints: 88
   m_CollisionDetection: 0
 --- !u!212 &3677916965261120776
 SpriteRenderer:

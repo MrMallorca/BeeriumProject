@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 97a827034cf74be46b08c9743587cffd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1828247630170319938
+    second: Dai_16_Neutral air_0
+  - first:
+      213: 1490512232926197110
+    second: Dai_16_Neutral air_1
+  - first:
+      213: 5112004212138569172
+    second: Dai_16_Neutral air_2
+  - first:
+      213: -7364046232018024036
+    second: Dai_16_Neutral air_3
+  - first:
+      213: -6720708184494657791
+    second: Dai_16_Neutral air_4
+  - first:
+      213: 5387539858692365455
+    second: Dai_16_Neutral air_5
+  - first:
+      213: 6433284897752298026
+    second: Dai_16_Neutral air_6
+  - first:
+      213: -6120454139129800034
+    second: Dai_16_Neutral air_7
+  - first:
+      213: -4499580873091845724
+    second: Dai_16_Neutral air_8
+  - first:
+      213: -8538641389378536514
+    second: Dai_16_Neutral air_9
+  - first:
+      213: -5607287356246337561
+    second: Dai_16_Neutral air_10
+  - first:
+      213: -194571426301955910
+    second: Dai_16_Neutral air_11
+  - first:
+      213: -7536216135171654100
+    second: Dai_16_Neutral air_12
+  - first:
+      213: -6371481369579962208
+    second: Dai_16_Neutral air_13
+  - first:
+      213: 6619114915915095508
+    second: Dai_16_Neutral air_14
+  - first:
+      213: -2565033755900465624
+    second: Dai_16_Neutral air_15
+  - first:
+      213: -4963211394884861229
+    second: Dai_16_Neutral air_16
+  - first:
+      213: -4020140172818065641
+    second: Dai_16_Neutral air_17
+  - first:
+      213: -6355479089044458276
+    second: Dai_16_Neutral air_18
+  - first:
+      213: 3483511258606910409
+    second: Dai_16_Neutral air_19
+  - first:
+      213: -8887772919313020499
+    second: Dai_16_Neutral air_20
+  - first:
+      213: 7706178075821143331
+    second: Dai_16_Neutral air_21
+  - first:
+      213: -3548327152152106448
+    second: Dai_16_Neutral air_22
+  - first:
+      213: 4376828615675710636
+    second: Dai_16_Neutral air_23
+  - first:
+      213: 2392376768122363962
+    second: Dai_16_Neutral air_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1794
+        width: 109
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb39f328772c0a6e0800000000000000
+      internalID: -1828247630170319938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1916
+        width: 101
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675b0f09afc5fa410800000000000000
+      internalID: 1490512232926197110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1916
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde1d21fbc71f640800000000000000
+      internalID: 5112004212138569172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1916
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c990307e7f6adc990800000000000000
+      internalID: -7364046232018024036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_4
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1916
+        width: 166
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fa228938f3bb2a0800000000000000
+      internalID: -6720708184494657791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1867
+        width: 159
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cdd9205f264ca40800000000000000
+      internalID: 5387539858692365455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_6
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1818
+        width: 153
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22396d878e974950800000000000000
+      internalID: 6433284897752298026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_7
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1818
+        width: 132
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a59155367cf0ba0800000000000000
+      internalID: -6120454139129800034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1562
+        width: 110
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f73529074e81c0800000000000000
+      internalID: -4499580873091845724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1560
+        width: 127
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbf4a165e6a08980800000000000000
+      internalID: -8538641389378536514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1559
+        width: 143
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7d561bbd9ee22b0800000000000000
+      internalID: -5607287356246337561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1557
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b4d3915ebc4df0800000000000000
+      internalID: -194571426301955910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_12
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1556
+        width: 163
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb6888a5bf96790800000000000000
+      internalID: -7536216135171654100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_13
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1554
+        width: 167
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0ca21b373f397a0800000000000000
+      internalID: -6371481369579962208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_14
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1553
+        width: 167
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dddb9a42f1dbdb50800000000000000
+      internalID: 6619114915915095508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_15
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1551
+        width: 155
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eaaae936b276cd0800000000000000
+      internalID: -2565033755900465624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1294
+        width: 133
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d287b658812f1bb0800000000000000
+      internalID: -4963211394884861229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1285
+        width: 104
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717d6ebffc79538c0800000000000000
+      internalID: -4020140172818065641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1281
+        width: 98
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4f418f07dccc7a0800000000000000
+      internalID: -6355479089044458276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_19
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1286
+        width: 100
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb654880be75030800000000000000
+      internalID: 3483511258606910409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_20
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1288
+        width: 102
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9c20c8e9948a480800000000000000
+      internalID: -8887772919313020499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_21
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1286
+        width: 107
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325f8318128d1fa60800000000000000
+      internalID: 7706178075821143331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_22
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1285
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aa915414fc1cec0800000000000000
+      internalID: -3548327152152106448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_23
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1283
+        width: 108
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac8d10cf6e9dbc30800000000000000
+      internalID: 4376828615675710636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_16_Neutral air_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1026
+        width: 109
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30a4d8cefd633120800000000000000
+      internalID: 2392376768122363962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dai_16_Neutral air_0: -1828247630170319938
+      Dai_16_Neutral air_1: 1490512232926197110
+      Dai_16_Neutral air_10: -5607287356246337561
+      Dai_16_Neutral air_11: -194571426301955910
+      Dai_16_Neutral air_12: -7536216135171654100
+      Dai_16_Neutral air_13: -6371481369579962208
+      Dai_16_Neutral air_14: 6619114915915095508
+      Dai_16_Neutral air_15: -2565033755900465624
+      Dai_16_Neutral air_16: -4963211394884861229
+      Dai_16_Neutral air_17: -4020140172818065641
+      Dai_16_Neutral air_18: -6355479089044458276
+      Dai_16_Neutral air_19: 3483511258606910409
+      Dai_16_Neutral air_2: 5112004212138569172
+      Dai_16_Neutral air_20: -8887772919313020499
+      Dai_16_Neutral air_21: 7706178075821143331
+      Dai_16_Neutral air_22: -3548327152152106448
+      Dai_16_Neutral air_23: 4376828615675710636
+      Dai_16_Neutral air_24: 2392376768122363962
+      Dai_16_Neutral air_3: -7364046232018024036
+      Dai_16_Neutral air_4: -6720708184494657791
+      Dai_16_Neutral air_5: 5387539858692365455
+      Dai_16_Neutral air_6: 6433284897752298026
+      Dai_16_Neutral air_7: -6120454139129800034
+      Dai_16_Neutral air_8: -4499580873091845724
+      Dai_16_Neutral air_9: -8538641389378536514
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

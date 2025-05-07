@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 0252561d8ec6a2d40aef22176d342676
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4342906657556007912
+    second: Dai_15_Down strong_0
+  - first:
+      213: 9125095909733380172
+    second: Dai_15_Down strong_1
+  - first:
+      213: -6601808607570684060
+    second: Dai_15_Down strong_2
+  - first:
+      213: 2756391368999059115
+    second: Dai_15_Down strong_3
+  - first:
+      213: -3528401572175505323
+    second: Dai_15_Down strong_4
+  - first:
+      213: 2935636589503385801
+    second: Dai_15_Down strong_5
+  - first:
+      213: -6613199672352585854
+    second: Dai_15_Down strong_6
+  - first:
+      213: -6962474057631760853
+    second: Dai_15_Down strong_7
+  - first:
+      213: -9189333126454466323
+    second: Dai_15_Down strong_8
+  - first:
+      213: -4592415976845010860
+    second: Dai_15_Down strong_9
+  - first:
+      213: 4463866979386089895
+    second: Dai_15_Down strong_10
+  - first:
+      213: 2524216006863690499
+    second: Dai_15_Down strong_11
+  - first:
+      213: 2514075274780015421
+    second: Dai_15_Down strong_12
+  - first:
+      213: -1294433567441151360
+    second: Dai_15_Down strong_13
+  - first:
+      213: -4016058937703460528
+    second: Dai_15_Down strong_14
+  - first:
+      213: -7066661255330156062
+    second: Dai_15_Down strong_15
+  - first:
+      213: 2208681411077036831
+    second: Dai_15_Down strong_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dai_15_Down strong_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1917
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb0e48689a154c30800000000000000
+      internalID: 4342906657556007912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1917
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c403701126ad2ae70800000000000000
+      internalID: 9125095909733380172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1913
+        width: 99
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46712ae9c0aa164a0800000000000000
+      internalID: -6601808607570684060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1910
+        width: 100
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae342b985ba04620800000000000000
+      internalID: 2756391368999059115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_4
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1910
+        width: 113
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5589c81e679980fc0800000000000000
+      internalID: -3528401572175505323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_5
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1911
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c01dfaace97db820800000000000000
+      internalID: 2935636589503385801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1912
+        width: 103
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287c1bcafe13934a0800000000000000
+      internalID: -6613199672352585854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_7
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1913
+        width: 99
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e7cfcbbb2506f90800000000000000
+      internalID: -6962474057631760853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1657
+        width: 95
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a3fa653ee87080800000000000000
+      internalID: -9189333126454466323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1657
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458135f20067440c0800000000000000
+      internalID: -4592415976845010860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1657
+        width: 86
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a167eefd57d2fd30800000000000000
+      internalID: 4463866979386089895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1657
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b17799511d70320800000000000000
+      internalID: 2524216006863690499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_12
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1657
+        width: 79
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bfadb642ac3e220800000000000000
+      internalID: 2514075274780015421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_13
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1658
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1453578f390ee0800000000000000
+      internalID: -1294433567441151360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_14
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1659
+        width: 77
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05117259ca71448c0800000000000000
+      internalID: -4016058937703460528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_15
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1660
+        width: 77
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1b700770d2eed90800000000000000
+      internalID: -7066661255330156062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_15_Down strong_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1405
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b51419a00d6ae10800000000000000
+      internalID: 2208681411077036831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dai_15_Down strong_0: 4342906657556007912
+      Dai_15_Down strong_1: 9125095909733380172
+      Dai_15_Down strong_10: 4463866979386089895
+      Dai_15_Down strong_11: 2524216006863690499
+      Dai_15_Down strong_12: 2514075274780015421
+      Dai_15_Down strong_13: -1294433567441151360
+      Dai_15_Down strong_14: -4016058937703460528
+      Dai_15_Down strong_15: -7066661255330156062
+      Dai_15_Down strong_16: 2208681411077036831
+      Dai_15_Down strong_2: -6601808607570684060
+      Dai_15_Down strong_3: 2756391368999059115
+      Dai_15_Down strong_4: -3528401572175505323
+      Dai_15_Down strong_5: 2935636589503385801
+      Dai_15_Down strong_6: -6613199672352585854
+      Dai_15_Down strong_7: -6962474057631760853
+      Dai_15_Down strong_8: -9189333126454466323
+      Dai_15_Down strong_9: -4592415976845010860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 031f099768680924f9ce035c617b9bf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -497089667820573272
+    second: Tempus_0_Idle_0
+  - first:
+      213: 4050338152815831109
+    second: Tempus_0_Idle_1
+  - first:
+      213: 9120131838696888627
+    second: Tempus_0_Idle_2
+  - first:
+      213: -1907519476323083330
+    second: Tempus_0_Idle_3
+  - first:
+      213: -2351739931597831027
+    second: Tempus_0_Idle_4
+  - first:
+      213: -2296106096884063292
+    second: Tempus_0_Idle_5
+  - first:
+      213: 8266754232840376150
+    second: Tempus_0_Idle_6
+  - first:
+      213: -2047176915638038922
+    second: Tempus_0_Idle_7
+  - first:
+      213: -6928031159304493511
+    second: Tempus_0_Idle_8
+  - first:
+      213: -1435720252301506268
+    second: Tempus_0_Idle_9
+  - first:
+      213: 4447993071541754064
+    second: Tempus_0_Idle_10
+  - first:
+      213: 7195599386468378450
+    second: Tempus_0_Idle_11
+  - first:
+      213: 4425450905954026040
+    second: Tempus_0_Idle_12
+  - first:
+      213: -2237637545328305956
+    second: Tempus_0_Idle_13
+  - first:
+      213: 683926714374491257
+    second: Tempus_0_Idle_14
+  - first:
+      213: -2600319239374474638
+    second: Tempus_0_Idle_15
+  - first:
+      213: -8039702499722819640
+    second: Tempus_0_Idle_16
+  - first:
+      213: 6413115203302377388
+    second: Tempus_0_Idle_17
+  - first:
+      213: 6959733459589065365
+    second: Tempus_0_Idle_18
+  - first:
+      213: 9173088783112994119
+    second: Tempus_0_Idle_19
+  - first:
+      213: -4749993967777916660
+    second: Tempus_0_Idle_20
+  - first:
+      213: -6916392578336633040
+    second: Tempus_0_Idle_21
+  - first:
+      213: 7777813822652059042
+    second: Tempus_0_Idle_22
+  - first:
+      213: -3072490995574961747
+    second: Tempus_0_Idle_23
+  - first:
+      213: -391285678846292867
+    second: Tempus_0_Idle_24
+  - first:
+      213: 9109859904916088368
+    second: Tempus_0_Idle_25
+  - first:
+      213: -6143359042060818251
+    second: Tempus_0_Idle_26
+  - first:
+      213: 4388459677891201870
+    second: Tempus_0_Idle_27
+  - first:
+      213: 4522056196752707501
+    second: Tempus_0_Idle_28
+  - first:
+      213: -2474121352708056900
+    second: Tempus_0_Idle_29
+  - first:
+      213: -1107588469767720488
+    second: Tempus_0_Idle_30
+  - first:
+      213: -434763429478796132
+    second: Tempus_0_Idle_31
+  - first:
+      213: -3206949157459843808
+    second: Tempus_0_Idle_32
+  - first:
+      213: -5213184001171310697
+    second: Tempus_0_Idle_33
+  - first:
+      213: -4433417945873805471
+    second: Tempus_0_Idle_34
+  - first:
+      213: -7247129855237862869
+    second: Tempus_0_Idle_35
+  - first:
+      213: 4450017894837475451
+    second: Tempus_0_Idle_36
+  - first:
+      213: -5292183988042346578
+    second: Tempus_0_Idle_37
+  - first:
+      213: -2913322769374258284
+    second: Tempus_0_Idle_38
+  - first:
+      213: 1045555518472191877
+    second: Tempus_0_Idle_39
+  - first:
+      213: 1386889193598799037
+    second: Tempus_0_Idle_40
+  - first:
+      213: 5086418187324691516
+    second: Tempus_0_Idle_41
+  - first:
+      213: -8166174984933392626
+    second: Tempus_0_Idle_42
+  - first:
+      213: 4785374607717145397
+    second: Tempus_0_Idle_43
+  - first:
+      213: -6679100538376284879
+    second: Tempus_0_Idle_44
+  - first:
+      213: -8633882604341285298
+    second: Tempus_0_Idle_45
+  - first:
+      213: -784363696401687681
+    second: Tempus_0_Idle_46
+  - first:
+      213: 593793800467468857
+    second: Tempus_0_Idle_47
+  - first:
+      213: -8784448451127373961
+    second: Tempus_0_Idle_48
+  - first:
+      213: 408527468432029984
+    second: Tempus_0_Idle_49
+  - first:
+      213: 8928088692099839361
+    second: Tempus_0_Idle_50
+  - first:
+      213: -5725979469586093992
+    second: Tempus_0_Idle_51
+  - first:
+      213: 5677767100350906509
+    second: Tempus_0_Idle_52
+  - first:
+      213: 3563158359735061577
+    second: Tempus_0_Idle_53
+  - first:
+      213: 3578405936313129948
+    second: Tempus_0_Idle_54
+  - first:
+      213: -6970000561611299244
+    second: Tempus_0_Idle_55
+  - first:
+      213: -2483353887851074845
+    second: Tempus_0_Idle_56
+  - first:
+      213: 4855539325583434175
+    second: Tempus_0_Idle_57
+  - first:
+      213: -4227677465126072645
+    second: Tempus_0_Idle_58
+  - first:
+      213: 8723839873733706246
+    second: Tempus_0_Idle_59
+  - first:
+      213: -1612390109907612561
+    second: Tempus_0_Idle_60
+  - first:
+      213: -3486424005238766229
+    second: Tempus_0_Idle_61
+  - first:
+      213: 7041605888538364060
+    second: Tempus_0_Idle_62
+  - first:
+      213: 7424563185817352059
+    second: Tempus_0_Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_0_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1917
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ada900b49bf919f0800000000000000
+      internalID: -497089667820573272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1917
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548acc22711b53830800000000000000
+      internalID: 4050338152815831109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1917
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33912463697319e70800000000000000
+      internalID: 9120131838696888627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1917
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb9f9b84212785e0800000000000000
+      internalID: -1907519476323083330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1917
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8482050ef0fc5fd0800000000000000
+      internalID: -2351739931597831027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1917
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ed909ba79220e0800000000000000
+      internalID: -2296106096884063292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1917
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f48e5fc2969b270800000000000000
+      internalID: 8266754232840376150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1917
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ec30f0177f693e0800000000000000
+      internalID: -2047176915638038922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1661
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93661dced50badf90800000000000000
+      internalID: -6928031159304493511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1661
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4290cbc890c431ce0800000000000000
+      internalID: -1435720252301506268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d815a0d1227abd30800000000000000
+      internalID: 4447993071541754064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2576770a487ebd360800000000000000
+      internalID: 7195599386468378450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1661
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8320254e62c5a6d30800000000000000
+      internalID: 4425450905954026040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd811ae028052f0e0800000000000000
+      internalID: -2237637545328305956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c01be19bbcd7900800000000000000
+      internalID: 683926714374491257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1661
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272787acd6fc9ebd0800000000000000
+      internalID: -2600319239374474638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c783343c2d3d6090800000000000000
+      internalID: -8039702499722819640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7ce7c9c46fff850800000000000000
+      internalID: 6413115203302377388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ae43e05b0f59060800000000000000
+      internalID: 6959733459589065365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1405
+        width: 34
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74df19aa5ab5d4f70800000000000000
+      internalID: 9173088783112994119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09595127a1a41eb0800000000000000
+      internalID: -4749993967777916660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fc81938990400a0800000000000000
+      internalID: -6916392578336633040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8c4c867850fb60800000000000000
+      internalID: 7777813822652059042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1405
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da90b21e7b15c55d0800000000000000
+      internalID: -3072490995574961747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1149
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c4baa8fbfd19af0800000000000000
+      internalID: -391285678846292867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1149
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036e8124159bc6e70800000000000000
+      internalID: 9109859904916088368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1149
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8e74a00876ebaa0800000000000000
+      internalID: -6143359042060818251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1149
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b84d373d0f6ec30800000000000000
+      internalID: 4388459677891201870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1149
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf8ccde62291ce30800000000000000
+      internalID: 4522056196752707501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1149
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb890a8fcb72aadd0800000000000000
+      internalID: -2474121352708056900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1149
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d13d2ea72e01a0f0800000000000000
+      internalID: -1107588469767720488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1149
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94f590e6f867f9f0800000000000000
+      internalID: -434763429478796132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 893
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0252ed08bb0ae73d0800000000000000
+      internalID: -3206949157459843808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 893
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7973f6585cc07a7b0800000000000000
+      internalID: -5213184001171310697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 893
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f89531ed55972c0800000000000000
+      internalID: -4433417945873805471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 893
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a4b692bc50d6b90800000000000000
+      internalID: -7247129855237862869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 893
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785be9b2b3a1cd30800000000000000
+      internalID: 4450017894837475451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 893
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafc9bab3b26e86b0800000000000000
+      internalID: -5292183988042346578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 893
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bd36f606cc197d0800000000000000
+      internalID: -2913322769374258284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 893
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ffb77543f828e00800000000000000
+      internalID: 1045555518472191877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 637
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc84f9f583f3310800000000000000
+      internalID: 1386889193598799037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 637
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3413927466969640800000000000000
+      internalID: 5086418187324691516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 637
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f3d511e1bebae80800000000000000
+      internalID: -8166174984933392626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 637
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b972a0ad0196240800000000000000
+      internalID: 4785374607717145397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 637
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13516fe92711f43a0800000000000000
+      internalID: -6679100538376284879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 637
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e20dff3894e2880800000000000000
+      internalID: -8633882604341285298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 637
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bd345bf516d15f0800000000000000
+      internalID: -784363696401687681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 637
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93251b2c0549d3800800000000000000
+      internalID: 593793800467468857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 381
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f82dafcae571680800000000000000
+      internalID: -8784448451127373961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 381
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02971ec61916ba500800000000000000
+      internalID: 408527468432029984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185fac7cc51f6eb70800000000000000
+      internalID: 8928088692099839361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858242c820c3980b0800000000000000
+      internalID: -5725979469586093992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 381
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80c0dd781b7bce40800000000000000
+      internalID: 5677767100350906509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc87656a1e27130800000000000000
+      internalID: 3563158359735061577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd7186d3d09a130800000000000000
+      internalID: 3578405936313129948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 381
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456a2e8fa65954f90800000000000000
+      internalID: -6970000561611299244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea2d0fdbca598dd0800000000000000
+      internalID: -2483353887851074845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb127567a47526340800000000000000
+      internalID: 4855539325583434175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe8c32aeb54455c0800000000000000
+      internalID: -4227677465126072645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 125
+        width: 34
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602494fe42e411970800000000000000
+      internalID: 8723839873733706246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_60
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c8a93ecb3af99e0800000000000000
+      internalID: -1612390109907612561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_61
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65495fc6dbbd9fc0800000000000000
+      internalID: -3486424005238766229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_62
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98c0a26f3fc8b160800000000000000
+      internalID: 7041605888538364060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_0_Idle_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 125
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f51761e8590760800000000000000
+      internalID: 7424563185817352059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_0_Idle_0: -497089667820573272
+      Tempus_0_Idle_1: 4050338152815831109
+      Tempus_0_Idle_10: 4447993071541754064
+      Tempus_0_Idle_11: 7195599386468378450
+      Tempus_0_Idle_12: 4425450905954026040
+      Tempus_0_Idle_13: -2237637545328305956
+      Tempus_0_Idle_14: 683926714374491257
+      Tempus_0_Idle_15: -2600319239374474638
+      Tempus_0_Idle_16: -8039702499722819640
+      Tempus_0_Idle_17: 6413115203302377388
+      Tempus_0_Idle_18: 6959733459589065365
+      Tempus_0_Idle_19: 9173088783112994119
+      Tempus_0_Idle_2: 9120131838696888627
+      Tempus_0_Idle_20: -4749993967777916660
+      Tempus_0_Idle_21: -6916392578336633040
+      Tempus_0_Idle_22: 7777813822652059042
+      Tempus_0_Idle_23: -3072490995574961747
+      Tempus_0_Idle_24: -391285678846292867
+      Tempus_0_Idle_25: 9109859904916088368
+      Tempus_0_Idle_26: -6143359042060818251
+      Tempus_0_Idle_27: 4388459677891201870
+      Tempus_0_Idle_28: 4522056196752707501
+      Tempus_0_Idle_29: -2474121352708056900
+      Tempus_0_Idle_3: -1907519476323083330
+      Tempus_0_Idle_30: -1107588469767720488
+      Tempus_0_Idle_31: -434763429478796132
+      Tempus_0_Idle_32: -3206949157459843808
+      Tempus_0_Idle_33: -5213184001171310697
+      Tempus_0_Idle_34: -4433417945873805471
+      Tempus_0_Idle_35: -7247129855237862869
+      Tempus_0_Idle_36: 4450017894837475451
+      Tempus_0_Idle_37: -5292183988042346578
+      Tempus_0_Idle_38: -2913322769374258284
+      Tempus_0_Idle_39: 1045555518472191877
+      Tempus_0_Idle_4: -2351739931597831027
+      Tempus_0_Idle_40: 1386889193598799037
+      Tempus_0_Idle_41: 5086418187324691516
+      Tempus_0_Idle_42: -8166174984933392626
+      Tempus_0_Idle_43: 4785374607717145397
+      Tempus_0_Idle_44: -6679100538376284879
+      Tempus_0_Idle_45: -8633882604341285298
+      Tempus_0_Idle_46: -784363696401687681
+      Tempus_0_Idle_47: 593793800467468857
+      Tempus_0_Idle_48: -8784448451127373961
+      Tempus_0_Idle_49: 408527468432029984
+      Tempus_0_Idle_5: -2296106096884063292
+      Tempus_0_Idle_50: 8928088692099839361
+      Tempus_0_Idle_51: -5725979469586093992
+      Tempus_0_Idle_52: 5677767100350906509
+      Tempus_0_Idle_53: 3563158359735061577
+      Tempus_0_Idle_54: 3578405936313129948
+      Tempus_0_Idle_55: -6970000561611299244
+      Tempus_0_Idle_56: -2483353887851074845
+      Tempus_0_Idle_57: 4855539325583434175
+      Tempus_0_Idle_58: -4227677465126072645
+      Tempus_0_Idle_59: 8723839873733706246
+      Tempus_0_Idle_6: 8266754232840376150
+      Tempus_0_Idle_60: -1612390109907612561
+      Tempus_0_Idle_61: -3486424005238766229
+      Tempus_0_Idle_62: 7041605888538364060
+      Tempus_0_Idle_63: 7424563185817352059
+      Tempus_0_Idle_7: -2047176915638038922
+      Tempus_0_Idle_8: -6928031159304493511
+      Tempus_0_Idle_9: -1435720252301506268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

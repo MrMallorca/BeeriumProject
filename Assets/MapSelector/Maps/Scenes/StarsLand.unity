@@ -589,6 +589,8 @@ MonoBehaviour:
   - {fileID: 6692884895733422554, guid: 9f4e3afd60d7a3d47807576f537a135b, type: 3}
   - {fileID: 6692884895733422554, guid: 9e2829d9838b02641bd100b482f5559c, type: 3}
   - {fileID: 6692884895733422554, guid: ff47710b37f801e4a9a750abbeda759a, type: 3}
+  - {fileID: 6692884895733422554, guid: 4de2882bb0c50c848a736945ecd80e47, type: 3}
+  - {fileID: 6692884895733422554, guid: e72b1857e2852c7468b8bbf41adaa6ec, type: 3}
   player1: {fileID: 1025084731}
   player2: {fileID: 1628573504}
   player1Health: {fileID: 1205989644}

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 88d0981878a477f43b720bdcef3a6f64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6317306185286983450
+    second: Tempus_13_Side strong_0
+  - first:
+      213: 3781268784583165275
+    second: Tempus_13_Side strong_1
+  - first:
+      213: 2354318351581011601
+    second: Tempus_13_Side strong_2
+  - first:
+      213: 1549680637720795623
+    second: Tempus_13_Side strong_3
+  - first:
+      213: -4584581171557817731
+    second: Tempus_13_Side strong_4
+  - first:
+      213: 8674826243212500219
+    second: Tempus_13_Side strong_5
+  - first:
+      213: -1219194632544894221
+    second: Tempus_13_Side strong_6
+  - first:
+      213: -1401987172098804342
+    second: Tempus_13_Side strong_7
+  - first:
+      213: 1608763023117302088
+    second: Tempus_13_Side strong_8
+  - first:
+      213: -7743990077459532216
+    second: Tempus_13_Side strong_9
+  - first:
+      213: -5460059597505894845
+    second: Tempus_13_Side strong_10
+  - first:
+      213: -443445938332807329
+    second: Tempus_13_Side strong_11
+  - first:
+      213: -4392979380411709394
+    second: Tempus_13_Side strong_12
+  - first:
+      213: 8764033125831844850
+    second: Tempus_13_Side strong_13
+  - first:
+      213: -6318638829108070097
+    second: Tempus_13_Side strong_14
+  - first:
+      213: -2788775550862171540
+    second: Tempus_13_Side strong_15
+  - first:
+      213: -5572373253066904133
+    second: Tempus_13_Side strong_16
+  - first:
+      213: 3003819602902921084
+    second: Tempus_13_Side strong_17
+  - first:
+      213: -9011494959369648444
+    second: Tempus_13_Side strong_18
+  - first:
+      213: 3782477044069828613
+    second: Tempus_13_Side strong_19
+  - first:
+      213: 2422972907992872882
+    second: Tempus_13_Side strong_20
+  - first:
+      213: -9049004635649300032
+    second: Tempus_13_Side strong_21
+  - first:
+      213: 7740927082799737373
+    second: Tempus_13_Side strong_22
+  - first:
+      213: -7623277379516433870
+    second: Tempus_13_Side strong_23
+  - first:
+      213: -3891319195055002778
+    second: Tempus_13_Side strong_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1917
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f986741849ba750800000000000000
+      internalID: 6317306185286983450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1917
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b554a51fce3c97430800000000000000
+      internalID: 3781268784583165275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1917
+        width: 48
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5b2a21183ca020800000000000000
+      internalID: 2354318351581011601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_3
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1917
+        width: 50
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e916a65452918510800000000000000
+      internalID: 1549680637720795623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1917
+        width: 55
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d722a51f6bb4060c0800000000000000
+      internalID: -4584581171557817731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1917
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcdaeac18c236870800000000000000
+      internalID: 8674826243212500219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_6
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1917
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f24917f0fc841fe0800000000000000
+      internalID: -1219194632544894221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_7
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1917
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85756358142b8ce0800000000000000
+      internalID: -1401987172098804342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1661
+        width: 84
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b0b82279735610800000000000000
+      internalID: 1608763023117302088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1661
+        width: 84
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846ffd0dd02d78490800000000000000
+      internalID: -7743990077459532216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1661
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346e23689b8f934b0800000000000000
+      internalID: -5460059597505894845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1661
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f4590c44098d9f0800000000000000
+      internalID: -443445938332807329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_12
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1661
+        width: 76
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28c1fc47800903c0800000000000000
+      internalID: -4392979380411709394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_13
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1661
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3a6f0b1b910a970800000000000000
+      internalID: 8764033125831844850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_14
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1661
+        width: 70
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f507667faf48a0800000000000000
+      internalID: -6318638829108070097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_15
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1661
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62e09c79674c49d0800000000000000
+      internalID: -2788775550862171540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1405
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd2f0fcc04faa2b0800000000000000
+      internalID: -5572373253066904133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1405
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f22609306bfa920800000000000000
+      internalID: 3003819602902921084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_18
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1405
+        width: 54
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c68c83541db0f280800000000000000
+      internalID: -9011494959369648444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_19
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1405
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5080ad6c4de0e7430800000000000000
+      internalID: 3782477044069828613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_20
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1405
+        width: 44
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b77f49b50120a120800000000000000
+      internalID: 2422972907992872882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_21
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1405
+        width: 39
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9a2414a3a7b6280800000000000000
+      internalID: -9049004635649300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_22
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1405
+        width: 34
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aaa7a2b2c4d6b60800000000000000
+      internalID: 7740927082799737373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1405
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23af6a9fc9da43690800000000000000
+      internalID: -7623277379516433870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_13_Side strong_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1149
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b66172fc14ff9c0800000000000000
+      internalID: -3891319195055002778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_13_Side strong_0: 6317306185286983450
+      Tempus_13_Side strong_1: 3781268784583165275
+      Tempus_13_Side strong_10: -5460059597505894845
+      Tempus_13_Side strong_11: -443445938332807329
+      Tempus_13_Side strong_12: -4392979380411709394
+      Tempus_13_Side strong_13: 8764033125831844850
+      Tempus_13_Side strong_14: -6318638829108070097
+      Tempus_13_Side strong_15: -2788775550862171540
+      Tempus_13_Side strong_16: -5572373253066904133
+      Tempus_13_Side strong_17: 3003819602902921084
+      Tempus_13_Side strong_18: -9011494959369648444
+      Tempus_13_Side strong_19: 3782477044069828613
+      Tempus_13_Side strong_2: 2354318351581011601
+      Tempus_13_Side strong_20: 2422972907992872882
+      Tempus_13_Side strong_21: -9049004635649300032
+      Tempus_13_Side strong_22: 7740927082799737373
+      Tempus_13_Side strong_23: -7623277379516433870
+      Tempus_13_Side strong_24: -3891319195055002778
+      Tempus_13_Side strong_3: 1549680637720795623
+      Tempus_13_Side strong_4: -4584581171557817731
+      Tempus_13_Side strong_5: 8674826243212500219
+      Tempus_13_Side strong_6: -1219194632544894221
+      Tempus_13_Side strong_7: -1401987172098804342
+      Tempus_13_Side strong_8: 1608763023117302088
+      Tempus_13_Side strong_9: -7743990077459532216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

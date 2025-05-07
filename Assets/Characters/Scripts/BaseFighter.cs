@@ -34,7 +34,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     private bool canAttack;
     private int nroAttack;
     private bool canAirAttack = true;
-    private bool isBlocking = false;
+    public bool isBlocking = false;
     bool inputsHaveBeenInited = false;
     private bool hitted;
     [SerializeField] public int hitCount;
@@ -107,29 +107,29 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
         if (direction.x < 0)
         {
-            spriteRenderer.flipX = true;
+            transform.rotation = Quaternion.Euler(0, 180, 0);
         }
         else
         {
-            spriteRenderer.flipX = false;
+            transform.rotation = Quaternion.Euler(0, 0, 0);
         }
 
         if (anim.GetCurrentAnimatorStateInfo(0).IsName("Idle") && nroAttack == 0)
         {
             canAttack = true;
         }
+      
 
-
-        if(currentHealth < 0)
+        if (currentHealth < 0)
         {
             Destroy(gameObject);
         }
 
-        isBlocking = false;
     }
 
     private void UpdateAnimatorParameters()
     {
+
         float horizontalSpeed = characterRb.linearVelocity.x;
 
         if(gameObject.tag == "Player1")
@@ -144,12 +144,12 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
         if (horizontalSpeed > 0.01f)
         {
-            spriteRenderer.flipX = false;
+            transform.rotation = Quaternion.Euler(0, 180, 0);
         }
         else if (horizontalSpeed < -0.01f)
         {
-            spriteRenderer.flipX = true;
-        }
+            transform.rotation = Quaternion.Euler(0, 0, 0);
+       }
     }
 
     void FixedUpdate()
@@ -166,7 +166,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     void UpdateMovementOnPlane()
     {
 
-        if (!hitted)
+        if (!hitted && !isInvulnerable)
         {
             Vector3 moveDirection = rawMove * speed;
             Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, 0);
@@ -181,7 +181,9 @@ public class BaseFighter : MonoBehaviour, IDamageable
     {
         if (characterCanJump)
         {
-            if (ctx.performed && isGrounded)
+            if (ctx.performed &&
+                isGrounded &&
+                !isInvulnerable)
             {
                 isGrounded = false;
                 characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
@@ -199,14 +201,24 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     private void OnCrouch(InputAction.CallbackContext ctx)
     {
-        isBlocking = true;
-
-        if (isGrounded && isBlocking)
+        if (ctx.performed)
         {
-            anim.SetBool("crouch", ctx.ReadValue<float>() > 0);
-            canAttackTrue();
-            nroAttack = 0;
-            anim.SetInteger("AttackCount", nroAttack);
+            if (isGrounded)
+            {
+                isBlocking = true;
+
+                anim.SetBool("crouch", true);
+                canAttackTrue();
+                nroAttack = 0;
+                anim.SetInteger("AttackCount", nroAttack);
+            }
+        }
+        else if (ctx.canceled)
+        {
+            anim.SetBool("crouch", false);
+
+            ResetBlocking();
+
         }
     }
 
@@ -368,11 +380,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
         canAirAttack = true;
     }
 
-    public void CanGetHit()
-    {
-        hitted = false;
-    }
-
+   
     public bool HasTakenDamage { get { return hitted;  } set { hitted = value;  } }
     public void NotifyDamageReceived(float damageAmount)
     {
@@ -380,14 +388,31 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
         if (!hitted)
         {
-            currentHealth -= damageAmount;
-            anim.SetTrigger("hit");
-            hitted = true;
-            Invoke("CanGetHit", 1.5f);
+            if(isBlocking)
+            {
+                currentHealth -= 0.5f;
+            }
+            else
+            {
+                currentHealth -= damageAmount;
+                anim.SetTrigger("hit");
+                hitted = true;
+            }
+
+            Invoke(nameof(ResetHit), 0.3f);
         }
     }
+    public void ResetHit()
+    {
+        hitted = false;
+    }
 
-   
+
+    public void ResetBlocking()
+    {
+        isBlocking = false;
+    }
+
 
     #region InputManagement
     private void EnableInputs()
@@ -456,12 +481,13 @@ public class BaseFighter : MonoBehaviour, IDamageable
         }
         resetHitCoroutine = StartCoroutine(ResetHitCount());
 
-        if (hitCount >= 3)
+        if (hitCount >= 3 && !isBlocking)
         {
             Vector3 flatDirection = characterRb.position - enemyPlayer.transform.position;
             flatDirection.y = 0f;
             flatDirection.Normalize();
             flatDirection.y = 0.8f; // Salto hacia atrás
+            flatDirection.z = 0f;
 
             characterRb.AddForce(flatDirection * knockbackForce * Time.deltaTime, ForceMode.Impulse);
 
@@ -472,11 +498,6 @@ public class BaseFighter : MonoBehaviour, IDamageable
         }
 
         
-    }
-
-    void ResetHit()
-    {
-        hitted = false;
     }
 
 
