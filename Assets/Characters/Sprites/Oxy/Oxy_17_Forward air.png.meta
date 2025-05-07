@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: b37b07aad286c884dadad2b78810250b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8562042360945205802
+    second: Oxy_17_Forward air_0
+  - first:
+      213: -5078795618132895557
+    second: Oxy_17_Forward air_1
+  - first:
+      213: 7862671129910170011
+    second: Oxy_17_Forward air_2
+  - first:
+      213: 2632764648991493811
+    second: Oxy_17_Forward air_3
+  - first:
+      213: -56845856991151918
+    second: Oxy_17_Forward air_4
+  - first:
+      213: 7602765414229221582
+    second: Oxy_17_Forward air_5
+  - first:
+      213: -433930107464430134
+    second: Oxy_17_Forward air_6
+  - first:
+      213: 6118920633136101616
+    second: Oxy_17_Forward air_7
+  - first:
+      213: -5225943869685567440
+    second: Oxy_17_Forward air_8
+  - first:
+      213: -7276317875983118770
+    second: Oxy_17_Forward air_9
+  - first:
+      213: 1282751415170444555
+    second: Oxy_17_Forward air_10
+  - first:
+      213: -6634899819768987793
+    second: Oxy_17_Forward air_11
+  - first:
+      213: 3987010989982421259
+    second: Oxy_17_Forward air_12
+  - first:
+      213: -3333670674657046393
+    second: Oxy_17_Forward air_13
+  - first:
+      213: 2344075268260495785
+    second: Oxy_17_Forward air_14
+  - first:
+      213: -7737967701868868228
+    second: Oxy_17_Forward air_15
+  - first:
+      213: 2868331420594797461
+    second: Oxy_17_Forward air_16
+  - first:
+      213: 4136051053733081779
+    second: Oxy_17_Forward air_17
+  - first:
+      213: 5709569908910587527
+    second: Oxy_17_Forward air_18
+  - first:
+      213: 5393308550236003244
+    second: Oxy_17_Forward air_19
+  - first:
+      213: 3696351685367464172
+    second: Oxy_17_Forward air_20
+  - first:
+      213: 9089273508187548050
+    second: Oxy_17_Forward air_21
+  - first:
+      213: 1331807282612680504
+    second: Oxy_17_Forward air_22
+  - first:
+      213: 5443718098040386148
+    second: Oxy_17_Forward air_23
+  - first:
+      213: -4122444687950449509
+    second: Oxy_17_Forward air_24
+  - first:
+      213: 1637759138885947030
+    second: Oxy_17_Forward air_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1922
+        width: 43
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a226cf3e92c72d670800000000000000
+      internalID: 8562042360945205802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1923
+        width: 50
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8d06e3b4e7489b0800000000000000
+      internalID: -5078795618132895557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1927
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d3040cb1dd1d60800000000000000
+      internalID: 7862671129910170011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1938
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be0850df75798420800000000000000
+      internalID: 2632764648991493811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_4
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1951
+        width: 102
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8f6178efa063ff0800000000000000
+      internalID: -56845856991151918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_5
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1969
+        width: 94
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec022c1fcd2728960800000000000000
+      internalID: 7602765414229221582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_6
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1970
+        width: 77
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd4c37cdde5af9f0800000000000000
+      internalID: -433930107464430134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_7
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1968
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8b2ea75e5cae450800000000000000
+      internalID: 6118920633136101616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1705
+        width: 123
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030f24f1db7b977b0800000000000000
+      internalID: -5225943869685567440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1700
+        width: 123
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e83318173550b90800000000000000
+      internalID: -7276317875983118770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1690
+        width: 118
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d2d54ad9f3dc110800000000000000
+      internalID: 1282751415170444555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_11
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1685
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fbd5264c91ce3a0800000000000000
+      internalID: -6634899819768987793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_12
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1685
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011b7d0f55b45730800000000000000
+      internalID: 3987010989982421259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_13
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1682
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7801ee61f2c6cb1d0800000000000000
+      internalID: -3333670674657046393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_14
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1680
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1027b7904d78020800000000000000
+      internalID: 2344075268260495785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_15
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1678
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d09a66f573d9490800000000000000
+      internalID: -7737967701868868228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1420
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bf4aeda3c5ec720800000000000000
+      internalID: 2868331420594797461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1418
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2f3a60584366930800000000000000
+      internalID: 4136051053733081779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_18
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1416
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78effd0e4977c3f40800000000000000
+      internalID: 5709569908910587527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_19
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1415
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabd4ec2d81e8da40800000000000000
+      internalID: 5393308550236003244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_20
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1413
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce08e3316441c4330800000000000000
+      internalID: 3696351685367464172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_21
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1412
+        width: 45
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29923e14916932e70800000000000000
+      internalID: 9089273508187548050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_22
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1412
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8373865daa78b7210800000000000000
+      internalID: 1331807282612680504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_23
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1411
+        width: 40
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462ff03a4c8fb8b40800000000000000
+      internalID: 5443718098040386148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1154
+        width: 43
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b947480e5622ac6c0800000000000000
+      internalID: -4122444687950449509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_17_Forward air_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1154
+        width: 43
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e42f4724d7ab610800000000000000
+      internalID: 1637759138885947030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Oxy_17_Forward air_0: 8562042360945205802
+      Oxy_17_Forward air_1: -5078795618132895557
+      Oxy_17_Forward air_10: 1282751415170444555
+      Oxy_17_Forward air_11: -6634899819768987793
+      Oxy_17_Forward air_12: 3987010989982421259
+      Oxy_17_Forward air_13: -3333670674657046393
+      Oxy_17_Forward air_14: 2344075268260495785
+      Oxy_17_Forward air_15: -7737967701868868228
+      Oxy_17_Forward air_16: 2868331420594797461
+      Oxy_17_Forward air_17: 4136051053733081779
+      Oxy_17_Forward air_18: 5709569908910587527
+      Oxy_17_Forward air_19: 5393308550236003244
+      Oxy_17_Forward air_2: 7862671129910170011
+      Oxy_17_Forward air_20: 3696351685367464172
+      Oxy_17_Forward air_21: 9089273508187548050
+      Oxy_17_Forward air_22: 1331807282612680504
+      Oxy_17_Forward air_23: 5443718098040386148
+      Oxy_17_Forward air_24: -4122444687950449509
+      Oxy_17_Forward air_25: 1637759138885947030
+      Oxy_17_Forward air_3: 2632764648991493811
+      Oxy_17_Forward air_4: -56845856991151918
+      Oxy_17_Forward air_5: 7602765414229221582
+      Oxy_17_Forward air_6: -433930107464430134
+      Oxy_17_Forward air_7: 6118920633136101616
+      Oxy_17_Forward air_8: -5225943869685567440
+      Oxy_17_Forward air_9: -7276317875983118770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

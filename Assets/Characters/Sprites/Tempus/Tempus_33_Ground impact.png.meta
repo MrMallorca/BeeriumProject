@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: eb470b5e01c06ca47a82618f09866bdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1226524753291196562
+    second: Tempus_33_Ground impact_0
+  - first:
+      213: -51174410882993701
+    second: Tempus_33_Ground impact_1
+  - first:
+      213: 398930568206504162
+    second: Tempus_33_Ground impact_2
+  - first:
+      213: -1187568908468252907
+    second: Tempus_33_Ground impact_3
+  - first:
+      213: 4189250390509282801
+    second: Tempus_33_Ground impact_4
+  - first:
+      213: -7097528364489958190
+    second: Tempus_33_Ground impact_5
+  - first:
+      213: -1378852991802449250
+    second: Tempus_33_Ground impact_6
+  - first:
+      213: 2910054059062096511
+    second: Tempus_33_Ground impact_7
+  - first:
+      213: -3701849104112676988
+    second: Tempus_33_Ground impact_8
+  - first:
+      213: -3960194471322993847
+    second: Tempus_33_Ground impact_9
+  - first:
+      213: 4795562508715777409
+    second: Tempus_33_Ground impact_10
+  - first:
+      213: 8151382766514748641
+    second: Tempus_33_Ground impact_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1980
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67cadb3c328afee0800000000000000
+      internalID: -1226524753291196562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1917
+        width: 118
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1bab9f4213a4ff0800000000000000
+      internalID: -51174410882993701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1976
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e05ef7fc39498500800000000000000
+      internalID: 398930568206504162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1917
+        width: 119
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f8378ae58e48fe0800000000000000
+      internalID: -1187568908468252907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1918
+        width: 129
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e879d805332a30800000000000000
+      internalID: 4189250390509282801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_5
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1917
+        width: 119
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc115b8e83808d90800000000000000
+      internalID: -7097528364489958190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_6
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1918
+        width: 121
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92612a62845ddce0800000000000000
+      internalID: -1378852991802449250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_7
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1918
+        width: 122
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f727493afb6926820800000000000000
+      internalID: 2910054059062096511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_8
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1917
+        width: 123
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f04416ad360acc0800000000000000
+      internalID: -3701849104112676988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_9
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1917
+        width: 122
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bb35f3c109a09c0800000000000000
+      internalID: -3960194471322993847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1661
+        width: 122
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d5f2691b24d8240800000000000000
+      internalID: 4795562508715777409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_33_Ground impact_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1661
+        width: 122
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec3a5230778f1170800000000000000
+      internalID: 8151382766514748641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_33_Ground impact_0: -1226524753291196562
+      Tempus_33_Ground impact_1: -51174410882993701
+      Tempus_33_Ground impact_10: 4795562508715777409
+      Tempus_33_Ground impact_11: 8151382766514748641
+      Tempus_33_Ground impact_2: 398930568206504162
+      Tempus_33_Ground impact_3: -1187568908468252907
+      Tempus_33_Ground impact_4: 4189250390509282801
+      Tempus_33_Ground impact_5: -7097528364489958190
+      Tempus_33_Ground impact_6: -1378852991802449250
+      Tempus_33_Ground impact_7: 2910054059062096511
+      Tempus_33_Ground impact_8: -3701849104112676988
+      Tempus_33_Ground impact_9: -3960194471322993847
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

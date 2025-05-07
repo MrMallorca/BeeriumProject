@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: b4c5cd5c9d005cd40a49c7f4d338be15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6543808752949475224
+    second: Tempus_8_A_0
+  - first:
+      213: 2094876839628365541
+    second: Tempus_8_A_1
+  - first:
+      213: -1755191458839077466
+    second: Tempus_8_A_2
+  - first:
+      213: 6883922687578563365
+    second: Tempus_8_A_3
+  - first:
+      213: -8382607656267509760
+    second: Tempus_8_A_4
+  - first:
+      213: 8715698798977168998
+    second: Tempus_8_A_5
+  - first:
+      213: -8289632570195327313
+    second: Tempus_8_A_6
+  - first:
+      213: -6199506062295595495
+    second: Tempus_8_A_7
+  - first:
+      213: 168574334364302720
+    second: Tempus_8_A_8
+  - first:
+      213: 1169011788956912176
+    second: Tempus_8_A_9
+  - first:
+      213: -4715764728129699481
+    second: Tempus_8_A_10
+  - first:
+      213: -7739950888244729615
+    second: Tempus_8_A_11
+  - first:
+      213: 4157925449011349865
+    second: Tempus_8_A_12
+  - first:
+      213: 4501081220362703041
+    second: Tempus_8_A_13
+  - first:
+      213: -6047233876116263952
+    second: Tempus_8_A_14
+  - first:
+      213: -4799516678486672290
+    second: Tempus_8_A_15
+  - first:
+      213: 3399806991980122803
+    second: Tempus_8_A_16
+  - first:
+      213: 425041921955423611
+    second: Tempus_8_A_17
+  - first:
+      213: 1371616896477653391
+    second: Tempus_8_A_18
+  - first:
+      213: -6676621070225770086
+    second: Tempus_8_A_19
+  - first:
+      213: 7504695841340404617
+    second: Tempus_8_A_20
+  - first:
+      213: -7304130310668320655
+    second: Tempus_8_A_21
+  - first:
+      213: 2501932461778882118
+    second: Tempus_8_A_22
+  - first:
+      213: -3920402837416337576
+    second: Tempus_8_A_23
+  - first:
+      213: 6558059033525170044
+    second: Tempus_8_A_24
+  - first:
+      213: 6355721089681791486
+    second: Tempus_8_A_25
+  - first:
+      213: 6237540178904533631
+    second: Tempus_8_A_26
+  - first:
+      213: 6272769118378828514
+    second: Tempus_8_A_27
+  - first:
+      213: -4782522592855392957
+    second: Tempus_8_A_28
+  - first:
+      213: 4196259633950030605
+    second: Tempus_8_A_29
+  - first:
+      213: 821310317618665063
+    second: Tempus_8_A_30
+  - first:
+      213: 6982798965165797601
+    second: Tempus_8_A_31
+  - first:
+      213: -6104547775823590183
+    second: Tempus_8_A_32
+  - first:
+      213: 784541550157071168
+    second: Tempus_8_A_33
+  - first:
+      213: 1345031382483768254
+    second: Tempus_8_A_34
+  - first:
+      213: -3756699653491436944
+    second: Tempus_8_A_35
+  - first:
+      213: -5012058734378271491
+    second: Tempus_8_A_36
+  - first:
+      213: -3776373149805921848
+    second: Tempus_8_A_37
+  - first:
+      213: -8922616216431587188
+    second: Tempus_8_A_38
+  - first:
+      213: 7040016396678473568
+    second: Tempus_8_A_39
+  - first:
+      213: -6979626118842258029
+    second: Tempus_8_A_40
+  - first:
+      213: -9151045517390826887
+    second: Tempus_8_A_41
+  - first:
+      213: 5540200134132173479
+    second: Tempus_8_A_42
+  - first:
+      213: 7395291007488669863
+    second: Tempus_8_A_43
+  - first:
+      213: -2596811069087147576
+    second: Tempus_8_A_44
+  - first:
+      213: -679547282564986259
+    second: Tempus_8_A_45
+  - first:
+      213: -494336793257200434
+    second: Tempus_8_A_46
+  - first:
+      213: -935718847953469855
+    second: Tempus_8_A_47
+  - first:
+      213: -2508651880745715568
+    second: Tempus_8_A_48
+  - first:
+      213: 5403443114409207489
+    second: Tempus_8_A_49
+  - first:
+      213: -6731271938655806386
+    second: Tempus_8_A_50
+  - first:
+      213: -8399998309286754166
+    second: Tempus_8_A_51
+  - first:
+      213: 8674805612267364581
+    second: Tempus_8_A_52
+  - first:
+      213: -1391325168414838059
+    second: Tempus_8_A_53
+  - first:
+      213: -3790753236843933054
+    second: Tempus_8_A_54
+  - first:
+      213: -4711314248411136812
+    second: Tempus_8_A_55
+  - first:
+      213: -4570583853298710345
+    second: Tempus_8_A_56
+  - first:
+      213: 3743583345156125963
+    second: Tempus_8_A_57
+  - first:
+      213: -3118322330462461732
+    second: Tempus_8_A_58
+  - first:
+      213: 7598153140770303218
+    second: Tempus_8_A_59
+  - first:
+      213: -214156514325723200
+    second: Tempus_8_A_60
+  - first:
+      213: 6888291909789227047
+    second: Tempus_8_A_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_8_A_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1917
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89735a5e36740da50800000000000000
+      internalID: 6543808752949475224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1916
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eedd32f26f721d10800000000000000
+      internalID: 2094876839628365541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1915
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6add817eaae44a7e0800000000000000
+      internalID: -1755191458839077466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_3
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1915
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5236f56363b988f50800000000000000
+      internalID: 6883922687578563365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1916
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00094b4efbefaab80800000000000000
+      internalID: -8382607656267509760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_5
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1916
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666355241e164f870800000000000000
+      internalID: 8715698798977168998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_6
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1916
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6cff6091f45fc80800000000000000
+      internalID: -8289632570195327313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_7
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1916
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9168dfd251ee6f9a0800000000000000
+      internalID: -6199506062295595495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1660
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d3806c675e65200800000000000000
+      internalID: 168574334364302720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_9
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1660
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a4503470a293010800000000000000
+      internalID: 1169011788956912176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1660
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761438707fc3e8eb0800000000000000
+      internalID: -4715764728129699481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1660
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82437dcab269490800000000000000
+      internalID: -7739950888244729615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_12
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1660
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969c0ee8a2be3b930800000000000000
+      internalID: 4157925449011349865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_13
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1659
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c096eca58d077e30800000000000000
+      internalID: 4501081220362703041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_14
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1659
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fba16c44d8e31ca0800000000000000
+      internalID: -6047233876116263952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_15
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1660
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c3d358201b46db0800000000000000
+      internalID: -4799516678486672290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1404
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b25ddd327a8e2f20800000000000000
+      internalID: 3399806991980122803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1405
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b756dc4406d06e500800000000000000
+      internalID: 425041921955423611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_18
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1405
+        width: 41
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89697adc46f80310800000000000000
+      internalID: 1371616896477653391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1405
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99fd49c280e753a0800000000000000
+      internalID: -6676621070225770086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_20
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1404
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983327a2b19062860800000000000000
+      internalID: 7504695841340404617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_21
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1404
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170837f6e2482aa90800000000000000
+      internalID: -7304130310668320655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_22
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1403
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e49547156a8b220800000000000000
+      internalID: 2501932461778882118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1148
+        width: 49
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f9d5bf36ee799c0800000000000000
+      internalID: -3920402837416337576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_24
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1148
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f2f45e1f7e20b50800000000000000
+      internalID: 6558059033525170044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_25
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1148
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef911f138ae043850800000000000000
+      internalID: 6355721089681791486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_26
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1148
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac4dbaeb1309650800000000000000
+      internalID: 6237540178904533631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_27
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1148
+        width: 85
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2a203574a5d0750800000000000000
+      internalID: 6272769118378828514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_28
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1148
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34df29a6a0111adb0800000000000000
+      internalID: -4782522592855392957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_29
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1148
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bf6e287eb1c3a30800000000000000
+      internalID: 4196259633950030605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_30
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1148
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7661604e161e56b00800000000000000
+      internalID: 821310317618665063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 892
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e03ca099a2e7e060800000000000000
+      internalID: 6982798965165797601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 892
+        width: 70
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc42a3242a484ba0800000000000000
+      internalID: -6104547775823590183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_33
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 892
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04385a8126043ea00800000000000000
+      internalID: 784541550157071168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_34
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 892
+        width: 58
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb392b48ae28aa210800000000000000
+      internalID: 1345031382483768254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_35
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 892
+        width: 51
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0725fc9a1958ddbc0800000000000000
+      internalID: -3756699653491436944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_36
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 892
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc3df7d227917ab0800000000000000
+      internalID: -5012058734378271491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_37
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 892
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9be7ad0a0a79bc0800000000000000
+      internalID: -3776373149805921848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_38
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 893
+        width: 51
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80947043df7c2480800000000000000
+      internalID: -8922616216431587188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 637
+        width: 37
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06722f8fc9923b160800000000000000
+      internalID: 7040016396678473568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 637
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d6e594603632f90800000000000000
+      internalID: -6979626118842258029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_41
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 636
+        width: 85
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9723d741694f00180800000000000000
+      internalID: -9151045517390826887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_42
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 634
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa05833baeb2ec40800000000000000
+      internalID: 5540200134132173479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_43
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 633
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b0084df951a660800000000000000
+      internalID: 7395291007488669863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_44
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 633
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c91246571646fbd0800000000000000
+      internalID: -2596811069087147576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_45
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 633
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac1aec853c196f0800000000000000
+      internalID: -679547282564986259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 378
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4bf7e3e43c329f0800000000000000
+      internalID: -494336793257200434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 379
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e781a5aa8a303f0800000000000000
+      internalID: -935718847953469855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_48
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 381
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0983907e76a7f2dd0800000000000000
+      internalID: -2508651880745715568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_49
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 381
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6246642e2ecfa40800000000000000
+      internalID: 5403443114409207489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_50
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 381
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c9dd9e5d7b592a0800000000000000
+      internalID: -6731271938655806386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_51
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 381
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88c415fa063d6b80800000000000000
+      internalID: -8399998309286754166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_52
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 350
+        width: 47
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0e2c64eb9136870800000000000000
+      internalID: 8674805612267364581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_53
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 322
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b291812501bce0800000000000000
+      internalID: -1391325168414838059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 53
+        width: 54
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28251cee30a846bc0800000000000000
+      internalID: -3790753236843933054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_55
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 42
+        width: 49
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcb73617ac0e9eb0800000000000000
+      internalID: -4711314248411136812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_56
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 51
+        width: 55
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b88eff83360290c0800000000000000
+      internalID: -4570583853298710345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_57
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 59
+        width: 65
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b057913d731e3f330800000000000000
+      internalID: 3743583345156125963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_58
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 67
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0ed9dac5e79b4d0800000000000000
+      internalID: -3118322330462461732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_59
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 75
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fce1a85600127960800000000000000
+      internalID: 7598153140770303218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_60
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 84
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7874de8c9270df0800000000000000
+      internalID: -214156514325723200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_8_A_61
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 92
+        width: 71
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7281f280ff0289f50800000000000000
+      internalID: 6888291909789227047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_8_A_0: 6543808752949475224
+      Tempus_8_A_1: 2094876839628365541
+      Tempus_8_A_10: -4715764728129699481
+      Tempus_8_A_11: -7739950888244729615
+      Tempus_8_A_12: 4157925449011349865
+      Tempus_8_A_13: 4501081220362703041
+      Tempus_8_A_14: -6047233876116263952
+      Tempus_8_A_15: -4799516678486672290
+      Tempus_8_A_16: 3399806991980122803
+      Tempus_8_A_17: 425041921955423611
+      Tempus_8_A_18: 1371616896477653391
+      Tempus_8_A_19: -6676621070225770086
+      Tempus_8_A_2: -1755191458839077466
+      Tempus_8_A_20: 7504695841340404617
+      Tempus_8_A_21: -7304130310668320655
+      Tempus_8_A_22: 2501932461778882118
+      Tempus_8_A_23: -3920402837416337576
+      Tempus_8_A_24: 6558059033525170044
+      Tempus_8_A_25: 6355721089681791486
+      Tempus_8_A_26: 6237540178904533631
+      Tempus_8_A_27: 6272769118378828514
+      Tempus_8_A_28: -4782522592855392957
+      Tempus_8_A_29: 4196259633950030605
+      Tempus_8_A_3: 6883922687578563365
+      Tempus_8_A_30: 821310317618665063
+      Tempus_8_A_31: 6982798965165797601
+      Tempus_8_A_32: -6104547775823590183
+      Tempus_8_A_33: 784541550157071168
+      Tempus_8_A_34: 1345031382483768254
+      Tempus_8_A_35: -3756699653491436944
+      Tempus_8_A_36: -5012058734378271491
+      Tempus_8_A_37: -3776373149805921848
+      Tempus_8_A_38: -8922616216431587188
+      Tempus_8_A_39: 7040016396678473568
+      Tempus_8_A_4: -8382607656267509760
+      Tempus_8_A_40: -6979626118842258029
+      Tempus_8_A_41: -9151045517390826887
+      Tempus_8_A_42: 5540200134132173479
+      Tempus_8_A_43: 7395291007488669863
+      Tempus_8_A_44: -2596811069087147576
+      Tempus_8_A_45: -679547282564986259
+      Tempus_8_A_46: -494336793257200434
+      Tempus_8_A_47: -935718847953469855
+      Tempus_8_A_48: -2508651880745715568
+      Tempus_8_A_49: 5403443114409207489
+      Tempus_8_A_5: 8715698798977168998
+      Tempus_8_A_50: -6731271938655806386
+      Tempus_8_A_51: -8399998309286754166
+      Tempus_8_A_52: 8674805612267364581
+      Tempus_8_A_53: -1391325168414838059
+      Tempus_8_A_54: -3790753236843933054
+      Tempus_8_A_55: -4711314248411136812
+      Tempus_8_A_56: -4570583853298710345
+      Tempus_8_A_57: 3743583345156125963
+      Tempus_8_A_58: -3118322330462461732
+      Tempus_8_A_59: 7598153140770303218
+      Tempus_8_A_6: -8289632570195327313
+      Tempus_8_A_60: -214156514325723200
+      Tempus_8_A_61: 6888291909789227047
+      Tempus_8_A_7: -6199506062295595495
+      Tempus_8_A_8: 168574334364302720
+      Tempus_8_A_9: 1169011788956912176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

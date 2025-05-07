@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 0513ddc49db47fd4a86f6602bd6cb5e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7559490227695203921
+    second: Oxy_35_Get up_0
+  - first:
+      213: -3562568162551496780
+    second: Oxy_35_Get up_1
+  - first:
+      213: 8960095650100792205
+    second: Oxy_35_Get up_2
+  - first:
+      213: 5516777967335968040
+    second: Oxy_35_Get up_3
+  - first:
+      213: 1483327657306770269
+    second: Oxy_35_Get up_4
+  - first:
+      213: 5047571298310358183
+    second: Oxy_35_Get up_5
+  - first:
+      213: 4402199271266452604
+    second: Oxy_35_Get up_6
+  - first:
+      213: 5880904304369359056
+    second: Oxy_35_Get up_7
+  - first:
+      213: -4540754915905538354
+    second: Oxy_35_Get up_8
+  - first:
+      213: -5975185562592672741
+    second: Oxy_35_Get up_9
+  - first:
+      213: 4212235467725339978
+    second: Oxy_35_Get up_10
+  - first:
+      213: 4539998397585646135
+    second: Oxy_35_Get up_11
+  - first:
+      213: -8224971800564025227
+    second: Oxy_35_Get up_12
+  - first:
+      213: 1715382457150386577
+    second: Oxy_35_Get up_13
+  - first:
+      213: -4782311977204213021
+    second: Oxy_35_Get up_14
+  - first:
+      213: -649375060538088103
+    second: Oxy_35_Get up_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_35_Get up_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1916
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c03790bb471790800000000000000
+      internalID: -7559490227695203921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_1
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1915
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf7007a1273f8ec0800000000000000
+      internalID: -3562568162551496780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1915
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bc7c96587a85c70800000000000000
+      internalID: 8960095650100792205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_3
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1915
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d03c705588f8c40800000000000000
+      internalID: 5516777967335968040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_4
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1916
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b484335a6d59410800000000000000
+      internalID: 1483327657306770269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_5
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1917
+        width: 63
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a40f364a539c0640800000000000000
+      internalID: 5047571298310358183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_6
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1952
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c740252d9e0c71d30800000000000000
+      internalID: 4402199271266452604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1916
+        width: 117
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d850047e4b2d9150800000000000000
+      internalID: 5880904304369359056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1699
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec67751467ffbf0c0800000000000000
+      internalID: -4540754915905538354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1703
+        width: 124
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b140f928360e31da0800000000000000
+      internalID: -5975185562592672741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1672
+        width: 118
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4df11c27ddd47a30800000000000000
+      internalID: 4212235467725339978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_11
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1666
+        width: 111
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7326fe81d70510f30800000000000000
+      internalID: 4539998397585646135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_12
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1661
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578b6c3a9b70bdd80800000000000000
+      internalID: -8224971800564025227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_13
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1659
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b26c91434ec710800000000000000
+      internalID: 1715382457150386577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_14
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1659
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea95a13890d1adb0800000000000000
+      internalID: -4782311977204213021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_35_Get up_15
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1662
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95521aea2d4fcf6f0800000000000000
+      internalID: -649375060538088103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Oxy_35_Get up_0: -7559490227695203921
+      Oxy_35_Get up_1: -3562568162551496780
+      Oxy_35_Get up_10: 4212235467725339978
+      Oxy_35_Get up_11: 4539998397585646135
+      Oxy_35_Get up_12: -8224971800564025227
+      Oxy_35_Get up_13: 1715382457150386577
+      Oxy_35_Get up_14: -4782311977204213021
+      Oxy_35_Get up_15: -649375060538088103
+      Oxy_35_Get up_2: 8960095650100792205
+      Oxy_35_Get up_3: 5516777967335968040
+      Oxy_35_Get up_4: 1483327657306770269
+      Oxy_35_Get up_5: 5047571298310358183
+      Oxy_35_Get up_6: 4402199271266452604
+      Oxy_35_Get up_7: 5880904304369359056
+      Oxy_35_Get up_8: -4540754915905538354
+      Oxy_35_Get up_9: -5975185562592672741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

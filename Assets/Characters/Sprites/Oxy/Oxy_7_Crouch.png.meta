@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 72edd47663bd6184fb21e58125ee41d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5478419260160892887
+    second: Oxy_7_Crouch_0
+  - first:
+      213: 6102264639647348986
+    second: Oxy_7_Crouch_1
+  - first:
+      213: 4645608851213388109
+    second: Oxy_7_Crouch_2
+  - first:
+      213: -7082089991349528789
+    second: Oxy_7_Crouch_3
+  - first:
+      213: -6486097711771889294
+    second: Oxy_7_Crouch_4
+  - first:
+      213: -2083520549820719480
+    second: Oxy_7_Crouch_5
+  - first:
+      213: 532174924450301484
+    second: Oxy_7_Crouch_6
+  - first:
+      213: 4445462138421842753
+    second: Oxy_7_Crouch_7
+  - first:
+      213: -957786647911970357
+    second: Oxy_7_Crouch_8
+  - first:
+      213: -4115096771930135387
+    second: Oxy_7_Crouch_9
+  - first:
+      213: -2384326483625902071
+    second: Oxy_7_Crouch_10
+  - first:
+      213: 4968107485319170991
+    second: Oxy_7_Crouch_11
+  - first:
+      213: 1629213101114365328
+    second: Oxy_7_Crouch_12
+  - first:
+      213: -1482446116412685871
+    second: Oxy_7_Crouch_13
+  - first:
+      213: -4121827690342968668
+    second: Oxy_7_Crouch_14
+  - first:
+      213: 4653469944588467703
+    second: Oxy_7_Crouch_15
+  - first:
+      213: -2501935126782788336
+    second: Oxy_7_Crouch_16
+  - first:
+      213: -3454610778131181335
+    second: Oxy_7_Crouch_17
+  - first:
+      213: 4158215787171979446
+    second: Oxy_7_Crouch_18
+  - first:
+      213: -2047845200652945039
+    second: Oxy_7_Crouch_19
+  - first:
+      213: -6085370395248213994
+    second: Oxy_7_Crouch_20
+  - first:
+      213: -6652609939884035427
+    second: Oxy_7_Crouch_21
+  - first:
+      213: -4262098397691579850
+    second: Oxy_7_Crouch_22
+  - first:
+      213: -155742068127751662
+    second: Oxy_7_Crouch_23
+  - first:
+      213: 2641580216657585090
+    second: Oxy_7_Crouch_24
+  - first:
+      213: -2127609656747215971
+    second: Oxy_7_Crouch_25
+  - first:
+      213: 8142231423418535934
+    second: Oxy_7_Crouch_26
+  - first:
+      213: -6096381013824441894
+    second: Oxy_7_Crouch_27
+  - first:
+      213: 8169810632854984867
+    second: Oxy_7_Crouch_28
+  - first:
+      213: 688870947781353527
+    second: Oxy_7_Crouch_29
+  - first:
+      213: 7462704311784738848
+    second: Oxy_7_Crouch_30
+  - first:
+      213: 9120799728244914362
+    second: Oxy_7_Crouch_31
+  - first:
+      213: 7982799167662661673
+    second: Oxy_7_Crouch_32
+  - first:
+      213: -453562899989493223
+    second: Oxy_7_Crouch_33
+  - first:
+      213: -7450387986989855743
+    second: Oxy_7_Crouch_34
+  - first:
+      213: 1127834805675547315
+    second: Oxy_7_Crouch_35
+  - first:
+      213: 3260634894034817322
+    second: Oxy_7_Crouch_36
+  - first:
+      213: 5881835411486751465
+    second: Oxy_7_Crouch_37
+  - first:
+      213: -3090154475299498221
+    second: Oxy_7_Crouch_38
+  - first:
+      213: -981890823506171934
+    second: Oxy_7_Crouch_39
+  - first:
+      213: -1747479675321625647
+    second: Oxy_7_Crouch_40
+  - first:
+      213: -8765860411629877326
+    second: Oxy_7_Crouch_41
+  - first:
+      213: -3302198340356231292
+    second: Oxy_7_Crouch_42
+  - first:
+      213: -3754572179679168636
+    second: Oxy_7_Crouch_43
+  - first:
+      213: 6151824469998454107
+    second: Oxy_7_Crouch_44
+  - first:
+      213: 1464236581781836231
+    second: Oxy_7_Crouch_45
+  - first:
+      213: -3137547361469918257
+    second: Oxy_7_Crouch_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1918
+        width: 30
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df5c8c8a41470c40800000000000000
+      internalID: 5478419260160892887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1914
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af87b9bcb599fa450800000000000000
+      internalID: 6102264639647348986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1914
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d490cfdf2a4887040800000000000000
+      internalID: 4645608851213388109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1917
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b271346ecac57bd90800000000000000
+      internalID: -7082089991349528789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1916
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271dc57fe70ccf5a0800000000000000
+      internalID: -6486097711771889294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1916
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e95b15919d513e0800000000000000
+      internalID: -2083520549820719480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_6
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1916
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c260b32364aa26700800000000000000
+      internalID: 532174924450301484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_7
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1916
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431517034471bd30800000000000000
+      internalID: 4445462138421842753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1660
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc948984e1245b2f0800000000000000
+      internalID: -957786647911970357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1660
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a46fb4e94d34e6c0800000000000000
+      internalID: -4115096771930135387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1660
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9000ce222bb29eed0800000000000000
+      internalID: -2384326483625902071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_11
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1660
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab886c8f6342f440800000000000000
+      internalID: 4968107485319170991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_12
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1660
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095955bfea02c9610800000000000000
+      internalID: 1629213101114365328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_13
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1660
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d180988c1b4d6be0800000000000000
+      internalID: -1482446116412685871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_14
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1660
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a21db3dd835cc6c0800000000000000
+      internalID: -4121827690342968668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_15
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1660
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf62c6242749040800000000000000
+      internalID: 4653469944588467703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1404
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d3a0d0247574dd0800000000000000
+      internalID: -2501935126782788336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1404
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e05144fcc1ce00d0800000000000000
+      internalID: -3454610778131181335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1404
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0aecd2a33f4b930800000000000000
+      internalID: 4158215787171979446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1404
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179b714d3a79493e0800000000000000
+      internalID: -2047845200652945039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_20
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1405
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6104d800edb6c8ba0800000000000000
+      internalID: -6085370395248213994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_21
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1405
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92baf7b18e2da3a0800000000000000
+      internalID: -6652609939884035427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_22
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1405
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632f4dfb61cf9d4c0800000000000000
+      internalID: -4262098397691579850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_23
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1404
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21229a80a61b6ddf0800000000000000
+      internalID: -155742068127751662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1148
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3239b1637c8a420800000000000000
+      internalID: 2641580216657585090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1148
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9334ec2a463972e0800000000000000
+      internalID: -2127609656747215971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_26
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1148
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff82e717540ff070800000000000000
+      internalID: 8142231423418535934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_27
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1148
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1fe8794cd456ba0800000000000000
+      internalID: -6096381013824441894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_28
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1148
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8d78d2c7ff06170800000000000000
+      internalID: 8169810632854984867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_29
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1148
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730289a2a7c5f8900800000000000000
+      internalID: 688870947781353527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_30
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1148
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02094bf480ad09760800000000000000
+      internalID: 7462704311784738848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_31
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1148
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8748d5707939e70800000000000000
+      internalID: 9120799728244914362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 892
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92021dd5c8998ce60800000000000000
+      internalID: 7982799167662661673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_33
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 892
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a84de02fe94b9f0800000000000000
+      internalID: -453562899989493223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_34
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 892
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cc1a48997ea9890800000000000000
+      internalID: -7450387986989855743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_35
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 892
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3badc9db7cfd6af00800000000000000
+      internalID: 1127834805675547315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_36
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 892
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a215039192a104d20800000000000000
+      internalID: 3260634894034817322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_37
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 892
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea3bf8b42a70a150800000000000000
+      internalID: 5881835411486751465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_38
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 892
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31790b680e09d15d0800000000000000
+      internalID: -3090154475299498221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_39
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 892
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7e2b09f7f9f52f0800000000000000
+      internalID: -981890823506171934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 636
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d35d3c6e74bfb7e0800000000000000
+      internalID: -1747479675321625647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 636
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7442e2668695680800000000000000
+      internalID: -8765860411629877326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_42
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 637
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fae21fa1c3c22d0800000000000000
+      internalID: -3302198340356231292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 636
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487b8a2ce7415ebc0800000000000000
+      internalID: -3754572179679168636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_44
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 636
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5540def2cbaf5550800000000000000
+      internalID: 6151824469998454107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_45
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 637
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c11d3cc963025410800000000000000
+      internalID: 1464236581781836231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_7_Crouch_46
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 637
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31f955c413574d0800000000000000
+      internalID: -3137547361469918257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Oxy_7_Crouch_0: 5478419260160892887
+      Oxy_7_Crouch_1: 6102264639647348986
+      Oxy_7_Crouch_10: -2384326483625902071
+      Oxy_7_Crouch_11: 4968107485319170991
+      Oxy_7_Crouch_12: 1629213101114365328
+      Oxy_7_Crouch_13: -1482446116412685871
+      Oxy_7_Crouch_14: -4121827690342968668
+      Oxy_7_Crouch_15: 4653469944588467703
+      Oxy_7_Crouch_16: -2501935126782788336
+      Oxy_7_Crouch_17: -3454610778131181335
+      Oxy_7_Crouch_18: 4158215787171979446
+      Oxy_7_Crouch_19: -2047845200652945039
+      Oxy_7_Crouch_2: 4645608851213388109
+      Oxy_7_Crouch_20: -6085370395248213994
+      Oxy_7_Crouch_21: -6652609939884035427
+      Oxy_7_Crouch_22: -4262098397691579850
+      Oxy_7_Crouch_23: -155742068127751662
+      Oxy_7_Crouch_24: 2641580216657585090
+      Oxy_7_Crouch_25: -2127609656747215971
+      Oxy_7_Crouch_26: 8142231423418535934
+      Oxy_7_Crouch_27: -6096381013824441894
+      Oxy_7_Crouch_28: 8169810632854984867
+      Oxy_7_Crouch_29: 688870947781353527
+      Oxy_7_Crouch_3: -7082089991349528789
+      Oxy_7_Crouch_30: 7462704311784738848
+      Oxy_7_Crouch_31: 9120799728244914362
+      Oxy_7_Crouch_32: 7982799167662661673
+      Oxy_7_Crouch_33: -453562899989493223
+      Oxy_7_Crouch_34: -7450387986989855743
+      Oxy_7_Crouch_35: 1127834805675547315
+      Oxy_7_Crouch_36: 3260634894034817322
+      Oxy_7_Crouch_37: 5881835411486751465
+      Oxy_7_Crouch_38: -3090154475299498221
+      Oxy_7_Crouch_39: -981890823506171934
+      Oxy_7_Crouch_4: -6486097711771889294
+      Oxy_7_Crouch_40: -1747479675321625647
+      Oxy_7_Crouch_41: -8765860411629877326
+      Oxy_7_Crouch_42: -3302198340356231292
+      Oxy_7_Crouch_43: -3754572179679168636
+      Oxy_7_Crouch_44: 6151824469998454107
+      Oxy_7_Crouch_45: 1464236581781836231
+      Oxy_7_Crouch_46: -3137547361469918257
+      Oxy_7_Crouch_5: -2083520549820719480
+      Oxy_7_Crouch_6: 532174924450301484
+      Oxy_7_Crouch_7: 4445462138421842753
+      Oxy_7_Crouch_8: -957786647911970357
+      Oxy_7_Crouch_9: -4115096771930135387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

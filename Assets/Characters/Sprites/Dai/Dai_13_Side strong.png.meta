@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 2c9dd1c5a1a9ff149b26611e9a2ec222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8435026328749111147
+    second: Dai_13_Side strong_0
+  - first:
+      213: 565211382592387191
+    second: Dai_13_Side strong_1
+  - first:
+      213: 4190604659605393160
+    second: Dai_13_Side strong_2
+  - first:
+      213: -7147751555124323943
+    second: Dai_13_Side strong_3
+  - first:
+      213: -2005528852458488911
+    second: Dai_13_Side strong_4
+  - first:
+      213: -883721563769134251
+    second: Dai_13_Side strong_5
+  - first:
+      213: -1942274612710952789
+    second: Dai_13_Side strong_6
+  - first:
+      213: 4475890099726168597
+    second: Dai_13_Side strong_7
+  - first:
+      213: 2084086942612591058
+    second: Dai_13_Side strong_8
+  - first:
+      213: 5793630838910678134
+    second: Dai_13_Side strong_9
+  - first:
+      213: -4861367363944975488
+    second: Dai_13_Side strong_10
+  - first:
+      213: 4017493654600805342
+    second: Dai_13_Side strong_11
+  - first:
+      213: -4461319800038577401
+    second: Dai_13_Side strong_12
+  - first:
+      213: -4267340483279092573
+    second: Dai_13_Side strong_13
+  - first:
+      213: -5592854831868460840
+    second: Dai_13_Side strong_14
+  - first:
+      213: 7958244293970414771
+    second: Dai_13_Side strong_15
+  - first:
+      213: -1629491804457364147
+    second: Dai_13_Side strong_16
+  - first:
+      213: -8975134384046530478
+    second: Dai_13_Side strong_17
+  - first:
+      213: 4026125378282187568
+    second: Dai_13_Side strong_18
+  - first:
+      213: 7716061711037530006
+    second: Dai_13_Side strong_19
+  - first:
+      213: 4564218013949454991
+    second: Dai_13_Side strong_20
+  - first:
+      213: -9198805745114232932
+    second: Dai_13_Side strong_21
+  - first:
+      213: -3418281645520245333
+    second: Dai_13_Side strong_22
+  - first:
+      213: 228625584306923378
+    second: Dai_13_Side strong_23
+  - first:
+      213: -5434225078931045716
+    second: Dai_13_Side strong_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dai_13_Side strong_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1811
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59887d3ae34c0fa80800000000000000
+      internalID: -8435026328749111147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1819
+        width: 88
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7783d6202c808d700800000000000000
+      internalID: 565211382592387191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1830
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f40e13cb4082a30800000000000000
+      internalID: 4190604659605393160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1843
+        width: 137
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999911eb4d51ecc90800000000000000
+      internalID: -7147751555124323943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_4
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1843
+        width: 137
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb3a6a622eea24e0800000000000000
+      internalID: -2005528852458488911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_5
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1843
+        width: 137
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553203f7be36cb3f0800000000000000
+      internalID: -883721563769134251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_6
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1843
+        width: 137
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ba15c787ab05e0800000000000000
+      internalID: -1942274612710952789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_7
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1843
+        width: 137
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512bdd7d45e8d1e30800000000000000
+      internalID: 4475890099726168597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1587
+        width: 137
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d11477480a2cec10800000000000000
+      internalID: 2084086942612591058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1587
+        width: 137
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674f4015d8c176050800000000000000
+      internalID: 5793630838910678134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1587
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083f16d9324f88cb0800000000000000
+      internalID: -4861367363944975488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_11
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1587
+        width: 103
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbedd9713101c730800000000000000
+      internalID: 4017493654600805342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_12
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1586
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ba84967453612c0800000000000000
+      internalID: -4461319800038577401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_13
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1586
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a48186907c57c4c0800000000000000
+      internalID: -4267340483279092573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_14
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1587
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d04722a9203262b0800000000000000
+      internalID: -5592854831868460840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_15
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1587
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcc2e1550d517e60800000000000000
+      internalID: 7958244293970414771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1332
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4598e656d1e269e0800000000000000
+      internalID: -1629491804457364147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1333
+        width: 96
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250238b74dae17380800000000000000
+      internalID: -8975134384046530478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1358
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03be1b143bbafd730800000000000000
+      internalID: 4026125378282187568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1382
+        width: 83
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f7267ae35f41b60800000000000000
+      internalID: 7716061711037530006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1406
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a65e6f91c575f30800000000000000
+      internalID: 4564218013949454991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_21
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1406
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c4a489e6475080800000000000000
+      internalID: -9198805745114232932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_22
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1406
+        width: 75
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad278844f2df80d0800000000000000
+      internalID: -3418281645520245333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_23
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1406
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2772e23f1cd3c2300800000000000000
+      internalID: 228625584306923378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_13_Side strong_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1150
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2cbcc1511c594b0800000000000000
+      internalID: -5434225078931045716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dai_13_Side strong_0: -8435026328749111147
+      Dai_13_Side strong_1: 565211382592387191
+      Dai_13_Side strong_10: -4861367363944975488
+      Dai_13_Side strong_11: 4017493654600805342
+      Dai_13_Side strong_12: -4461319800038577401
+      Dai_13_Side strong_13: -4267340483279092573
+      Dai_13_Side strong_14: -5592854831868460840
+      Dai_13_Side strong_15: 7958244293970414771
+      Dai_13_Side strong_16: -1629491804457364147
+      Dai_13_Side strong_17: -8975134384046530478
+      Dai_13_Side strong_18: 4026125378282187568
+      Dai_13_Side strong_19: 7716061711037530006
+      Dai_13_Side strong_2: 4190604659605393160
+      Dai_13_Side strong_20: 4564218013949454991
+      Dai_13_Side strong_21: -9198805745114232932
+      Dai_13_Side strong_22: -3418281645520245333
+      Dai_13_Side strong_23: 228625584306923378
+      Dai_13_Side strong_24: -5434225078931045716
+      Dai_13_Side strong_3: -7147751555124323943
+      Dai_13_Side strong_4: -2005528852458488911
+      Dai_13_Side strong_5: -883721563769134251
+      Dai_13_Side strong_6: -1942274612710952789
+      Dai_13_Side strong_7: 4475890099726168597
+      Dai_13_Side strong_8: 2084086942612591058
+      Dai_13_Side strong_9: 5793630838910678134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

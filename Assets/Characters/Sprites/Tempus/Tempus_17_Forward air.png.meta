@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: b50244db7068164449afdd8fc168f40e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4307588573761153311
+    second: Tempus_17_Forward air_0
+  - first:
+      213: 1769878604233290907
+    second: Tempus_17_Forward air_1
+  - first:
+      213: -7596745897358872082
+    second: Tempus_17_Forward air_2
+  - first:
+      213: -3059737847141047507
+    second: Tempus_17_Forward air_3
+  - first:
+      213: -2928674063238453751
+    second: Tempus_17_Forward air_4
+  - first:
+      213: -6470379647337687871
+    second: Tempus_17_Forward air_5
+  - first:
+      213: -5801985918719054328
+    second: Tempus_17_Forward air_6
+  - first:
+      213: 4533649388058716462
+    second: Tempus_17_Forward air_7
+  - first:
+      213: 6243880116449786561
+    second: Tempus_17_Forward air_8
+  - first:
+      213: 7822972436483895868
+    second: Tempus_17_Forward air_9
+  - first:
+      213: -1021467921590549593
+    second: Tempus_17_Forward air_10
+  - first:
+      213: -5700732109653318336
+    second: Tempus_17_Forward air_11
+  - first:
+      213: 103940778458035949
+    second: Tempus_17_Forward air_12
+  - first:
+      213: 7084093063677018320
+    second: Tempus_17_Forward air_13
+  - first:
+      213: -3668329781904375782
+    second: Tempus_17_Forward air_14
+  - first:
+      213: 7413016050276481250
+    second: Tempus_17_Forward air_15
+  - first:
+      213: -1655448129997491336
+    second: Tempus_17_Forward air_16
+  - first:
+      213: -515267533063792625
+    second: Tempus_17_Forward air_17
+  - first:
+      213: 3482998555336596093
+    second: Tempus_17_Forward air_18
+  - first:
+      213: -3953798932814415487
+    second: Tempus_17_Forward air_19
+  - first:
+      213: 5481659621083140535
+    second: Tempus_17_Forward air_20
+  - first:
+      213: 6880118689045707463
+    second: Tempus_17_Forward air_21
+  - first:
+      213: 4258776780272981124
+    second: Tempus_17_Forward air_22
+  - first:
+      213: -4784836870315644285
+    second: Tempus_17_Forward air_23
+  - first:
+      213: 7022730891269366683
+    second: Tempus_17_Forward air_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1924
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e65f66c30f5834c0800000000000000
+      internalID: -4307588573761153311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1926
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94b3ec963fdf8810800000000000000
+      internalID: 1769878604233290907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1930
+        width: 65
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1b40b0bdfe29690800000000000000
+      internalID: -7596745897358872082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_3
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1936
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23e653a3a0a985d0800000000000000
+      internalID: -3059737847141047507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_4
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1943
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906a5cdc4724b57d0800000000000000
+      internalID: -2928674063238453751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_5
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1951
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c415860ef79436a0800000000000000
+      internalID: -6470379647337687871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_6
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1945
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eaee21c843b7fa0800000000000000
+      internalID: -5801985918719054328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_7
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1935
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29286f1912caee30800000000000000
+      internalID: 4533649388058716462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1679
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca3d1962e7b6a650800000000000000
+      internalID: 6243880116449786561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1678
+        width: 109
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c327b4cabf7c09c60800000000000000
+      internalID: 7822972436483895868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_10
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1678
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a38328565403d1f0800000000000000
+      internalID: -1021467921590549593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1676
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045637c995ee2e0b0800000000000000
+      internalID: -5700732109653318336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_12
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1675
+        width: 107
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de63ba95695417100800000000000000
+      internalID: 103940778458035949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_13
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1673
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d00748bb11cf4260800000000000000
+      internalID: 7084093063677018320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_14
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1672
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a108a9ebf79771dc0800000000000000
+      internalID: -3668329781904375782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_15
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1671
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8bff662d250e660800000000000000
+      internalID: 7413016050276481250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1414
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8733a6b52baa609e0800000000000000
+      internalID: -1655448129997491336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1413
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08d07f98e669d8f0800000000000000
+      internalID: -515267533063792625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1412
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a590c7bb8165030800000000000000
+      internalID: 3482998555336596093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_19
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1411
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189374891d84129c0800000000000000
+      internalID: -3953798932814415487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_20
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1411
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1534ed164c21c40800000000000000
+      internalID: 5481659621083140535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_21
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1411
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7819ce771b7f50800000000000000
+      internalID: 6880118689045707463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_22
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1411
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845addeae63a1b30800000000000000
+      internalID: 4258776780272981124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_23
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1412
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ae4a4b738d89db0800000000000000
+      internalID: -4784836870315644285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_17_Forward air_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1156
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93e54f9980c57160800000000000000
+      internalID: 7022730891269366683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_17_Forward air_0: -4307588573761153311
+      Tempus_17_Forward air_1: 1769878604233290907
+      Tempus_17_Forward air_10: -1021467921590549593
+      Tempus_17_Forward air_11: -5700732109653318336
+      Tempus_17_Forward air_12: 103940778458035949
+      Tempus_17_Forward air_13: 7084093063677018320
+      Tempus_17_Forward air_14: -3668329781904375782
+      Tempus_17_Forward air_15: 7413016050276481250
+      Tempus_17_Forward air_16: -1655448129997491336
+      Tempus_17_Forward air_17: -515267533063792625
+      Tempus_17_Forward air_18: 3482998555336596093
+      Tempus_17_Forward air_19: -3953798932814415487
+      Tempus_17_Forward air_2: -7596745897358872082
+      Tempus_17_Forward air_20: 5481659621083140535
+      Tempus_17_Forward air_21: 6880118689045707463
+      Tempus_17_Forward air_22: 4258776780272981124
+      Tempus_17_Forward air_23: -4784836870315644285
+      Tempus_17_Forward air_24: 7022730891269366683
+      Tempus_17_Forward air_3: -3059737847141047507
+      Tempus_17_Forward air_4: -2928674063238453751
+      Tempus_17_Forward air_5: -6470379647337687871
+      Tempus_17_Forward air_6: -5801985918719054328
+      Tempus_17_Forward air_7: 4533649388058716462
+      Tempus_17_Forward air_8: 6243880116449786561
+      Tempus_17_Forward air_9: 7822972436483895868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 2033ed1357dcd7b4cbe8471edef1aa14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5318443525927630424
+    second: Dai_7_Crouch_0
+  - first:
+      213: 6747489727411095506
+    second: Dai_7_Crouch_1
+  - first:
+      213: -4974387179153231418
+    second: Dai_7_Crouch_2
+  - first:
+      213: -7194180966254926316
+    second: Dai_7_Crouch_3
+  - first:
+      213: -3951076912825637839
+    second: Dai_7_Crouch_4
+  - first:
+      213: 7074883971237591249
+    second: Dai_7_Crouch_5
+  - first:
+      213: -737302599818276394
+    second: Dai_7_Crouch_6
+  - first:
+      213: -6753923669023092442
+    second: Dai_7_Crouch_7
+  - first:
+      213: -4388311276054378911
+    second: Dai_7_Crouch_8
+  - first:
+      213: 3944564292161989797
+    second: Dai_7_Crouch_9
+  - first:
+      213: -5276565924903612876
+    second: Dai_7_Crouch_10
+  - first:
+      213: -6047870706258803916
+    second: Dai_7_Crouch_11
+  - first:
+      213: 4764306775085736824
+    second: Dai_7_Crouch_12
+  - first:
+      213: 3801520330327636247
+    second: Dai_7_Crouch_13
+  - first:
+      213: -8153175611022510737
+    second: Dai_7_Crouch_14
+  - first:
+      213: 9212165530632752100
+    second: Dai_7_Crouch_15
+  - first:
+      213: 1870399612910142681
+    second: Dai_7_Crouch_16
+  - first:
+      213: 2261136594250200274
+    second: Dai_7_Crouch_17
+  - first:
+      213: -6806062192256198668
+    second: Dai_7_Crouch_18
+  - first:
+      213: 1416404516482701
+    second: Dai_7_Crouch_19
+  - first:
+      213: 846378860931959409
+    second: Dai_7_Crouch_20
+  - first:
+      213: 8199362166597622835
+    second: Dai_7_Crouch_21
+  - first:
+      213: -5618708534042749855
+    second: Dai_7_Crouch_22
+  - first:
+      213: 449967998758956343
+    second: Dai_7_Crouch_23
+  - first:
+      213: 6843870641004186773
+    second: Dai_7_Crouch_24
+  - first:
+      213: 8921014643231805916
+    second: Dai_7_Crouch_25
+  - first:
+      213: 8901360140340532511
+    second: Dai_7_Crouch_26
+  - first:
+      213: -6231032990819238859
+    second: Dai_7_Crouch_27
+  - first:
+      213: 2124248224539632422
+    second: Dai_7_Crouch_28
+  - first:
+      213: 8453791292673141966
+    second: Dai_7_Crouch_29
+  - first:
+      213: 5346678020928868623
+    second: Dai_7_Crouch_30
+  - first:
+      213: -8005610878701640942
+    second: Dai_7_Crouch_31
+  - first:
+      213: -2939447156901674445
+    second: Dai_7_Crouch_32
+  - first:
+      213: 1001524468727467411
+    second: Dai_7_Crouch_33
+  - first:
+      213: -5546046393725713789
+    second: Dai_7_Crouch_34
+  - first:
+      213: 4987390399351410137
+    second: Dai_7_Crouch_35
+  - first:
+      213: 8990909069857051379
+    second: Dai_7_Crouch_36
+  - first:
+      213: 2307931166413375697
+    second: Dai_7_Crouch_37
+  - first:
+      213: 5189645663884516176
+    second: Dai_7_Crouch_38
+  - first:
+      213: 2005770923414776969
+    second: Dai_7_Crouch_39
+  - first:
+      213: 8892762446939490188
+    second: Dai_7_Crouch_40
+  - first:
+      213: 3978953285075553034
+    second: Dai_7_Crouch_41
+  - first:
+      213: -3196972033323019900
+    second: Dai_7_Crouch_42
+  - first:
+      213: 3892904423918208963
+    second: Dai_7_Crouch_43
+  - first:
+      213: 4234949433121782264
+    second: Dai_7_Crouch_44
+  - first:
+      213: -7418820145098233932
+    second: Dai_7_Crouch_45
+  - first:
+      213: -359288576154674278
+    second: Dai_7_Crouch_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dai_7_Crouch_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1918
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a98b1f9ac71136b0800000000000000
+      internalID: -5318443525927630424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1913
+        width: 79
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d78fe74826e3ad50800000000000000
+      internalID: 6747489727411095506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1913
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1705b473d67fab0800000000000000
+      internalID: -4974387179153231418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1914
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416af701782292c90800000000000000
+      internalID: -7194180966254926316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_4
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1914
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e7c24b74fa29c0800000000000000
+      internalID: -3951076912825637839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_5
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1914
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8b8bccc790f2260800000000000000
+      internalID: 7074883971237591249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_6
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1914
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d11cdd113394c5f0800000000000000
+      internalID: -737302599818276394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_7
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1914
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62196c3f43e3542a0800000000000000
+      internalID: -6753923669023092442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1658
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16600fa05269913c0800000000000000
+      internalID: -4388311276054378911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1658
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac61041358edb630800000000000000
+      internalID: 3944564292161989797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1658
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e803c6f3fd5c6b0800000000000000
+      internalID: -5276565924903612876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_11
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1658
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43304f9b2a5a11ca0800000000000000
+      internalID: -6047870706258803916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_12
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1658
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873e8f105c73e1240800000000000000
+      internalID: 4764306775085736824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_13
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1658
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719ba9f5996b1c430800000000000000
+      internalID: 3801520330327636247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_14
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1658
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65ff99aaf91ade80800000000000000
+      internalID: -8153175611022510737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_15
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1658
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb8671fdbf28df70800000000000000
+      internalID: 9212165530632752100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1402
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d48983c98ef4f910800000000000000
+      internalID: 1870399612910142681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1402
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d47be0a0cb216f10800000000000000
+      internalID: 2261136594250200274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1402
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f75a570f720c81a0800000000000000
+      internalID: -6806062192256198668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1402
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e20106638050000800000000000000
+      internalID: 1416404516482701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_20
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1402
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17acf37f611febb00800000000000000
+      internalID: 846378860931959409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_21
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1402
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c14dcc27cf9c170800000000000000
+      internalID: 8199362166597622835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_22
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1402
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1641de38b565602b0800000000000000
+      internalID: -5618708534042749855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_23
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1402
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2256c28b9e3600800000000000000
+      internalID: 449967998758956343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1146
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c87cd66105afe50800000000000000
+      internalID: 6843870641004186773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_25
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1146
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1d3ed6d8fcdcb70800000000000000
+      internalID: 8921014643231805916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1146
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1591ded2ebf78b70800000000000000
+      internalID: 8901360140340532511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1146
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cba7e128ce689a0800000000000000
+      internalID: -6231032990819238859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_28
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1146
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62360766188da7d10800000000000000
+      internalID: 2124248224539632422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_29
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1146
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecca21df366e15570800000000000000
+      internalID: 8453791292673141966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_30
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1146
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f019ad50557333a40800000000000000
+      internalID: 5346678020928868623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_31
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1146
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2136cf4425b56e090800000000000000
+      internalID: -8005610878701640942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 890
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33208d8726cf437d0800000000000000
+      internalID: -2939447156901674445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 890
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dcc50b23126ed00800000000000000
+      internalID: 1001524468727467411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_34
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 890
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382842a603c7803b0800000000000000
+      internalID: -5546046393725713789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_35
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 890
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddc885d425c63540800000000000000
+      internalID: 4987390399351410137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_36
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 890
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2daa4c92026cc70800000000000000
+      internalID: 8990909069857051379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_37
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 890
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d84f1cfa2b670020800000000000000
+      internalID: 2307931166413375697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_38
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 890
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b9bf14c33550840800000000000000
+      internalID: 5189645663884516176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_39
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 890
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ce1fe170ee5db10800000000000000
+      internalID: 2005770923414776969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 634
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8703c16450796b70800000000000000
+      internalID: 8892762446939490188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_41
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 634
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b4dce6ee4183730800000000000000
+      internalID: 3978953285075553034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_42
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 634
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4815cecbfd212a3d0800000000000000
+      internalID: -3196972033323019900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_43
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 634
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c70134b2ff560630800000000000000
+      internalID: 3892904423918208963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_44
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 634
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f937fa521095ca30800000000000000
+      internalID: 4234949433121782264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_45
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 634
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b768e6726e0b0990800000000000000
+      internalID: -7418820145098233932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dai_7_Crouch_46
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 634
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bd17e81fc830bf0800000000000000
+      internalID: -359288576154674278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dai_7_Crouch_0: -5318443525927630424
+      Dai_7_Crouch_1: 6747489727411095506
+      Dai_7_Crouch_10: -5276565924903612876
+      Dai_7_Crouch_11: -6047870706258803916
+      Dai_7_Crouch_12: 4764306775085736824
+      Dai_7_Crouch_13: 3801520330327636247
+      Dai_7_Crouch_14: -8153175611022510737
+      Dai_7_Crouch_15: 9212165530632752100
+      Dai_7_Crouch_16: 1870399612910142681
+      Dai_7_Crouch_17: 2261136594250200274
+      Dai_7_Crouch_18: -6806062192256198668
+      Dai_7_Crouch_19: 1416404516482701
+      Dai_7_Crouch_2: -4974387179153231418
+      Dai_7_Crouch_20: 846378860931959409
+      Dai_7_Crouch_21: 8199362166597622835
+      Dai_7_Crouch_22: -5618708534042749855
+      Dai_7_Crouch_23: 449967998758956343
+      Dai_7_Crouch_24: 6843870641004186773
+      Dai_7_Crouch_25: 8921014643231805916
+      Dai_7_Crouch_26: 8901360140340532511
+      Dai_7_Crouch_27: -6231032990819238859
+      Dai_7_Crouch_28: 2124248224539632422
+      Dai_7_Crouch_29: 8453791292673141966
+      Dai_7_Crouch_3: -7194180966254926316
+      Dai_7_Crouch_30: 5346678020928868623
+      Dai_7_Crouch_31: -8005610878701640942
+      Dai_7_Crouch_32: -2939447156901674445
+      Dai_7_Crouch_33: 1001524468727467411
+      Dai_7_Crouch_34: -5546046393725713789
+      Dai_7_Crouch_35: 4987390399351410137
+      Dai_7_Crouch_36: 8990909069857051379
+      Dai_7_Crouch_37: 2307931166413375697
+      Dai_7_Crouch_38: 5189645663884516176
+      Dai_7_Crouch_39: 2005770923414776969
+      Dai_7_Crouch_4: -3951076912825637839
+      Dai_7_Crouch_40: 8892762446939490188
+      Dai_7_Crouch_41: 3978953285075553034
+      Dai_7_Crouch_42: -3196972033323019900
+      Dai_7_Crouch_43: 3892904423918208963
+      Dai_7_Crouch_44: 4234949433121782264
+      Dai_7_Crouch_45: -7418820145098233932
+      Dai_7_Crouch_46: -359288576154674278
+      Dai_7_Crouch_5: 7074883971237591249
+      Dai_7_Crouch_6: -737302599818276394
+      Dai_7_Crouch_7: -6753923669023092442
+      Dai_7_Crouch_8: -4388311276054378911
+      Dai_7_Crouch_9: 3944564292161989797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

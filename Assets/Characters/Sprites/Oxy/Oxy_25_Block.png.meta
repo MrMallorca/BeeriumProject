@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 4e30a065af1152b47b91c4a493a19256
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1373679128241116729
+    second: Oxy_25_Block_0
+  - first:
+      213: -6134788993744882838
+    second: Oxy_25_Block_1
+  - first:
+      213: -5615929009385812581
+    second: Oxy_25_Block_2
+  - first:
+      213: 4580583116047088174
+    second: Oxy_25_Block_3
+  - first:
+      213: -6141647714680870624
+    second: Oxy_25_Block_4
+  - first:
+      213: -6138468008895225827
+    second: Oxy_25_Block_5
+  - first:
+      213: 224358276653207986
+    second: Oxy_25_Block_6
+  - first:
+      213: 5397320751170928108
+    second: Oxy_25_Block_7
+  - first:
+      213: -847847862517945964
+    second: Oxy_25_Block_8
+  - first:
+      213: -6368541944878577779
+    second: Oxy_25_Block_9
+  - first:
+      213: 3860716652010637815
+    second: Oxy_25_Block_10
+  - first:
+      213: -4876784771056760335
+    second: Oxy_25_Block_11
+  - first:
+      213: 4109908789259922343
+    second: Oxy_25_Block_12
+  - first:
+      213: 464604829562648043
+    second: Oxy_25_Block_13
+  - first:
+      213: 7494295520378804148
+    second: Oxy_25_Block_14
+  - first:
+      213: 2094943241599997781
+    second: Oxy_25_Block_15
+  - first:
+      213: 5140036330772865313
+    second: Oxy_25_Block_16
+  - first:
+      213: 5032496114621887780
+    second: Oxy_25_Block_17
+  - first:
+      213: -7682769504738115518
+    second: Oxy_25_Block_18
+  - first:
+      213: 7447556655223929053
+    second: Oxy_25_Block_19
+  - first:
+      213: -878525587719768929
+    second: Oxy_25_Block_20
+  - first:
+      213: -1408984376651987714
+    second: Oxy_25_Block_21
+  - first:
+      213: 3526326072291100001
+    second: Oxy_25_Block_22
+  - first:
+      213: -7323105827993744274
+    second: Oxy_25_Block_23
+  - first:
+      213: -7552376011567633131
+    second: Oxy_25_Block_24
+  - first:
+      213: 7019524048123060345
+    second: Oxy_25_Block_25
+  - first:
+      213: -4904535249083336436
+    second: Oxy_25_Block_26
+  - first:
+      213: -2267790793527787610
+    second: Oxy_25_Block_27
+  - first:
+      213: -4026878478730670985
+    second: Oxy_25_Block_28
+  - first:
+      213: -4909538378563652498
+    second: Oxy_25_Block_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_25_Block_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1917
+        width: 35
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9361e2a93e9401310800000000000000
+      internalID: 1373679128241116729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1917
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633cd7e9e9dcdaa0800000000000000
+      internalID: -6134788993744882838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1917
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d4fb702563012b0800000000000000
+      internalID: -5615929009385812581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_3
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1917
+        width: 37
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a73283310819f30800000000000000
+      internalID: 4580583116047088174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_4
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1917
+        width: 38
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0296bde71fb74caa0800000000000000
+      internalID: -6141647714680870624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_5
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1917
+        width: 39
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1063b07ed7cfcaa0800000000000000
+      internalID: -6138468008895225827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_6
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1917
+        width: 38
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b15556f9a41d1300800000000000000
+      internalID: 224358276653207986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_7
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1917
+        width: 39
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced336080a227ea40800000000000000
+      internalID: 5397320751170928108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1662
+        width: 40
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4992b037cd6db34f0800000000000000
+      internalID: -847847862517945964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1661
+        width: 40
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d874656d7d46e97a0800000000000000
+      internalID: -6368541944878577779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1661
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9878d0755049530800000000000000
+      internalID: 3860716652010637815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_11
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1662
+        width: 41
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9802bc61e225cb0800000000000000
+      internalID: -4876784771056760335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_12
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1662
+        width: 42
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abe713c444590930800000000000000
+      internalID: 4109908789259922343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_13
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1662
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5330381ab927600800000000000000
+      internalID: 464604829562648043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_14
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1662
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7dafdb116110860800000000000000
+      internalID: 7494295520378804148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_15
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1662
+        width: 43
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575c2c57cbb21d10800000000000000
+      internalID: 2094943241599997781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1406
+        width: 42
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121a15c4fc3155740800000000000000
+      internalID: 5140036330772865313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1406
+        width: 42
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425329d8d8407d540800000000000000
+      internalID: 5032496114621887780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_18
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1405
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24081ea27d1516590800000000000000
+      internalID: -7682769504738115518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1405
+        width: 40
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8f73fa1590b5760800000000000000
+      internalID: 7447556655223929053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_20
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1405
+        width: 40
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f943fd1f1a9dec3f0800000000000000
+      internalID: -878525587719768929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_21
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1405
+        width: 39
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4459fac28427ce0800000000000000
+      internalID: -1408984376651987714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_22
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1405
+        width: 39
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1650c1521e600f030800000000000000
+      internalID: 3526326072291100001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_23
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1405
+        width: 38
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c07d58c0a1f5a90800000000000000
+      internalID: -7323105827993744274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1149
+        width: 38
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d645c1802903790800000000000000
+      internalID: -7552376011567633131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_25
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1149
+        width: 38
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970efa44eeb5a6160800000000000000
+      internalID: 7019524048123060345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_26
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1149
+        width: 37
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0971022d279febb0800000000000000
+      internalID: -4904535249083336436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_27
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1149
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afffded9403780e0800000000000000
+      internalID: -2267790793527787610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_28
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1149
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cc791eb57ad18c0800000000000000
+      internalID: -4026878478730670985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_25_Block_29
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1149
+        width: 35
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64f0964bd0dddbb0800000000000000
+      internalID: -4909538378563652498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Oxy_25_Block_0: 1373679128241116729
+      Oxy_25_Block_1: -6134788993744882838
+      Oxy_25_Block_10: 3860716652010637815
+      Oxy_25_Block_11: -4876784771056760335
+      Oxy_25_Block_12: 4109908789259922343
+      Oxy_25_Block_13: 464604829562648043
+      Oxy_25_Block_14: 7494295520378804148
+      Oxy_25_Block_15: 2094943241599997781
+      Oxy_25_Block_16: 5140036330772865313
+      Oxy_25_Block_17: 5032496114621887780
+      Oxy_25_Block_18: -7682769504738115518
+      Oxy_25_Block_19: 7447556655223929053
+      Oxy_25_Block_2: -5615929009385812581
+      Oxy_25_Block_20: -878525587719768929
+      Oxy_25_Block_21: -1408984376651987714
+      Oxy_25_Block_22: 3526326072291100001
+      Oxy_25_Block_23: -7323105827993744274
+      Oxy_25_Block_24: -7552376011567633131
+      Oxy_25_Block_25: 7019524048123060345
+      Oxy_25_Block_26: -4904535249083336436
+      Oxy_25_Block_27: -2267790793527787610
+      Oxy_25_Block_28: -4026878478730670985
+      Oxy_25_Block_29: -4909538378563652498
+      Oxy_25_Block_3: 4580583116047088174
+      Oxy_25_Block_4: -6141647714680870624
+      Oxy_25_Block_5: -6138468008895225827
+      Oxy_25_Block_6: 224358276653207986
+      Oxy_25_Block_7: 5397320751170928108
+      Oxy_25_Block_8: -847847862517945964
+      Oxy_25_Block_9: -6368541944878577779
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

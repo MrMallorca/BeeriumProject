@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: f6b542c2f84affc4a9d1e125e75c085f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8685390803875274587
+    second: Tempus_7_Crouch_0
+  - first:
+      213: 1871001771332511058
+    second: Tempus_7_Crouch_1
+  - first:
+      213: -3745764087143363440
+    second: Tempus_7_Crouch_2
+  - first:
+      213: -549124993209362836
+    second: Tempus_7_Crouch_3
+  - first:
+      213: 3378170609931066751
+    second: Tempus_7_Crouch_4
+  - first:
+      213: 3975131723426179670
+    second: Tempus_7_Crouch_5
+  - first:
+      213: -8678959731584414840
+    second: Tempus_7_Crouch_6
+  - first:
+      213: -8063784289845702974
+    second: Tempus_7_Crouch_7
+  - first:
+      213: 403103166482108606
+    second: Tempus_7_Crouch_8
+  - first:
+      213: 1126383147617000371
+    second: Tempus_7_Crouch_9
+  - first:
+      213: -2920667964691510062
+    second: Tempus_7_Crouch_10
+  - first:
+      213: -281154598998435271
+    second: Tempus_7_Crouch_11
+  - first:
+      213: 3851888604109874965
+    second: Tempus_7_Crouch_12
+  - first:
+      213: -4682508655466932053
+    second: Tempus_7_Crouch_13
+  - first:
+      213: 1230010325747265559
+    second: Tempus_7_Crouch_14
+  - first:
+      213: -153869137638101731
+    second: Tempus_7_Crouch_15
+  - first:
+      213: 7771398565525542488
+    second: Tempus_7_Crouch_16
+  - first:
+      213: -2760057938692415166
+    second: Tempus_7_Crouch_17
+  - first:
+      213: -3021877918454484389
+    second: Tempus_7_Crouch_18
+  - first:
+      213: -740526521555755638
+    second: Tempus_7_Crouch_19
+  - first:
+      213: -43995530667064560
+    second: Tempus_7_Crouch_20
+  - first:
+      213: -8639641665816070769
+    second: Tempus_7_Crouch_21
+  - first:
+      213: -4652696629646055768
+    second: Tempus_7_Crouch_22
+  - first:
+      213: 7962269607153230632
+    second: Tempus_7_Crouch_23
+  - first:
+      213: -4941277053396162878
+    second: Tempus_7_Crouch_24
+  - first:
+      213: 6928523514440593354
+    second: Tempus_7_Crouch_25
+  - first:
+      213: -3822179967660528887
+    second: Tempus_7_Crouch_26
+  - first:
+      213: 8893624629215916800
+    second: Tempus_7_Crouch_27
+  - first:
+      213: 586737152363530629
+    second: Tempus_7_Crouch_28
+  - first:
+      213: 886990014053149265
+    second: Tempus_7_Crouch_29
+  - first:
+      213: 9106573133863489548
+    second: Tempus_7_Crouch_30
+  - first:
+      213: -1432625809873628177
+    second: Tempus_7_Crouch_31
+  - first:
+      213: 223659337204651540
+    second: Tempus_7_Crouch_32
+  - first:
+      213: -4489702016618160809
+    second: Tempus_7_Crouch_33
+  - first:
+      213: 5376992017079155165
+    second: Tempus_7_Crouch_34
+  - first:
+      213: 8667007624015620260
+    second: Tempus_7_Crouch_35
+  - first:
+      213: -2875175125966160566
+    second: Tempus_7_Crouch_36
+  - first:
+      213: 7469919815182577028
+    second: Tempus_7_Crouch_37
+  - first:
+      213: -7290648781889156452
+    second: Tempus_7_Crouch_38
+  - first:
+      213: 2983277089040555200
+    second: Tempus_7_Crouch_39
+  - first:
+      213: -347091579361963329
+    second: Tempus_7_Crouch_40
+  - first:
+      213: -3952342726219146829
+    second: Tempus_7_Crouch_41
+  - first:
+      213: -2536364068389158501
+    second: Tempus_7_Crouch_42
+  - first:
+      213: -8333490754757536548
+    second: Tempus_7_Crouch_43
+  - first:
+      213: 2560790757605690618
+    second: Tempus_7_Crouch_44
+  - first:
+      213: -1406834098378215881
+    second: Tempus_7_Crouch_45
+  - first:
+      213: -1736146903177315723
+    second: Tempus_7_Crouch_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1917
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f1e604be4b88870800000000000000
+      internalID: 8685390803875274587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1915
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255a662b23227f910800000000000000
+      internalID: 1871001771332511058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1915
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c876d986f540cc0800000000000000
+      internalID: -3745764087143363440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_3
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1915
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6697726abd1168f0800000000000000
+      internalID: -549124993209362836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1915
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d1b9b754ca1ee20800000000000000
+      internalID: 3378170609931066751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_5
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1916
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a2436cd318a2730800000000000000
+      internalID: 3975131723426179670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_6
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1916
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bcdf27b142e8780800000000000000
+      internalID: -8678959731584414840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_7
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1916
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce0f5289eea71090800000000000000
+      internalID: -8063784289845702974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1660
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb05006b13c189500800000000000000
+      internalID: 403103166482108606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1660
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb92b24187b1af00800000000000000
+      internalID: 1126383147617000371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_10
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1660
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc03b1e5f3b777d0800000000000000
+      internalID: -2920667964691510062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_11
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1660
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a1bbfb163291cf0800000000000000
+      internalID: -281154598998435271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_12
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1661
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517285af648a47530800000000000000
+      internalID: 3851888604109874965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_13
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1661
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba89335df23640fb0800000000000000
+      internalID: -4682508655466932053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_14
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1661
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7107a38dfdfd11110800000000000000
+      internalID: 1230010325747265559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_15
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1660
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d6f25a5d85dddf0800000000000000
+      internalID: -153869137638101731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1404
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856512a12dd89db60800000000000000
+      internalID: 7771398565525542488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1405
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241edbc9ded42b9d0800000000000000
+      internalID: -2760057938692415166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1404
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b527ce33b022016d0800000000000000
+      internalID: -3021877918454484389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_19
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1404
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd9e75d0f19b5f0800000000000000
+      internalID: -740526521555755638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_20
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1404
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01382e64c42b36ff0800000000000000
+      internalID: -43995530667064560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_21
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1404
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f857e520ea3d91880800000000000000
+      internalID: -8639641665816070769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_22
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1404
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a62a4ef01d4e6fb0800000000000000
+      internalID: -4652696629646055768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_23
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1404
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823e144950aaf7e60800000000000000
+      internalID: 7962269607153230632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1147
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6688f23be0d6bb0800000000000000
+      internalID: -4941277053396162878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1147
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf2c207d6f072060800000000000000
+      internalID: 6928523514440593354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_26
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1147
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90beaf7f193e4fac0800000000000000
+      internalID: -3822179967660528887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1147
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0037416da708c6b70800000000000000
+      internalID: 8893624629215916800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_28
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1147
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5890727d452842800800000000000000
+      internalID: 586737152363530629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_29
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1147
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ae4f2e7b83f4c00800000000000000
+      internalID: 886990014053149265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_30
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1147
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c009c0d340c016e70800000000000000
+      internalID: 9106573133863489548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_31
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1147
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31d629a6a4e1ce0800000000000000
+      internalID: -1432625809873628177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 891
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41658c07bf89a1300800000000000000
+      internalID: 223659337204651540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 891
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d9e18adcf51b1c0800000000000000
+      internalID: -4489702016618160809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 891
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd93d1240c9ee9a40800000000000000
+      internalID: 5376992017079155165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_35
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 891
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8ad07a385674870800000000000000
+      internalID: 8667007624015620260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_36
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 891
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d7fbdc4735918d0800000000000000
+      internalID: -2875175125966160566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_37
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 891
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48deb9c9e7c7aa760800000000000000
+      internalID: 7469919815182577028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_38
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 891
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9acc557f8962da90800000000000000
+      internalID: -7290648781889156452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_39
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 891
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccd2d6d4bab66920800000000000000
+      internalID: 2983277089040555200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 635
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2d99b2c02ee2bf0800000000000000
+      internalID: -347091579361963329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_41
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 635
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9db1d1b357629c0800000000000000
+      internalID: -3952342726219146829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_42
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 635
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91899a61560dccd0800000000000000
+      internalID: -2536364068389158501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_43
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 635
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4dcafaf4e795c80800000000000000
+      internalID: -8333490754757536548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_44
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 635
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcc03b50a1c98320800000000000000
+      internalID: 2560790757605690618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_45
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 635
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e624c57dbe97ce0800000000000000
+      internalID: -1406834098378215881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_7_Crouch_46
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 635
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ab83e0797f7e7e0800000000000000
+      internalID: -1736146903177315723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_7_Crouch_0: 8685390803875274587
+      Tempus_7_Crouch_1: 1871001771332511058
+      Tempus_7_Crouch_10: -2920667964691510062
+      Tempus_7_Crouch_11: -281154598998435271
+      Tempus_7_Crouch_12: 3851888604109874965
+      Tempus_7_Crouch_13: -4682508655466932053
+      Tempus_7_Crouch_14: 1230010325747265559
+      Tempus_7_Crouch_15: -153869137638101731
+      Tempus_7_Crouch_16: 7771398565525542488
+      Tempus_7_Crouch_17: -2760057938692415166
+      Tempus_7_Crouch_18: -3021877918454484389
+      Tempus_7_Crouch_19: -740526521555755638
+      Tempus_7_Crouch_2: -3745764087143363440
+      Tempus_7_Crouch_20: -43995530667064560
+      Tempus_7_Crouch_21: -8639641665816070769
+      Tempus_7_Crouch_22: -4652696629646055768
+      Tempus_7_Crouch_23: 7962269607153230632
+      Tempus_7_Crouch_24: -4941277053396162878
+      Tempus_7_Crouch_25: 6928523514440593354
+      Tempus_7_Crouch_26: -3822179967660528887
+      Tempus_7_Crouch_27: 8893624629215916800
+      Tempus_7_Crouch_28: 586737152363530629
+      Tempus_7_Crouch_29: 886990014053149265
+      Tempus_7_Crouch_3: -549124993209362836
+      Tempus_7_Crouch_30: 9106573133863489548
+      Tempus_7_Crouch_31: -1432625809873628177
+      Tempus_7_Crouch_32: 223659337204651540
+      Tempus_7_Crouch_33: -4489702016618160809
+      Tempus_7_Crouch_34: 5376992017079155165
+      Tempus_7_Crouch_35: 8667007624015620260
+      Tempus_7_Crouch_36: -2875175125966160566
+      Tempus_7_Crouch_37: 7469919815182577028
+      Tempus_7_Crouch_38: -7290648781889156452
+      Tempus_7_Crouch_39: 2983277089040555200
+      Tempus_7_Crouch_4: 3378170609931066751
+      Tempus_7_Crouch_40: -347091579361963329
+      Tempus_7_Crouch_41: -3952342726219146829
+      Tempus_7_Crouch_42: -2536364068389158501
+      Tempus_7_Crouch_43: -8333490754757536548
+      Tempus_7_Crouch_44: 2560790757605690618
+      Tempus_7_Crouch_45: -1406834098378215881
+      Tempus_7_Crouch_46: -1736146903177315723
+      Tempus_7_Crouch_5: 3975131723426179670
+      Tempus_7_Crouch_6: -8678959731584414840
+      Tempus_7_Crouch_7: -8063784289845702974
+      Tempus_7_Crouch_8: 403103166482108606
+      Tempus_7_Crouch_9: 1126383147617000371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

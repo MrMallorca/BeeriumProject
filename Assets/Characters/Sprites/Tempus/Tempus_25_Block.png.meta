@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 181650f4599a71d46b59655b545deda4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2298494286574593272
+    second: Tempus_25_Block_0
+  - first:
+      213: -2275810803646590166
+    second: Tempus_25_Block_1
+  - first:
+      213: 3705832518867310980
+    second: Tempus_25_Block_2
+  - first:
+      213: 4973663240371051593
+    second: Tempus_25_Block_3
+  - first:
+      213: -7984632635079203594
+    second: Tempus_25_Block_4
+  - first:
+      213: 8188233754716680825
+    second: Tempus_25_Block_5
+  - first:
+      213: 4166824545281489121
+    second: Tempus_25_Block_6
+  - first:
+      213: 2288357778591855643
+    second: Tempus_25_Block_7
+  - first:
+      213: 8288465893797407987
+    second: Tempus_25_Block_8
+  - first:
+      213: 517825529701805534
+    second: Tempus_25_Block_9
+  - first:
+      213: -8327171011031368918
+    second: Tempus_25_Block_10
+  - first:
+      213: -6992153087496990117
+    second: Tempus_25_Block_11
+  - first:
+      213: -7652081798426070407
+    second: Tempus_25_Block_12
+  - first:
+      213: -2489136963213644150
+    second: Tempus_25_Block_13
+  - first:
+      213: -2459327164304870728
+    second: Tempus_25_Block_14
+  - first:
+      213: 4297455747981948454
+    second: Tempus_25_Block_15
+  - first:
+      213: -741603518581345535
+    second: Tempus_25_Block_16
+  - first:
+      213: 2922103737071572864
+    second: Tempus_25_Block_17
+  - first:
+      213: 1726378327454545727
+    second: Tempus_25_Block_18
+  - first:
+      213: -1876013155701289178
+    second: Tempus_25_Block_19
+  - first:
+      213: 8537218935246274898
+    second: Tempus_25_Block_20
+  - first:
+      213: 3234140195449689834
+    second: Tempus_25_Block_21
+  - first:
+      213: 5267042005300257258
+    second: Tempus_25_Block_22
+  - first:
+      213: -693189808705513893
+    second: Tempus_25_Block_23
+  - first:
+      213: 5405108412188340584
+    second: Tempus_25_Block_24
+  - first:
+      213: -3988599509363353062
+    second: Tempus_25_Block_25
+  - first:
+      213: -4665798953885534141
+    second: Tempus_25_Block_26
+  - first:
+      213: 3860854656225633890
+    second: Tempus_25_Block_27
+  - first:
+      213: 6589819534404453737
+    second: Tempus_25_Block_28
+  - first:
+      213: -1615617647098098881
+    second: Tempus_25_Block_29
+  - first:
+      213: 6547423130700930314
+    second: Tempus_25_Block_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_25_Block_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1917
+        width: 33
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42b8d2064e5ef10800000000000000
+      internalID: 2298494286574593272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1914
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2316a0c122ba60e0800000000000000
+      internalID: -2275810803646590166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1914
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895d24aa03cd6330800000000000000
+      internalID: 3705832518867310980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1917
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c1cb29d50060540800000000000000
+      internalID: 4973663240371051593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1917
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4ec1c3ce2e03190800000000000000
+      internalID: -7984632635079203594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_5
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1917
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97230cf773372a170800000000000000
+      internalID: 8188233754716680825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1917
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8b1eed8d883d930800000000000000
+      internalID: 4166824545281489121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_7
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1917
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1438ff7641e1cf10800000000000000
+      internalID: 2288357778591855643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1661
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc2cb4f0db860370800000000000000
+      internalID: 8288465893797407987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1661
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd2181639faf2700800000000000000
+      internalID: 517825529701805534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1661
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b7b8fa512ff6c80800000000000000
+      internalID: -8327171011031368918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1661
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52579c10d1e6fe90800000000000000
+      internalID: -6992153087496990117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1661
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972f49495285ec590800000000000000
+      internalID: -7652081798426070407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_13
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1661
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e2b56be1fc47dd0800000000000000
+      internalID: -2489136963213644150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1661
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2b32169f6beddd0800000000000000
+      internalID: -2459327164304870728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_15
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1661
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626bc60eb31a3ab30800000000000000
+      internalID: 4297455747981948454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1405
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10377ce678b45b5f0800000000000000
+      internalID: -741603518581345535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1405
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0871efcedd56d8820800000000000000
+      internalID: 2922103737071572864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1405
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f377cdb21f355f710800000000000000
+      internalID: 1726378327454545727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1405
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f077479ff07f5e0800000000000000
+      internalID: -1876013155701289178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1405
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251c715b36b4a7670800000000000000
+      internalID: 8537218935246274898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_21
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1405
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6579f5f59f1ec20800000000000000
+      internalID: 3234140195449689834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_22
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1405
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1abfe3cca481940800000000000000
+      internalID: 5267042005300257258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_23
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1405
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56df2aaa8b4166f0800000000000000
+      internalID: -693189808705513893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1149
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86136f0a67dc20b40800000000000000
+      internalID: 5405108412188340584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1149
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a9915f0e5a5a8c0800000000000000
+      internalID: -3988599509363353062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_26
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1149
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34873486290cf3fb0800000000000000
+      internalID: -4665798953885534141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1149
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266edb9aad2849530800000000000000
+      internalID: 3860854656225633890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_28
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1149
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9658b12c3fdb37b50800000000000000
+      internalID: 6589819534404453737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_29
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1149
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b8dd35f4c2499e0800000000000000
+      internalID: -1615617647098098881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_25_Block_30
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1149
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dda9bc5ae1dda50800000000000000
+      internalID: 6547423130700930314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_25_Block_0: 2298494286574593272
+      Tempus_25_Block_1: -2275810803646590166
+      Tempus_25_Block_10: -8327171011031368918
+      Tempus_25_Block_11: -6992153087496990117
+      Tempus_25_Block_12: -7652081798426070407
+      Tempus_25_Block_13: -2489136963213644150
+      Tempus_25_Block_14: -2459327164304870728
+      Tempus_25_Block_15: 4297455747981948454
+      Tempus_25_Block_16: -741603518581345535
+      Tempus_25_Block_17: 2922103737071572864
+      Tempus_25_Block_18: 1726378327454545727
+      Tempus_25_Block_19: -1876013155701289178
+      Tempus_25_Block_2: 3705832518867310980
+      Tempus_25_Block_20: 8537218935246274898
+      Tempus_25_Block_21: 3234140195449689834
+      Tempus_25_Block_22: 5267042005300257258
+      Tempus_25_Block_23: -693189808705513893
+      Tempus_25_Block_24: 5405108412188340584
+      Tempus_25_Block_25: -3988599509363353062
+      Tempus_25_Block_26: -4665798953885534141
+      Tempus_25_Block_27: 3860854656225633890
+      Tempus_25_Block_28: 6589819534404453737
+      Tempus_25_Block_29: -1615617647098098881
+      Tempus_25_Block_3: 4973663240371051593
+      Tempus_25_Block_30: 6547423130700930314
+      Tempus_25_Block_4: -7984632635079203594
+      Tempus_25_Block_5: 8188233754716680825
+      Tempus_25_Block_6: 4166824545281489121
+      Tempus_25_Block_7: 2288357778591855643
+      Tempus_25_Block_8: 8288465893797407987
+      Tempus_25_Block_9: 517825529701805534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

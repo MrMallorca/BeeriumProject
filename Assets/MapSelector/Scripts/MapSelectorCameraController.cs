@@ -89,16 +89,7 @@ public class MapSelectorCameraController : MonoBehaviour
         MapaElegido = 4;
     }
 
-    //public void OnClickEarthPrueba()
-    //{
-
-    //    Yellowcamera.enabled = false;
-    //    Pinkcamera.enabled = true;
-    //    Greencamera.enabled = false;
-    //    Startcamera.enabled = false;
-
-    //    MapaElegido = 5;
-    //}
+  
 
 
 

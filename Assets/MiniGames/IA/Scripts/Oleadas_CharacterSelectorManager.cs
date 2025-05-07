@@ -20,7 +20,7 @@ public class Oleadas_CharacterSelectorManager : MonoBehaviour
     {
         currentScene = SceneManager.GetActiveScene().name;
 
-        startGame.gameObject.SetActive(false);
+        startGame.gameObject.SetActive(true);
 
 
     }

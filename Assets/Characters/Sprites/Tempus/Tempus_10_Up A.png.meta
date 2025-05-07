@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: cbf43d4dc126fa34c9cdc1b8650aba22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 411178718636438246
+    second: Tempus_10_Up A_0
+  - first:
+      213: 7019631773860684303
+    second: Tempus_10_Up A_1
+  - first:
+      213: -4673912597194360253
+    second: Tempus_10_Up A_2
+  - first:
+      213: 8627427307510951725
+    second: Tempus_10_Up A_3
+  - first:
+      213: 4727624020062635549
+    second: Tempus_10_Up A_4
+  - first:
+      213: 6931459469510974067
+    second: Tempus_10_Up A_5
+  - first:
+      213: -4521917594119053762
+    second: Tempus_10_Up A_6
+  - first:
+      213: -4903784030117180404
+    second: Tempus_10_Up A_7
+  - first:
+      213: -1578140147248941814
+    second: Tempus_10_Up A_8
+  - first:
+      213: 482085309036644369
+    second: Tempus_10_Up A_9
+  - first:
+      213: 3467307690682013198
+    second: Tempus_10_Up A_10
+  - first:
+      213: -9141915347415472246
+    second: Tempus_10_Up A_11
+  - first:
+      213: -7909659006713835789
+    second: Tempus_10_Up A_12
+  - first:
+      213: 6211508055029190660
+    second: Tempus_10_Up A_13
+  - first:
+      213: -3533726406487177238
+    second: Tempus_10_Up A_14
+  - first:
+      213: -977867019810661911
+    second: Tempus_10_Up A_15
+  - first:
+      213: -2303300899497114717
+    second: Tempus_10_Up A_16
+  - first:
+      213: -1531469222505697929
+    second: Tempus_10_Up A_17
+  - first:
+      213: 6175667994326777399
+    second: Tempus_10_Up A_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_10_Up A_0
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1970
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e27687bddcc4b500800000000000000
+      internalID: 411178718636438246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1828
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e20f18edba6160800000000000000
+      internalID: 7019631773860684303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1828
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab10d914de22fb0800000000000000
+      internalID: -4673912597194360253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1828
+        width: 52
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fe1b51d67cab770800000000000000
+      internalID: 8627427307510951725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1828
+        width: 36
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16007b8ff4eb9140800000000000000
+      internalID: 4727624020062635549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_5
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1828
+        width: 56
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a183fb9ad713060800000000000000
+      internalID: 6931459469510974067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_6
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1828
+        width: 65
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ed1f208ebee31c0800000000000000
+      internalID: -4521917594119053762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_7
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1828
+        width: 71
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cc1ade76242fbb0800000000000000
+      internalID: -4903784030117180404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1828
+        width: 50
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05b17db5e1591ae0800000000000000
+      internalID: -1578140147248941814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1572
+        width: 37
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118409cc806b0b600800000000000000
+      internalID: 482085309036644369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1738
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06d41e59f95e1030800000000000000
+      internalID: 3467307690682013198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_11
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1723
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87eb9e6d64612180800000000000000
+      internalID: -9141915347415472246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1572
+        width: 43
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe4a526a0f3b3290800000000000000
+      internalID: -7909659006713835789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_13
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1697
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4001e738aa5b33650800000000000000
+      internalID: 6211508055029190660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1572
+        width: 46
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae70ae74e8ea5fec0800000000000000
+      internalID: -3533726406487177238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1572
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e99d9e502bed62f0800000000000000
+      internalID: -977867019810661911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1572
+        width: 33
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a303aa09080900e0800000000000000
+      internalID: -2303300899497114717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_17
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1572
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77daa103bd02fbae0800000000000000
+      internalID: -1531469222505697929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_10_Up A_18
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1572
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eb89c125164b550800000000000000
+      internalID: 6175667994326777399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_10_Up A_0: 411178718636438246
+      Tempus_10_Up A_1: 7019631773860684303
+      Tempus_10_Up A_10: 3467307690682013198
+      Tempus_10_Up A_11: -9141915347415472246
+      Tempus_10_Up A_12: -7909659006713835789
+      Tempus_10_Up A_13: 6211508055029190660
+      Tempus_10_Up A_14: -3533726406487177238
+      Tempus_10_Up A_15: -977867019810661911
+      Tempus_10_Up A_16: -2303300899497114717
+      Tempus_10_Up A_17: -1531469222505697929
+      Tempus_10_Up A_18: 6175667994326777399
+      Tempus_10_Up A_2: -4673912597194360253
+      Tempus_10_Up A_3: 8627427307510951725
+      Tempus_10_Up A_4: 4727624020062635549
+      Tempus_10_Up A_5: 6931459469510974067
+      Tempus_10_Up A_6: -4521917594119053762
+      Tempus_10_Up A_7: -4903784030117180404
+      Tempus_10_Up A_8: -1578140147248941814
+      Tempus_10_Up A_9: 482085309036644369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

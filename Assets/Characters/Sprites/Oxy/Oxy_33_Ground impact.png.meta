@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 6b92e1bc3faa53d4eb0c474870476e80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1247073477008590471
+    second: Oxy_33_Ground impact_0
+  - first:
+      213: 5353890565730201914
+    second: Oxy_33_Ground impact_1
+  - first:
+      213: 7843812714257896086
+    second: Oxy_33_Ground impact_2
+  - first:
+      213: 5355357320667619350
+    second: Oxy_33_Ground impact_3
+  - first:
+      213: 6834099254700633367
+    second: Oxy_33_Ground impact_4
+  - first:
+      213: -2230620747462607554
+    second: Oxy_33_Ground impact_5
+  - first:
+      213: 4649866875636057848
+    second: Oxy_33_Ground impact_6
+  - first:
+      213: 7116809008513506896
+    second: Oxy_33_Ground impact_7
+  - first:
+      213: -920241805096999495
+    second: Oxy_33_Ground impact_8
+  - first:
+      213: -6364667340858540268
+    second: Oxy_33_Ground impact_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1916
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78688e558be7e4110800000000000000
+      internalID: 1247073477008590471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1923
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31f9a87a17dc4a40800000000000000
+      internalID: 5353890565730201914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1922
+        width: 116
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692d806fa12dadc60800000000000000
+      internalID: 7843812714257896086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1918
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6106ea7fb1d025a40800000000000000
+      internalID: 5355357320667619350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_4
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1919
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d6134401997de50800000000000000
+      internalID: 6834099254700633367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_5
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1918
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dffde9f3e3b01e0800000000000000
+      internalID: -2230620747462607554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_6
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1916
+        width: 116
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6842f8945a78040800000000000000
+      internalID: 4649866875636057848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_7
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1916
+        width: 118
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e5fb6361cf3c260800000000000000
+      internalID: 7116809008513506896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1660
+        width: 119
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5aab334f4aa33f0800000000000000
+      internalID: -920241805096999495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_33_Ground impact_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1660
+        width: 117
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fb89266c82ca7a0800000000000000
+      internalID: -6364667340858540268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Oxy_33_Ground impact_0: 1247073477008590471
+      Oxy_33_Ground impact_1: 5353890565730201914
+      Oxy_33_Ground impact_2: 7843812714257896086
+      Oxy_33_Ground impact_3: 5355357320667619350
+      Oxy_33_Ground impact_4: 6834099254700633367
+      Oxy_33_Ground impact_5: -2230620747462607554
+      Oxy_33_Ground impact_6: 4649866875636057848
+      Oxy_33_Ground impact_7: 7116809008513506896
+      Oxy_33_Ground impact_8: -920241805096999495
+      Oxy_33_Ground impact_9: -6364667340858540268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

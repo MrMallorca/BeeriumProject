@@ -4,6 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Video;
+using DG.Tweening;
 
 public class SplashGameLogic : MonoBehaviour
 {
@@ -19,6 +20,8 @@ public class SplashGameLogic : MonoBehaviour
     [SerializeField] TextMeshProUGUI title;
     [SerializeField] TextMeshProUGUI pressKeyText;
 
+    AudioSource audio;
+    [SerializeField] AudioClip musicTheme;
     private void OnEnable()
     {
         start.action.Enable();
@@ -27,6 +30,8 @@ public class SplashGameLogic : MonoBehaviour
     }
     private void Start()
     {
+        audio = GetComponent<AudioSource>();
+
         StartCoroutine(FadeImagesSequentially());
 
 
@@ -61,25 +66,25 @@ public class SplashGameLogic : MonoBehaviour
 
         foreach (CanvasGroup image in images)
         {
-            float t = 0f;
-            image.alpha = 0f;
 
-            while (t < 1f)
-            {
-                t += Time.deltaTime;
-                image.alpha = Mathf.Clamp01(t); 
-                yield return null;
-            }
+            // Animación de rotación tipo flip
+            Sequence flipSequence = DOTween.Sequence();
 
-            image.alpha = 1f; 
+            flipSequence.Append(image.transform.DORotate(new Vector3(0, 0, 0), 0.6f).SetEase(Ease.OutBack));
+            flipSequence.Join(DOTween.To(
+                      () => image.alpha,
+                      x => image.alpha = x,
+                      1f,
+                      0.6f
+                  ));
+            yield return flipSequence.WaitForCompletion();
 
             yield return new WaitForSeconds(0.3f);
         }
+        audio.clip = musicTheme;
+        audio.Play();
         transitionIsFinish = true;
-
         StartCoroutine(BlinkText());
-
-
     }
 
     private void OnDisable()

@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: d155aa0823e57e3428aa328ce1533aad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8572427034625685566
+    second: Oxy_5_Air Idle_0
+  - first:
+      213: 5615223049565211529
+    second: Oxy_5_Air Idle_1
+  - first:
+      213: -5264676639471125870
+    second: Oxy_5_Air Idle_2
+  - first:
+      213: -7060342509623528639
+    second: Oxy_5_Air Idle_3
+  - first:
+      213: -7082416686878172461
+    second: Oxy_5_Air Idle_4
+  - first:
+      213: 6176772481071032629
+    second: Oxy_5_Air Idle_5
+  - first:
+      213: -2004793248589927802
+    second: Oxy_5_Air Idle_6
+  - first:
+      213: 7656723867354106092
+    second: Oxy_5_Air Idle_7
+  - first:
+      213: 8404280802892220919
+    second: Oxy_5_Air Idle_8
+  - first:
+      213: 7906491721331517211
+    second: Oxy_5_Air Idle_9
+  - first:
+      213: 6384556453347498205
+    second: Oxy_5_Air Idle_10
+  - first:
+      213: 7061083766359561009
+    second: Oxy_5_Air Idle_11
+  - first:
+      213: 8752547254963374449
+    second: Oxy_5_Air Idle_12
+  - first:
+      213: -8211436135550500569
+    second: Oxy_5_Air Idle_13
+  - first:
+      213: -8951602480765802610
+    second: Oxy_5_Air Idle_14
+  - first:
+      213: 7798979902193347223
+    second: Oxy_5_Air Idle_15
+  - first:
+      213: -9049047429729173070
+    second: Oxy_5_Air Idle_16
+  - first:
+      213: -6659262268549921978
+    second: Oxy_5_Air Idle_17
+  - first:
+      213: -3238345856545760013
+    second: Oxy_5_Air Idle_18
+  - first:
+      213: -2940139605492096181
+    second: Oxy_5_Air Idle_19
+  - first:
+      213: -4704731448565099681
+    second: Oxy_5_Air Idle_20
+  - first:
+      213: 4805022523074296130
+    second: Oxy_5_Air Idle_21
+  - first:
+      213: -6756277541142579558
+    second: Oxy_5_Air Idle_22
+  - first:
+      213: -6168375522383582101
+    second: Oxy_5_Air Idle_23
+  - first:
+      213: 7549896736560231256
+    second: Oxy_5_Air Idle_24
+  - first:
+      213: 9201994914265639651
+    second: Oxy_5_Air Idle_25
+  - first:
+      213: 188027386597410546
+    second: Oxy_5_Air Idle_26
+  - first:
+      213: 6141029897802288036
+    second: Oxy_5_Air Idle_27
+  - first:
+      213: 3114957961710942758
+    second: Oxy_5_Air Idle_28
+  - first:
+      213: 447129582816164689
+    second: Oxy_5_Air Idle_29
+  - first:
+      213: -7467068540024569326
+    second: Oxy_5_Air Idle_30
+  - first:
+      213: 4877174334047593626
+    second: Oxy_5_Air Idle_31
+  - first:
+      213: -8213604936392165338
+    second: Oxy_5_Air Idle_32
+  - first:
+      213: -9142064215115306157
+    second: Oxy_5_Air Idle_33
+  - first:
+      213: -8625991453063794385
+    second: Oxy_5_Air Idle_34
+  - first:
+      213: -4189595375028468632
+    second: Oxy_5_Air Idle_35
+  - first:
+      213: 355001837513587354
+    second: Oxy_5_Air Idle_36
+  - first:
+      213: 3636160504258873164
+    second: Oxy_5_Air Idle_37
+  - first:
+      213: -7978859400823863171
+    second: Oxy_5_Air Idle_38
+  - first:
+      213: 1782021533810954942
+    second: Oxy_5_Air Idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1924
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c74e2ad70f980980800000000000000
+      internalID: -8572427034625685566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1924
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b8be3ec974ded40800000000000000
+      internalID: 5615223049565211529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1924
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab6076d7c10f6b0800000000000000
+      internalID: -5264676639471125870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_3
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1924
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143bc4115ef940e90800000000000000
+      internalID: -7060342509623528639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1924
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dad35b2c8336bd90800000000000000
+      internalID: -7082416686878172461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1924
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539a5a878dd48b550800000000000000
+      internalID: 6176772481071032629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1924
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a22b9892b8d24e0800000000000000
+      internalID: -2004793248589927802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1924
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce885e05ac5224a60800000000000000
+      internalID: 7656723867354106092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1668
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f98609ccd002a470800000000000000
+      internalID: 8404280802892220919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1668
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b172885845089bd60800000000000000
+      internalID: 7906491721331517211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_10
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1668
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8943a74408a9850800000000000000
+      internalID: 6384556453347498205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_11
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1668
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133932736420ef160800000000000000
+      internalID: 7061083766359561009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1668
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17989ebfa5b477970800000000000000
+      internalID: 8752547254963374449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1668
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721c4bc375e1b0e80800000000000000
+      internalID: -8211436135550500569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1668
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87e27ba8f485c380800000000000000
+      internalID: -8951602480765802610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1668
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a25a876ea8b3c60800000000000000
+      internalID: 7798979902193347223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1412
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c45b7e435b6280800000000000000
+      internalID: -9049047429729173070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1412
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6438be0cf3c8593a0800000000000000
+      internalID: -6659262268549921978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_18
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1412
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc5bb8d9951f03d0800000000000000
+      internalID: -3238345856545760013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_19
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1412
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4326983b968237d0800000000000000
+      internalID: -2940139605492096181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1412
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f531bac9caf65beb0800000000000000
+      internalID: -4704731448565099681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1412
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2493891d68edea240800000000000000
+      internalID: 4805022523074296130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1412
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a963f346f51ec32a0800000000000000
+      internalID: -6756277541142579558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1412
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cac13d427856aa0800000000000000
+      internalID: -6168375522383582101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853bd81b41f96c860800000000000000
+      internalID: 7549896736560231256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea21c9ce9d04bf70800000000000000
+      internalID: 9201994914265639651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_26
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f60f2279e10c9200800000000000000
+      internalID: 188027386597410546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_27
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab0f8dc722593550800000000000000
+      internalID: 6141029897802288036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a3e0e23cd8a3b20800000000000000
+      internalID: 3114957961710942758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b73509cf5843600800000000000000
+      internalID: 447129582816164689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212475e99b4af5890800000000000000
+      internalID: -7467068540024569326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1156
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a942f8867343fa340800000000000000
+      internalID: 4877174334047593626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 900
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62833f0f3d9630e80800000000000000
+      internalID: -8213604936392165338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 900
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bed38780dd02180800000000000000
+      internalID: -9142064215115306157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_34
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 900
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21b394d9725a4880800000000000000
+      internalID: -8625991453063794385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_35
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 900
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8640fce24319bd5c0800000000000000
+      internalID: -4189595375028468632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 900
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9abb935a483de400800000000000000
+      internalID: 355001837513587354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_37
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 900
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c7a2a6bc367230800000000000000
+      internalID: 3636160504258873164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 900
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d788b1516a5654190800000000000000
+      internalID: -7978859400823863171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oxy_5_Air Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 900
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb216e8b4230bb810800000000000000
+      internalID: 1782021533810954942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Oxy_5_Air Idle_0: -8572427034625685566
+      Oxy_5_Air Idle_1: 5615223049565211529
+      Oxy_5_Air Idle_10: 6384556453347498205
+      Oxy_5_Air Idle_11: 7061083766359561009
+      Oxy_5_Air Idle_12: 8752547254963374449
+      Oxy_5_Air Idle_13: -8211436135550500569
+      Oxy_5_Air Idle_14: -8951602480765802610
+      Oxy_5_Air Idle_15: 7798979902193347223
+      Oxy_5_Air Idle_16: -9049047429729173070
+      Oxy_5_Air Idle_17: -6659262268549921978
+      Oxy_5_Air Idle_18: -3238345856545760013
+      Oxy_5_Air Idle_19: -2940139605492096181
+      Oxy_5_Air Idle_2: -5264676639471125870
+      Oxy_5_Air Idle_20: -4704731448565099681
+      Oxy_5_Air Idle_21: 4805022523074296130
+      Oxy_5_Air Idle_22: -6756277541142579558
+      Oxy_5_Air Idle_23: -6168375522383582101
+      Oxy_5_Air Idle_24: 7549896736560231256
+      Oxy_5_Air Idle_25: 9201994914265639651
+      Oxy_5_Air Idle_26: 188027386597410546
+      Oxy_5_Air Idle_27: 6141029897802288036
+      Oxy_5_Air Idle_28: 3114957961710942758
+      Oxy_5_Air Idle_29: 447129582816164689
+      Oxy_5_Air Idle_3: -7060342509623528639
+      Oxy_5_Air Idle_30: -7467068540024569326
+      Oxy_5_Air Idle_31: 4877174334047593626
+      Oxy_5_Air Idle_32: -8213604936392165338
+      Oxy_5_Air Idle_33: -9142064215115306157
+      Oxy_5_Air Idle_34: -8625991453063794385
+      Oxy_5_Air Idle_35: -4189595375028468632
+      Oxy_5_Air Idle_36: 355001837513587354
+      Oxy_5_Air Idle_37: 3636160504258873164
+      Oxy_5_Air Idle_38: -7978859400823863171
+      Oxy_5_Air Idle_39: 1782021533810954942
+      Oxy_5_Air Idle_4: -7082416686878172461
+      Oxy_5_Air Idle_5: 6176772481071032629
+      Oxy_5_Air Idle_6: -2004793248589927802
+      Oxy_5_Air Idle_7: 7656723867354106092
+      Oxy_5_Air Idle_8: 8404280802892220919
+      Oxy_5_Air Idle_9: 7906491721331517211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

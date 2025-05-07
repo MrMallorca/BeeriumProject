@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: eaed53a622acb6b4f9eace36b285fe39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5092807910523566421
+    second: Tempus_39_Edge_0
+  - first:
+      213: 7217430914015266490
+    second: Tempus_39_Edge_1
+  - first:
+      213: 6287022859769613754
+    second: Tempus_39_Edge_2
+  - first:
+      213: -6335897204073018518
+    second: Tempus_39_Edge_3
+  - first:
+      213: 2873067840774580834
+    second: Tempus_39_Edge_4
+  - first:
+      213: 8998167436159103755
+    second: Tempus_39_Edge_5
+  - first:
+      213: -1800328901140189601
+    second: Tempus_39_Edge_6
+  - first:
+      213: -3185357923790839458
+    second: Tempus_39_Edge_7
+  - first:
+      213: -6568363568955281098
+    second: Tempus_39_Edge_8
+  - first:
+      213: 6831333369081800185
+    second: Tempus_39_Edge_9
+  - first:
+      213: -7703919245728397586
+    second: Tempus_39_Edge_10
+  - first:
+      213: -7595578330163702542
+    second: Tempus_39_Edge_11
+  - first:
+      213: 7105241860800920655
+    second: Tempus_39_Edge_12
+  - first:
+      213: 4765951507031620890
+    second: Tempus_39_Edge_13
+  - first:
+      213: 4253980771906774381
+    second: Tempus_39_Edge_14
+  - first:
+      213: -2777194304592094075
+    second: Tempus_39_Edge_15
+  - first:
+      213: 5316956625576548238
+    second: Tempus_39_Edge_16
+  - first:
+      213: 7311156598934795897
+    second: Tempus_39_Edge_17
+  - first:
+      213: -1360779993694194753
+    second: Tempus_39_Edge_18
+  - first:
+      213: -8286439849464581308
+    second: Tempus_39_Edge_19
+  - first:
+      213: 1735151575565218229
+    second: Tempus_39_Edge_20
+  - first:
+      213: 5120359568536694100
+    second: Tempus_39_Edge_21
+  - first:
+      213: -1823556077998147457
+    second: Tempus_39_Edge_22
+  - first:
+      213: -7519754690560421952
+    second: Tempus_39_Edge_23
+  - first:
+      213: -642276494173356960
+    second: Tempus_39_Edge_24
+  - first:
+      213: 4107301892137803812
+    second: Tempus_39_Edge_25
+  - first:
+      213: 2220350457179395994
+    second: Tempus_39_Edge_26
+  - first:
+      213: -8186133208919809780
+    second: Tempus_39_Edge_27
+  - first:
+      213: 691901502260138470
+    second: Tempus_39_Edge_28
+  - first:
+      213: 3675589464337603195
+    second: Tempus_39_Edge_29
+  - first:
+      213: 7770239950301188083
+    second: Tempus_39_Edge_30
+  - first:
+      213: 2052114133438099515
+    second: Tempus_39_Edge_31
+  - first:
+      213: 12769582941677082
+    second: Tempus_39_Edge_32
+  - first:
+      213: 547198340615737010
+    second: Tempus_39_Edge_33
+  - first:
+      213: 8191166301995993071
+    second: Tempus_39_Edge_34
+  - first:
+      213: 3795414643282814413
+    second: Tempus_39_Edge_35
+  - first:
+      213: 4294698790269637707
+    second: Tempus_39_Edge_36
+  - first:
+      213: -3721985624065139425
+    second: Tempus_39_Edge_37
+  - first:
+      213: -6653135649358229324
+    second: Tempus_39_Edge_38
+  - first:
+      213: -7582242141482133139
+    second: Tempus_39_Edge_39
+  - first:
+      213: 513615436286722658
+    second: Tempus_39_Edge_40
+  - first:
+      213: -541949437008000668
+    second: Tempus_39_Edge_41
+  - first:
+      213: 5343411712084149439
+    second: Tempus_39_Edge_42
+  - first:
+      213: 1550697545633537068
+    second: Tempus_39_Edge_43
+  - first:
+      213: 7377034006942055282
+    second: Tempus_39_Edge_44
+  - first:
+      213: -1903525735374524756
+    second: Tempus_39_Edge_45
+  - first:
+      213: 6979057706440026612
+    second: Tempus_39_Edge_46
+  - first:
+      213: 8145074853920048301
+    second: Tempus_39_Edge_47
+  - first:
+      213: 8559876416553955431
+    second: Tempus_39_Edge_48
+  - first:
+      213: -8755038221320019366
+    second: Tempus_39_Edge_49
+  - first:
+      213: -2240793325013299839
+    second: Tempus_39_Edge_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempus_39_Edge_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1815
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba681ff2036b259b0800000000000000
+      internalID: -5092807910523566421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1815
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab68dcc3d27792460800000000000000
+      internalID: 7217430914015266490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1815
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd045b1bfdff3750800000000000000
+      internalID: 6287022859769613754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1815
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b46d9df0f5218a0800000000000000
+      internalID: -6335897204073018518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_4
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1814
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aa7f0aaff2fd720800000000000000
+      internalID: 2873067840774580834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_5
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1815
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0330cddb99efdc70800000000000000
+      internalID: 8998167436159103755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_6
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1814
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e6ba82762f307e0800000000000000
+      internalID: -1800328901140189601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_7
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1814
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a8f558d55bc3d0800000000000000
+      internalID: -3185357923790839458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1558
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631bdcc722c78d4a0800000000000000
+      internalID: -6568363568955281098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1558
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5a4665185cdce50800000000000000
+      internalID: 6831333369081800185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1558
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6401c534e261590800000000000000
+      internalID: -7703919245728397586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1558
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f410f670c5179690800000000000000
+      internalID: -7595578330163702542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_12
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1558
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3644c3d3ea9260800000000000000
+      internalID: 7105241860800920655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_13
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1558
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7b5105af042240800000000000000
+      internalID: 4765951507031620890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_14
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1558
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6568d639fc290b30800000000000000
+      internalID: 4253980771906774381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_15
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1558
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cdc828e7c6579d0800000000000000
+      internalID: -2777194304592094075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1302
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8756a961ef99c940800000000000000
+      internalID: 5316956625576548238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1302
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976f2c8c032767560800000000000000
+      internalID: 7311156598934795897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1302
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb336623ec98d1de0800000000000000
+      internalID: -1360779993694194753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_19
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1302
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443b5004cd6a00d80800000000000000
+      internalID: -8286439849464581308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_20
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1302
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1360d2a2f741810800000000000000
+      internalID: 1735151575565218229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_21
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1302
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45de6e416eb2f0740800000000000000
+      internalID: 5120359568536694100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_22
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1302
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f787aee986d61b6e0800000000000000
+      internalID: -1823556077998147457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_23
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1302
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf811743f674a790800000000000000
+      internalID: -7519754690560421952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1046
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cb6357eec2617f0800000000000000
+      internalID: -642276494173356960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1046
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420e92a3f41100930800000000000000
+      internalID: 4107301892137803812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_26
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1046
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97dd051af440de10800000000000000
+      internalID: 2220350457179395994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_27
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1046
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c016e4ee733056e80800000000000000
+      internalID: -8186133208919809780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_28
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1046
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e156cd10c02a9900800000000000000
+      internalID: 691901502260138470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_29
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1046
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ad20ac421520330800000000000000
+      internalID: 3675589464337603195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_30
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1046
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff4049f01075db60800000000000000
+      internalID: 7770239950301188083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_31
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1046
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f22a8ee29a7c10800000000000000
+      internalID: 2052114133438099515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 790
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a162b273edd5d2000800000000000000
+      internalID: 12769582941677082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_33
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 790
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be851addf9089700800000000000000
+      internalID: 547198340615737010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_34
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 790
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe70f9e5a5edca170800000000000000
+      internalID: 8191166301995993071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_35
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 790
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5203452850ca430800000000000000
+      internalID: 3795414643282814413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_36
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 790
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b445253abc5d99b30800000000000000
+      internalID: 4294698790269637707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_37
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 790
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d9c7a7bc9d85cc0800000000000000
+      internalID: -3721985624065139425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_38
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 790
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0d38170605ba3a0800000000000000
+      internalID: -6653135649358229324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_39
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 790
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69d5fbd1f676c690800000000000000
+      internalID: -7582242141482133139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 534
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262070f948ab02700800000000000000
+      internalID: 513615436286722658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 534
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4694ae0cbdb9a78f0800000000000000
+      internalID: -541949437008000668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_42
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 534
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4007b34ac972a40800000000000000
+      internalID: 5343411712084149439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_43
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 534
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c9e89a33f258510800000000000000
+      internalID: 1550697545633537068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_44
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 534
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bf1c7185d706660800000000000000
+      internalID: 7377034006942055282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_45
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 534
+        width: 38
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeef22dd615595e0800000000000000
+      internalID: -1903525735374524756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_46
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 535
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f96f43e1089ad060800000000000000
+      internalID: 6979057706440026612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_47
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 535
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da40fd8dc6e190170800000000000000
+      internalID: 8145074853920048301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 279
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76031f9af3acac670800000000000000
+      internalID: 8559876416553955431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 279
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52a047bf1bdf7680800000000000000
+      internalID: -8755038221320019366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempus_39_Edge_50
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 279
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d0487d75a17e0e0800000000000000
+      internalID: -2240793325013299839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tempus_39_Edge_0: -5092807910523566421
+      Tempus_39_Edge_1: 7217430914015266490
+      Tempus_39_Edge_10: -7703919245728397586
+      Tempus_39_Edge_11: -7595578330163702542
+      Tempus_39_Edge_12: 7105241860800920655
+      Tempus_39_Edge_13: 4765951507031620890
+      Tempus_39_Edge_14: 4253980771906774381
+      Tempus_39_Edge_15: -2777194304592094075
+      Tempus_39_Edge_16: 5316956625576548238
+      Tempus_39_Edge_17: 7311156598934795897
+      Tempus_39_Edge_18: -1360779993694194753
+      Tempus_39_Edge_19: -8286439849464581308
+      Tempus_39_Edge_2: 6287022859769613754
+      Tempus_39_Edge_20: 1735151575565218229
+      Tempus_39_Edge_21: 5120359568536694100
+      Tempus_39_Edge_22: -1823556077998147457
+      Tempus_39_Edge_23: -7519754690560421952
+      Tempus_39_Edge_24: -642276494173356960
+      Tempus_39_Edge_25: 4107301892137803812
+      Tempus_39_Edge_26: 2220350457179395994
+      Tempus_39_Edge_27: -8186133208919809780
+      Tempus_39_Edge_28: 691901502260138470
+      Tempus_39_Edge_29: 3675589464337603195
+      Tempus_39_Edge_3: -6335897204073018518
+      Tempus_39_Edge_30: 7770239950301188083
+      Tempus_39_Edge_31: 2052114133438099515
+      Tempus_39_Edge_32: 12769582941677082
+      Tempus_39_Edge_33: 547198340615737010
+      Tempus_39_Edge_34: 8191166301995993071
+      Tempus_39_Edge_35: 3795414643282814413
+      Tempus_39_Edge_36: 4294698790269637707
+      Tempus_39_Edge_37: -3721985624065139425
+      Tempus_39_Edge_38: -6653135649358229324
+      Tempus_39_Edge_39: -7582242141482133139
+      Tempus_39_Edge_4: 2873067840774580834
+      Tempus_39_Edge_40: 513615436286722658
+      Tempus_39_Edge_41: -541949437008000668
+      Tempus_39_Edge_42: 5343411712084149439
+      Tempus_39_Edge_43: 1550697545633537068
+      Tempus_39_Edge_44: 7377034006942055282
+      Tempus_39_Edge_45: -1903525735374524756
+      Tempus_39_Edge_46: 6979057706440026612
+      Tempus_39_Edge_47: 8145074853920048301
+      Tempus_39_Edge_48: 8559876416553955431
+      Tempus_39_Edge_49: -8755038221320019366
+      Tempus_39_Edge_5: 8998167436159103755
+      Tempus_39_Edge_50: -2240793325013299839
+      Tempus_39_Edge_6: -1800328901140189601
+      Tempus_39_Edge_7: -3185357923790839458
+      Tempus_39_Edge_8: -6568363568955281098
+      Tempus_39_Edge_9: 6831333369081800185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
