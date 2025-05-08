@@ -104,16 +104,21 @@ public class BaseFighter : MonoBehaviour, IDamageable
     {
         UpdateAnimatorParameters();
 
-        Vector3 direction = enemyPlayer.transform.position - transform.position;
+        if(enemyPlayer != null && gameObject != null)
+        {
+            Vector3 direction = enemyPlayer.transform.position - transform.position;
 
-        if (direction.x < 0)
-        {
-            transform.rotation = Quaternion.Euler(0, 180, 0);
+            if (direction.x < 0)
+            {
+                transform.rotation = Quaternion.Euler(0, 180, 0);
+            }
+            else
+            {
+                transform.rotation = Quaternion.Euler(0, 0, 0);
+            }
         }
-        else
-        {
-            transform.rotation = Quaternion.Euler(0, 0, 0);
-        }
+
+       
 
         if (anim.GetCurrentAnimatorStateInfo(0).IsName("Idle") && nroAttack == 0)
         {

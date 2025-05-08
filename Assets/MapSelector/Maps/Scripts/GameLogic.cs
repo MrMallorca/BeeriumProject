@@ -1,6 +1,8 @@
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class GameLogic : MonoBehaviour
@@ -23,8 +25,11 @@ public class GameLogic : MonoBehaviour
 
 
 
+    [SerializeField] GameObject canvasVictory;
+
     private void Start()
     {
+        canvasVictory.SetActive(false);
 
         {
 
@@ -72,6 +77,21 @@ public class GameLogic : MonoBehaviour
 
         if (fighter2 != null)
             player2Health.value = fighter2.currentHealth;
+
+        if(fighter1.currentHealth <= 0)
+        {
+            canvasVictory.SetActive(true);
+            TextMeshProUGUI txtVictory = canvasVictory.GetComponentInChildren<TextMeshProUGUI>();
+            txtVictory.text = "Player 2 Wins";
+
+        }
+        else if (fighter2.currentHealth <= 0)
+        {
+            canvasVictory.SetActive(true);
+            TextMeshProUGUI txtVictory = canvasVictory.GetComponentInChildren<TextMeshProUGUI>();
+            txtVictory.text = "Player 1 Wins";
+
+        }
     }
 
     private void InitCharacter(GameObject prefabPersonaje, Transform playerTransform, PlayerMovements.ActionSet actionSet, string tag)
@@ -96,5 +116,17 @@ public class GameLogic : MonoBehaviour
 
             fighter2 = baseFighter;
         }
+    }
+
+
+    public void PlayAgainMatch()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void GoBack()
+    {
+        SceneManager.LoadScene("CharacterSelector");
+
     }
 }
