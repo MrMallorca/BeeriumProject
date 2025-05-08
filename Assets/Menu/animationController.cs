@@ -24,6 +24,11 @@ public class AnimationController : MonoBehaviour
         animator.SetTrigger("PlayGraphicsAnimation");
     }
 
+    public void PlayHowToAnimation()
+    {
+        animator.SetTrigger("PlayHowToAnimation");
+    }
+
     public void GoBackAnimation()
     {
         animator.SetTrigger("GoBack");
