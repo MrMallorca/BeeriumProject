@@ -21,7 +21,7 @@ public class SplashGameLogic : MonoBehaviour
     [SerializeField] TextMeshProUGUI pressKeyText;
 
     AudioSource audio;
-    [SerializeField] AudioClip musicTheme;
+    [SerializeField] AudioClip[] themes;
     private void OnEnable()
     {
         start.action.Enable();
@@ -63,6 +63,7 @@ public class SplashGameLogic : MonoBehaviour
     private IEnumerator FadeImagesSequentially()
     {
         yield return new WaitForSeconds(startDelay);
+        audio.clip = themes[0];
 
         foreach (CanvasGroup image in images)
         {
@@ -77,12 +78,14 @@ public class SplashGameLogic : MonoBehaviour
                       1f,
                       0.6f
                   ));
+            audio.Play();
             yield return flipSequence.WaitForCompletion();
 
             yield return new WaitForSeconds(0.3f);
         }
-        audio.clip = musicTheme;
+        audio.clip = themes[1];
         audio.Play();
+        audio.loop = true;
         transitionIsFinish = true;
         StartCoroutine(BlinkText());
     }

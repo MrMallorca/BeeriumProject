@@ -40,6 +40,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
     [SerializeField] public int hitCount;
     float knockbackForce = 250f;
     bool isInvulnerable = false;
+    bool charginStrongAttack = false;
 
     public float health;
     public float currentHealth;
@@ -154,10 +155,9 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     void FixedUpdate()
     {
-        if(!isBlocking)
-        {
-            UpdateMovementOnPlane();
-        }
+        
+        UpdateMovementOnPlane();
+     
     }
 
     Vector3 rawMove = Vector3.zero;
@@ -166,7 +166,10 @@ public class BaseFighter : MonoBehaviour, IDamageable
     void UpdateMovementOnPlane()
     {
 
-        if (!hitted && !isInvulnerable)
+        if (!hitted && 
+            !isInvulnerable &&
+            !charginStrongAttack &&
+            !isBlocking)
         {
             Vector3 moveDirection = rawMove * speed;
             Vector3 velocity = new Vector3(moveDirection.x, characterRb.linearVelocity.y, 0);
@@ -183,7 +186,8 @@ public class BaseFighter : MonoBehaviour, IDamageable
         {
             if (ctx.performed &&
                 isGrounded &&
-                !isInvulnerable)
+                !isInvulnerable &&
+                !charginStrongAttack)
             {
                 isGrounded = false;
                 characterRb.linearVelocity = new Vector3(characterRb.linearVelocity.x, jumpForce, characterRb.linearVelocity.z);
@@ -302,7 +306,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
             else
             {
                 anim.SetBool("strongAttackCharge", true);
-
+                charginStrongAttack = true;
             }
         }
         if (ctx.canceled)
@@ -323,8 +327,9 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
                 anim.SetBool("strongAttackCharge", false);
 
-
                 anim.SetTrigger("strongAttack");
+                charginStrongAttack = false;
+
             }
 
 

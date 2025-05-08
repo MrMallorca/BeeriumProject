@@ -162,7 +162,9 @@ MonoBehaviour:
   - {fileID: 1779453271}
   title: {fileID: 1041700100}
   pressKeyText: {fileID: 1255072962}
-  musicTheme: {fileID: 8300000, guid: f86f6e288449dae41b77cc581d10aeb2, type: 3}
+  themes:
+  - {fileID: 8300000, guid: fc680d86961ec7b48a0eed6e505afa4e, type: 3}
+  - {fileID: 8300000, guid: f86f6e288449dae41b77cc581d10aeb2, type: 3}
 --- !u!4 &37252128
 Transform:
   m_ObjectHideFlags: 0
@@ -193,7 +195,7 @@ AudioSource:
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -293,7 +295,6 @@ GameObject:
   m_Component:
   - component: {fileID: 177126114}
   - component: {fileID: 177126113}
-  - component: {fileID: 177126112}
   - component: {fileID: 177126115}
   m_Layer: 0
   m_Name: Main Camera
@@ -302,14 +303,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &177126112
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 177126111}
-  m_Enabled: 1
 --- !u!20 &177126113
 Camera:
   m_ObjectHideFlags: 0
