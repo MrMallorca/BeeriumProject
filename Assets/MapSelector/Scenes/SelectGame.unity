@@ -131,7 +131,6 @@ GameObject:
   - component: {fileID: 20168251}
   - component: {fileID: 20168250}
   - component: {fileID: 20168249}
-  - component: {fileID: 20168248}
   - component: {fileID: 20168252}
   m_Layer: 5
   m_Name: Next_Game
@@ -159,24 +158,6 @@ RectTransform:
   m_AnchoredPosition: {x: 278, y: -33.000008}
   m_SizeDelta: {x: 229.9051, y: 46.9715}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &20168248
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 20168246}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d8c199cbb0a601a488b04388258f26cc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mode: 1
-  moveAmplitude: 5
-  moveFrequency: 3
-  rotateAmplitude: 5
-  rotateFrequency: 5
-  phaseOffset: 5
 --- !u!114 &20168249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -202,7 +183,7 @@ MonoBehaviour:
     m_HighlightedColor: {r: 1, g: 1, b: 1, a: 1}
     m_PressedColor: {r: 1, g: 1, b: 1, a: 1}
     m_SelectedColor: {r: 1, g: 1, b: 1, a: 1}
-    m_DisabledColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+    m_DisabledColor: {r: 0, g: 0, b: 0, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -1007,7 +988,6 @@ GameObject:
   - component: {fileID: 542764667}
   - component: {fileID: 542764666}
   - component: {fileID: 542764665}
-  - component: {fileID: 542764669}
   m_Layer: 5
   m_Name: Previous_Game
   m_TagString: Untagged
@@ -1076,8 +1056,8 @@ MonoBehaviour:
     m_NormalColor: {r: 0, g: 0, b: 0, a: 1}
     m_HighlightedColor: {r: 1, g: 1, b: 1, a: 1}
     m_PressedColor: {r: 1, g: 1, b: 1, a: 1}
-    m_SelectedColor: {r: 0, g: 0, b: 0, a: 1}
-    m_DisabledColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+    m_SelectedColor: {r: 1, g: 1, b: 1, a: 1}
+    m_DisabledColor: {r: 0, g: 0, b: 0, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -1207,24 +1187,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 542764663}
   m_CullTransparentMesh: 1
---- !u!114 &542764669
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 542764663}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d8c199cbb0a601a488b04388258f26cc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mode: 1
-  moveAmplitude: 5
-  moveFrequency: 3
-  rotateAmplitude: 5
-  rotateFrequency: 5
-  phaseOffset: 5
 --- !u!1 &594841137
 GameObject:
   m_ObjectHideFlags: 0
