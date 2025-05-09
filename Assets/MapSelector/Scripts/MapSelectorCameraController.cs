@@ -3,6 +3,7 @@ using Unity.Cinemachine;
 using UnityEngine.UI;
 using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
+using EasyTransition;
 
 public class MapSelectorCameraController : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class MapSelectorCameraController : MonoBehaviour
     [SerializeField] Button StarsBtn;
 
     [SerializeField] Button ConfirmBtn;
+    [SerializeField] TransitionSettings transition;
 
     [SerializeField] string[] mapas;
 
@@ -93,7 +95,9 @@ public class MapSelectorCameraController : MonoBehaviour
 
 
     public void SelectScene(string scene)
-    { SceneManager.LoadScene(mapas[MapaElegido]);}
+    { 
+        TransitionManager.Instance().Transition(mapas[MapaElegido], transition, 0f);
+    }
 
 
 

@@ -1,3 +1,4 @@
+using EasyTransition;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -10,6 +11,7 @@ public class CharacterSelectorManager : MonoBehaviour
 
 
     [SerializeField] Button startGame;
+    [SerializeField] TransitionSettings transition;
 
     public static string confirmedCharacter1;
     public static string confirmedCharacter2;
@@ -47,14 +49,13 @@ public class CharacterSelectorManager : MonoBehaviour
             confirmedCharacter1 = grid.confirmedCharacter1.name;
             confirmedCharacter2 = grid.confirmedCharacter2.name;
 
-
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            TransitionManager.Instance().Transition(SceneManager.GetActiveScene().buildIndex + 1, transition, 0f);
         
     }
 
     public void BackScene()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        TransitionManager.Instance().Transition(SceneManager.GetActiveScene().buildIndex - 1, transition, 0f);
     }
 
 }
