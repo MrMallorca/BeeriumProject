@@ -53,6 +53,10 @@ public class BaseFighter : MonoBehaviour, IDamageable
     private Coroutine resetHitCoroutine;
 
     [SerializeField] AudioClip[] audiosHits;
+    AudioSource audio;
+    int audioRandom;
+
+
 
     public void InitInputs(PlayerMovements.ActionSet actionSetPl)
     {
@@ -81,6 +85,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
         characterRb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        audio = GetComponent<AudioSource>();
 
         currentHealth = health;
 
@@ -126,7 +131,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
         }
       
 
-        if (currentHealth < 0)
+        if (currentHealth <= 0)
         {
             Destroy(gameObject);
         }
@@ -409,6 +414,9 @@ public class BaseFighter : MonoBehaviour, IDamageable
                 hitted = true;
             }
 
+            audioRandom = UnityEngine.Random.Range(0, audiosHits.Length);
+            audio.clip = audiosHits[audioRandom];
+            audio.Play();
             Invoke(nameof(ResetHit), 0.3f);
         }
     }
