@@ -52,7 +52,7 @@ public class BaseFighter : MonoBehaviour, IDamageable
 
     private Coroutine resetHitCoroutine;
 
-
+    [SerializeField] AudioClip[] audiosHits;
 
     public void InitInputs(PlayerMovements.ActionSet actionSetPl)
     {

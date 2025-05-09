@@ -191,6 +191,12 @@ MonoBehaviour:
   hitCount: 0
   health: 120
   currentHealth: 0
+  audiosHits:
+  - {fileID: 8300000, guid: 3513c38f36334e045aa72d6c9afa9a0f, type: 3}
+  - {fileID: 8300000, guid: c4bf0ced4e5ddc9409a2e27e9c7e1cf2, type: 3}
+  - {fileID: 8300000, guid: 66eee977affc79549ac585947803bbb0, type: 3}
+  - {fileID: 8300000, guid: f06de2a0698a67749ab047ed8f5513a2, type: 3}
+  - {fileID: 8300000, guid: 307343e1f989fd842b4c4fe8f203ba8e, type: 3}
 --- !u!114 &4640964497946155289
 MonoBehaviour:
   m_ObjectHideFlags: 0
